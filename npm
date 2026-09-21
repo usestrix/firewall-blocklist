@@ -10373,7 +10373,7 @@
 @silgi/yoga:MAL-2025-191320
 @simplepoll/fetlife-assets:MAL-2022-591
 @simplipayng/checkout:MAL-2026-13388
-@siriusbeyond/auth:MAL-2026-16320
+@siriusbeyond/auth:MAL-0000-ossf-package-analysis-1d6b359a24803199,MAL-2026-16320
 @siriusbeyond/ui:MAL-2026-16321
 @siriusbeyond/utils:MAL-2026-16322
 @siwatfa/yorn:MAL-2026-14102
@@ -18643,7 +18643,7 @@ ac-localnav:MAL-2025-3141
 ac-mvc-cid:MAL-2025-4923
 ac-mvc-data-provider:MAL-2025-4917
 ac-object:MAL-2025-4918
-ac-polyfills:MAL-2026-782
+ac-polyfills:MAL-0000-ossf-package-analysis-c374cffaf0245c25,MAL-2026-782
 ac-raf-emitter:MAL-2026-10675
 ac-sasskit-beta:MAL-2026-3186
 ac-sasskit-internal:MAL-2026-2917
@@ -178099,7 +178099,7 @@ star-violet-rum512-project:MAL-2025-33940
 star-volcano-sfm016-project:MAL-2025-33941
 star-x0bar-6z7rk-kelp-project:MAL-2025-33942
 star-xcscn-3co6s-moonlight-project:MAL-2025-33943
-starbucks-sdk:MAL-2026-16345
+starbucks-sdk:MAL-0000-ossf-package-analysis-cbea0cf6cf424cba,MAL-2026-16345
 starbucks:MAL-2025-33944
 starbuckssystem.website:MAL-2022-6293
 starbuckssystem:MAL-2023-810
