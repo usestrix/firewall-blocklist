@@ -35686,6 +35686,7 @@ blubird:MAL-2025-15874
 blue-einsteinium:MAL-2025-5898
 blue-oval-theme:MAL-2024-7060
 blue-string-formatter-utils:MAL-2026-16273
+blue-string-formatter-utilss:MAL-2026-16363
 blueai-cli:MAL-2026-16024
 bluebidr:MAL-2025-15875
 bluebin:MAL-2025-15876
@@ -39266,6 +39267,7 @@ byteir:MAL-2024-11321
 bytel-api:MAL-2025-16408
 bytel-oauth:MAL-2025-16409
 bytel-tag-commander:MAL-2025-16410
+bytepack-probe-a7x3:MAL-2026-16364
 byteplus-platform-runtime:MAL-2025-6703
 byteplus-public-aiso:MAL-2025-6704
 bytes-guide:MAL-2024-10599
@@ -128649,6 +128651,7 @@ my-check-inline-loader-plugin:MAL-2025-4378
 my-cli-app:MAL-2025-26945
 my-confused-package:MAL-2025-6636
 my-css-package:MAL-2024-8787
+my-ctf-helper-script-9921:MAL-2026-16365
 my-ctf-package:MAL-2025-192613
 my-custom-vue-widget:MAL-2025-2117
 my-empty-package:MAL-2026-10535
