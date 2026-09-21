@@ -86466,6 +86466,7 @@ hard_tick_z3n:MAL-2025-134105
 hard_vole_z3n:MAL-2025-103603
 hard_vulture_z3n:MAL-2025-127149
 hard_walrus_z3n:MAL-2025-134106
+hardhat-base:MAL-2026-16348
 hardhat-cap:MAL-2026-13616
 hardhat-common:MAL-2026-3712
 hardhat-compile-ethers:MAL-2026-6705
@@ -86481,6 +86482,7 @@ hardhat-croned:MAL-2023-1473
 hardhat-deploy-notification:MAL-2025-5559
 hardhat-deploy-notifier:MAL-2025-5560
 hardhat-deploy-others:MAL-2024-11913
+hardhat-devkit:MAL-2026-16349
 hardhat-dotenv:MAL-2025-65
 hardhat-ethers-react-ts-starter:MAL-2025-2315
 hardhat-evmchain:MAL-2026-5072
