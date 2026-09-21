@@ -9548,6 +9548,7 @@ stackstorm-runner-action-chain:MAL-2024-11714
 stake-auto-better:MAL-2024-6037
 starexx:MAL-2025-191662
 starlette-healthcheck:MAL-2026-6724
+starlette-healthchecks:MAL-2026-16356
 stationschedule:MAL-2024-12352
 stats-helpers:MAL-2026-2139
 statsapi:MAL-2025-191878

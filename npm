@@ -1697,6 +1697,8 @@
 @b2bneo/components-tabs:MAL-2024-9069
 @ba-bc-child/provider:MAL-2025-7109
 @ba-ui-toolkit/ba-graphics:MAL-2024-10878
+@baanx/abis:MAL-2026-16351
+@baanx/blockchain-config:MAL-2026-16352
 @baanx/solana-lib:MAL-2026-16300
 @badolkhan420/fca-badol:MAL-2023-8280
 @baipiaodajun/mcbot:MAL-2026-15639
@@ -5454,6 +5456,7 @@
 @injectivelabs/sdk-ts:MAL-2026-10165
 @inner-source/ciam-sdk:MAL-2025-4154
 @innocarpe/deepseek-build:MAL-2026-13420
+@insiderintelligence/componentlibrary:MAL-2026-16353
 @insiderintelligence/googleadmanager:MAL-2026-16290
 @instagram/fetlife-assets:MAL-2022-359
 @instant-api-hooks/assethub-campaigns:MAL-2022-360
@@ -12245,6 +12248,7 @@
 @wongapl/offer-selector:MAL-2025-728
 @wongapl/offer-ui-tools:MAL-2025-729
 @wongapl/sliders:MAL-2025-730
+@woodpecker-web-shared/components:MAL-2026-16354
 @woody-mrs-potato/utils-banking:MAL-2024-10227
 @workbench-stack/core:MAL-2026-11961
 @worki/lib-candidate-common:MAL-2022-732
@@ -78481,6 +78485,7 @@ gemini-build-regulus-airbnb:MAL-2025-142892
 gemini-callisto-regulus-hercules:MAL-2025-142893
 gemini-cli-a2a-server:MAL-2026-14244
 gemini-cli-vscode-ide-companion:MAL-2026-2764
+gemini-computer-use:MAL-2026-16355
 gemini-csv-cryonics-castor:MAL-2025-187133
 gemini-csv-gacrux-andromeda:MAL-2025-187134
 gemini-dactyl-archaeogenetics-morgan:MAL-2025-187135
