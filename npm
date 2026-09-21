@@ -1520,6 +1520,7 @@
 @asavie/i18n:MAL-2026-4265
 @ascend-ops/web-client:MAL-2026-2575
 @asdfvr/qaqazzaaa:MAL-2024-1358
+@asenfotech/unplugin-element-plus:MAL-0000-amazon-inspector-458bff9dc8d1f808,MAL-0000-amazon-inspector-dae3cff962abf527
 @aspect-adv-ui/consent-manager:MAL-2026-16050
 @aspect-security/argon2:MAL-2026-2505
 @assetshop/verify-cli:MAL-2026-13881
@@ -3181,6 +3182,7 @@
 @david-lab/sol-lib:MAL-2024-10605
 @daylightqc/date-fmt-lite:MAL-2026-11041
 @db-tools/main-app:MAL-2026-10398
+@dbbhk/ui-components:MAL-0000-amazon-inspector-478839dda68d2c5e
 @dbk-legacy/muster:MAL-2022-194
 @dbk-legacy/roster-modules-ebanking:MAL-2022-195
 @dbtw/mfe-gateway:MAL-2025-4538
@@ -10371,6 +10373,9 @@
 @silgi/yoga:MAL-2025-191320
 @simplepoll/fetlife-assets:MAL-2022-591
 @simplipayng/checkout:MAL-2026-13388
+@siriusbeyond/auth:MAL-0000-amazon-inspector-4ed929a2d8cbd158
+@siriusbeyond/ui:MAL-0000-amazon-inspector-3d81713c34940a8d
+@siriusbeyond/utils:MAL-0000-amazon-inspector-330b388e1f9ee72c
 @siwatfa/yorn:MAL-2026-14102
 @sixcore/baileys:MAL-2026-2193
 @sixsense/core:MAL-2024-10229
@@ -19147,6 +19152,7 @@ action-publish-gh-pages:MAL-2022-833
 action-require-additional-reviewer:MAL-2022-834
 action-schema-compiler:MAL-2025-41360
 action-setup-enos:MAL-2026-2722
+action-slack-message-root:MAL-0000-amazon-inspector-6d5f3deb6623e534
 action-surefire-report:MAL-2023-80
 action-testtttt:MAL-2024-11939
 action-utils:MAL-2024-7433
@@ -34218,6 +34224,7 @@ better-amethyst-manatee:MAL-2025-66948
 better-aqua-smelt:MAL-2025-66949
 better-auth-nuxt:MAL-2025-191073
 better-azure-quokka:MAL-2025-66950
+better-envforge:MAL-0000-amazon-inspector-1f30026347d1db5e
 better-indigo-reindeer:MAL-2025-66951
 better-jade-boar:MAL-2025-66952
 better-purple-bobolink:MAL-2025-66953
@@ -38368,6 +38375,7 @@ bukkittty:MAL-2025-16331
 bulbul:MAL-2022-1725
 bulbulka:MAL-2022-1726
 bulebird:MAL-2025-16332
+bulk-add-sdk:MAL-0000-amazon-inspector-b131d84c624f7eb8
 bulkdown:MAL-2025-16333
 bulldog-e-business:MAL-2022-1727
 bulledev:MAL-2025-16334
@@ -39214,6 +39222,7 @@ bytecode-checker-cli:MAL-2025-190833
 bytecore:MAL-2026-4503
 bytecraft:MAL-2026-10891
 byted-cg:MAL-2024-7831
+byted-commerce-materials:MAL-0000-amazon-inspector-f777e32b4a6cbb7f
 byted-example:MAL-2024-11946
 byted-guide:MAL-2024-11317
 byted-guides:MAL-2024-11318
@@ -41068,6 +41077,8 @@ catsear:MAL-2025-16669
 catteleya:MAL-2023-164
 cattle_plum-52:MAL-2025-97642
 cattoys:MAL-2025-16670
+catwrestlingbird:MAL-0000-amazon-inspector-80958afe2056e1a1
+catwrestlinghuman:MAL-0000-amazon-inspector-6c4045339387526c
 cauliflower-notthedevs:MAL-2025-100283
 caurl:MAL-2022-1845
 causal-amethyst-hoverfly:MAL-2025-67121
@@ -41743,6 +41754,7 @@ chai-as-validated:MAL-2025-192724
 chai-as-vec:MAL-2026-4168
 chai-as-verified:MAL-2026-10504
 chai-as-victimed:MAL-2026-5605
+chai-as-viem:MAL-0000-amazon-inspector-397fee7b80d73ee4
 chai-as-vite:MAL-2026-4514
 chai-assert-kit:MAL-2026-6221
 chai-assertions-plus:MAL-2026-12349
@@ -47612,6 +47624,7 @@ comment-on-task-github-action:MAL-2025-5768
 comment-watch-bot:MAL-2022-2118
 commentrating:MAL-2023-1142
 comments2:MAL-2022-2119
+commerce-materials:MAL-0000-amazon-inspector-bdfff371a76fd4ce
 commerce-ml-cdk:MAL-2022-2120
 commerce-sdk-react:MAL-2022-2121
 commerce-utils:MAL-2026-2497
@@ -63664,6 +63677,7 @@ elemefe:MAL-2025-48995
 element-block-starter:MAL-2023-8738
 element-guci-util:MAL-2026-15880
 element-icon-guci:MAL-2026-15881
+element-plus-vite-cli:MAL-0000-amazon-inspector-7b7636f89146191d,MAL-0000-amazon-inspector-e8a11f32d24e5fd7
 element-ui-antares-browserify-helmet:MAL-2025-141958
 element-ui-apollo-gatsby-process:MAL-2025-19485
 element-ui-aquarius-pulsar-readable:MAL-2025-141959
@@ -72781,6 +72795,7 @@ federal_wolverine_z3n:MAL-2025-120038
 federalist-uswds-jekyll:MAL-2022-3000
 fedfujhyk:MAL-2025-20350
 feed-testing-utils:MAL-2025-3887
+feed-widget-helper:MAL-0000-amazon-inspector-b5a81a96715497c2
 feedback-ai-sdk:MAL-2026-11184
 feedback-api:MAL-2026-10010
 feedback-html2canvas:MAL-2024-7803
@@ -89024,6 +89039,7 @@ homely_yak_z3n:MAL-2025-134183
 homely_zebra_z3n:MAL-2025-103773
 homematic-js-km200:MAL-2025-22515
 homepod:MAL-2025-22516
+homestack-cheer:MAL-0000-amazon-inspector-f475cd8b8a3e1dd4
 homework-module-14:MAL-2025-22517
 homey-device-discovery:MAL-2025-22518
 homey-web-app:MAL-2025-5415
@@ -104895,7 +104911,10 @@ kernelcon-bad-packagexp:MAL-2025-3260
 kernellib:MAL-2025-24406
 kerocinedeizel:MAL-2025-24407
 kerocinefuel:MAL-2022-4145
-keroeltop:MAL-2026-16297
+keroeltop:MAL-0000-amazon-inspector-0c1791fee7ca80cf,MAL-2026-16297
+keroeltopgg:MAL-0000-amazon-inspector-52b4e331f9f02f43
+keroeltopkk:MAL-0000-amazon-inspector-b1d7044c35cb0fb7
+keroeltopkkk:MAL-0000-amazon-inspector-2758c1a2619db534
 keroris:MAL-2025-24408
 kerry-soluble-pot:MAL-2025-104762
 kerry-wallet-store:MAL-2025-104763
@@ -128611,6 +128630,7 @@ my-archon:MAL-2025-1539
 my-auto-follow:MAL-2026-13932
 my-benefits-web:MAL-2026-1794
 my-carbon-app:MAL-2022-4746
+my-cdn-script:MAL-0000-amazon-inspector-e634f64d71797bbe
 my-check-inline-loader-plugin:MAL-2025-4378
 my-cli-app:MAL-2025-26945
 my-confused-package:MAL-2025-6636
@@ -147189,10 +147209,15 @@ pexels-core-sdk:MAL-2025-6748
 pexels-figma:MAL-2025-6749
 pexels-internal:MAL-2025-6750
 pf-web-build:MAL-2022-5307
+pf23727:MAL-0000-amazon-inspector-f83e32460196d036
+pf25133:MAL-0000-amazon-inspector-504c3f95c937a05e
+pf25262:MAL-0000-amazon-inspector-95274790fd43042e
 pfa-autotests-reporter:MAL-2026-12185
 pfa-errors:MAL-2026-12406
 pfa-prettier-config:MAL-2026-12407
 pfgrbkiymucvlqos:MAL-2025-29106
+pflag14570:MAL-0000-amazon-inspector-2b7164c1405ab258
+pflag29424:MAL-0000-amazon-inspector-d9b974c9d8555f02
 pflgydevkbxamquw:MAL-2022-5308
 pflickr:MAL-2025-29107
 pfm-app:MAL-2025-5198
@@ -173833,6 +173858,7 @@ sirius-taurus-achernar-dactyl:MAL-2025-147980
 sirius-transport-barnard-centaurus:MAL-2025-147981
 sirius-warp-quantum-parcel:MAL-2025-46072
 sirius-yonder-algol-quantum:MAL-2025-189526
+siriusbeyond:MAL-0000-amazon-inspector-6ce19ca17a48cf79
 sishibazhong-xuexing-xingzuo-jiema-quanshu:MAL-2025-46073
 siska-asinan1-breki:MAL-2025-54894
 siska-asinan34-miaww:MAL-2025-90603
@@ -176536,6 +176562,7 @@ sore_tapir_z3n:MAL-2025-96674
 sore_unicorn_z3n:MAL-2025-123336
 sore_zebra_z3n:MAL-2025-61319
 sorenson-webfonts:MAL-2026-5028
+sorrawit-dev-helper:MAL-0000-amazon-inspector-c64040dcfbbdb6ce
 sorry-amethyst-chinchilla:MAL-2025-70725
 sorry-aquamarine-leopon:MAL-2025-70726
 sorry_buzzard_blue-38:MAL-2025-112331
@@ -178072,6 +178099,7 @@ star-violet-rum512-project:MAL-2025-33940
 star-volcano-sfm016-project:MAL-2025-33941
 star-x0bar-6z7rk-kelp-project:MAL-2025-33942
 star-xcscn-3co6s-moonlight-project:MAL-2025-33943
+starbucks-sdk:MAL-0000-amazon-inspector-f42de3e225b6f8d6
 starbucks:MAL-2025-33944
 starbuckssystem.website:MAL-2022-6293
 starbuckssystem:MAL-2023-810
