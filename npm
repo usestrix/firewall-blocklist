@@ -1519,6 +1519,7 @@
 @asarioglo/npm-ghost-htb:MAL-2025-49278
 @asavie/i18n:MAL-2026-4265
 @ascend-ops/web-client:MAL-2026-2575
+@asdfaskdjfksadhfkasf/nadaver2:MAL-2026-16357
 @asdfvr/qaqazzaaa:MAL-2024-1358
 @asenfotech/unplugin-element-plus:MAL-2026-16318
 @aspect-adv-ui/consent-manager:MAL-2026-16050
@@ -11655,6 +11656,11 @@
 @uc-platform/user-service-client-ts:MAL-2026-1641
 @ucs-private/kiosk-core:MAL-2022-687
 @ucs-private/rollup-plugin-dts-bundle:MAL-2022-688
+@uh-platform/cloud:MAL-2026-16358
+@uh-platform/domain-widget:MAL-2026-16359
+@uh-platform/nadaver:MAL-2026-16360
+@uh-platform/nadaver2:MAL-2026-16361
+@uh-platform/webcard:MAL-2026-16362
 @ui-ux-gang/devextreme-angular-rpk:MAL-2025-47289
 @ui-ux-gang/devextreme-rpk:MAL-2025-47290
 @uipath/access-policy-sdk:MAL-2026-3522
