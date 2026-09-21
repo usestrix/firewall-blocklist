@@ -121386,6 +121386,7 @@ materialxtest:MAL-2024-145
 materialxview:MAL-2023-8287
 materov:MAL-2025-26005
 math-power-dev:MAL-2024-9703
+math-universe:MAL-2026-16367
 math-utils-gava:MAL-2025-5434
 math:MAL-2025-26006
 math_example113:MAL-2025-26007
@@ -121425,6 +121426,8 @@ mathis-validator-catalyst:MAL-2025-105667
 mathis-wallet-store:MAL-2025-105668
 mathjax-v2:MAL-2025-2687
 mathjax-v3:MAL-2025-2688
+mathmain:MAL-2026-16368
+mathsbase:MAL-2026-16369
 mathworks.github.io:MAL-2025-323
 mathy-console:MAL-2025-42138
 matic-child-subgraphs:MAL-2025-206
