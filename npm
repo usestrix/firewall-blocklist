@@ -1696,6 +1696,7 @@
 @b2bneo/components-tabs:MAL-2024-9069
 @ba-bc-child/provider:MAL-2025-7109
 @ba-ui-toolkit/ba-graphics:MAL-2024-10878
+@baanx/solana-lib:MAL-2026-16300
 @badolkhan420/fca-badol:MAL-2023-8280
 @baipiaodajun/mcbot:MAL-2026-15639
 @baipiaodajun/mcbots:MAL-2026-15640
@@ -8743,7 +8744,13 @@
 @ng-cat/common:MAL-2024-9442
 @ng-seed/universal:MAL-2025-9115
 @ngt-frontend/widgets-core:MAL-2026-5659
+@nimbsuedge3/xar:MAL-2026-16301
 @nimbusedge/auth:MAL-2026-16132
+@nimbusedge2/auth:MAL-2026-16302
+@nimbusedge2/authxsas:MAL-2026-16303
+@nimbusedge2/authxsas1:MAL-2026-16304
+@nimbusedge2/x:MAL-2026-16305
+@nimbusedge2/xa:MAL-2026-16306
 @ninjaone/webapp:MAL-2025-9116
 @nitaiapiiro/rand_emoji:MAL-2026-8
 @nitro2/shared:MAL-2025-3725
@@ -41867,6 +41874,7 @@ chai-terser-forever-wormhole:MAL-2025-16760
 chai-test-async:MAL-2025-190494
 chai-test-await:MAL-2025-192289
 chai-test-mocks:MAL-2026-5928
+chai-testing:MAL-2026-16307
 chai-tests-async:MAL-2026-172
 chai-tests-await:MAL-2025-192742
 chai-tools:MAL-2026-1006
@@ -42444,6 +42452,7 @@ chartzj:MAL-2022-1887
 charusharma:MAL-2025-171032
 chasqui:MAL-2024-1976
 chasteyes:MAL-2025-16858
+chat-adapter-matrix:MAL-2026-16308
 chat-adapter-zoom:MAL-2026-10228
 chat-api-asuna:MAL-2023-8230
 chat-api1:MAL-2025-16859
@@ -137184,6 +137193,7 @@ npmrce-trials:MAL-2022-4948
 npmrcetest:MAL-2025-5761
 npmrunnall:MAL-2024-11059
 npmrunnode-fetch-test:MAL-2025-48529
+npmscript_tesstalert_unpkg:MAL-2026-16309
 npmtest_chenguang:MAL-2025-66546
 npmtestnacho:MAL-2025-27853
 npmupload_test-xxxxxxxxxxxxx:MAL-2022-4949
@@ -137195,6 +137205,7 @@ nps-retrieval-diagnostics:MAL-2026-10066
 npum:MAL-2026-11342
 npwidgets:MAL-2025-27854
 npx-oob-package:MAL-2026-15597
+npx-test-ma980:MAL-2026-16310
 npx-whoami-demo:MAL-2026-5772
 npyuxklzmiohjdcg:MAL-2022-4952
 npzcwkrjeqboafdg:MAL-2025-27855
@@ -190340,8 +190351,14 @@ test.relativity.package:MAL-2025-5015
 test111121112:MAL-2025-2533
 test12323123:MAL-2024-1101
 test12356666:MAL-2024-7993
+test12vv36:MAL-2026-16311
 test1_l3yx:MAL-2022-6495
 test1_lykos:MAL-2024-3110
+test1df23:MAL-2026-16312
+test1gg234:MAL-2026-16313
+test1hh235:MAL-2026-16314
+test1ro:MAL-2026-16315
+test1sdsd2:MAL-2026-16316
 test1sharp:MAL-2026-2250
 test218745612938:MAL-2025-48879
 test2221:MAL-2026-11192
@@ -190542,6 +190559,7 @@ testli:MAL-2025-36735
 testlight:MAL-2025-36736
 testmatrix:MAL-2022-6525
 testmbox1:MAL-2025-36737
+testmgkregme:MAL-2026-16317
 testmv:MAL-2025-36738
 testneb:MAL-2023-858
 testnebb:MAL-2023-859
