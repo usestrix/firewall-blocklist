@@ -4986,7 +4986,7 @@
 @gs-ux-uitoolkit-react/shared:MAL-2022-304
 @gs-ux-uitoolkit-react/theme:MAL-2022-305
 @gsas/gsas-sdk:MAL-2026-14420
-@gsutevil/hta-stage:MAL-0000-amazon-inspector-590b3432b8d849d5
+@gsutevil/hta-stage:MAL-2026-16419
 @gt-test-exp/profiler-exp-00000001:MAL-2026-10238
 @gt-test-exp/profiler-exp-00000002:MAL-2026-10239
 @gt-test-exp/profiler-exp-00000003:MAL-2026-10240
@@ -6266,7 +6266,7 @@
 @legalzoom/ai-assistant:MAL-2025-8421
 @legalzoom/assets-manager:MAL-2025-8422
 @legalzoom/auth:MAL-2025-8423
-@lekzo/baileys:MAL-0000-amazon-inspector-da5caafea4a56563,MAL-2026-16276
+@lekzo/baileys:MAL-2026-16276
 @lensapp/eslint-config:MAL-2025-5835
 @leofinzelik/rainbowkit:MAL-2025-8424
 @leonardo0902/vortex-kit:MAL-2026-13939

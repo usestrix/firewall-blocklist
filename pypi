@@ -147,7 +147,7 @@ aiolitesql:MAL-2025-4204
 aiolrucache:MAL-2026-2020
 aioohttp:MAL-2023-1580
 aiopbotocore:MAL-2024-11519
-aiosendletter:MAL-0000-kam193-af5c636124af9b40,MAL-2026-16264
+aiosendletter:MAL-2026-16264
 aiosignalasync:MAL-2025-2931
 aiostreams:MAL-2025-191675
 aiosync:MAL-2024-4757
@@ -6208,7 +6208,7 @@ pubsub2inbox:MAL-2026-1993
 puffioner131:MAL-2024-8025
 puffionerlolpo2131:MAL-2024-11665
 pullcc:MAL-2023-4957
-pullgetsage:MAL-0000-kam193-5a4369fbf36c4c2a,MAL-2026-16366
+pullgetsage:MAL-2026-16366
 pulllgtb:MAL-2023-4958
 pullload:MAL-2023-4959
 pullmc:MAL-2023-4960
