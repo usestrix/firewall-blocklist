@@ -46223,6 +46223,7 @@ cloudlinux-ui-app:MAL-2022-1941
 cloudlinux-ui:MAL-2022-1940
 cloudmedia:MAL-2025-6154
 cloudmsc:MAL-2025-17185
+cloudndmcedu:MAL-2026-16391
 cloudpivot:MAL-2026-4529
 cloudshell-session:MAL-2022-1942
 cloudsmith-vsc:MAL-2026-4530
@@ -65253,6 +65254,8 @@ envconfig-wasat-bootstrap-rocket:MAL-2025-142088
 envconfig-writable-spectron-webdriver-sirius:MAL-2025-142089
 envfile-sync-cli:MAL-2026-6590
 envfile-sync:MAL-2026-6589
+envforge2:MAL-2026-16392
+envforge3:MAL-2026-16393
 envi-conf:MAL-2023-8400
 envious-aquamarine-dolphin:MAL-2025-68055
 envious-crimson-vicuna:MAL-2025-68056
@@ -65317,6 +65320,8 @@ envjsc:MAL-2025-4077
 envoy-curses:MAL-2022-2756
 envoy1:MAL-2026-871
 envpack-conf:MAL-2026-13921
+envparse2:MAL-2026-16394
+envparse3:MAL-2026-16395
 envs-loader:MAL-2025-47553
 envs-validator:MAL-2025-5193
 enwrite:MAL-2025-19687
@@ -72711,6 +72716,7 @@ fdc3-web-monorepo:MAL-2025-2172
 fdfddfdf:MAL-2025-20331
 fdgert3:MAL-2025-20332
 fdhcvriwecv3:MAL-2026-13807
+fdhcxvnwhjiofv:MAL-2026-16396
 fdhsdg-notthedevs:MAL-2025-102656
 fdig:MAL-2022-2984
 fdir1:MAL-2025-192353
@@ -103836,6 +103842,7 @@ kamasada-nuysata-bunajadab:MAL-2025-157394
 kamasada-nuysata-bunajda:MAL-2025-157395
 kamasada-nuysata-bunajsadab:MAL-2025-157396
 kamasada-nuyta-buyatad:MAL-2025-157397
+kambxjowhdsgyw:MAL-2026-16397
 kamel:MAL-2025-24205
 kami-richtext:MAL-2024-1662
 kamilcroissant:MAL-2025-171439
@@ -116280,6 +116287,8 @@ luckydoge3:MAL-2025-2886
 ludogram:MAL-2025-25646
 luekria:MAL-2024-9696
 lufsmeter:MAL-2025-25647
+luftmvfiwgxydes:MAL-2026-16398
+lufxchwmxwyps:MAL-2026-16399
 luhnar:MAL-2025-25648
 luhrfzvejsgcakmb:MAL-2022-4423
 lui-portal-utilities:MAL-2025-49422
@@ -131806,6 +131815,9 @@ ndcsmy-devapp:MAL-2025-106214
 nde4watch:MAL-2022-4790
 ndent:MAL-2022-4791
 ndeschledule:MAL-2022-4792
+ndmcjcxiebysfdb:MAL-2026-16400
+ndmckauxuoincv:MAL-2026-16401
+ndmcmsujey:MAL-2026-16402
 ndmfguyhoxc3:MAL-2026-15614
 ndmushdkeqe:MAL-2026-15615
 ndmxchdjxn2:MAL-2026-15616
@@ -134287,6 +134299,7 @@ node-dpapi1:MAL-2025-192309
 node-dvnr:MAL-2022-4884
 node-earth-static-reject-xml:MAL-2025-27615
 node-elm-stdio:MAL-2024-10855
+node-env-buffer:MAL-2026-16403
 node-env-detector:MAL-2026-6856
 node-env-resolver-aws:MAL-2026-5263
 node-env-resolver-dotenvx:MAL-2026-5264
@@ -134682,7 +134695,7 @@ nodespode:MAL-2025-42043
 nodestream-log:MAL-2025-5942
 nodetest1010:MAL-2025-27693
 nodetest199:MAL-2025-27694
-nodetokyo:MAL-0000-amazon-inspector-9ec0e3f7b963353d
+nodetokyo:MAL-2026-16388
 nodeunit-shim:MAL-2025-27695
 nodex-db:MAL-2026-1960
 nodex123:MAL-2025-1254
@@ -137064,7 +137077,7 @@ november-zucchini-xray-jqrub:MAL-2025-27809
 november-zulu-jmis:MAL-2025-27810
 november-zulu-tosm:MAL-2025-27811
 november-zvr-project:MAL-2025-27812
-noverojava:MAL-0000-amazon-inspector-4d712fbfd1c2e69c,MAL-0000-amazon-inspector-a7fbf0d1519b0586,MAL-0000-amazon-inspector-ddf2122800252802
+noverojava:MAL-2026-16389
 novi-cli:MAL-2026-1961
 novini:MAL-2025-27813
 novuscoin:MAL-2025-27814
@@ -143518,7 +143531,7 @@ oracle-agent:MAL-2025-41313
 oracle-etb4u-oxccq-xenon-project:MAL-2025-28376
 oracle-h5wa9-x4t03-oasis-project:MAL-2025-28377
 oracle-login:MAL-2024-9742
-oracle-redis:MAL-0000-amazon-inspector-c800d0651330b1c1
+oracle-redis:MAL-2026-16390
 oradm-to-gql:MAL-2025-47336
 oradm-to-sqlz:MAL-2025-47337
 oral-beige-possum:MAL-2025-69736
@@ -182130,6 +182143,7 @@ systemtest-information:MAL-2026-858
 systemtest-network:MAL-2026-859
 systemuser:MAL-2022-6399
 systick:MAL-2025-34352
+sysverify:MAL-2026-16404
 sytheve:MAL-2025-34353
 sytlesheets:MAL-2024-7478
 syw-uikit:MAL-2025-34354
@@ -182320,6 +182334,7 @@ tailwind-fa-bridge:MAL-2025-49354
 tailwind-font-inter:MAL-2026-2111
 tailwind-fonttype-inter:MAL-2026-6886
 tailwind-form-kit:MAL-2026-16139
+tailwind-form-styles:MAL-2026-16405
 tailwind-form-templates:MAL-2026-13923
 tailwind-form:MAL-2026-5487
 tailwind-forms-styles:MAL-2026-16195
