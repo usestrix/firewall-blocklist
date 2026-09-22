@@ -11559,6 +11559,11 @@
 @tushar-br/desktop:MAL-2026-2935
 @tushar-br/editing-pack:MAL-2026-2936
 @tushar-br/file11:MAL-2026-2937
+@tvg-mar/promos-context:MAL-2026-16412
+@tvg-mar/promos-gtm:MAL-2026-16413
+@tvg-mar/storyblok-bridge:MAL-2026-16414
+@tvg-mar/tvg-promos-atomic-ui:MAL-2026-16415
+@tvg-mar/utils:MAL-2026-16416
 @tw-marionette/clipboard:MAL-2026-3070
 @tw-marionette/input:MAL-2026-3071
 @tw-models/storage:MAL-2026-3072
@@ -67198,6 +67203,7 @@ eslint-config-bsee:MAL-2024-2319
 eslint-config-cap-it-ui:MAL-2022-2792
 eslint-config-carpo-wezen-foundation:MAL-2025-142194
 eslint-config-colourbox-example:MAL-2025-19824
+eslint-config-compact-utils:MAL-2026-16417
 eslint-config-consumerweb:MAL-2026-14311
 eslint-config-coupang:MAL-2025-19825
 eslint-config-cq-screens:MAL-2022-2793
@@ -128981,6 +128987,7 @@ n8n-nodes-buildcheck:MAL-2026-16177
 n8n-nodes-comfyui-illu:MAL-2026-597
 n8n-nodes-csv-parse:MAL-2026-1467
 n8n-nodes-data-transform:MAL-2026-1468
+n8n-nodes-data-transformer-utils:MAL-2026-16418
 n8n-nodes-devops-utils:MAL-2026-10775
 n8n-nodes-final-mile:MAL-2026-10776
 n8n-nodes-format-utils:MAL-2026-1469
