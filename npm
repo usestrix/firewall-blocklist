@@ -11313,6 +11313,7 @@
 @teselagen/react-table:MAL-2025-47278
 @teselagen/sequence-utils:MAL-2025-47279
 @teselagen/ui:MAL-2025-47280
+@tesla-insurance/vinless-quote:MAL-2026-16378
 @test3.svt/first-npm-package-test-2:MAL-2024-9088
 @test3.svt/first-npm-package-test:MAL-2024-9081
 @test6uy767/back-end:MAL-2025-780
@@ -11801,6 +11802,7 @@
 @usealloy/typegen:MAL-2026-2971
 @uselagoon/ui-library:MAL-2026-687
 @usemosaik/template-react-js:MAL-2026-16047
+@user-services/web-components:MAL-2026-16379
 @utilcode/simple-http:MAL-2025-9588
 @uw010010/vite-tree:MAL-2026-10470
 @uwr/colors:MAL-2026-10179
@@ -41842,6 +41844,7 @@ chai-library-nebula-norma:MAL-2025-140596
 chai-link:MAL-2025-3521
 chai-lite-lib:MAL-2026-1034
 chai-log:MAL-2026-10426
+chai-logger:MAL-2026-16380
 chai-luna-sagitta-galaxy:MAL-2025-140597
 chai-max:MAL-2025-192754
 chai-mesosphere-astro-postgres:MAL-2025-186081
@@ -44633,6 +44636,7 @@ cirrus-matchmaker:MAL-2023-177
 cirrus-webserver:MAL-2025-17053
 cis-photoshop-api-docs:MAL-2025-1576
 cisco-bem-network-test:MAL-2022-1906
+cisco-github-simple:MAL-2026-16381
 cisco-k8s:MAL-2025-17054
 cisco-rio-mfc:MAL-2025-17055
 cisco-vsm:MAL-2025-17056
@@ -182485,6 +182489,7 @@ tajigon:MAL-2025-34395
 tajluzekfhkocnqb:MAL-2025-34396
 takamura:MAL-2025-34397
 take-cam:MAL-2024-943
+take-home-caller-id:MAL-2026-16382
 take2-hello-world:MAL-2024-10816
 take3-hello-world:MAL-2024-10817
 take4-hello-world:MAL-2024-11465
