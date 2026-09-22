@@ -190356,6 +190356,9 @@ test-prob-to2324:MAL-2025-47863
 test-process-phoebe-rehype:MAL-2025-148577
 test-proj-for-myself:MAL-2022-6490
 test-rce3:MAL-2024-11799
+test-react-app-in:MAL-2026-16374
+test-react-app-out:MAL-2026-16375
+test-react-app-way:MAL-2026-16376
 test-react15:MAL-2022-6491
 test-redis-pavo-version:MAL-2025-148578
 test-renderer:MAL-2024-3109
