@@ -1356,6 +1356,7 @@ crypto-kit-pro:MAL-2026-3375
 crypto-pygame:MAL-2023-1360
 crypto-regex-checker:MAL-2024-11565
 crypto-regex-gener:MAL-2024-11566
+crypto-trader-py:MAL-2026-16406
 crypto-trading-toolkit:MAL-2026-12082
 crypto-wallet-sdk:MAL-2026-12083
 crypto-wallet-utils:MAL-2026-3377
@@ -5960,6 +5961,7 @@ pokee-data-utils:MAL-2026-10547
 pokemon-app-sdk:MAL-2025-191815
 polidoro-cli:MAL-2025-6568
 pollow:MAL-2024-5559
+poly-check-b:MAL-2026-16407
 polyclawd:MAL-2026-927
 polydata-analytics:MAL-2026-4285
 polymarket-data-fetcher:MAL-2026-4286
@@ -9387,6 +9389,7 @@ smsobfuscate:MAL-2023-1409
 smtblib:MAL-2025-192579
 smtmlib:MAL-2025-192958
 smtrlib:MAL-2025-192690
+snap-queue:MAL-2026-16408
 snapshot-date:MAL-2026-610
 snapshot-photo:MAL-2025-191871
 snelt:MAL-2024-6017
