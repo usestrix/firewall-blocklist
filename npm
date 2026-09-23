@@ -8815,6 +8815,9 @@
 @meli-lint/eslint-config-tests-jest	*	MAL-2026-794
 @meli-testing/jest-react	*	MAL-2026-11440
 @meme-sdk/trade	*	MAL-2026-5494
+@memtensor/memos-cloud-openclaw-plugin	0.1.21	MAL-2026-16476
+@memtensor/memos-cloud-openclaw-plugin	0.1.23	MAL-2026-16476
+@memtensor/memos-cloud-openclaw-plugin	0.1.25	MAL-2026-16476
 @mendeley-internal/api	100.0.0	MAL-2023-41
 @mendeley-internal/api	100.0.1	MAL-2023-41
 @mendeley-internal/api	100.0.2	MAL-2023-41
