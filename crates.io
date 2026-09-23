@@ -1,20 +1,22 @@
-amzn_codewhisperer_streaming_client:MAL-2026-3103
-amzn_consolas_client:MAL-2026-3101
-aovine:MAL-2026-14332
-append_only_vec:MAL-2026-14333
-arone:MAL-2026-14334
-aronenao:MAL-2026-14335
-arrayref:MAL-2026-14336
-internment:MAL-2026-14337
-littest:MAL-2023-8429
-logs_update:MAL-2026-16164
-lsh:MAL-2026-3126
-mysten_metrics:MAL-2026-2958
-proc_macro1:MAL-2026-14338
-proc_macro_en:MAL-2026-14339
-proton_pfff:MAL-2026-6959
-replit_ruspty:MAL-2025-49350
-rustdecimal:MAL-2022-1
-semantic_search_client:MAL-2026-3102
-supertag:MAL-2026-3129
-tinymember:MAL-2026-14340
+amzn-codewhisperer-streaming-client	99.0.1	MAL-2026-3103
+amzn-consolas-client	99.0.1	MAL-2026-3101
+aovine	*	MAL-2026-14332
+append-only-vec	0.1.9	MAL-2026-14333
+arone	*	MAL-2026-14334
+aronenao	*	MAL-2026-14335
+arrayref	0.3.10	MAL-2026-14336
+internment	0.8.7	MAL-2026-14337
+littest	0.3.1	MAL-2023-8429
+logs-update	*	MAL-2026-16164
+lsh	99.0.1	MAL-2026-3126
+lsh	99.1.0	MAL-2026-3126
+mysten-metrics	9.0.0	MAL-2026-2958
+mysten-metrics	9.0.3	MAL-2026-2958
+proc-macro-en	*	MAL-2026-14339
+proc-macro1	*	MAL-2026-14338
+proton-pfff	99.99.5	MAL-2026-6959
+replit_ruspty	1.0.0	MAL-2025-49350
+rustdecimal	*	MAL-2022-1
+semantic-search-client	99.0.1	MAL-2026-3102
+supertag	99.1.1	MAL-2026-3129
+tinymember	*	MAL-2026-14340

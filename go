@@ -1,18 +1,18 @@
-github.com/belatedplanet/hypert:MAL-2025-2544
-github.com/boltdb-go/bolt:MAL-2025-2545
-github.com/bufferzonecorp/config-loader:MAL-2026-3620
-github.com/bufferzonecorp/go-envconfig:MAL-2026-3621
-github.com/bufferzonecorp/go-metrics-sdk:MAL-2026-3622
-github.com/bufferzonecorp/go-retryablehttp:MAL-2026-3623
-github.com/bufferzonecorp/go-stdlib-ext:MAL-2026-3624
-github.com/bufferzonecorp/go-stdlog:MAL-2026-3625
-github.com/bufferzonecorp/go-weather-sdk:MAL-2026-3626
-github.com/bufferzonecorp/grpc-client:MAL-2026-3627
-github.com/bufferzonecorp/log-core:MAL-2026-3628
-github.com/bufferzonecorp/net-helper:MAL-2026-3629
-github.com/ornatedoctrin/layout:MAL-2025-2546
-github.com/shadowybulk/hypert:MAL-2025-2547
-github.com/shallowmulti/hypert:MAL-2025-2548
-github.com/thankfulmai/hypert:MAL-2025-2549
-github.com/utilizedsun/layout:MAL-2025-2550
-github.com/vainreboot/layout:MAL-2025-2551
+github.com/BufferZoneCorp/config-loader	*	MAL-2026-3620
+github.com/BufferZoneCorp/go-envconfig	*	MAL-2026-3621
+github.com/BufferZoneCorp/go-metrics-sdk	*	MAL-2026-3622
+github.com/BufferZoneCorp/go-retryablehttp	*	MAL-2026-3623
+github.com/BufferZoneCorp/go-stdlib-ext	*	MAL-2026-3624
+github.com/BufferZoneCorp/go-stdlog	*	MAL-2026-3625
+github.com/BufferZoneCorp/go-weather-sdk	*	MAL-2026-3626
+github.com/BufferZoneCorp/grpc-client	*	MAL-2026-3627
+github.com/BufferZoneCorp/log-core	*	MAL-2026-3628
+github.com/BufferZoneCorp/net-helper	*	MAL-2026-3629
+github.com/belatedplanet/hypert	*	MAL-2025-2544
+github.com/boltdb-go/bolt	*	MAL-2025-2545
+github.com/ornatedoctrin/layout	*	MAL-2025-2546
+github.com/shadowybulk/hypert	*	MAL-2025-2547
+github.com/shallowmulti/hypert	*	MAL-2025-2548
+github.com/thankfulmai/hypert	*	MAL-2025-2549
+github.com/utilizedsun/layout	*	MAL-2025-2550
+github.com/vainreboot/layout	*	MAL-2025-2551
