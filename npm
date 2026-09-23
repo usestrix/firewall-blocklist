@@ -12798,6 +12798,10 @@
 @rivianlabs/dc-fe-app-web-rivian-com	0.0.1	MAL-2026-3349
 @rivianlabs/dt-lib-lumberjack	0.0.1	MAL-2026-3350
 @rivianlabs/dt-shop-bag-v0	0.0.2	MAL-2026-3351
+@rixxcodex/baileys	8.0.15	MAL-2026-16483
+@rixxcodex/baileys	8.0.16	MAL-2026-16483
+@rixxcodex/baileys	8.1.0	MAL-2026-16483
+@rixxcodex/baileys	8.2.0	MAL-2026-16483
 @rmlibrary/formatting	*	MAL-2026-6645
 @rnps-ppr/gensen-gotham	*	MAL-2022-563
 @rnps-ppr/ppr-gensenjs	*	MAL-2022-564
@@ -158201,6 +158205,7 @@ pino-slite	4.1.16	MAL-2026-6078
 pino-spica-leda-hyperion	*	MAL-2025-146253
 pino-style-loader-uninstall-hyperion	*	MAL-2025-45562
 pino-tectonophysics-neptunology-reveal-md	*	MAL-2025-45563
+pino-testkit	10.4.5	MAL-2026-16484
 pino-uglify-js-uninstall-cli	*	MAL-2025-146254
 pino-ulid	*	MAL-2026-16154
 pino-utils	1.3.6	MAL-2026-6863
