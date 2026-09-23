@@ -135386,6 +135386,7 @@ mohamedsaqib	*	MAL-2024-9240
 mohammedazeem	*	MAL-2025-171590
 mohanpatel	*	MAL-2025-171591
 mohanverma	*	MAL-2025-171592
+moidevl	1.0.0	MAL-2026-16441
 moidevy	1.0.0	MAL-2026-14348
 mojacesta	*	MAL-2025-26614
 mojio-client-lite	*	MAL-2025-49366
@@ -136059,6 +136060,7 @@ motorki	*	MAL-2025-26744
 motorola	*	MAL-2025-26745
 motoron	*	MAL-2025-26746
 motostore	*	MAL-2025-26747
+moudeva	1.0.0	MAL-2026-16442
 mountain-brook-xdx048-project	*	MAL-2025-26748
 mountain-castle-5zt8	*	MAL-2025-26749
 mountain-dandelion-ngi871-project	*	MAL-2025-26750
@@ -137933,6 +137935,8 @@ my-carbon-app	*	MAL-2022-4746
 my-cdn-script	1.0.0	MAL-2026-16337
 my-check-inline-loader-plugin	*	MAL-2025-4378
 my-cli-app	*	MAL-2025-26945
+my-company-device	0.1.0	MAL-2026-16443
+my-company-device	0.1.1	MAL-2026-16443
 my-confused-package	1.0.1	MAL-2025-6636
 my-css-package	*	MAL-2024-8787
 my-ctf-helper-script-9921	1.0.0	MAL-2026-16365
@@ -138326,12 +138330,14 @@ n8n-nodes-format-utils	*	MAL-2026-1469
 n8n-nodes-gasdhgfuy-rejerw-ytjsadx	*	MAL-2026-538
 n8n-nodes-gg-udhasudsh-hgjkhg-official	*	MAL-2026-539
 n8n-nodes-ggdv-hdfvcnnje-uyrokvbkl	*	MAL-2026-177
+n8n-nodes-healthmon	1.0.0	MAL-2026-16444
 n8n-nodes-hfgjf-irtuinvcm-lasdqewriit	*	MAL-2026-178
 n8n-nodes-http-probe	1.0.0	MAL-2026-10997
 n8n-nodes-http-probe	1.0.1	MAL-2026-10997
 n8n-nodes-http-probe	1.0.2	MAL-2026-10997
 n8n-nodes-json-helper	*	MAL-2026-1470
 n8n-nodes-mcputils	*	MAL-2026-10013
+n8n-nodes-metricsagent	1.0.0	MAL-2026-16445
 n8n-nodes-msdyn365bc	*	MAL-2025-27045
 n8n-nodes-mtaitest-abc	*	MAL-2025-5600
 n8n-nodes-net-utils	1.0.0	MAL-2026-11003
