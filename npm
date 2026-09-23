@@ -5326,6 +5326,7 @@
 @httpactions/encode-url:MAL-2026-6139
 @httpactions/strict-uri-encode:MAL-2026-6140
 @httttt/mcp-demo:MAL-2026-14315
+@httttt/mcp-npx-fetch-1:MAL-2026-16422
 @hub-la/payments-proto:MAL-2025-5981
 @hubportal/sdk:MAL-2023-1081
 @hubsync/web-sdk-react:MAL-2026-11564
@@ -12217,9 +12218,19 @@
 @wixui/editor-elements-design-systems:MAL-2022-731
 @wixui/editor-elements:MAL-2022-729
 @wiz-common/icons:MAL-2024-7921
+@wizloft/harness-authority:MAL-2026-16423
+@wizloft/harness-cli-adapter:MAL-2026-16424
+@wizloft/harness-commands:MAL-2026-16425
 @wizloft/harness-context:MAL-2026-14286
+@wizloft/harness-evidence:MAL-2026-16426
+@wizloft/harness-file-providers:MAL-2026-16427
 @wizloft/harness-kernel:MAL-2026-14287
+@wizloft/harness-memory:MAL-2026-16428
+@wizloft/harness-plugin-file-events:MAL-2026-16429
+@wizloft/harness-plugin-file-memory:MAL-2026-16430
+@wizloft/harness-plugin-memory-context:MAL-2026-16431
 @wizloft/harness-plugin-repository-files:MAL-2026-14288
+@wizloft/harness-project:MAL-2026-16432
 @wizloft/harness-validation:MAL-2026-14289
 @wizloft/harness:MAL-2026-14285
 @wololasod/tiny-id:MAL-2026-12331
