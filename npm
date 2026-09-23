@@ -53776,6 +53776,7 @@ com.apple.unityplugin.gamecontroller	*	MAL-2025-17313
 com.apple.unityplugin.gamekit	*	MAL-2025-17314
 com.apple.unityplugin.phase	*	MAL-2025-17315
 com.apple.unityplugin.spatialcontroller	*	MAL-2025-49110
+com.apple.unityplugin.storekit	1.0.2	MAL-2026-16477
 com.appsflyer.app.letscook	*	MAL-2025-17316
 com.assistant.sdk.core	*	MAL-2022-2031
 com.baogong.app_push_permission	100.0.5	MAL-2026-2687
@@ -76197,6 +76198,7 @@ event-handle-package	*	MAL-2025-2310
 event-html-webpack-plugin-json-sqlite	*	MAL-2025-142314
 event-hubs	*	MAL-2022-2891
 event-hubs-track-1	*	MAL-2022-2892
+event-hunter	1.0.0	MAL-2026-16478
 event-husky-tachyon-auth0	*	MAL-2025-186876
 event-hyperion-gatsby-sagitta	*	MAL-2025-142315
 event-lib	*	MAL-2025-19923
@@ -184043,6 +184045,7 @@ simplemde-angular	*	MAL-2022-6126
 simplemoduleonetest	1.1.1	MAL-2025-47126
 simplemoduleonetestone	1.1.1	MAL-2025-47410
 simplemoduleonetestone	1.1.11	MAL-2025-47410
+simplenewnpmpackage	1.0.2	MAL-2026-16479
 simplerequestnode	*	MAL-2025-47967
 simplesamlphp	*	MAL-2022-6127
 simpletop	*	MAL-2025-33282
@@ -193591,6 +193594,7 @@ tailwind-config-view	*	MAL-2025-48779
 tailwind-configs	*	MAL-2025-42091
 tailwind-configs-viewer	*	MAL-2025-47211
 tailwind-configuration	1.0.1	MAL-2026-2803
+tailwind-contact-forms	0.5.1	MAL-2026-15925
 tailwind-contact-forms	0.5.12	MAL-2026-15925
 tailwind-container-queries	0.1.1	MAL-2026-15903
 tailwind-core	0.0.0	MAL-2026-7026
