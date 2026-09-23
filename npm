@@ -15578,6 +15578,9 @@
 @teselagen/ui	0.9.10	MAL-2025-47280
 @teselagen/ui	0.9.9	MAL-2025-47280
 @tesla-insurance/vinless-quote	9.9.10	MAL-2026-16378
+@test1230504/probe-7f3k2m-utils	*	MAL-2026-16467
+@test1230504/string-format-helper	*	MAL-2026-16468
+@test1230504/test-publish-verify	*	MAL-2026-16469
 @test3.svt/first-npm-package-test	1.0.1	MAL-2024-9081
 @test3.svt/first-npm-package-test	1.0.4	MAL-2024-9081
 @test3.svt/first-npm-package-test	1.0.7	MAL-2024-9081
@@ -75151,6 +75154,7 @@ eslint-config-bsee	99.99.99	MAL-2024-2319
 eslint-config-cap-it-ui	*	MAL-2022-2792
 eslint-config-carpo-wezen-foundation	*	MAL-2025-142194
 eslint-config-colourbox-example	*	MAL-2025-19824
+eslint-config-compact-utils	1.0.0	MAL-2026-16417
 eslint-config-compact-utils	1.0.2	MAL-2026-16417
 eslint-config-consumerweb	*	MAL-2026-14311
 eslint-config-coupang	*	MAL-2025-19825
@@ -90319,6 +90323,9 @@ godivab-tumvi-iu	*	MAL-2025-174274
 godivab-tuvi-iu	*	MAL-2025-174275
 godot-kit	1.0.1786316795	MAL-2026-13723
 godswar	*	MAL-2025-21629
+godxxx	1.0.0	MAL-2026-16461
+godzz	1.0.0	MAL-2026-16462
+godzzz	1.0.0	MAL-2026-16463
 goede.cl	*	MAL-2022-3404
 gofinity	*	MAL-2025-21630
 goforums	*	MAL-2025-21631
@@ -90340,6 +90347,7 @@ gojs-designer	*	MAL-2025-21635
 gojs2	*	MAL-2025-21636
 golaaa	1.0.0	MAL-2026-13392
 golaaa	1.0.3	MAL-2026-13392
+golaaa	2.0.3	MAL-2026-13392
 golan125-homepage-test	1.0.0	MAL-2026-10897
 golanci-lint-action	*	MAL-2025-1595
 golangtw	*	MAL-2025-21637
@@ -92622,6 +92630,8 @@ habinger	2.1.6	MAL-2026-11002
 habite	*	MAL-2025-22092
 hach-package-manager-bounty-hunter	*	MAL-2022-3549
 hachowm	*	MAL-2025-22093
+hachutis	1.0.0	MAL-2026-16464
+hachutis	1.0.6	MAL-2026-16464
 hack0xme	*	MAL-2025-22094
 hackathon-web	*	MAL-2023-8739
 hackboysoso	6.6.6	MAL-2024-2446
@@ -95908,6 +95918,7 @@ helper-module-context	*	MAL-2022-3606
 helper-plugin-utils	*	MAL-2025-3256
 helper-split-export-declaration	*	MAL-2025-3257
 helper-validator-identifier	*	MAL-2025-47885
+helpersutils-dev-tools	1.0.11	MAL-2026-16465
 helpful-apricot-goose	*	MAL-2025-68656
 helpful-indigo-goose	*	MAL-2025-138771
 helpful-jade-bee	*	MAL-2025-68657
@@ -230553,6 +230564,9 @@ yzmenu	*	MAL-2025-40705
 yzqdapjomkexkhbr	*	MAL-2025-40706
 yzrmahlocdwgsjep	*	MAL-2025-40707
 yzsnvz-devapp	*	MAL-2025-111405
+z-deno-truth-bwhlsz	*	MAL-2026-16470
+z-deno-truth-va499w	*	MAL-2026-16471
+z-deno-truth-ya1t4m	*	MAL-2026-16472
 z-dsm	*	MAL-2023-8393
 z-foundation	1.0.0	MAL-2023-1504
 z-miss	>=1337.0.0	MAL-2025-42119
