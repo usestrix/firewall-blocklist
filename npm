@@ -16436,7 +16436,7 @@
 @usaa-grp-inf-presentation/usaa-tw-base	1.2.4	MAL-2024-9480
 @usaa-grp-payments-web-experience/bk-acknowledge-module	2.9.11	MAL-2025-6671
 @usaa-grp-payments-web-experience/bk-acknowledge-module	2.9.9	MAL-2025-6671
-@usaa-grp-personal-profile/personal-profile-common	999.0.0	MAL-2026-14370
+@usaa-grp-personal-profile/personal-profile-common	*	MAL-2026-14370
 @usabilityhub/fetlife-assets	*	MAL-2022-699
 @usealloy/api-contract	*	MAL-2026-2969
 @usealloy/component-library	*	MAL-2026-2970
@@ -40343,6 +40343,7 @@ better-azure-quokka	*	MAL-2025-66950
 better-envforge	*	MAL-2026-16324
 better-indigo-reindeer	*	MAL-2025-66951
 better-jade-boar	*	MAL-2025-66952
+better-md	*	MAL-2026-16446
 better-purple-bobolink	*	MAL-2025-66953
 better-queue-nedb	0.1.5	MAL-2025-191074
 better-styled-components	*	MAL-2026-1502
@@ -46764,6 +46765,7 @@ capes-template-angular	10.0.7	MAL-2025-49332
 capes-ui	*	MAL-2025-49400
 capexdoc	*	MAL-2025-16514
 capfb	*	MAL-2023-159
+caphsmgiwy	*	MAL-2026-16447
 capi-param-builder	*	MAL-2024-9438
 capistrano-borg	*	MAL-2025-16515
 capistrano-ejson	*	MAL-2025-16516
@@ -48296,11 +48298,7 @@ chai-testing	1.1.4	MAL-2026-16307
 chai-tests-async	*	MAL-2026-172
 chai-tests-await	*	MAL-2025-192742
 chai-tools	*	MAL-2026-1006
-chai-tracker	1.1.0	MAL-2026-13704
-chai-tracker	1.1.1	MAL-2026-13704
-chai-tracker	1.1.2	MAL-2026-13704
-chai-tracker	1.1.3	MAL-2026-13704
-chai-tracker	1.2.1	MAL-2026-13704
+chai-tracker	*	MAL-2026-13704
 chai-type	*	MAL-2025-190552
 chai-types	1.1.7	MAL-2026-1685
 chai-use-chain	*	MAL-2026-2743
@@ -59446,8 +59444,7 @@ db2-on-cloud-rest	*	MAL-2025-18095
 db73	*	MAL-2025-171095
 dbabelpreetstage1	*	MAL-2022-2364
 dbc-wiki	*	MAL-2025-1106
-dbconnectify	1.0.1	MAL-2026-10669
-dbconnectify	1.0.2	MAL-2026-10669
+dbconnectify	*	MAL-2026-10669
 dbedhs-devapp	*	MAL-2025-101217
 dbenvy-ci-controller-client	*	MAL-2025-18096
 dbeug	*	MAL-2025-18097
@@ -59764,6 +59761,7 @@ debian-js-lesson-1	*	MAL-2025-18137
 debian-js-lesson-2	*	MAL-2025-18138
 debounce-event	*	MAL-2025-18139
 debounce-function	*	MAL-2025-18140
+debounce-throttle-base	*	MAL-2026-16448
 debox-rn	*	MAL-2026-414
 debprvmxnakizwgc	*	MAL-2025-18141
 debu	*	MAL-2025-18142
@@ -106341,6 +106339,7 @@ ismakusuma	*	MAL-2025-171366
 isnon	*	MAL-2022-3962
 isntal	*	MAL-2022-3963
 isntall	*	MAL-2022-3964
+iso-datetime-core	*	MAL-2026-16449
 isobellemurray	*	MAL-2025-171367
 isohill	*	MAL-2025-23432
 isolated-block-editor	*	MAL-2022-3965
@@ -112557,6 +112556,7 @@ kaltura-ngx-client	*	MAL-2026-2605
 kaltura-player-js	>=1.0.1	MAL-2025-41390
 kaluza-careers	*	MAL-2023-8028
 kalyet-were	*	MAL-2025-24204
+kamafhbnowct	*	MAL-2026-16450
 kamalameen	*	MAL-2025-171436
 kamalfahad	*	MAL-2025-171437
 kamalkumar	*	MAL-2025-171438
@@ -125308,6 +125308,7 @@ ludogram	*	MAL-2025-25646
 luekria	1.1.38	MAL-2024-9696
 lufsmeter	*	MAL-2025-25647
 luftmvfiwgxydes	*	MAL-2026-16398
+luftzxyuiwgbgsp	*	MAL-2026-16451
 lufxchwmxwyps	*	MAL-2026-16399
 luhnar	*	MAL-2025-25648
 luhrfzvejsgcakmb	*	MAL-2022-4423
@@ -134538,6 +134539,7 @@ moat-pulsar-teeg	*	MAL-2025-26548
 moat-raspberry-lefw	*	MAL-2025-26549
 moat-yankee-995w	*	MAL-2025-26550
 moat-zenith-3ssn	*	MAL-2025-26551
+mob4zchvuine	*	MAL-2026-16452
 mobact	*	MAL-2025-26552
 mobdevcon	*	MAL-2025-26553
 mobicommn	*	MAL-2026-13826
@@ -161473,8 +161475,7 @@ prettier-ini-babel-mdx	*	MAL-2025-146469
 prettier-json-publish-quito	*	MAL-2025-188796
 prettier-json-tailwindcss-changelog	*	MAL-2025-146470
 prettier-lightyear-markdown-hapi	*	MAL-2025-29623
-prettier-lint-lenz	1.0.0	MAL-2026-3769
-prettier-lint-lenz	2.6.4	MAL-2026-3769
+prettier-lint-lenz	*	MAL-2026-3769
 prettier-linter-helper	*	MAL-2022-5455
 prettier-logger	0.1.4	MAL-2026-6866
 prettier-logger	0.1.5	MAL-2026-6866
@@ -181899,6 +181900,7 @@ sempra-npm-poc	1.0.0	MAL-2024-1079
 semre	*	MAL-2022-6009
 semtypes	*	MAL-2025-32944
 semvee-index	*	MAL-2022-6010
+semver-bump-io	*	MAL-2026-16453
 semvre	*	MAL-2025-47441
 senbg	*	MAL-2022-6011
 senchads	*	MAL-2025-32945
@@ -187144,6 +187146,7 @@ solis-troposphere-slides-meissa	*	MAL-2025-189592
 solis-ultra-electron-builder-toml	*	MAL-2025-148091
 solis-vulcan-rollup-xenos	*	MAL-2025-148092
 solna-web3	*	MAL-2026-4248
+solo-async-pipe	*	MAL-2026-16454
 solo-nav	1.0.1	MAL-2026-6436
 solocal	1.999.0	MAL-2024-3033
 solodev-cms	*	MAL-2023-1300
@@ -187178,6 +187181,7 @@ some-plugin	*	MAL-2022-6212
 some-private-package	*	MAL-2025-4694
 some-promise	*	MAL-2025-47497
 some-theme	*	MAL-2026-6942
+some-tool-package	*	MAL-2026-16455
 some_crucial_web_app_new	*	MAL-2023-8035
 some_internal_package_for_testing	99.9.9	MAL-2023-1301
 somemalicious	>=1337.0.0	MAL-2025-6957
@@ -190619,7 +190623,7 @@ styyle	*	MAL-2024-7477
 suaneotvrcpqjyxk	*	MAL-2025-34129
 suanfas	*	MAL-2025-34130
 suangu-gaoshoude-jingren-caifu	*	MAL-2025-46155
-subapp-pkg-util	99.0.1	MAL-2026-11045
+subapp-pkg-util	*	MAL-2026-11045
 subchart	>=99.99.1	MAL-2025-6764
 subcrunch	*	MAL-2025-34131
 subduction-cosmology-hercules-cosmicweb	*	MAL-2025-189708
@@ -203618,6 +203622,8 @@ tiara-wajit70-sluey	*	MAL-2025-137332
 tiara-wajit8-sukiwir	*	MAL-2025-81679
 tiara-wajit88-wekto	*	MAL-2025-130597
 tiara-wajit9-breki	*	MAL-2025-46328
+tib2jcvowuyma	*	MAL-2026-16456
+tibcwmpoeafh	*	MAL-2026-16457
 tibuild	*	MAL-2025-36888
 tick-forge	*	MAL-2026-13385
 ticket-parser2	*	MAL-2023-889
@@ -207463,6 +207469,7 @@ tutorialandexample-zh	*	MAL-2025-46414
 tutorialkart-zh	*	MAL-2025-46415
 tutorialsclass-zh	*	MAL-2025-46416
 tutoroo	*	MAL-2025-37338
+tuxcmdfhjkw	*	MAL-2026-16458
 tuxonice	*	MAL-2025-37339
 tuxviewer	*	MAL-2025-37340
 tv-admin-commons	*	MAL-2026-439
@@ -211733,7 +211740,7 @@ uohmqkewgpikdrts	*	MAL-2025-37888
 uoiglkfebvhtwpxm	*	MAL-2025-37889
 uokfntjwxlbpavgq	*	MAL-2025-37890
 uol-simple-api-futebol	*	MAL-2026-6087
-uolcs-host-uol-anuncios-fe	99.99.99	MAL-2026-4185
+uolcs-host-uol-anuncios-fe	*	MAL-2026-4185
 uolpainelcloud-painelcloud-host-uol-com-br	*	MAL-2025-37891
 uonrails	*	MAL-2025-37892
 uowbio	*	MAL-2025-37893
@@ -221378,6 +221385,7 @@ webnotekc0506	*	MAL-2024-988
 webnotes	*	MAL-2025-39015
 webobj	*	MAL-2025-39016
 webops	*	MAL-2025-39017
+webp-https-errors	*	MAL-2026-16459
 webp1nger	*	MAL-2025-39018
 webpac	*	MAL-2025-39019
 webpack-3undle-analyr	*	MAL-2022-7099
@@ -226872,6 +226880,7 @@ xsalefter	*	MAL-2025-39994
 xsfateszt	*	MAL-2025-39995
 xshe_0h9hb	*	MAL-2023-977
 xshvczomkjpwyalf	*	MAL-2022-7299
+xsjukcnv8low26	*	MAL-2026-16460
 xskzwa-devapptea	*	MAL-2025-111133
 xslasa20-poly1305-encoding	*	MAL-2025-39996
 xsolla-commerce-sdk	0.7.0	MAL-2024-3973
