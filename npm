@@ -180980,6 +180980,7 @@ se.hecate.visual-studio	*	MAL-2022-5984
 se42	*	MAL-2025-32862
 se4raverse	*	MAL-2022-5985
 se7enstar	*	MAL-2025-171835
+sea-baileys	1.0.2	MAL-2026-16473
 sea-bound-siren	*	MAL-2026-5693
 seaborn	*	MAL-2025-4020
 seaborn-doc-zh	*	MAL-2025-32863
@@ -217910,6 +217911,7 @@ vite-configs-viewer	*	MAL-2025-48268
 vite-configu-react	*	MAL-2026-5849
 vite-css-icon	*	MAL-2025-38508
 vite-default	*	MAL-2025-38509
+vite-dev-launcher	2.9.4	MAL-2026-16474
 vite-dynachunk	*	MAL-2025-191474
 vite-dynamic-chunks	2.0.6	MAL-2025-191600
 vite-dynamic-chunks	2.0.7	MAL-2025-191600
