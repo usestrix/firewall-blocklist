@@ -2530,6 +2530,7 @@
 @bipyruss/stellarscribe	*	MAL-2025-66566
 @bipyruss/vividvortex	*	MAL-2025-66567
 @bipyruss/yrinth	*	MAL-2025-66568
+@birbalo/aliftech-ui	99.9.9	MAL-2026-17153
 @bitkub-moonshot/bitkubx-wallet	1.0.0	MAL-2024-1824
 @bitkub-moonshot/common	1.0.0	MAL-2024-2002
 @bitkub-next-frontend-v2/app-bitkub-next	1.13.0	MAL-2025-41258
@@ -10435,6 +10436,7 @@
 @nexthink/remote-action-widgets	*	MAL-2022-474
 @nexthink/waas	*	MAL-2022-475
 @nexustechpro/baileys	2.2.7	MAL-2026-16104
+@nf-addons/am-global-header	9.9.10	MAL-2026-17154
 @ng-cat/common	9.99.9	MAL-2024-9442
 @ng-seed/universal	*	MAL-2025-9115
 @ngt-frontend/widgets-core	*	MAL-2026-5659
@@ -11901,6 +11903,7 @@
 @ornikar/webpack-config	12.0.8	MAL-2026-11780
 @ornikar/webpack-config	12.0.9	MAL-2026-11780
 @osamdefeirrighs/testhackfrrferrr	*	MAL-2026-5103
+@osl-design/react	9.9.10	MAL-2026-17155
 @osmanekrem/bmad	1.0.6	MAL-2025-191046
 @osmanekrem/error-handler	1.2.2	MAL-2025-191047
 @osmura/treeify	*	MAL-2026-6542
@@ -28285,6 +28288,7 @@ alicon	*	MAL-2025-14311
 alicov	*	MAL-2025-14312
 alidurl	*	MAL-2022-939
 alif-media-downloader	*	MAL-2024-10915
+aliftech-ui	99.9.9	MAL-2026-17156
 alifx-media-downloader	*	MAL-2024-11900
 align-configer	3.4.2	MAL-2026-1653
 align-configer	3.4.3	MAL-2026-1653
@@ -75348,6 +75352,7 @@ eslint-config-bsee	99.99.99	MAL-2024-2319
 eslint-config-cap-it-ui	*	MAL-2022-2792
 eslint-config-carpo-wezen-foundation	*	MAL-2025-142194
 eslint-config-colourbox-example	*	MAL-2025-19824
+eslint-config-compact-base	1.0.0	MAL-2026-17157
 eslint-config-compact-utils	1.0.0	MAL-2026-16417
 eslint-config-compact-utils	1.0.2	MAL-2026-16417
 eslint-config-consumerweb	*	MAL-2026-14311
@@ -184142,6 +184147,10 @@ simple-console-logger-20231399-hyunmin	*	MAL-2025-33266
 simple-date-diff-utils	*	MAL-2026-3793
 simple-date-formatter-new-1	1.0.0	MAL-2026-11502
 simple-date-formatter-new-10	1.0.0	MAL-2026-13697
+simple-date-formatter-new-11	1.0.0	MAL-2026-17158
+simple-date-formatter-new-13	1.0.0	MAL-2026-17159
+simple-date-formatter-new-14	1.0.0	MAL-2026-17160
+simple-date-formatter-new-15	1.0.0	MAL-2026-17161
 simple-date-formatter-new-2	1.0.0	MAL-2026-12194
 simple-date-formatter-new-3	1.0.0	MAL-2026-12195
 simple-date-formatter-new-4	1.0.0	MAL-2026-12196
