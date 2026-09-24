@@ -16196,6 +16196,10 @@ venv-utils	1.0.1	MAL-2026-3803	https://osv.dev/vulnerability/MAL-2026-3803
 venv-utils	1.0.3	MAL-2026-3803	https://osv.dev/vulnerability/MAL-2026-3803
 verad	*	MAL-2023-7805	https://osv.dev/vulnerability/MAL-2023-7805
 vercc	*	MAL-2023-7806	https://osv.dev/vulnerability/MAL-2023-7806
+vercel-runtime-python	0.1.0	MAL-0000-kam193-5bd13c006fe4fbaf	https://github.com/ossf/malicious-packages/blob/221da3283e4dabbcc5e7a585e1b43864b4ad2882/osv/malicious/pypi/vercel-runtime-python/MAL-0000-kam193-5bd13c006fe4fbaf.json
+vercel-runtime-python	100.100.99	MAL-0000-kam193-5bd13c006fe4fbaf	https://github.com/ossf/malicious-packages/blob/221da3283e4dabbcc5e7a585e1b43864b4ad2882/osv/malicious/pypi/vercel-runtime-python/MAL-0000-kam193-5bd13c006fe4fbaf.json
+vercel-runtime-python	100.99.99	MAL-0000-kam193-5bd13c006fe4fbaf	https://github.com/ossf/malicious-packages/blob/221da3283e4dabbcc5e7a585e1b43864b4ad2882/osv/malicious/pypi/vercel-runtime-python/MAL-0000-kam193-5bd13c006fe4fbaf.json
+vercel-runtime-python	99.99.99	MAL-0000-kam193-5bd13c006fe4fbaf	https://github.com/ossf/malicious-packages/blob/221da3283e4dabbcc5e7a585e1b43864b4ad2882/osv/malicious/pypi/vercel-runtime-python/MAL-0000-kam193-5bd13c006fe4fbaf.json
 verhttp	*	MAL-2023-7807	https://osv.dev/vulnerability/MAL-2023-7807
 veriftest1asdl	1	MAL-2025-4250	https://osv.dev/vulnerability/MAL-2025-4250
 veriftest1asdla	1	MAL-2025-4251	https://osv.dev/vulnerability/MAL-2025-4251
