@@ -2410,9 +2410,11 @@
 @ba-ui-toolkit/ba-graphics	7.1.14	MAL-2024-10878
 @ba-ui-toolkit/ba-graphics	7.1.6	MAL-2024-10878
 @ba-ui-toolkit/ba-graphics	7.1.8	MAL-2024-10878
-@baanx/abis	9.9.11	MAL-2026-16351
-@baanx/blockchain-config	9.9.11	MAL-2026-16352
-@baanx/solana-lib	9.9.10	MAL-2026-16300
+@baanx/abis	*	MAL-2026-16351
+@baanx/blockchain-config	*	MAL-2026-16352
+@baanx/common	*	MAL-2026-16485
+@baanx/domain	*	MAL-2026-16486
+@baanx/solana-lib	*	MAL-2026-16300
 @badolkhan420/fca-badol	*	MAL-2023-8280
 @baipiaodajun/mcbot	*	MAL-2026-15639
 @baipiaodajun/mcbots	*	MAL-2026-15640
@@ -6868,8 +6870,8 @@
 @inner-source/ciam-sdk	1.0.0	MAL-2025-4154
 @inner-source/ciam-sdk	10.1.0	MAL-2025-4154
 @innocarpe/deepseek-build	1.0.0	MAL-2026-13420
-@insiderintelligence/componentlibrary	9.9.10	MAL-2026-16353
-@insiderintelligence/googleadmanager	9.9.10	MAL-2026-16290
+@insiderintelligence/componentlibrary	*	MAL-2026-16353
+@insiderintelligence/googleadmanager	*	MAL-2026-16290
 @instagram/fetlife-assets	*	MAL-2022-359
 @instant-api-hooks/assethub-campaigns	*	MAL-2022-360
 @instant-messengers/vk-teams-bridge	172.1.5	MAL-2025-2810
