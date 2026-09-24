@@ -4356,6 +4356,9 @@ coinbase.net.api	1.0.2	MAL-2025-191607
 coinbase.net.api	1.0.3	MAL-2025-191607
 coinbase.net.api	1.0.4	MAL-2025-191607
 coinbase.net.api	1.0.5	MAL-2025-191607
+dip.api	99.0.0	MAL-2026-16487
+dip.infrastructure	99.0.0	MAL-2026-16488
+dip.infrastructure.context	99.0.0	MAL-2026-16489
 dnlib.net	4.2.8	MAL-2024-4472
 dnlib.net	4.2.9	MAL-2024-4472
 dnlib.net	4.3.0	MAL-2024-4472
