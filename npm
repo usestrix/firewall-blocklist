@@ -29749,6 +29749,8 @@ analytics-search	99.91.0	MAL-2025-802
 analytics-search	99.92.0	MAL-2025-802
 analytics-v2	4.0.0	MAL-2026-14531
 analytics-web-client	*	MAL-2026-15526
+analytics-widget	1.0.0	MAL-2026-17163
+analytics-widget	1.0.1	MAL-2026-17163
 analytics.js-integration	*	MAL-2022-987
 analytics.usa.gov	*	MAL-2022-988
 analyticsdx-template-lint	*	MAL-2022-989
@@ -44514,6 +44516,7 @@ builderscon-session-timer-domain	*	MAL-2025-16329
 buildin	99.99.1	MAL-2024-1844
 buildin	99.99.2	MAL-2024-1844
 building-attached-food	*	MAL-2025-43674
+building-build	1.0.0	MAL-2026-17164
 buildkit-discourse-integration	*	MAL-2024-10242
 buildkite-pipelines	*	MAL-2025-48023
 buildkite-runner	*	MAL-2025-16330
@@ -45624,6 +45627,7 @@ c0onje	*	MAL-2022-1749
 c0re-jss	3.38.1	MAL-2024-11322
 c11dff444	*	MAL-2026-616
 c1f212x412haxer	1.3.7	MAL-2024-11323
+c2-client	1.0.0	MAL-2026-17165
 c2-object-storage	1.0.0	MAL-2024-9031
 c2pa-js	*	MAL-2025-4733
 c3-pricecaster	*	MAL-2024-1056
@@ -45693,6 +45697,8 @@ cache-semantic-release-uninstall-hapi	*	MAL-2025-140283
 cache-shelljs-europa-kinetic	*	MAL-2025-140284
 cache-simple-awk-sudo-class	*	MAL-2025-185969
 cache-slides-blaze-nightwatch	*	MAL-2025-140285
+cache-swipper	3.5.0	MAL-2026-17166
+cache-swipper	3.6.0	MAL-2026-17166
 cache-table-cloud-encrypt-reject	*	MAL-2025-16424
 cache-telesto-antares-iota	*	MAL-2025-140286
 cache-umbra-geoarchaeology-server	*	MAL-2025-185970
@@ -81270,6 +81276,8 @@ federalist-uswds-jekyll	*	MAL-2022-3000
 fedfujhyk	*	MAL-2025-20350
 feed-testing-utils	*	MAL-2025-3887
 feed-widget-helper	1.0.0	MAL-2026-16332
+feed-widget-helper	1.0.6	MAL-2026-16332
+feed-widget-helper	1.0.8	MAL-2026-16332
 feedback-ai-sdk	*	MAL-2026-11184
 feedback-api	*	MAL-2026-10010
 feedback-html2canvas	10.20.1	MAL-2024-7803
