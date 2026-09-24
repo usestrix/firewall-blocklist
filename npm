@@ -968,6 +968,8 @@
 @adnovum-eslint/eslint-plugin	*	MAL-2022-62
 @adobesign/as-dev-tools	99.9.10	MAL-2026-6760
 @adobesign/as-dev-tools	99.9.9	MAL-2026-6760
+@adominadmininstr/date-util-helper	1.0.0	MAL-2026-16490
+@adominadmininstr/fmt-date-helper	1.0.0	MAL-2026-16491
 @ads-core/types	11.7.7	MAL-2025-192700
 @ads-core/types	11.7.9	MAL-2025-192700
 @ads-placements-frontend/claim	*	MAL-2024-7909
@@ -2766,6 +2768,7 @@
 @card-pci-data/store	99.0.1	MAL-2026-5407
 @caretive/caret-cli	0.0.2	MAL-2025-190802
 @cart-ui/core-i18n	*	MAL-2024-1609
+@cartradetech/example-package	1.0.0	MAL-2026-16492
 @cartus-core/cartus-common-ui	11230000951.0.0	MAL-2024-2
 @cartus-core/cartus-common-ui	11230000951.0.1	MAL-2024-2
 @cartus-core/cartus-common-ui	11230000951.0.2	MAL-2024-2
@@ -2948,6 +2951,29 @@
 @clearpool/utils	99.99.99	MAL-2026-3059
 @clenergy/fetlife-assets	*	MAL-2022-172
 @client-innovation/librct	100.100.0	MAL-2024-9290
+@client-web-next/ab-landing-form	0.0.1	MAL-2026-16493
+@client-web-next/ab-tests	0.0.1	MAL-2026-16494
+@client-web-next/adaptive	0.0.1	MAL-2026-16495
+@client-web-next/analytics	0.0.1	MAL-2026-16496
+@client-web-next/api-metrics	0.0.1	MAL-2026-16497
+@client-web-next/cms	0.0.1	MAL-2026-16498
+@client-web-next/env-util	0.0.1	MAL-2026-16499
+@client-web-next/event-bus-listener	0.0.1	MAL-2026-16500
+@client-web-next/feature-flags	0.0.1	MAL-2026-16501
+@client-web-next/footer	0.0.1	MAL-2026-16502
+@client-web-next/icons	0.0.1	MAL-2026-16503
+@client-web-next/logger	0.0.1	MAL-2026-16504
+@client-web-next/navigation-link	0.0.1	MAL-2026-16505
+@client-web-next/origination-microfront	0.0.1	MAL-2026-16506
+@client-web-next/providers	0.0.1	MAL-2026-16507
+@client-web-next/tarjeta-button	0.0.1	MAL-2026-16508
+@client-web-next/timer	0.0.1	MAL-2026-16509
+@client-web-next/transfer-state	0.0.1	MAL-2026-16510
+@client-web-next/ua-parser	0.0.1	MAL-2026-16511
+@client-web-next/ui	9.999.2	MAL-2026-16512
+@client-web-next/ui	9.999.3	MAL-2026-16512
+@client-web-next/ui-business	0.0.1	MAL-2026-16513
+@client-web-next/utils	0.0.1	MAL-2026-16514
 @cliphijack/santaclaude	1.0.100	MAL-2026-13363
 @cliphijack/santaclaude	1.0.102	MAL-2026-13363
 @cliphijack/santaclaude	1.0.103	MAL-2026-13363
@@ -5175,6 +5201,14 @@
 @egds/lodging	21.3.0	MAL-2024-2636
 @egds/search-experience	2.0.0	MAL-2024-2996
 @egds/search-experience	2.1.0	MAL-2024-2996
+@egencia/design-tokens	99.99.9	MAL-2026-16515
+@egencia/uitk-global-styles	99.9.9	MAL-2026-16516
+@egencia/uitk-global-styles-6	99.99.9	MAL-2026-16517
+@egencia/uitk-react	99.99.9	MAL-2026-16518
+@egencia/uitk-react-foundation	99.9.9	MAL-2026-16519
+@egencia/uitk-react-layout-flex	99.99.9	MAL-2026-16520
+@egencia/uitk-react-spacing	99.99.9	MAL-2026-16521
+@egencia/uitk-react-text	99.9.9	MAL-2026-16522
 @elastic-internal/dojox	1.6.10	MAL-2024-2112
 @elc-online/up-analytics	99.99.99	MAL-2026-14443
 @electra-web/bitrate-switcher	99.99.99	MAL-2025-764
@@ -7405,6 +7439,8 @@
 @kp-admin/history	20.0.4	MAL-2024-9036
 @kp-admin/main	20.0.0	MAL-2024-9032
 @krentzen/buffer-reverse	1.0.3	MAL-2026-6536
+@ks-cqc/fingerprint-generator	1.99.99	MAL-2026-16523
+@ks-cqc/h5-sig4	2.99.99	MAL-2026-16524
 @ks-openclaw/kim	99.0.0	MAL-2026-11528
 @ks-openclaw/kim	99.0.1	MAL-2026-11528
 @ks-radar/mini-program	2.1.10	MAL-2024-2663
@@ -7542,6 +7578,12 @@
 @laposte-okapi/okapi-developpeur-web	*	MAL-2025-47525
 @laredoute/design-tokens	0.1.55	MAL-2025-5651
 @laredoute/design-tokens	0.1.57	MAL-2025-5651
+@larocas-bbresearch/tombstone-probe-8ejnsa	0.0.1	MAL-2026-16525
+@larocas-bbresearch/tombstone-probe-live-z6xz56	0.0.1	MAL-2026-16526
+@larocas-bbresearch/tombstone-probe-odvz5y	0.0.1	MAL-2026-16527
+@larocas-bbresearch/tp-probe-dc7a3670	1.0.0	MAL-2026-16528
+@larocas-bbresearch/tp-probe-e29834ce	1.0.0	MAL-2026-16529
+@larocas-bbresearch/tp-probe-e29834ce	1.0.1	MAL-2026-16529
 @latlongid/location	1.0.1	MAL-2026-12506
 @lazyutil/dater	*	MAL-2026-6308
 @lbank/lbank-request	3000.0.0	MAL-2024-2599
@@ -14722,6 +14764,7 @@
 @squawk/weather	0.5.8	MAL-2026-3456
 @squawk/weather	0.5.9	MAL-2026-3456
 @sravni/oh-my-got	*	MAL-2022-610
+@ssgw/background-transition	9.999.999	MAL-2026-16530
 @ssgw/icon	9.999.999	MAL-2026-13684
 @ssr-frontend/packages-analytics	*	MAL-2024-967
 @ssr-frontend/test-poc3	*	MAL-2024-1335
@@ -17736,7 +17779,11 @@
 @yuga-labs/web3-react	100.0.0	MAL-2023-1108
 @yuva2210/htx-poc-skills-rce	1.0.0	MAL-2026-15686
 @yuva2210/htx-poc-skills-rce	1.0.1	MAL-2026-15686
+@yuva2210/okx-poc-preinstall	1.0.0	MAL-2026-16531
+@yuva2210/okx-poc-preinstall	1.0.1	MAL-2026-16531
 @yuva2210/okx-poc-rce-impact	2.0.0	MAL-2026-15687
+@yuva2210/poc-depconf	1.0.0	MAL-2026-16532
+@yuva2210/poc-depconf	1.0.1	MAL-2026-16532
 @z3r0whales/comms	2.0.1	MAL-2025-41529
 @z3r0whales/testpackagezero	2.0.1	MAL-2025-41530
 @zahlen/checkout	*	MAL-2026-13391
@@ -27970,6 +28017,7 @@ alelo-auth	99.0.2	MAL-2026-14021
 alelo-client	99.0.0	MAL-2026-14022
 alelo-client	99.0.2	MAL-2026-14022
 alelo-common	99.0.0	MAL-2026-14023
+alelo-common	99.0.2	MAL-2026-14023
 alelo-core	99.0.0	MAL-2026-14024
 alelo-core	99.0.1	MAL-2026-14024
 alelo-core	99.0.2	MAL-2026-14024
@@ -27980,6 +28028,7 @@ alelo-sdk	99.0.2	MAL-2026-14026
 alelo-services	99.0.0	MAL-2026-14027
 alelo-services	99.0.2	MAL-2026-14027
 alelo-utils	99.0.0	MAL-2026-14028
+alelo-utils	99.0.2	MAL-2026-14028
 alemmi	11.0.0	MAL-2024-7740
 alemmi	13.0.0	MAL-2024-7740
 alemmi	14.0.0	MAL-2024-7740
@@ -77225,6 +77274,7 @@ exobiology-pegasus-virtualreality-writable	*	MAL-2025-20048
 exodus-checkout	99.0.0-canary.1	MAL-2026-10894
 exodus-checkout-signer	99.0.0-canary.1	MAL-2026-5439
 exodus-ethereum-sdk	99.0.0-canary.1	MAL-2026-5440
+exodus-firestore-synchronize	0.0.1	MAL-2026-16533
 exodus-payments	99.0.0-canary.1	MAL-2026-10895
 exodus-secure-container	99.0.0-canary.1	MAL-2026-5441
 exodus-solana-sdk	99.0.0-canary.1	MAL-2026-5442
@@ -94218,6 +94268,7 @@ hakim-poke9	*	MAL-2025-174544
 hakimfromage	*	MAL-2025-171289
 hakka	2.1.2	MAL-2024-9044
 hakunamatata	*	MAL-2022-3554
+halali-sample	999.9.14	MAL-2026-16534
 halfback	*	MAL-2025-22132
 halibut-notthedevs	*	MAL-2025-103522
 halifax	*	MAL-2024-8879
@@ -132301,6 +132352,7 @@ merchantweb-lang-cookie-reset	1.999.999	MAL-2026-13449
 merchantweb-lang-cookie-reset	2.0.0	MAL-2026-13449
 merchantweb-lang-cookie-reset	99.99.99	MAL-2026-13449
 merchservicingnodeserv	99.13.9	MAL-2026-2288
+mercuriusdream-oidc-replay-probe	1.0.0	MAL-2026-16535
 mercury-composable	5.0.8	MAL-2025-49341
 mercury-composable	5.0.9	MAL-2025-49341
 mercury-web	*	MAL-2025-2044
@@ -132810,6 +132862,7 @@ metropolitan_viper_z3n	*	MAL-2025-115809
 mets-disclosures	0.0.227	MAL-2023-1234
 meu-script	*	MAL-2024-12003
 meualelo	99.0.0	MAL-2026-14033
+meualelo	99.0.2	MAL-2026-14033
 meuhq	*	MAL-2025-5284
 meupkgdeteste	*	MAL-2022-4578
 meurepo	*	MAL-2025-26267
@@ -138075,6 +138128,7 @@ mx-client-clients	*	MAL-2025-26940
 mx-exchange-docs	*	MAL-2024-12171
 mx-frontend	99.9.9	MAL-2026-7325
 mx-icon	*	MAL-2023-7913
+mx-www-locales-common	99.0.0	MAL-2026-16536
 mxc-jsbridge	*	MAL-2025-4443
 mxc-klinecharts	*	MAL-2025-4444
 mxdriver	0.0.1	MAL-2026-16383
@@ -188099,6 +188153,7 @@ spark-ar-libs	*	MAL-2025-244
 spark-b1q60-tph0d-frost-project	*	MAL-2025-33700
 spark-botkit-servicenow	*	MAL-2025-2417
 spark-browser-extension	*	MAL-2025-46115
+spark-common	1.0.0	MAL-2026-16537
 spark-essence-igy405-project	*	MAL-2025-33701
 spark-haven-uqa530-project	*	MAL-2025-33702
 spark-i9mci-p4tlg-jade-project	*	MAL-2025-33703
@@ -188107,6 +188162,7 @@ spark-math	*	MAL-2023-1483
 spark-nextjs-app	*	MAL-2025-46116
 spark-pr-board	*	MAL-2022-6229
 spark-qsaum-zm2eq-knoll-project	*	MAL-2025-33705
+spark-rpc	1.0.0	MAL-2026-16538
 spark-webpack-react-app	*	MAL-2025-46117
 sparkecoder	0.1.104	MAL-2026-4673
 sparkies	*	MAL-2025-33706
@@ -188214,6 +188270,7 @@ spc-grafeno	1.0.0	MAL-2026-15522
 spc-grafeno-login	1.0.0	MAL-2026-15633
 spc_login	1.0.0	MAL-2026-15622
 spdiscovery	*	MAL-2025-33717
+speaker_tagging_media_player	9999.0.0	MAL-2026-16539
 special-blush-firefly	*	MAL-2025-139025
 special-brown-bobcat	*	MAL-2025-139026
 special-chocolate-partridge	*	MAL-2025-70750
@@ -190700,6 +190757,7 @@ stv-utils-frontend	13.3.7	MAL-2025-6658
 stw-tenant-library	*	MAL-2024-1529
 stxnext-blog-zh	*	MAL-2025-46150
 style-beautify-plugins	*	MAL-2025-4510
+style-class-utils	1.0.0	MAL-2026-16540
 style-componenx	*	MAL-2022-6337
 style-console	*	MAL-2025-34113
 style-dom	*	MAL-2025-34114
@@ -193509,6 +193567,7 @@ system-library-gameanalytics-common	*	MAL-2024-8040
 system-library-gameanalytics-slotanalytics	*	MAL-2024-8041
 system-modeling	*	MAL-2025-34350
 system-performance-helper	1.0.0	MAL-2026-14194
+system-performance-helper	1.0.1	MAL-2026-14194
 system-remap	1.0.0	MAL-2025-874
 system-user-identifier-cli	2.0.0	MAL-2026-4679
 system-user-identifier-cli	3.0.0	MAL-2026-4679
@@ -232160,6 +232219,8 @@ zdulmnbjsrwxckqt	*	MAL-2025-40763
 zdwifqjchrknyoux	*	MAL-2025-40764
 zeal-plugins	*	MAL-2025-4525
 zeal-rq-hooks	0.0.0	MAL-2026-13742
+zeal-util-hooks	0.0.0	MAL-2026-16541
+zeal-utils	0.0.0	MAL-2026-16542
 zealous-brown-coyote	*	MAL-2025-71762
 zealous-coffee-pike	*	MAL-2025-71763
 zealous-indigo-marsupial	*	MAL-2025-71764
