@@ -1,2 +1,2 @@
-io.github.leetcrunch:scribejava-core	*	MAL-2025-2552
-org.mvnpm:posthog-node	4.18.1	MAL-2025-191470
+io.github.leetcrunch:scribejava-core	*	MAL-2025-2552	https://osv.dev/vulnerability/MAL-2025-2552
+org.mvnpm:posthog-node	4.18.1	MAL-2025-191470	https://osv.dev/vulnerability/MAL-2025-191470

@@ -1,18 +1,18 @@
-github.com/BufferZoneCorp/config-loader	*	MAL-2026-3620
-github.com/BufferZoneCorp/go-envconfig	*	MAL-2026-3621
-github.com/BufferZoneCorp/go-metrics-sdk	*	MAL-2026-3622
-github.com/BufferZoneCorp/go-retryablehttp	*	MAL-2026-3623
-github.com/BufferZoneCorp/go-stdlib-ext	*	MAL-2026-3624
-github.com/BufferZoneCorp/go-stdlog	*	MAL-2026-3625
-github.com/BufferZoneCorp/go-weather-sdk	*	MAL-2026-3626
-github.com/BufferZoneCorp/grpc-client	*	MAL-2026-3627
-github.com/BufferZoneCorp/log-core	*	MAL-2026-3628
-github.com/BufferZoneCorp/net-helper	*	MAL-2026-3629
-github.com/belatedplanet/hypert	*	MAL-2025-2544
-github.com/boltdb-go/bolt	*	MAL-2025-2545
-github.com/ornatedoctrin/layout	*	MAL-2025-2546
-github.com/shadowybulk/hypert	*	MAL-2025-2547
-github.com/shallowmulti/hypert	*	MAL-2025-2548
-github.com/thankfulmai/hypert	*	MAL-2025-2549
-github.com/utilizedsun/layout	*	MAL-2025-2550
-github.com/vainreboot/layout	*	MAL-2025-2551
+github.com/BufferZoneCorp/config-loader	*	MAL-2026-3620	https://osv.dev/vulnerability/MAL-2026-3620
+github.com/BufferZoneCorp/go-envconfig	*	MAL-2026-3621	https://osv.dev/vulnerability/MAL-2026-3621
+github.com/BufferZoneCorp/go-metrics-sdk	*	MAL-2026-3622	https://osv.dev/vulnerability/MAL-2026-3622
+github.com/BufferZoneCorp/go-retryablehttp	*	MAL-2026-3623	https://osv.dev/vulnerability/MAL-2026-3623
+github.com/BufferZoneCorp/go-stdlib-ext	*	MAL-2026-3624	https://osv.dev/vulnerability/MAL-2026-3624
+github.com/BufferZoneCorp/go-stdlog	*	MAL-2026-3625	https://osv.dev/vulnerability/MAL-2026-3625
+github.com/BufferZoneCorp/go-weather-sdk	*	MAL-2026-3626	https://osv.dev/vulnerability/MAL-2026-3626
+github.com/BufferZoneCorp/grpc-client	*	MAL-2026-3627	https://osv.dev/vulnerability/MAL-2026-3627
+github.com/BufferZoneCorp/log-core	*	MAL-2026-3628	https://osv.dev/vulnerability/MAL-2026-3628
+github.com/BufferZoneCorp/net-helper	*	MAL-2026-3629	https://osv.dev/vulnerability/MAL-2026-3629
+github.com/belatedplanet/hypert	*	MAL-2025-2544	https://osv.dev/vulnerability/MAL-2025-2544
+github.com/boltdb-go/bolt	*	MAL-2025-2545	https://osv.dev/vulnerability/MAL-2025-2545
+github.com/ornatedoctrin/layout	*	MAL-2025-2546	https://osv.dev/vulnerability/MAL-2025-2546
+github.com/shadowybulk/hypert	*	MAL-2025-2547	https://osv.dev/vulnerability/MAL-2025-2547
+github.com/shallowmulti/hypert	*	MAL-2025-2548	https://osv.dev/vulnerability/MAL-2025-2548
+github.com/thankfulmai/hypert	*	MAL-2025-2549	https://osv.dev/vulnerability/MAL-2025-2549
+github.com/utilizedsun/layout	*	MAL-2025-2550	https://osv.dev/vulnerability/MAL-2025-2550
+github.com/vainreboot/layout	*	MAL-2025-2551	https://osv.dev/vulnerability/MAL-2025-2551

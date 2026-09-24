@@ -1,18 +1,18 @@
-CodeInKlingon.git-worktree-menu	*	MAL-2025-191158
-JScearcy.rust-doc-viewer	*	MAL-2025-191164
-SIRILMP.dark-theme-sm	*	MAL-2025-191167
-TretinV3.forts-api-extention	*	MAL-2025-191170
-aquasecurityofficial.trivy-vulnerability-scanner	1.8.12	MAL-2026-2230
-aquasecurityofficial.trivy-vulnerability-scanner	1.8.13	MAL-2026-2230
-checkmarx.ast-results	*	MAL-2026-2231
-checkmarx.cx-dev-assist	*	MAL-2026-2232
-codejoy.codejoy-vscode-extension	*	MAL-2025-191159
-ellacrity.recoil	*	MAL-2025-191160
-ginfuru.better-nunjucks	*	MAL-2025-191161
-grrrck.positron-plus-1-e	*	MAL-2025-191162
-jeronimoekerdt.color-picker-universal	*	MAL-2025-191163
-kleinesfilmroellchen.serenity-dsl-syntaxhighlight	*	MAL-2025-191165
-l-igh-t.vscode-theme-seti-folder	*	MAL-2025-191166
-nrwl.angular-console	18.95.0	MAL-2026-5162
-sissel.shopify-liquid	*	MAL-2025-191168
-srcery-colors.srcery-colors	*	MAL-2025-191169
+CodeInKlingon.git-worktree-menu	*	MAL-2025-191158	https://osv.dev/vulnerability/MAL-2025-191158
+JScearcy.rust-doc-viewer	*	MAL-2025-191164	https://osv.dev/vulnerability/MAL-2025-191164
+SIRILMP.dark-theme-sm	*	MAL-2025-191167	https://osv.dev/vulnerability/MAL-2025-191167
+TretinV3.forts-api-extention	*	MAL-2025-191170	https://osv.dev/vulnerability/MAL-2025-191170
+aquasecurityofficial.trivy-vulnerability-scanner	1.8.12	MAL-2026-2230	https://osv.dev/vulnerability/MAL-2026-2230
+aquasecurityofficial.trivy-vulnerability-scanner	1.8.13	MAL-2026-2230	https://osv.dev/vulnerability/MAL-2026-2230
+checkmarx.ast-results	*	MAL-2026-2231	https://osv.dev/vulnerability/MAL-2026-2231
+checkmarx.cx-dev-assist	*	MAL-2026-2232	https://osv.dev/vulnerability/MAL-2026-2232
+codejoy.codejoy-vscode-extension	*	MAL-2025-191159	https://osv.dev/vulnerability/MAL-2025-191159
+ellacrity.recoil	*	MAL-2025-191160	https://osv.dev/vulnerability/MAL-2025-191160
+ginfuru.better-nunjucks	*	MAL-2025-191161	https://osv.dev/vulnerability/MAL-2025-191161
+grrrck.positron-plus-1-e	*	MAL-2025-191162	https://osv.dev/vulnerability/MAL-2025-191162
+jeronimoekerdt.color-picker-universal	*	MAL-2025-191163	https://osv.dev/vulnerability/MAL-2025-191163
+kleinesfilmroellchen.serenity-dsl-syntaxhighlight	*	MAL-2025-191165	https://osv.dev/vulnerability/MAL-2025-191165
+l-igh-t.vscode-theme-seti-folder	*	MAL-2025-191166	https://osv.dev/vulnerability/MAL-2025-191166
+nrwl.angular-console	18.95.0	MAL-2026-5162	https://osv.dev/vulnerability/MAL-2026-5162
+sissel.shopify-liquid	*	MAL-2025-191168	https://osv.dev/vulnerability/MAL-2025-191168
+srcery-colors.srcery-colors	*	MAL-2025-191169	https://osv.dev/vulnerability/MAL-2025-191169

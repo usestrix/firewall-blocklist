@@ -1,4 +1,4 @@
-AzureCdnInfo.edrtester	1.0.4	MAL-2026-16010
-EffetMer.darkgpt	*	MAL-2025-192568
-cline-ai-main.cline-ai-agent	*	MAL-2025-191157
-nrwl.angular-console	18.95.0	MAL-2026-5161
+AzureCdnInfo.edrtester	1.0.4	MAL-2026-16010	https://osv.dev/vulnerability/MAL-2026-16010
+EffetMer.darkgpt	*	MAL-2025-192568	https://osv.dev/vulnerability/MAL-2025-192568
+cline-ai-main.cline-ai-agent	*	MAL-2025-191157	https://osv.dev/vulnerability/MAL-2025-191157
+nrwl.angular-console	18.95.0	MAL-2026-5161	https://osv.dev/vulnerability/MAL-2026-5161

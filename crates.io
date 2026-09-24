@@ -1,22 +1,22 @@
-amzn-codewhisperer-streaming-client	99.0.1	MAL-2026-3103
-amzn-consolas-client	99.0.1	MAL-2026-3101
-aovine	*	MAL-2026-14332
-append-only-vec	0.1.9	MAL-2026-14333
-arone	*	MAL-2026-14334
-aronenao	*	MAL-2026-14335
-arrayref	0.3.10	MAL-2026-14336
-internment	0.8.7	MAL-2026-14337
-littest	0.3.1	MAL-2023-8429
-logs-update	*	MAL-2026-16164
-lsh	99.0.1	MAL-2026-3126
-lsh	99.1.0	MAL-2026-3126
-mysten-metrics	9.0.0	MAL-2026-2958
-mysten-metrics	9.0.3	MAL-2026-2958
-proc-macro-en	*	MAL-2026-14339
-proc-macro1	*	MAL-2026-14338
-proton-pfff	99.99.5	MAL-2026-6959
-replit_ruspty	1.0.0	MAL-2025-49350
-rustdecimal	*	MAL-2022-1
-semantic-search-client	99.0.1	MAL-2026-3102
-supertag	99.1.1	MAL-2026-3129
-tinymember	*	MAL-2026-14340
+amzn-codewhisperer-streaming-client	99.0.1	MAL-2026-3103	https://osv.dev/vulnerability/MAL-2026-3103
+amzn-consolas-client	99.0.1	MAL-2026-3101	https://osv.dev/vulnerability/MAL-2026-3101
+aovine	*	MAL-2026-14332	https://osv.dev/vulnerability/MAL-2026-14332
+append-only-vec	0.1.9	MAL-2026-14333	https://osv.dev/vulnerability/MAL-2026-14333
+arone	*	MAL-2026-14334	https://osv.dev/vulnerability/MAL-2026-14334
+aronenao	*	MAL-2026-14335	https://osv.dev/vulnerability/MAL-2026-14335
+arrayref	0.3.10	MAL-2026-14336	https://osv.dev/vulnerability/MAL-2026-14336
+internment	0.8.7	MAL-2026-14337	https://osv.dev/vulnerability/MAL-2026-14337
+littest	0.3.1	MAL-2023-8429	https://osv.dev/vulnerability/MAL-2023-8429
+logs-update	*	MAL-2026-16164	https://osv.dev/vulnerability/MAL-2026-16164
+lsh	99.0.1	MAL-2026-3126	https://osv.dev/vulnerability/MAL-2026-3126
+lsh	99.1.0	MAL-2026-3126	https://osv.dev/vulnerability/MAL-2026-3126
+mysten-metrics	9.0.0	MAL-2026-2958	https://osv.dev/vulnerability/MAL-2026-2958
+mysten-metrics	9.0.3	MAL-2026-2958	https://osv.dev/vulnerability/MAL-2026-2958
+proc-macro-en	*	MAL-2026-14339	https://osv.dev/vulnerability/MAL-2026-14339
+proc-macro1	*	MAL-2026-14338	https://osv.dev/vulnerability/MAL-2026-14338
+proton-pfff	99.99.5	MAL-2026-6959	https://osv.dev/vulnerability/MAL-2026-6959
+replit_ruspty	1.0.0	MAL-2025-49350	https://osv.dev/vulnerability/MAL-2025-49350
+rustdecimal	*	MAL-2022-1	https://osv.dev/vulnerability/MAL-2022-1
+semantic-search-client	99.0.1	MAL-2026-3102	https://osv.dev/vulnerability/MAL-2026-3102
+supertag	99.1.1	MAL-2026-3129	https://osv.dev/vulnerability/MAL-2026-3129
+tinymember	*	MAL-2026-14340	https://osv.dev/vulnerability/MAL-2026-14340
