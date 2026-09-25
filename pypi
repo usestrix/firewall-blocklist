@@ -7925,7 +7925,9 @@ my-package-jiecub3	1.4.0	MAL-2026-2962	https://osv.dev/vulnerability/MAL-2026-29
 my-package-jiecub3	1.5.0	MAL-2026-2962	https://osv.dev/vulnerability/MAL-2026-2962
 my-package-jiecub3	1.6.0	MAL-2026-2962	https://osv.dev/vulnerability/MAL-2026-2962
 my-pipeline-watcher-poc	99999.99999.1	MAL-2026-3218	https://osv.dev/vulnerability/MAL-2026-3218
+my-private-pkg	0.1.1	MAL-2026-17180	https://osv.dev/vulnerability/MAL-2026-17180
 my-private-pkg	99.1.1	MAL-2026-17180	https://osv.dev/vulnerability/MAL-2026-17180
+my-private-pkg	99.11.2	MAL-2026-17180	https://osv.dev/vulnerability/MAL-2026-17180
 my-service-manager	1.0.0	MAL-2024-12309	https://osv.dev/vulnerability/MAL-2024-12309
 my-service-manager	1.0.1	MAL-2024-12309	https://osv.dev/vulnerability/MAL-2024-12309
 my-service-manager	1.0.2	MAL-2024-12309	https://osv.dev/vulnerability/MAL-2024-12309
@@ -11918,6 +11920,8 @@ reqinstall	1.1.0	MAL-2025-4238	https://osv.dev/vulnerability/MAL-2025-4238
 reqjuests	1.0.0	MAL-2024-5869	https://osv.dev/vulnerability/MAL-2024-5869
 reqoests	1.0.0	MAL-2024-5870	https://osv.dev/vulnerability/MAL-2024-5870
 reqpack	0.1.0	MAL-2026-2116	https://osv.dev/vulnerability/MAL-2026-2116
+reqparser	1.0.0	MAL-2026-17181	https://osv.dev/vulnerability/MAL-2026-17181
+reqparser	1.0.1	MAL-2026-17181	https://osv.dev/vulnerability/MAL-2026-17181
 reqquest	1.0.0	MAL-2024-5871	https://osv.dev/vulnerability/MAL-2024-5871
 reqquests	*	MAL-2022-7435	https://osv.dev/vulnerability/MAL-2022-7435
 reqquests-toolbelt	*	MAL-2023-2150	https://osv.dev/vulnerability/MAL-2023-2150
