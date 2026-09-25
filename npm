@@ -10601,6 +10601,7 @@
 @ntnx/nx-react-components	*	MAL-2026-5660	https://osv.dev/vulnerability/MAL-2026-5660
 @ntnx/passport-wso2	0.0.3	MAL-2025-191035	https://osv.dev/vulnerability/MAL-2025-191035
 @ntnx/t	0.0.101	MAL-2025-191036	https://osv.dev/vulnerability/MAL-2025-191036
+@nubjs/types	0.9.4	MAL-2026-17186	https://osv.dev/vulnerability/MAL-2026-17186
 @nullzero/urlcat	*	MAL-2026-6309	https://osv.dev/vulnerability/MAL-2026-6309
 @nunes_nunes/loader-base	>=0.1.0	MAL-2025-48470	https://osv.dev/vulnerability/MAL-2025-48470
 @nursefly/tokens	45.45.45	MAL-2023-1093	https://osv.dev/vulnerability/MAL-2023-1093
