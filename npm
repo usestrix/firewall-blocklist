@@ -31817,6 +31817,7 @@ app-prd	*	MAL-2025-5150	https://osv.dev/vulnerability/MAL-2025-5150
 app-pulse-style	*	MAL-2025-14662	https://osv.dev/vulnerability/MAL-2025-14662
 app-register	*	MAL-2025-2239	https://osv.dev/vulnerability/MAL-2025-2239
 app-rrhh	999.0.0	MAL-2026-16144	https://osv.dev/vulnerability/MAL-2026-16144
+app-sca-info-banking	0.0.24	MAL-2026-17182	https://osv.dev/vulnerability/MAL-2026-17182
 app-seed	*	MAL-2025-14663	https://osv.dev/vulnerability/MAL-2025-14663
 app-settings-template	1.0.0	MAL-2024-12091	https://osv.dev/vulnerability/MAL-2024-12091
 app-shell-startpagina	*	MAL-2025-14664	https://osv.dev/vulnerability/MAL-2025-14664
