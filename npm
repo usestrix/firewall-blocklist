@@ -1119,6 +1119,7 @@
 @aio-commerce-sdk/config-typedoc	*	MAL-2025-48956	https://osv.dev/vulnerability/MAL-2025-48956
 @aio-commerce-sdk/config-typescript	*	MAL-2025-48957	https://osv.dev/vulnerability/MAL-2025-48957
 @aio-commerce-sdk/config-vitest	*	MAL-2025-48958	https://osv.dev/vulnerability/MAL-2025-48958
+@airbnb-extended/typescript-config	99.9.1	MAL-2026-17184	https://osv.dev/vulnerability/MAL-2026-17184
 @airbytehq/fetlife-assets	*	MAL-2022-65	https://osv.dev/vulnerability/MAL-2022-65
 @aircall-ecosystem/integrations-msteams-frontend	*	MAL-2026-2573	https://osv.dev/vulnerability/MAL-2026-2573
 @aircanada/components	*	MAL-2026-16018	https://osv.dev/vulnerability/MAL-2026-16018
@@ -183701,6 +183702,8 @@ shopify_transporter	*	MAL-2025-33154	https://osv.dev/vulnerability/MAL-2025-3315
 shopifyql-parser	*	MAL-2025-48463	https://osv.dev/vulnerability/MAL-2025-48463
 shopifyto-cms	*	MAL-2026-5109	https://osv.dev/vulnerability/MAL-2026-5109
 shopit	*	MAL-2025-33155	https://osv.dev/vulnerability/MAL-2025-33155
+shoplist-app	99.99.99	MAL-2026-17185	https://osv.dev/vulnerability/MAL-2026-17185
+shoplist-app	993.99.99	MAL-2026-17185	https://osv.dev/vulnerability/MAL-2026-17185
 shopmacher-mollie-application	*	MAL-2025-2895	https://osv.dev/vulnerability/MAL-2025-2895
 shoponline.epiroc.com	1.0.1	MAL-2024-86	https://osv.dev/vulnerability/MAL-2024-86
 shoponline.epiroc.com	1.0.2	MAL-2024-86	https://osv.dev/vulnerability/MAL-2024-86
