@@ -14395,6 +14395,7 @@ tcloud-python-test	1.0.0	MAL-2025-3006	https://osv.dev/vulnerability/MAL-2025-30
 tdata-grabber	*	MAL-2026-6560	https://osv.dev/vulnerability/MAL-2026-6560
 team-bsb-bot	1.0.0	MAL-2025-2622	https://osv.dev/vulnerability/MAL-2025-2622
 teensorflow	*	MAL-2023-2293	https://osv.dev/vulnerability/MAL-2023-2293
+tego-managed-agents-test	0.1.0	MAL-2026-17183	https://osv.dev/vulnerability/MAL-2026-17183
 telco	1.0.1	MAL-2025-192363	https://osv.dev/vulnerability/MAL-2025-192363
 telco	1.0.2	MAL-2025-192363	https://osv.dev/vulnerability/MAL-2025-192363
 telcoo	1.0.2	MAL-2025-192386	https://osv.dev/vulnerability/MAL-2025-192386
