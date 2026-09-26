@@ -1355,6 +1355,7 @@
 @alphaspace/core	99.0.0	MAL-2026-17169	https://osv.dev/vulnerability/MAL-2026-17169
 @alphaspace/core	99.0.1	MAL-2026-17169	https://osv.dev/vulnerability/MAL-2026-17169
 @alphaspace/core	99.0.2	MAL-2026-17169	https://osv.dev/vulnerability/MAL-2026-17169
+@alphaspace/core	99.0.3	MAL-2026-17169	https://osv.dev/vulnerability/MAL-2026-17169
 @alscotoday/fetlife-assets	*	MAL-2022-70	https://osv.dev/vulnerability/MAL-2022-70
 @aluffyz/discord-botjs	1.4.3	MAL-2024-1352	https://osv.dev/vulnerability/MAL-2024-1352
 @aluffyz/discord-botjs	1.4.5	MAL-2024-1352	https://osv.dev/vulnerability/MAL-2024-1352
@@ -48178,6 +48179,7 @@ chai-as-redeployed	*	MAL-2026-3165	https://osv.dev/vulnerability/MAL-2026-3165
 chai-as-refined	*	MAL-2026-2641	https://osv.dev/vulnerability/MAL-2026-2641
 chai-as-reformed	1.2.0	MAL-2026-13942	https://osv.dev/vulnerability/MAL-2026-13942
 chai-as-regulated	2.0.12	MAL-2026-3753	https://osv.dev/vulnerability/MAL-2026-3753
+chai-as-relay	1.2.1	MAL-2026-17189	https://osv.dev/vulnerability/MAL-2026-17189
 chai-as-rendered	1.2.0	MAL-2026-12348	https://osv.dev/vulnerability/MAL-2026-12348
 chai-as-repaired	*	MAL-2026-4512	https://osv.dev/vulnerability/MAL-2026-4512
 chai-as-required	*	MAL-2026-73	https://osv.dev/vulnerability/MAL-2026-73
@@ -52995,6 +52997,7 @@ cm-materialjs	*	MAL-2025-17212	https://osv.dev/vulnerability/MAL-2025-17212
 cm-npm	*	MAL-2025-17213	https://osv.dev/vulnerability/MAL-2025-17213
 cm-react-components	*	MAL-2023-8257	https://osv.dev/vulnerability/MAL-2023-8257
 cm.icons	*	MAL-2022-1948	https://osv.dev/vulnerability/MAL-2022-1948
+cma-self-hosted-sandbox-cf	1.0.0	MAL-2026-17190	https://osv.dev/vulnerability/MAL-2026-17190
 cmanes	*	MAL-2025-17214	https://osv.dev/vulnerability/MAL-2025-17214
 cmantix	*	MAL-2025-17215	https://osv.dev/vulnerability/MAL-2025-17215
 cmbalance	*	MAL-2025-17216	https://osv.dev/vulnerability/MAL-2025-17216
