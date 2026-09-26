@@ -11995,6 +11995,7 @@ requests-asetwe	2.34.2	MAL-2026-16269	https://osv.dev/vulnerability/MAL-2026-162
 requests-auroras	2.34.2	MAL-2026-16274	https://osv.dev/vulnerability/MAL-2026-16274
 requests-auth-toolkit	2.1.0	MAL-2026-847	https://osv.dev/vulnerability/MAL-2026-847
 requests-beta	2.26.1	MAL-2025-41745	https://osv.dev/vulnerability/MAL-2025-41745
+requests-cache-utils	1.0.0	MAL-2026-17191	https://osv.dev/vulnerability/MAL-2026-17191
 requests-core-plugin	2.31.12	MAL-2026-843	https://osv.dev/vulnerability/MAL-2026-843
 requests-core-plugin	2.31.13	MAL-2026-843	https://osv.dev/vulnerability/MAL-2026-843
 requests-core-plugin	2.31.14	MAL-2026-843	https://osv.dev/vulnerability/MAL-2026-843
