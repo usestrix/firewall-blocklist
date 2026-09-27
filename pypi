@@ -1930,6 +1930,7 @@ coinanalyze	1.0.8	MAL-2025-2947	https://osv.dev/vulnerability/MAL-2025-2947
 coinanalyze	1.0.9	MAL-2025-2947	https://osv.dev/vulnerability/MAL-2025-2947
 coingenerator	1.0.1	MAL-2025-2948	https://osv.dev/vulnerability/MAL-2025-2948
 coinmate-api	1.1.0	MAL-2026-3141	https://osv.dev/vulnerability/MAL-2026-3141
+coinscan	0.1.0	MAL-2026-17197	https://osv.dev/vulnerability/MAL-2026-17197
 colarama	1.0	MAL-2024-4905	https://osv.dev/vulnerability/MAL-2024-4905
 colarama-api	1.0	MAL-2024-4906	https://osv.dev/vulnerability/MAL-2024-4906
 colarg	0.1	MAL-2024-4907	https://osv.dev/vulnerability/MAL-2024-4907
