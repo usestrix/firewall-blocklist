@@ -3124,6 +3124,9 @@ donotinstall	1.0	MAL-2025-191622	https://osv.dev/vulnerability/MAL-2025-191622
 donotinstallthisistest5	0.1.0	MAL-2025-41664	https://osv.dev/vulnerability/MAL-2025-41664
 donotinstallthisistest6	1.0.0	MAL-2025-6213	https://osv.dev/vulnerability/MAL-2025-6213
 dontdownloadthis	0.0.0	MAL-2024-5094	https://osv.dev/vulnerability/MAL-2024-5094
+donutautosellsrc	0.3.7	MAL-2026-17192	https://osv.dev/vulnerability/MAL-2026-17192
+donutautosellsrc	0.3.8	MAL-2026-17192	https://osv.dev/vulnerability/MAL-2026-17192
+donutautosellsrc	0.3.9	MAL-2026-17192	https://osv.dev/vulnerability/MAL-2026-17192
 dotenv-sync	1.0.0	MAL-2026-6082	https://osv.dev/vulnerability/MAL-2026-6082
 doughnuts	3.5.1	MAL-2025-41665	https://osv.dev/vulnerability/MAL-2025-41665
 doughnuts	3.6.0	MAL-2025-41665	https://osv.dev/vulnerability/MAL-2025-41665
