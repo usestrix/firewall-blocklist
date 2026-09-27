@@ -1588,6 +1588,8 @@ captcha-py	1.0	MAL-2024-4882	https://osv.dev/vulnerability/MAL-2024-4882
 captcha-solve-api	0.0.1	MAL-2026-10755	https://osv.dev/vulnerability/MAL-2026-10755
 captcha-solve-api	8.5.3	MAL-2026-10755	https://osv.dev/vulnerability/MAL-2026-10755
 captcha-solve-api	8.5.4	MAL-2026-10755	https://osv.dev/vulnerability/MAL-2026-10755
+caracas4check	1.1.1	MAL-2026-17198	https://osv.dev/vulnerability/MAL-2026-17198
+caracas4check	1.1.2	MAL-2026-17198	https://osv.dev/vulnerability/MAL-2026-17198
 carcent	2.1.0	MAL-2026-808	https://osv.dev/vulnerability/MAL-2026-808
 carpentry-ci	0.0.1	MAL-2025-6473	https://osv.dev/vulnerability/MAL-2025-6473
 cas-base	1.5.2	MAL-2025-193014	https://osv.dev/vulnerability/MAL-2025-193014
