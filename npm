@@ -75752,6 +75752,7 @@ eslint-plugin-skyscanner-dates	99.0.1	MAL-2026-3202	https://osv.dev/vulnerabilit
 eslint-plugin-skyscanner-dates	99.0.2	MAL-2026-3202	https://osv.dev/vulnerability/MAL-2026-3202
 eslint-plugin-skyscanner-dates	99.0.4	MAL-2026-3202	https://osv.dev/vulnerability/MAL-2026-3202
 eslint-plugin-skyscanner-dates	99.0.5	MAL-2026-3202	https://osv.dev/vulnerability/MAL-2026-3202
+eslint-plugin-skywagon-web	100.0.0	MAL-2026-17215	https://osv.dev/vulnerability/MAL-2026-17215
 eslint-plugin-sls-fe-lint	*	MAL-2024-11037	https://osv.dev/vulnerability/MAL-2024-11037
 eslint-plugin-spectron-csv-aether	*	MAL-2025-142242	https://osv.dev/vulnerability/MAL-2025-142242
 eslint-plugin-spectrum-web-components	*	MAL-2025-19863	https://osv.dev/vulnerability/MAL-2025-19863
