@@ -2454,6 +2454,7 @@
 @baywa-re-lusy/nsemea-salestransaction-lib-poc	*	MAL-2025-3517	https://osv.dev/vulnerability/MAL-2025-3517
 @bazel-example/vue-library	*	MAL-2025-7111	https://osv.dev/vulnerability/MAL-2025-7111
 @bb-ui-utils/memoizer	*	MAL-2025-5263	https://osv.dev/vulnerability/MAL-2025-5263
+@bb1ptest23/test-paket	1.0.3	MAL-2026-17201	https://osv.dev/vulnerability/MAL-2026-17201
 @bbkkfkk/pre	*	MAL-2025-49355	https://osv.dev/vulnerability/MAL-2025-49355
 @bc-workspace/utils	*	MAL-2026-6603	https://osv.dev/vulnerability/MAL-2026-6603
 @bcryptln/bcryptjs	*	MAL-2026-11021	https://osv.dev/vulnerability/MAL-2026-11021
