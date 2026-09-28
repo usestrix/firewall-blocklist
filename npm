@@ -48531,6 +48531,7 @@ chalk-dactyl-orbit-standard	*	MAL-2025-140634	https://osv.dev/vulnerability/MAL-
 chalk-draco-wezen-canopus	*	MAL-2025-140635	https://osv.dev/vulnerability/MAL-2025-140635
 chalk-elara-mutation-protractor	*	MAL-2025-140636	https://osv.dev/vulnerability/MAL-2025-140636
 chalk-es	1.0.0	MAL-2026-14166	https://osv.dev/vulnerability/MAL-2026-14166
+chalk-figlet	1.2.0	MAL-2026-17223	https://osv.dev/vulnerability/MAL-2026-17223
 chalk-fusion-cladistics-ignite	*	MAL-2025-43759	https://osv.dev/vulnerability/MAL-2025-43759
 chalk-ganymede-delphinus-javascript	*	MAL-2025-140637	https://osv.dev/vulnerability/MAL-2025-140637
 chalk-ganymede-dependencies-oauth	*	MAL-2025-140638	https://osv.dev/vulnerability/MAL-2025-140638
@@ -78126,11 +78127,14 @@ fable-unison-egl659-project	*	MAL-2025-20139	https://osv.dev/vulnerability/MAL-2
 fable-yekno-ajgx2-lake-project	*	MAL-2025-20140	https://osv.dev/vulnerability/MAL-2025-20140
 fable_8a2ib_5kltb_solace	*	MAL-2025-20141	https://osv.dev/vulnerability/MAL-2025-20141
 fable_wwulp_kgeku_coral	*	MAL-2025-44197	https://osv.dev/vulnerability/MAL-2025-44197
+fabric-asset-pipeline	1.0.0	MAL-2026-17224	https://osv.dev/vulnerability/MAL-2026-17224
+fabric-asset-pipeline	1.0.1	MAL-2026-17224	https://osv.dev/vulnerability/MAL-2026-17224
 fabric-components	*	MAL-2023-323	https://osv.dev/vulnerability/MAL-2023-323
 fabric-design	*	MAL-2022-2958	https://osv.dev/vulnerability/MAL-2022-2958
 fabric-grachics	2.1.7	MAL-2026-7285	https://osv.dev/vulnerability/MAL-2026-7285
 fabric-graphics	*	MAL-2026-5869	https://osv.dev/vulnerability/MAL-2026-5869
 fabric-integration	1.0.0	MAL-2023-1179	https://osv.dev/vulnerability/MAL-2023-1179
+fabric-render-bridge	1.0.0	MAL-2026-17225	https://osv.dev/vulnerability/MAL-2026-17225
 fabric-shim-docs	1.0.0	MAL-2025-656	https://osv.dev/vulnerability/MAL-2025-656
 fabric-vue	*	MAL-2022-2959	https://osv.dev/vulnerability/MAL-2022-2959
 fabricexample	*	MAL-2024-7955	https://osv.dev/vulnerability/MAL-2024-7955
@@ -81781,6 +81785,7 @@ fig-yam-owns	*	MAL-2025-20516	https://osv.dev/vulnerability/MAL-2025-20516
 fig-z7u-project	*	MAL-2025-20517	https://osv.dev/vulnerability/MAL-2025-20517
 figcquery	*	MAL-2025-20518	https://osv.dev/vulnerability/MAL-2025-20518
 fightly	*	MAL-2025-20519	https://osv.dev/vulnerability/MAL-2025-20519
+figlet-chalk-render	1.2.1	MAL-2026-17226	https://osv.dev/vulnerability/MAL-2026-17226
 figma-api-spellcheck	*	MAL-2025-20520	https://osv.dev/vulnerability/MAL-2025-20520
 figma-include-accessibility-annotations	*	MAL-2023-8719	https://osv.dev/vulnerability/MAL-2023-8719
 figma-intern-shell	*	MAL-2022-3029	https://osv.dev/vulnerability/MAL-2022-3029
@@ -141693,6 +141698,7 @@ nebula-js	*	MAL-2025-27166	https://osv.dev/vulnerability/MAL-2025-27166
 nebula-juniper-pkk8	*	MAL-2025-27167	https://osv.dev/vulnerability/MAL-2025-27167
 nebula-kiwi-yri081-project	*	MAL-2025-27168	https://osv.dev/vulnerability/MAL-2025-27168
 nebula-less-pegasus-cybernetics	*	MAL-2025-27169	https://osv.dev/vulnerability/MAL-2025-27169
+nebula-llm	1.0.0	MAL-2026-17227	https://osv.dev/vulnerability/MAL-2026-17227
 nebula-local	*	MAL-2025-27170	https://osv.dev/vulnerability/MAL-2025-27170
 nebula-lyra-astrophysics-backend	*	MAL-2025-188207	https://osv.dev/vulnerability/MAL-2025-188207
 nebula-lyra-quark-frontend	*	MAL-2025-27171	https://osv.dev/vulnerability/MAL-2025-27171
@@ -141726,6 +141732,7 @@ nebula-xylophone-nom511-project	*	MAL-2025-27191	https://osv.dev/vulnerability/M
 nebula-y7ihw-7dy2z-juniper-project	*	MAL-2025-27192	https://osv.dev/vulnerability/MAL-2025-27192
 nebula_wcwer_izdqj_dream	*	MAL-2025-27193	https://osv.dev/vulnerability/MAL-2025-27193
 nebula_wz50a_xx2v3_unity	*	MAL-2025-27194	https://osv.dev/vulnerability/MAL-2025-27194
+nebulaai-sdk	1.0.0	MAL-2026-17228	https://osv.dev/vulnerability/MAL-2026-17228
 nebuladreamer	*	MAL-2025-171643	https://osv.dev/vulnerability/MAL-2025-171643
 nebulagl-h3-hexagon-editing	*	MAL-2025-1253	https://osv.dev/vulnerability/MAL-2025-1253
 nebulahunter	*	MAL-2025-171644	https://osv.dev/vulnerability/MAL-2025-171644
@@ -184212,6 +184219,7 @@ simple-date-diff-utils	*	MAL-2026-3793	https://osv.dev/vulnerability/MAL-2026-37
 simple-date-formatter-new-1	1.0.0	MAL-2026-11502	https://osv.dev/vulnerability/MAL-2026-11502
 simple-date-formatter-new-10	1.0.0	MAL-2026-13697	https://osv.dev/vulnerability/MAL-2026-13697
 simple-date-formatter-new-11	1.0.0	MAL-2026-17158	https://osv.dev/vulnerability/MAL-2026-17158
+simple-date-formatter-new-12	1.0.0	MAL-2026-17229	https://osv.dev/vulnerability/MAL-2026-17229
 simple-date-formatter-new-13	1.0.0	MAL-2026-17159	https://osv.dev/vulnerability/MAL-2026-17159
 simple-date-formatter-new-14	1.0.0	MAL-2026-17160	https://osv.dev/vulnerability/MAL-2026-17160
 simple-date-formatter-new-15	1.0.0	MAL-2026-17161	https://osv.dev/vulnerability/MAL-2026-17161
