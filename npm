@@ -88485,6 +88485,7 @@ git-dependency-maker	*	MAL-2022-3367	https://osv.dev/vulnerability/MAL-2022-3367
 git-en-boite-app	*	MAL-2022-3368	https://osv.dev/vulnerability/MAL-2022-3368
 git-en-boite-core	*	MAL-2022-3369	https://osv.dev/vulnerability/MAL-2022-3369
 git-en-boite-inventory	*	MAL-2026-4295	https://osv.dev/vulnerability/MAL-2026-4295
+git-en-boite-logging	0.0.0	MAL-2026-17214	https://osv.dev/vulnerability/MAL-2026-17214
 git-gatsby	*	MAL-2022-3370	https://osv.dev/vulnerability/MAL-2022-3370
 git-git-git	1.0.10	MAL-2026-3504	https://osv.dev/vulnerability/MAL-2026-3504
 git-git-git	1.0.11	MAL-2026-3504	https://osv.dev/vulnerability/MAL-2026-3504
