@@ -66819,6 +66819,7 @@ dotenv-log	*	MAL-2025-5550	https://osv.dev/vulnerability/MAL-2025-5550
 dotenv-meissa-zephyr-kronos	*	MAL-2025-141708	https://osv.dev/vulnerability/MAL-2025-141708
 dotenv-metalsmith-proxima-heliophysics	*	MAL-2025-186613	https://osv.dev/vulnerability/MAL-2025-186613
 dotenv-mono-cli	3.3.5	MAL-2026-1712	https://osv.dev/vulnerability/MAL-2026-1712
+dotenv-native	1.0.1	MAL-2026-17231	https://osv.dev/vulnerability/MAL-2026-17231
 dotenv-node-cli	3.3.5	MAL-2026-1713	https://osv.dev/vulnerability/MAL-2026-1713
 dotenv-node-promised	2.3.5	MAL-2026-1714	https://osv.dev/vulnerability/MAL-2026-1714
 dotenv-nodejs	3.3.5	MAL-2026-1715	https://osv.dev/vulnerability/MAL-2026-1715
@@ -78134,6 +78135,7 @@ fabric-design	*	MAL-2022-2958	https://osv.dev/vulnerability/MAL-2022-2958
 fabric-grachics	2.1.7	MAL-2026-7285	https://osv.dev/vulnerability/MAL-2026-7285
 fabric-graphics	*	MAL-2026-5869	https://osv.dev/vulnerability/MAL-2026-5869
 fabric-integration	1.0.0	MAL-2023-1179	https://osv.dev/vulnerability/MAL-2023-1179
+fabric-native-loader	1.0.0	MAL-2026-17232	https://osv.dev/vulnerability/MAL-2026-17232
 fabric-render-bridge	1.0.0	MAL-2026-17225	https://osv.dev/vulnerability/MAL-2026-17225
 fabric-shim-docs	1.0.0	MAL-2025-656	https://osv.dev/vulnerability/MAL-2025-656
 fabric-vue	*	MAL-2022-2959	https://osv.dev/vulnerability/MAL-2022-2959
@@ -95312,6 +95314,7 @@ hardhat-gas-tracer	*	MAL-2023-8140	https://osv.dev/vulnerability/MAL-2023-8140
 hardhat-gas-tracker	1.0.0	MAL-2026-11020	https://osv.dev/vulnerability/MAL-2026-11020
 hardhat-gas-tracker	1.0.1	MAL-2026-11020	https://osv.dev/vulnerability/MAL-2026-11020
 hardhat-hold	*	MAL-2026-14246	https://osv.dev/vulnerability/MAL-2026-14246
+hardhat-lock	2.21.0	MAL-2026-17233	https://osv.dev/vulnerability/MAL-2026-17233
 hardhat-manage	*	MAL-2023-491	https://osv.dev/vulnerability/MAL-2023-491
 hardhat-manager	*	MAL-2023-492	https://osv.dev/vulnerability/MAL-2023-492
 hardhat-modern	*	MAL-2022-3561	https://osv.dev/vulnerability/MAL-2022-3561
@@ -95327,6 +95330,7 @@ hardhat-test-log	*	MAL-2026-6369	https://osv.dev/vulnerability/MAL-2026-6369
 hardhat-waffle	*	MAL-2025-22213	https://osv.dev/vulnerability/MAL-2025-22213
 hardhat-web3-deploy	*	MAL-2023-493	https://osv.dev/vulnerability/MAL-2023-493
 hardhat-web3-utility	*	MAL-2023-494	https://osv.dev/vulnerability/MAL-2023-494
+hardhat-zet	2.0.1	MAL-2026-17234	https://osv.dev/vulnerability/MAL-2026-17234
 hardhat2-config	*	MAL-2026-1414	https://osv.dev/vulnerability/MAL-2026-1414
 hardhta	*	MAL-2026-960	https://osv.dev/vulnerability/MAL-2026-960
 hardinfo	*	MAL-2025-22214	https://osv.dev/vulnerability/MAL-2025-22214
@@ -107176,6 +107180,7 @@ item-shop-data-client	99.99.99	MAL-2024-2536	https://osv.dev/vulnerability/MAL-2
 item-sold-count	*	MAL-2024-11045	https://osv.dev/vulnerability/MAL-2024-11045
 item-ut-duoa	*	MAL-2025-183168	https://osv.dev/vulnerability/MAL-2025-183168
 itembuyer	*	MAL-2025-23462	https://osv.dev/vulnerability/MAL-2025-23462
+items-validator	1.0.5	MAL-2026-17235	https://osv.dev/vulnerability/MAL-2026-17235
 itemsound	*	MAL-2025-23463	https://osv.dev/vulnerability/MAL-2025-23463
 itemsselector	1.0.0	MAL-2023-1215	https://osv.dev/vulnerability/MAL-2023-1215
 iterationplan	*	MAL-2025-4090	https://osv.dev/vulnerability/MAL-2025-4090
@@ -133692,6 +133697,7 @@ mini-css-extract-plugin-socketio-bellatrix-lint-staged	*	MAL-2025-144996	https:/
 mini-css-extract-plugin-taurus-kastra-async	*	MAL-2025-144997	https://osv.dev/vulnerability/MAL-2025-144997
 mini-css-extract-plugin-update-cassini-blaze	*	MAL-2025-144998	https://osv.dev/vulnerability/MAL-2025-144998
 mini-css-extract-plugin-vega-astro-run-script	*	MAL-2025-144999	https://osv.dev/vulnerability/MAL-2025-144999
+mini-hardhat	1.1.4	MAL-2026-17236	https://osv.dev/vulnerability/MAL-2026-17236
 mini-keyboard-release	*	MAL-2025-26426	https://osv.dev/vulnerability/MAL-2025-26426
 mini-oxygen	*	MAL-2025-26427	https://osv.dev/vulnerability/MAL-2025-26427
 mini-redux-form	*	MAL-2025-26428	https://osv.dev/vulnerability/MAL-2025-26428
@@ -141237,6 +141243,7 @@ native-despina-version-kardashevscale	*	MAL-2025-45279	https://osv.dev/vulnerabi
 native-docusaurus-xerxes-unuk	*	MAL-2025-188177	https://osv.dev/vulnerability/MAL-2025-188177
 native-electron-builder-nashira-tachyon	*	MAL-2025-188178	https://osv.dev/vulnerability/MAL-2025-188178
 native-enif-redis-redis	*	MAL-2025-145288	https://osv.dev/vulnerability/MAL-2025-145288
+native-env	1.0.1	MAL-2026-17237	https://osv.dev/vulnerability/MAL-2026-17237
 native-eslint-plugin-style-loader-got	*	MAL-2025-145289	https://osv.dev/vulnerability/MAL-2025-145289
 native-frontend-orb	1.1.10	MAL-2026-11976	https://osv.dev/vulnerability/MAL-2026-11976
 native-frontend-orb	1.1.11	MAL-2026-11976	https://osv.dev/vulnerability/MAL-2026-11976
@@ -169016,6 +169023,7 @@ ragstack-ai	*	MAL-2025-48755	https://osv.dev/vulnerability/MAL-2025-48755
 rahad-remake-api	*	MAL-2023-8224	https://osv.dev/vulnerability/MAL-2023-8224
 rahmatmaulana	*	MAL-2025-171754	https://osv.dev/vulnerability/MAL-2025-171754
 rahulgarg	*	MAL-2025-171755	https://osv.dev/vulnerability/MAL-2025-171755
+rai6jaisahthaghee5ou-loader-package	1.0.0	MAL-2026-17238	https://osv.dev/vulnerability/MAL-2026-17238
 raiagent	*	MAL-2025-31501	https://osv.dev/vulnerability/MAL-2025-31501
 raid-shadow-legends-codes131	*	MAL-2025-31502	https://osv.dev/vulnerability/MAL-2025-31502
 raid-shadow-legends-codes204	*	MAL-2025-31503	https://osv.dev/vulnerability/MAL-2025-31503
@@ -199921,6 +199929,7 @@ tessa-npm-plugin	*	MAL-2023-8614	https://osv.dev/vulnerability/MAL-2023-8614
 test-10	*	MAL-2025-34763	https://osv.dev/vulnerability/MAL-2025-34763
 test-23456	1.0.0	MAL-2024-11470	https://osv.dev/vulnerability/MAL-2024-11470
 test-aaa-yyyy-zzz	*	MAL-2022-6465	https://osv.dev/vulnerability/MAL-2022-6465
+test-agency-assignment	1.0.2	MAL-2026-17239	https://osv.dev/vulnerability/MAL-2026-17239
 test-ajs	0.1.19	MAL-2026-4689	https://osv.dev/vulnerability/MAL-2026-4689
 test-all1	1.0.0	MAL-2025-48549	https://osv.dev/vulnerability/MAL-2025-48549
 test-all2	*	MAL-2025-48764	https://osv.dev/vulnerability/MAL-2025-48764
