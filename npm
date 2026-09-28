@@ -123407,6 +123407,7 @@ llm-interceptor	0.3.4	MAL-2026-13370	https://osv.dev/vulnerability/MAL-2026-1337
 llm-interceptor	0.3.8	MAL-2026-13370	https://osv.dev/vulnerability/MAL-2026-13370
 llm-interceptor	0.4.0	MAL-2026-13370	https://osv.dev/vulnerability/MAL-2026-13370
 llm-interceptor	0.4.1	MAL-2026-13370	https://osv.dev/vulnerability/MAL-2026-13370
+llm-nebula	1.0.0	MAL-2026-17230	https://osv.dev/vulnerability/MAL-2026-17230
 llm-oracle	*	MAL-2026-1331	https://osv.dev/vulnerability/MAL-2026-1331
 llm-traces-app	*	MAL-2026-6371	https://osv.dev/vulnerability/MAL-2026-6371
 llm_demo	9.9.9	MAL-2025-847	https://osv.dev/vulnerability/MAL-2025-847
