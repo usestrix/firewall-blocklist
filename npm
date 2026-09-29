@@ -6683,7 +6683,6 @@
 @hrmony/devtool-configuration	*	MAL-2026-17260	https://osv.dev/vulnerability/MAL-2026-17260
 @hrmony/gutscheinverwaltung	*	MAL-2026-17261	https://osv.dev/vulnerability/MAL-2026-17261
 @hrmony/hyper-json-builder	*	MAL-2026-17282	https://osv.dev/vulnerability/MAL-2026-17282
-@hrmony/hyper-json-builder	1.99.0	MAL-0000-amazon-inspector-d813905304817299	https://github.com/ossf/malicious-packages/blob/7d7da5c839a1fdac375a2bfedb0913e8e1691173/osv/malicious/npm/@hrmony/hyper-json-builder/MAL-0000-amazon-inspector-d813905304817299.json
 @hrmony/interfaces	*	MAL-2026-17262	https://osv.dev/vulnerability/MAL-2026-17262
 @hrmony/kit	1.99.0	MAL-2026-17263	https://osv.dev/vulnerability/MAL-2026-17263
 @hrmony/kit-1	1.99.0	MAL-2026-17264	https://osv.dev/vulnerability/MAL-2026-17264
