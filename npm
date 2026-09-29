@@ -199989,7 +199989,10 @@ tessa-npm-plugin	*	MAL-2023-8614	https://osv.dev/vulnerability/MAL-2023-8614
 test-10	*	MAL-2025-34763	https://osv.dev/vulnerability/MAL-2025-34763
 test-23456	1.0.0	MAL-2024-11470	https://osv.dev/vulnerability/MAL-2024-11470
 test-aaa-yyyy-zzz	*	MAL-2022-6465	https://osv.dev/vulnerability/MAL-2022-6465
+test-agency-assign	1.0.4	MAL-0000-amazon-inspector-e650e815b4409c3c	https://github.com/ossf/malicious-packages/blob/ad22aba4a765b1586a30d3b670c9f7833e2147b5/osv/malicious/npm/test-agency-assign/MAL-0000-amazon-inspector-e650e815b4409c3c.json
 test-agency-assignment	1.0.2	MAL-2026-17239	https://osv.dev/vulnerability/MAL-2026-17239
+test-agency-assignment-01	1.0.5	MAL-0000-amazon-inspector-2098eadf99f0ffe4	https://github.com/ossf/malicious-packages/blob/ad22aba4a765b1586a30d3b670c9f7833e2147b5/osv/malicious/npm/test-agency-assignment-01/MAL-0000-amazon-inspector-2098eadf99f0ffe4.json
+test-agency-assignment-02	1.0.5	MAL-0000-amazon-inspector-e9944ea8ca21c067	https://github.com/ossf/malicious-packages/blob/ad22aba4a765b1586a30d3b670c9f7833e2147b5/osv/malicious/npm/test-agency-assignment-02/MAL-0000-amazon-inspector-e9944ea8ca21c067.json
 test-ajs	0.1.19	MAL-2026-4689	https://osv.dev/vulnerability/MAL-2026-4689
 test-all1	1.0.0	MAL-2025-48549	https://osv.dev/vulnerability/MAL-2025-48549
 test-all2	*	MAL-2025-48764	https://osv.dev/vulnerability/MAL-2025-48764
@@ -202418,6 +202421,8 @@ testnpmad	*	MAL-2022-6526	https://osv.dev/vulnerability/MAL-2022-6526
 testnpmad12	*	MAL-2022-6527	https://osv.dev/vulnerability/MAL-2022-6527
 testnpmnmp	1.0.21	MAL-2026-4691	https://osv.dev/vulnerability/MAL-2026-4691
 testone-avisheknayal	*	MAL-2024-1526	https://osv.dev/vulnerability/MAL-2024-1526
+testosu888	1.0.0	MAL-0000-amazon-inspector-3faa5787fbebe8c5	https://github.com/ossf/malicious-packages/blob/ad22aba4a765b1586a30d3b670c9f7833e2147b5/osv/malicious/npm/testosu888/MAL-0000-amazon-inspector-3faa5787fbebe8c5.json
+testosu8887	1.0.1	MAL-0000-amazon-inspector-7d9d3296b770afd3	https://github.com/ossf/malicious-packages/blob/ad22aba4a765b1586a30d3b670c9f7833e2147b5/osv/malicious/npm/testosu8887/MAL-0000-amazon-inspector-7d9d3296b770afd3.json
 testpackagehere	*	MAL-2022-6528	https://osv.dev/vulnerability/MAL-2022-6528
 testpacke	*	MAL-2025-147	https://osv.dev/vulnerability/MAL-2025-147
 testpackyeaaaa	*	MAL-2023-860	https://osv.dev/vulnerability/MAL-2023-860
