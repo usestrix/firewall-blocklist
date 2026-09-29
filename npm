@@ -185924,6 +185924,7 @@ sjtu-sesanyiwu-os	*	MAL-2025-33357	https://osv.dev/vulnerability/MAL-2025-33357
 sjtu-seyilingliu-dast	*	MAL-2025-33358	https://osv.dev/vulnerability/MAL-2025-33358
 sjzxy	1.0.0	MAL-2025-1231	https://osv.dev/vulnerability/MAL-2025-1231
 sk-datatable	*	MAL-2025-33359	https://osv.dev/vulnerability/MAL-2025-33359
+sk-lib-enc	*	MAL-0000-ghsa-malware-b128f095429e74e3	https://github.com/ossf/malicious-packages/blob/ba592525f8a979dbf69a9c26e3d8f80b38666cc3/osv/malicious/npm/sk-lib-enc/MAL-0000-ghsa-malware-b128f095429e74e3.json
 sk-ui-kit	*	MAL-2025-33360	https://osv.dev/vulnerability/MAL-2025-33360
 skalch	*	MAL-2025-33361	https://osv.dev/vulnerability/MAL-2025-33361
 skalcirdhmugztoe	*	MAL-2025-33362	https://osv.dev/vulnerability/MAL-2025-33362
@@ -206833,6 +206834,7 @@ ts-plugin-file-path-support	*	MAL-2025-1381	https://osv.dev/vulnerability/MAL-20
 ts-poly-utls	1.2.4	MAL-2026-12811	https://osv.dev/vulnerability/MAL-2026-12811
 ts-precision	*	MAL-2026-6469	https://osv.dev/vulnerability/MAL-2026-6469
 ts-predict-helper	*	MAL-2026-6322	https://osv.dev/vulnerability/MAL-2026-6322
+ts-rand-sdk	*	MAL-0000-ghsa-malware-f1f9011f0abb7ca8	https://github.com/ossf/malicious-packages/blob/ba592525f8a979dbf69a9c26e3d8f80b38666cc3/osv/malicious/npm/ts-rand-sdk/MAL-0000-ghsa-malware-f1f9011f0abb7ca8.json
 ts-rand-sdk	1.0.2	MAL-2026-14193	https://osv.dev/vulnerability/MAL-2026-14193
 ts-react-important-stuff	*	MAL-2025-49056	https://osv.dev/vulnerability/MAL-2025-49056
 ts-relay-cursor-paging	2.1.1	MAL-2025-191437	https://osv.dev/vulnerability/MAL-2025-191437
@@ -208042,6 +208044,7 @@ txrxhx	*	MAL-2025-37395	https://osv.dev/vulnerability/MAL-2025-37395
 txs-builder	*	MAL-2026-11089	https://osv.dev/vulnerability/MAL-2026-11089
 txs-builder-lib	*	MAL-2026-10021	https://osv.dev/vulnerability/MAL-2026-10021
 txs-data	1.0.1	MAL-2026-6900	https://osv.dev/vulnerability/MAL-2026-6900
+txs-lib-sdk	*	MAL-0000-ghsa-malware-be8fdee0fed990fd	https://github.com/ossf/malicious-packages/blob/ba592525f8a979dbf69a9c26e3d8f80b38666cc3/osv/malicious/npm/txs-lib-sdk/MAL-0000-ghsa-malware-be8fdee0fed990fd.json
 txs-lib-sdk	1.0.2	MAL-2026-14198	https://osv.dev/vulnerability/MAL-2026-14198
 txs-random-lib	*	MAL-2026-11090	https://osv.dev/vulnerability/MAL-2026-11090
 txs-runner-lib	*	MAL-2026-11091	https://osv.dev/vulnerability/MAL-2026-11091
