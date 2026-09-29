@@ -695,6 +695,7 @@ asdk-plugin-legacy	0.0.1	MAL-2026-11423	https://osv.dev/vulnerability/MAL-2026-1
 asdk-plugin-legacy	9999.0.0	MAL-2026-11423	https://osv.dev/vulnerability/MAL-2026-11423
 ase-jreq	0.0.3	MAL-2025-191684	https://osv.dev/vulnerability/MAL-2025-191684
 aseity	0.1.0	MAL-2026-17200	https://osv.dev/vulnerability/MAL-2026-17200
+aseitylab	0.1.0	MAL-0000-amazon-inspector-9b47f0f7a0776cad	https://github.com/ossf/malicious-packages/blob/79487f779a168c8f7ac0af4d0f72ec52d58db251/osv/malicious/pypi/aseitylab/MAL-0000-amazon-inspector-9b47f0f7a0776cad.json
 aseitylab	0.1.0	MAL-2026-17240	https://osv.dev/vulnerability/MAL-2026-17240
 aseitylab	0.1.1	MAL-2026-17240	https://osv.dev/vulnerability/MAL-2026-17240
 aslmutetion	98.7	MAL-2024-11529	https://osv.dev/vulnerability/MAL-2024-11529
@@ -906,6 +907,7 @@ azure-ai-agentserver-githubcopilot	0.0.1	MAL-2026-2831	https://osv.dev/vulnerabi
 azure-ai-agentserver-githubcopilot	0.0.2	MAL-2026-2831	https://osv.dev/vulnerability/MAL-2026-2831
 azure-eventhub-checkpointstoretable	9.9.9	MAL-2026-1985	https://osv.dev/vulnerability/MAL-2026-1985
 azure-iothub-service-client	1.3.5	MAL-2025-41622	https://osv.dev/vulnerability/MAL-2025-41622
+azure-langchain-example	0.1.0	MAL-0000-amazon-inspector-1cffc3a51858b1b7	https://github.com/ossf/malicious-packages/blob/79487f779a168c8f7ac0af4d0f72ec52d58db251/osv/malicious/pypi/azure-langchain-example/MAL-0000-amazon-inspector-1cffc3a51858b1b7.json
 azure-langchain-example	0.1.0	MAL-2026-17213	https://osv.dev/vulnerability/MAL-2026-17213
 azure-projects	0.1a0	MAL-2024-12211	https://osv.dev/vulnerability/MAL-2024-12211
 azureml-contrib-daskonbatch	1.0.0	MAL-2023-8563	https://osv.dev/vulnerability/MAL-2023-8563
