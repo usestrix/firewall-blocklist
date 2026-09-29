@@ -170290,7 +170290,7 @@ react-next-dom	1.1.7	MAL-2026-6825	https://osv.dev/vulnerability/MAL-2026-6825
 react-next-dom	17.2.7	MAL-2026-6825	https://osv.dev/vulnerability/MAL-2026-6825
 react-next-dom	17.2.8	MAL-2026-6825	https://osv.dev/vulnerability/MAL-2026-6825
 react-next-vite	1.2.9	MAL-2026-10211	https://osv.dev/vulnerability/MAL-2026-10211
-react-nodejs	19.3.0	MAL-0000-amazon-inspector-5777ca86863da9fa	https://github.com/ossf/malicious-packages/blob/87700368db52d368bbed12b7d2107b317f58d0fc/osv/malicious/npm/react-nodejs/MAL-0000-amazon-inspector-5777ca86863da9fa.json
+react-nodejs	19.3.0	MAL-2026-17294	https://osv.dev/vulnerability/MAL-2026-17294
 react-nodes	4.0.1	MAL-2025-6327	https://osv.dev/vulnerability/MAL-2025-6327
 react-notifications-alert	*	MAL-2025-49361	https://osv.dev/vulnerability/MAL-2025-49361
 react-ob1	*	MAL-2023-729	https://osv.dev/vulnerability/MAL-2023-729
