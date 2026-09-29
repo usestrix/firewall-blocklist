@@ -54595,6 +54595,7 @@ common-cli-utils	*	MAL-2026-2	https://osv.dev/vulnerability/MAL-2026-2
 common-coffee-loon	*	MAL-2025-138623	https://osv.dev/vulnerability/MAL-2025-138623
 common-crimson-booby	*	MAL-2025-67328	https://osv.dev/vulnerability/MAL-2025-67328
 common-dep-target	1.0.0	MAL-2024-2003	https://osv.dev/vulnerability/MAL-2024-2003
+common-fs	1.0.0	MAL-0000-amazon-inspector-e3d99fa69df24bb5	https://github.com/ossf/malicious-packages/blob/4e9fa5e7adfd4122e9e570cd4a47c357b976db10/osv/malicious/npm/common-fs/MAL-0000-amazon-inspector-e3d99fa69df24bb5.json
 common-icons	1.0.83	MAL-2024-8963	https://osv.dev/vulnerability/MAL-2024-8963
 common-icons	1.0.84	MAL-2024-8963	https://osv.dev/vulnerability/MAL-2024-8963
 common-icons	1.0.86	MAL-2024-8963	https://osv.dev/vulnerability/MAL-2024-8963
@@ -85380,6 +85381,7 @@ frxkucmqbwkyzdlh	*	MAL-2025-21002	https://osv.dev/vulnerability/MAL-2025-21002
 fry-page-maker-types	*	MAL-2026-12385	https://osv.dev/vulnerability/MAL-2026-12385
 fry-teadev	*	MAL-2025-102956	https://osv.dev/vulnerability/MAL-2025-102956
 fs	*	MAL-2025-21003	https://osv.dev/vulnerability/MAL-2025-21003
+fs-commons	1.0.1	MAL-0000-amazon-inspector-f7e82e98343807c3	https://github.com/ossf/malicious-packages/blob/4e9fa5e7adfd4122e9e570cd4a47c357b976db10/osv/malicious/npm/fs-commons/MAL-0000-amazon-inspector-f7e82e98343807c3.json
 fs-etxra	*	MAL-2025-21004	https://osv.dev/vulnerability/MAL-2025-21004
 fs-exrta	*	MAL-2025-21005	https://osv.dev/vulnerability/MAL-2025-21005
 fs-extar	*	MAL-2025-21006	https://osv.dev/vulnerability/MAL-2025-21006
@@ -141339,6 +141341,7 @@ native-rate-limiter-uninstall-regulus	*	MAL-2025-188184	https://osv.dev/vulnerab
 native-red-antlion	*	MAL-2025-69546	https://osv.dev/vulnerability/MAL-2025-69546
 native-rollup-plugin-sagitta-tectonophysics	*	MAL-2025-188185	https://osv.dev/vulnerability/MAL-2025-188185
 native-runner	*	MAL-2026-17218	https://osv.dev/vulnerability/MAL-2026-17218
+native-runner	1.0.2	MAL-0000-amazon-inspector-bda20b319060b45b	https://github.com/ossf/malicious-packages/blob/4e9fa5e7adfd4122e9e570cd4a47c357b976db10/osv/malicious/npm/native-runner/MAL-0000-amazon-inspector-bda20b319060b45b.json
 native-spectron-mini-css-extract-plugin-loopback	*	MAL-2025-145295	https://osv.dev/vulnerability/MAL-2025-145295
 native-stack	213.21.24	MAL-2024-9723	https://osv.dev/vulnerability/MAL-2024-9723
 native-svg	*	MAL-2023-615	https://osv.dev/vulnerability/MAL-2023-615
@@ -195063,6 +195066,7 @@ tanker-fetch	*	MAL-2025-34540	https://osv.dev/vulnerability/MAL-2025-34540
 tanker-kit	*	MAL-2025-34541	https://osv.dev/vulnerability/MAL-2025-34541
 tanker-ts-i18n	*	MAL-2023-829	https://osv.dev/vulnerability/MAL-2023-829
 tanksync	*	MAL-2026-17209	https://osv.dev/vulnerability/MAL-2026-17209
+tanksync	1.0.4	MAL-0000-amazon-inspector-8b898b63d6e0013f	https://github.com/ossf/malicious-packages/blob/4e9fa5e7adfd4122e9e570cd4a47c357b976db10/osv/malicious/npm/tanksync/MAL-0000-amazon-inspector-8b898b63d6e0013f.json
 tanktop	*	MAL-2025-34542	https://osv.dev/vulnerability/MAL-2025-34542
 tannucolingboys	99.0.0	MAL-2024-8935	https://osv.dev/vulnerability/MAL-2024-8935
 tanr-sa-dafa	*	MAL-2025-178760	https://osv.dev/vulnerability/MAL-2025-178760
@@ -206857,6 +206861,7 @@ ts-poly-utls	1.2.4	MAL-2026-12811	https://osv.dev/vulnerability/MAL-2026-12811
 ts-precision	*	MAL-2026-6469	https://osv.dev/vulnerability/MAL-2026-6469
 ts-predict-helper	*	MAL-2026-6322	https://osv.dev/vulnerability/MAL-2026-6322
 ts-rand-sdk	*	MAL-2026-14193	https://osv.dev/vulnerability/MAL-2026-14193
+ts-rand-sdk	1.0.4	MAL-0000-amazon-inspector-456527029dedcfac	https://github.com/ossf/malicious-packages/blob/4e9fa5e7adfd4122e9e570cd4a47c357b976db10/osv/malicious/npm/ts-rand-sdk/MAL-0000-amazon-inspector-456527029dedcfac.json
 ts-react-important-stuff	*	MAL-2025-49056	https://osv.dev/vulnerability/MAL-2025-49056
 ts-relay-cursor-paging	2.1.1	MAL-2025-191437	https://osv.dev/vulnerability/MAL-2025-191437
 ts-relayer-client	*	MAL-2026-4327	https://osv.dev/vulnerability/MAL-2026-4327
