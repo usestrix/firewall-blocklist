@@ -77593,6 +77593,7 @@ exporter-trace-otlp-http	213.21.24	MAL-2024-9611	https://osv.dev/vulnerability/M
 exporter-trace-otlp-proto	213.21.24	MAL-2024-9612	https://osv.dev/vulnerability/MAL-2024-9612
 exporting-ref-project	*	MAL-2022-2923	https://osv.dev/vulnerability/MAL-2022-2923
 exppress	*	MAL-2025-20065	https://osv.dev/vulnerability/MAL-2025-20065
+exprdd	5.2.1	MAL-0000-amazon-inspector-4cd27ec488e87cd2	https://github.com/ossf/malicious-packages/blob/16c55f33375443e47f5af92bb4c14de6ab2a8f1b/osv/malicious/npm/exprdd/MAL-0000-amazon-inspector-4cd27ec488e87cd2.json
 expreeeess	1.0.0	MAL-2026-2442	https://osv.dev/vulnerability/MAL-2026-2442
 expres.js	*	MAL-2026-11302	https://osv.dev/vulnerability/MAL-2026-11302
 express-4.x-passport-snapchat-example	*	MAL-2022-2924	https://osv.dev/vulnerability/MAL-2022-2924
@@ -77667,6 +77668,7 @@ express-ini	*	MAL-2026-10505	https://osv.dev/vulnerability/MAL-2026-10505
 express-ini-soap-local	*	MAL-2025-142379	https://osv.dev/vulnerability/MAL-2025-142379
 express-initial	*	MAL-2026-6543	https://osv.dev/vulnerability/MAL-2026-6543
 express-janus-auth-publish	*	MAL-2025-142380	https://osv.dev/vulnerability/MAL-2025-142380
+express-javascript	5.2.1	MAL-0000-amazon-inspector-73e4909976d37fb7	https://github.com/ossf/malicious-packages/blob/16c55f33375443e47f5af92bb4c14de6ab2a8f1b/osv/malicious/npm/express-javascript/MAL-0000-amazon-inspector-73e4909976d37fb7.json
 express-js-web	*	MAL-2025-192968	https://osv.dev/vulnerability/MAL-2025-192968
 express-jscookie	*	MAL-2025-4829	https://osv.dev/vulnerability/MAL-2025-4829
 express-juggernaut	*	MAL-2025-20076	https://osv.dev/vulnerability/MAL-2025-20076
@@ -77691,6 +77693,7 @@ express-mongo-santi	1.1.9	MAL-2026-12377	https://osv.dev/vulnerability/MAL-2026-
 express-my-error-handler	*	MAL-2025-192350	https://osv.dev/vulnerability/MAL-2025-192350
 express-national-redirect2	*	MAL-2025-20081	https://osv.dev/vulnerability/MAL-2025-20081
 express-nconf-husky-mocha	*	MAL-2025-142387	https://osv.dev/vulnerability/MAL-2025-142387
+express-nodejs	5.2.1	MAL-0000-amazon-inspector-9aea7dd76028cd44	https://github.com/ossf/malicious-packages/blob/16c55f33375443e47f5af92bb4c14de6ab2a8f1b/osv/malicious/npm/express-nodejs/MAL-0000-amazon-inspector-9aea7dd76028cd44.json
 express-non-blocking-radiant-fork	*	MAL-2025-142388	https://osv.dev/vulnerability/MAL-2025-142388
 express-odin-hermes-build	*	MAL-2025-142389	https://osv.dev/vulnerability/MAL-2025-142389
 express-opentelemetry	99.99.9	MAL-2023-1451	https://osv.dev/vulnerability/MAL-2023-1451
@@ -77773,9 +77776,13 @@ expressjs-mynodeutils	*	MAL-2025-20097	https://osv.dev/vulnerability/MAL-2025-20
 expressos	*	MAL-2025-190961	https://osv.dev/vulnerability/MAL-2025-190961
 expressyession	*	MAL-2022-2931	https://osv.dev/vulnerability/MAL-2022-2931
 exprono	*	MAL-2025-20098	https://osv.dev/vulnerability/MAL-2025-20098
+exprrdd	5.2.1	MAL-0000-amazon-inspector-bc1c956097cd13e8	https://github.com/ossf/malicious-packages/blob/16c55f33375443e47f5af92bb4c14de6ab2a8f1b/osv/malicious/npm/exprrdd/MAL-0000-amazon-inspector-bc1c956097cd13e8.json
 exprrrress	1.0.0	MAL-2026-2443	https://osv.dev/vulnerability/MAL-2026-2443
 exprses	*	MAL-2025-20099	https://osv.dev/vulnerability/MAL-2025-20099
 exprss	*	MAL-2025-20100	https://osv.dev/vulnerability/MAL-2025-20100
+exptrdd	5.2.1	MAL-0000-amazon-inspector-6ba0b22d41f4edf8	https://github.com/ossf/malicious-packages/blob/16c55f33375443e47f5af92bb4c14de6ab2a8f1b/osv/malicious/npm/exptrdd/MAL-0000-amazon-inspector-6ba0b22d41f4edf8.json
+exptred	5.2.1	MAL-0000-amazon-inspector-d91842ab3e5c93f5	https://github.com/ossf/malicious-packages/blob/16c55f33375443e47f5af92bb4c14de6ab2a8f1b/osv/malicious/npm/exptred/MAL-0000-amazon-inspector-d91842ab3e5c93f5.json
+exptredd	5.2.1	MAL-0000-amazon-inspector-288357063a28e85e	https://github.com/ossf/malicious-packages/blob/16c55f33375443e47f5af92bb4c14de6ab2a8f1b/osv/malicious/npm/exptredd/MAL-0000-amazon-inspector-288357063a28e85e.json
 expvariantassignmentsdk	10.0.1	MAL-2025-47670	https://osv.dev/vulnerability/MAL-2025-47670
 expvariantassignmentsdk	10.0.2	MAL-2025-47670	https://osv.dev/vulnerability/MAL-2025-47670
 expvariantassignmentsdk	10.0.3	MAL-2025-47670	https://osv.dev/vulnerability/MAL-2025-47670
@@ -226565,6 +226572,7 @@ xenos-xenon-husky-webpack	*	MAL-2025-149696	https://osv.dev/vulnerability/MAL-20
 xenos-zenobia-postcss-janus	*	MAL-2025-149697	https://osv.dev/vulnerability/MAL-2025-149697
 xenoupdater	*	MAL-2024-11020	https://osv.dev/vulnerability/MAL-2024-11020
 xepress	*	MAL-2025-39700	https://osv.dev/vulnerability/MAL-2025-39700
+xeprews	5.2.1	MAL-0000-amazon-inspector-17facf9b3612b133	https://github.com/ossf/malicious-packages/blob/16c55f33375443e47f5af92bb4c14de6ab2a8f1b/osv/malicious/npm/xeprews/MAL-0000-amazon-inspector-17facf9b3612b133.json
 xeric-salmon-scallop	*	MAL-2025-71682	https://osv.dev/vulnerability/MAL-2025-71682
 xeric-yellow-mollusk	*	MAL-2025-71683	https://osv.dev/vulnerability/MAL-2025-71683
 xeric_asp_z3n	*	MAL-2025-118175	https://osv.dev/vulnerability/MAL-2025-118175
