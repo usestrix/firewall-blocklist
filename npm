@@ -107279,9 +107279,9 @@ itop	*	MAL-2022-3982	https://osv.dev/vulnerability/MAL-2022-3982
 itprod	*	MAL-2025-23466	https://osv.dev/vulnerability/MAL-2025-23466
 its_for_testing	*	MAL-2022-3983	https://osv.dev/vulnerability/MAL-2022-3983
 itself-country-orange	*	MAL-2025-44724	https://osv.dev/vulnerability/MAL-2025-44724
-itsmeeaizat-bailey	1.0.3	MAL-0000-amazon-inspector-d33df45ab827c11b	https://github.com/ossf/malicious-packages/blob/0fb522112f3dba52ff6c19456cf6e722119b279c/osv/malicious/npm/itsmeeaizat-bailey/MAL-0000-amazon-inspector-d33df45ab827c11b.json
-itsmeeaizat-bailey	1.0.4	MAL-0000-amazon-inspector-aa89fc4b6ac9b670	https://github.com/ossf/malicious-packages/blob/0fb522112f3dba52ff6c19456cf6e722119b279c/osv/malicious/npm/itsmeeaizat-bailey/MAL-0000-amazon-inspector-aa89fc4b6ac9b670.json
-itsmeeaizat-bailey	1.0.5	MAL-0000-amazon-inspector-e87b4292727088ef	https://github.com/ossf/malicious-packages/blob/0fb522112f3dba52ff6c19456cf6e722119b279c/osv/malicious/npm/itsmeeaizat-bailey/MAL-0000-amazon-inspector-e87b4292727088ef.json
+itsmeeaizat-bailey	1.0.3	MAL-2026-17311	https://osv.dev/vulnerability/MAL-2026-17311
+itsmeeaizat-bailey	1.0.4	MAL-2026-17311	https://osv.dev/vulnerability/MAL-2026-17311
+itsmeeaizat-bailey	1.0.5	MAL-2026-17311	https://osv.dev/vulnerability/MAL-2026-17311
 itsmerobottt	*	MAL-2022-3984	https://osv.dev/vulnerability/MAL-2022-3984
 itsn	*	MAL-2022-3985	https://osv.dev/vulnerability/MAL-2022-3985
 itsorits	*	MAL-2025-23467	https://osv.dev/vulnerability/MAL-2025-23467
@@ -111986,7 +111986,7 @@ json-aquarius-exoplanetology-semantic-release	*	MAL-2025-44822	https://osv.dev/v
 json-babel-regulus-void	*	MAL-2025-187623	https://osv.dev/vulnerability/MAL-2025-187623
 json-backend-cluster-webdriverio	*	MAL-2025-143963	https://osv.dev/vulnerability/MAL-2025-143963
 json-bigint-extend	*	MAL-2026-10652	https://osv.dev/vulnerability/MAL-2026-10652
-json-bigint-rs	0.1.1	MAL-0000-amazon-inspector-7f5b71b917a0504d	https://github.com/ossf/malicious-packages/blob/0fb522112f3dba52ff6c19456cf6e722119b279c/osv/malicious/npm/json-bigint-rs/MAL-0000-amazon-inspector-7f5b71b917a0504d.json
+json-bigint-rs	0.1.1	MAL-2026-17312	https://osv.dev/vulnerability/MAL-2026-17312
 json-blaze-venus-antd	*	MAL-2025-143964	https://osv.dev/vulnerability/MAL-2025-143964
 json-bootes-ophiuchus-epimetheus	*	MAL-2025-143965	https://osv.dev/vulnerability/MAL-2025-143965
 json-bootes-spectron-pegasus	*	MAL-2025-143966	https://osv.dev/vulnerability/MAL-2025-143966
@@ -158734,7 +158734,7 @@ pixelzoom	*	MAL-2023-8300	https://osv.dev/vulnerability/MAL-2023-8300
 pixiv-novel-editor	*	MAL-2024-10566	https://osv.dev/vulnerability/MAL-2024-10566
 pixivsketch	*	MAL-2022-5347	https://osv.dev/vulnerability/MAL-2022-5347
 pixograms	*	MAL-2025-29341	https://osv.dev/vulnerability/MAL-2025-29341
-pixsvg	0.2.0	MAL-0000-amazon-inspector-23f6989954f196f4	https://github.com/ossf/malicious-packages/blob/0fb522112f3dba52ff6c19456cf6e722119b279c/osv/malicious/npm/pixsvg/MAL-0000-amazon-inspector-23f6989954f196f4.json
+pixsvg	0.2.0	MAL-2026-17313	https://osv.dev/vulnerability/MAL-2026-17313
 pixvanastudio	*	MAL-2025-29342	https://osv.dev/vulnerability/MAL-2025-29342
 pixxel	*	MAL-2025-29343	https://osv.dev/vulnerability/MAL-2025-29343
 pixzen	*	MAL-2025-29344	https://osv.dev/vulnerability/MAL-2025-29344
@@ -202187,8 +202187,8 @@ test-solhint	*	MAL-2023-852	https://osv.dev/vulnerability/MAL-2023-852
 test-ssssnpm-com-test	1.999.0	MAL-2024-7776	https://osv.dev/vulnerability/MAL-2024-7776
 test-star-web-zeta-minify	*	MAL-2025-189889	https://osv.dev/vulnerability/MAL-2025-189889
 test-sudo-notify-meta-orchestrate	*	MAL-2025-189890	https://osv.dev/vulnerability/MAL-2025-189890
-test-supply-npm-lib-4	3.3.3	MAL-0000-amazon-inspector-4088f6f05dc6a218	https://github.com/ossf/malicious-packages/blob/0fb522112f3dba52ff6c19456cf6e722119b279c/osv/malicious/npm/test-supply-npm-lib-4/MAL-0000-amazon-inspector-4088f6f05dc6a218.json
-test-supply-npm-lib-4	3.3.4	MAL-0000-amazon-inspector-80bcbaa637920662	https://github.com/ossf/malicious-packages/blob/0fb522112f3dba52ff6c19456cf6e722119b279c/osv/malicious/npm/test-supply-npm-lib-4/MAL-0000-amazon-inspector-80bcbaa637920662.json
+test-supply-npm-lib-4	3.3.3	MAL-2026-17314	https://osv.dev/vulnerability/MAL-2026-17314
+test-supply-npm-lib-4	3.3.4	MAL-2026-17314	https://osv.dev/vulnerability/MAL-2026-17314
 test-syncfusion-bridge	*	MAL-2025-36701	https://osv.dev/vulnerability/MAL-2025-36701
 test-task-react-client	*	MAL-2022-6493	https://osv.dev/vulnerability/MAL-2022-6493
 test-taurus-triton-rollup	*	MAL-2025-148584	https://osv.dev/vulnerability/MAL-2025-148584
