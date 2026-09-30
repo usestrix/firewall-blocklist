@@ -7666,6 +7666,7 @@ metrics-sdk	1000.0.0	MAL-2026-17194	https://osv.dev/vulnerability/MAL-2026-17194
 metrics-sdk	1001.0.0	MAL-2026-17194	https://osv.dev/vulnerability/MAL-2026-17194
 metrics-sdk	999.0.0	MAL-2026-17194	https://osv.dev/vulnerability/MAL-2026-17194
 metrio	1000.0.0	MAL-2026-17193	https://osv.dev/vulnerability/MAL-2026-17193
+metrio	1001.0.0	MAL-0000-amazon-inspector-76ff4203d226c3ae	https://github.com/ossf/malicious-packages/blob/58745ee089f84a297f745ba5ab5fd03f7364e3d1/osv/malicious/pypi/metrio/MAL-0000-amazon-inspector-76ff4203d226c3ae.json
 metrio	1001.0.0	MAL-2026-17193	https://osv.dev/vulnerability/MAL-2026-17193
 metrio	999.0.0	MAL-2026-17193	https://osv.dev/vulnerability/MAL-2026-17193
 metrok	1.0.0	MAL-2024-5361	https://osv.dev/vulnerability/MAL-2024-5361
@@ -7948,6 +7949,7 @@ my-package-jiecub3	1.6.0	MAL-2026-2962	https://osv.dev/vulnerability/MAL-2026-29
 my-pipeline-watcher-poc	99999.99999.1	MAL-2026-3218	https://osv.dev/vulnerability/MAL-2026-3218
 my-private-pkg	0.1.1	MAL-2026-17180	https://osv.dev/vulnerability/MAL-2026-17180
 my-private-pkg	99.1.1	MAL-2026-17180	https://osv.dev/vulnerability/MAL-2026-17180
+my-private-pkg	99.11.2	MAL-0000-amazon-inspector-dcfdb120853765f4	https://github.com/ossf/malicious-packages/blob/58745ee089f84a297f745ba5ab5fd03f7364e3d1/osv/malicious/pypi/my-private-pkg/MAL-0000-amazon-inspector-dcfdb120853765f4.json
 my-private-pkg	99.11.2	MAL-2026-17180	https://osv.dev/vulnerability/MAL-2026-17180
 my-service-manager	1.0.0	MAL-2024-12309	https://osv.dev/vulnerability/MAL-2024-12309
 my-service-manager	1.0.1	MAL-2024-12309	https://osv.dev/vulnerability/MAL-2024-12309
@@ -9463,10 +9465,14 @@ propmt-toolkit	*	MAL-2023-2014	https://osv.dev/vulnerability/MAL-2023-2014
 propt-toolkit	*	MAL-2023-2015	https://osv.dev/vulnerability/MAL-2023-2015
 proressbar2	*	MAL-2023-2016	https://osv.dev/vulnerability/MAL-2023-2016
 prorgessbar2	*	MAL-2023-2017	https://osv.dev/vulnerability/MAL-2023-2017
+prosocks	1.0.0	MAL-0000-amazon-inspector-a2794c72ebff7d71	https://github.com/ossf/malicious-packages/blob/58745ee089f84a297f745ba5ab5fd03f7364e3d1/osv/malicious/pypi/prosocks/MAL-0000-amazon-inspector-a2794c72ebff7d71.json
 prosocks	1.0.0	MAL-2026-17167	https://osv.dev/vulnerability/MAL-2026-17167
+prosocks	1.0.1	MAL-0000-amazon-inspector-9e94c1c1b97512d4	https://github.com/ossf/malicious-packages/blob/58745ee089f84a297f745ba5ab5fd03f7364e3d1/osv/malicious/pypi/prosocks/MAL-0000-amazon-inspector-9e94c1c1b97512d4.json
 prosocks	1.0.1	MAL-2026-17167	https://osv.dev/vulnerability/MAL-2026-17167
 prosocks	1.0.13	MAL-2026-17167	https://osv.dev/vulnerability/MAL-2026-17167
+prosocks	1.0.14	MAL-0000-amazon-inspector-03d1fed512267e25	https://github.com/ossf/malicious-packages/blob/58745ee089f84a297f745ba5ab5fd03f7364e3d1/osv/malicious/pypi/prosocks/MAL-0000-amazon-inspector-03d1fed512267e25.json
 prosocks	1.0.14	MAL-2026-17167	https://osv.dev/vulnerability/MAL-2026-17167
+prosocks	1.0.15	MAL-0000-amazon-inspector-54d90ba93adf28c8	https://github.com/ossf/malicious-packages/blob/58745ee089f84a297f745ba5ab5fd03f7364e3d1/osv/malicious/pypi/prosocks/MAL-0000-amazon-inspector-54d90ba93adf28c8.json
 prosocks	1.0.15	MAL-2026-17167	https://osv.dev/vulnerability/MAL-2026-17167
 prosocks	1.0.16	MAL-2026-17167	https://osv.dev/vulnerability/MAL-2026-17167
 prosocks	1.0.17	MAL-2026-17167	https://osv.dev/vulnerability/MAL-2026-17167
