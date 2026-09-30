@@ -1843,7 +1843,7 @@ clawdist	1.2.5	MAL-2026-909	https://osv.dev/vulnerability/MAL-2026-909
 clawdist	1.2.6	MAL-2026-909	https://osv.dev/vulnerability/MAL-2026-909
 clcik	*	MAL-2023-1682	https://osv.dev/vulnerability/MAL-2023-1682
 clean-packager	1.0.0	MAL-2025-907	https://osv.dev/vulnerability/MAL-2025-907
-cleanup-string	1.0.0	MAL-0000-amazon-inspector-844c5afa9f00c021	https://github.com/ossf/malicious-packages/blob/70c5c878b7fbf4e4f3682620855c1628ddd91acc/osv/malicious/pypi/cleanup-string/MAL-0000-amazon-inspector-844c5afa9f00c021.json
+cleanup-string	1.0.0	MAL-2026-17325	https://osv.dev/vulnerability/MAL-2026-17325
 clearapi	0.1	MAL-2024-4893	https://osv.dev/vulnerability/MAL-2024-4893
 clears	0.0.0	MAL-2024-4894	https://osv.dev/vulnerability/MAL-2024-4894
 clears	0.1	MAL-2024-4894	https://osv.dev/vulnerability/MAL-2024-4894
@@ -2710,8 +2710,8 @@ dakhara	0.0.3	MAL-2026-1235	https://osv.dev/vulnerability/MAL-2026-1235
 dakhara	0.0.4	MAL-2026-1235	https://osv.dev/vulnerability/MAL-2026-1235
 darkglitch	1.2.0	MAL-2026-10756	https://osv.dev/vulnerability/MAL-2026-10756
 darkglitch	1.2.9	MAL-2026-10756	https://osv.dev/vulnerability/MAL-2026-10756
-darkglitch	1.4.4	MAL-0000-amazon-inspector-f7451533fee42a7f	https://github.com/ossf/malicious-packages/blob/70c5c878b7fbf4e4f3682620855c1628ddd91acc/osv/malicious/pypi/darkglitch/MAL-0000-amazon-inspector-f7451533fee42a7f.json
-darkglitch	1.4.5	MAL-0000-amazon-inspector-b8e3bc2b0ee4fc1f	https://github.com/ossf/malicious-packages/blob/70c5c878b7fbf4e4f3682620855c1628ddd91acc/osv/malicious/pypi/darkglitch/MAL-0000-amazon-inspector-b8e3bc2b0ee4fc1f.json
+darkglitch	1.4.4	MAL-2026-10756	https://osv.dev/vulnerability/MAL-2026-10756
+darkglitch	1.4.5	MAL-2026-10756	https://osv.dev/vulnerability/MAL-2026-10756
 darkig	1.0	MAL-2026-1409	https://osv.dev/vulnerability/MAL-2026-1409
 darkig	2.0	MAL-2026-1409	https://osv.dev/vulnerability/MAL-2026-1409
 darkmanontop	0.0.1	MAL-2024-5025	https://osv.dev/vulnerability/MAL-2024-5025
