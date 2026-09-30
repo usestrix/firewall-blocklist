@@ -87772,8 +87772,7 @@ get-new-script-roblox-fishing-simulator-script-x5c6h7	*	MAL-2024-9150	https://os
 get-new-script-roblox-murder-mystery-2-h-a-c-k-script-87l2lf	*	MAL-2024-9151	https://osv.dev/vulnerability/MAL-2024-9151
 get-new-script-viking-simulator-script-apo06a	*	MAL-2024-9152	https://osv.dev/vulnerability/MAL-2024-9152
 get-package-lint	0.1.0	MAL-2026-4572	https://osv.dev/vulnerability/MAL-2026-4572
-get-power	*	MAL-0000-ghsa-malware-a70fd3999ba803e9	https://github.com/ossf/malicious-packages/blob/e27db9ef441c7d731ef3f03a3fa980128d49b21e/osv/malicious/npm/get-power/MAL-0000-ghsa-malware-a70fd3999ba803e9.json
-get-power	1.0.3	MAL-2026-16156	https://osv.dev/vulnerability/MAL-2026-16156
+get-power	*	MAL-2026-16156	https://osv.dev/vulnerability/MAL-2026-16156
 get-start-synpress	*	MAL-2025-21365	https://osv.dev/vulnerability/MAL-2025-21365
 get-stats-from-planning-file	*	MAL-2025-21366	https://osv.dev/vulnerability/MAL-2025-21366
 get-them-args	1.3.3	MAL-2025-191103	https://osv.dev/vulnerability/MAL-2025-191103
@@ -99647,7 +99646,7 @@ iba-otatu-umita	*	MAL-2025-155849	https://osv.dev/vulnerability/MAL-2025-155849
 iba-otau-umita	*	MAL-2025-155850	https://osv.dev/vulnerability/MAL-2025-155850
 ibadge	*	MAL-2025-22874	https://osv.dev/vulnerability/MAL-2025-22874
 iban-otabauai-umaibtu	*	MAL-2025-155851	https://osv.dev/vulnerability/MAL-2025-155851
-iban-validator-js	*	MAL-0000-ghsa-malware-fff3da0c4ead2e4f	https://github.com/ossf/malicious-packages/blob/e27db9ef441c7d731ef3f03a3fa980128d49b21e/osv/malicious/npm/iban-validator-js/MAL-0000-ghsa-malware-fff3da0c4ead2e4f.json
+iban-validator-js	*	MAL-2026-17331	https://osv.dev/vulnerability/MAL-2026-17331
 ibanan	*	MAL-2025-22875	https://osv.dev/vulnerability/MAL-2025-22875
 ibanking-shell	*	MAL-2022-3746	https://osv.dev/vulnerability/MAL-2022-3746
 ibantay	*	MAL-2025-22876	https://osv.dev/vulnerability/MAL-2025-22876
@@ -109594,13 +109593,7 @@ jewel_oergf_whvo8_solstice	*	MAL-2025-44774	https://osv.dev/vulnerability/MAL-20
 jewel_z0tl4_70rlp_zephyr	*	MAL-2025-23776	https://osv.dev/vulnerability/MAL-2025-23776
 jewishapi	*	MAL-2024-936	https://osv.dev/vulnerability/MAL-2024-936
 jewwei-devapptea	*	MAL-2025-104546	https://osv.dev/vulnerability/MAL-2025-104546
-jexkcode	*	MAL-0000-ghsa-malware-8f980863fb53dc94	https://github.com/ossf/malicious-packages/blob/e27db9ef441c7d731ef3f03a3fa980128d49b21e/osv/malicious/npm/jexkcode/MAL-0000-ghsa-malware-8f980863fb53dc94.json
-jexkcode	1.0.1	MAL-2026-16220	https://osv.dev/vulnerability/MAL-2026-16220
-jexkcode	1.1.0	MAL-2026-16220	https://osv.dev/vulnerability/MAL-2026-16220
-jexkcode	1.1.1	MAL-2026-16220	https://osv.dev/vulnerability/MAL-2026-16220
-jexkcode	1.1.2	MAL-2026-16220	https://osv.dev/vulnerability/MAL-2026-16220
-jexkcode	1.1.3	MAL-2026-16220	https://osv.dev/vulnerability/MAL-2026-16220
-jexkcode	1.1.4	MAL-2026-16220	https://osv.dev/vulnerability/MAL-2026-16220
+jexkcode	*	MAL-2026-16220	https://osv.dev/vulnerability/MAL-2026-16220
 jexnpm	*	MAL-2025-23777	https://osv.dev/vulnerability/MAL-2025-23777
 jextic-eclib	*	MAL-2026-5712	https://osv.dev/vulnerability/MAL-2026-5712
 jfchat	*	MAL-2025-23778	https://osv.dev/vulnerability/MAL-2025-23778
