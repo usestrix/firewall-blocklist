@@ -170664,7 +170664,7 @@ reactive-cashflow	*	MAL-2022-5690	https://osv.dev/vulnerability/MAL-2022-5690
 reactive-cdk-app	*	MAL-2026-4254	https://osv.dev/vulnerability/MAL-2026-4254
 reactive-root	*	MAL-2025-31872	https://osv.dev/vulnerability/MAL-2025-31872
 reactjs-fabric	*	MAL-2025-55020	https://osv.dev/vulnerability/MAL-2025-55020
-reactjs-risk	99.17.1	MAL-0000-ossf-package-analysis-a32a318956967c92	https://github.com/ossf/malicious-packages/blob/2241c89beaaa8673f2e37ac26464c506bbd73b86/osv/malicious/npm/reactjs-risk/MAL-0000-ossf-package-analysis-a32a318956967c92.json
+reactjs-risk	99.17.1	MAL-2026-17339	https://osv.dev/vulnerability/MAL-2026-17339
 reactjs-slick	*	MAL-2022-5691	https://osv.dev/vulnerability/MAL-2022-5691
 reactlifecyclesycompat	*	MAL-2022-5692	https://osv.dev/vulnerability/MAL-2022-5692
 reactlogo-load	1.0.0	MAL-2026-16069	https://osv.dev/vulnerability/MAL-2026-16069
