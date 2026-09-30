@@ -59821,7 +59821,6 @@ ddok-escapes	4.3.4	MAL-2025-41549	https://osv.dev/vulnerability/MAL-2025-41549
 ddok-escapes	4.3.5	MAL-2025-41549	https://osv.dev/vulnerability/MAL-2025-41549
 ddok-escapes	4.3.6	MAL-2025-41549	https://osv.dev/vulnerability/MAL-2025-41549
 ddok-escapes	4.3.7	MAL-2025-41549	https://osv.dev/vulnerability/MAL-2025-41549
-ddok-modal	1.0.0	MAL-0000-ghsa-malware-71fe082b3de64bf7	https://github.com/ossf/malicious-packages/blob/c30543e10ab904d5b15eba1fee6a08f95dd63767/osv/malicious/npm/ddok-modal/MAL-0000-ghsa-malware-71fe082b3de64bf7.json
 ddok-modal	1.0.0	MAL-2026-10497	https://osv.dev/vulnerability/MAL-2026-10497
 ddos-gacor-v2	*	MAL-2025-192668	https://osv.dev/vulnerability/MAL-2025-192668
 ddos-l7	*	MAL-2025-191547	https://osv.dev/vulnerability/MAL-2025-191547
