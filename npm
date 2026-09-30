@@ -53994,6 +53994,7 @@ com.db.internetportal.es.olb-crossover-components	*	MAL-2025-41543	https://osv.d
 com.db.spain.common.fif.ngx-fusion-ufe	2.2.8	MAL-2025-6896	https://osv.dev/vulnerability/MAL-2025-6896
 com.db.spain.common.fif.ngx-fusion-ufe	2.2.9	MAL-2025-6896	https://osv.dev/vulnerability/MAL-2025-6896
 com.digmap.voicerecog	*	MAL-2025-17318	https://osv.dev/vulnerability/MAL-2025-17318
+com.epi.e2e_test	1.2.2	MAL-0000-amazon-inspector-5a0c1068af335818	https://github.com/ossf/malicious-packages/blob/1676add06579f82b97d3e500ea188294c0cb4e0c/osv/malicious/npm/com.epi.e2e_test/MAL-0000-amazon-inspector-5a0c1068af335818.json
 com.example.show-toast	*	MAL-2023-201	https://osv.dev/vulnerability/MAL-2023-201
 com.example.show-toast.req	68.2.2	MAL-2024-1999	https://osv.dev/vulnerability/MAL-2024-1999
 com.frl.aepsych	*	MAL-2025-2034	https://osv.dev/vulnerability/MAL-2025-2034
@@ -170728,7 +170729,9 @@ reactive-cashflow	*	MAL-2022-5690	https://osv.dev/vulnerability/MAL-2022-5690
 reactive-cdk-app	*	MAL-2026-4254	https://osv.dev/vulnerability/MAL-2026-4254
 reactive-root	*	MAL-2025-31872	https://osv.dev/vulnerability/MAL-2025-31872
 reactjs-fabric	*	MAL-2025-55020	https://osv.dev/vulnerability/MAL-2025-55020
+reactjs-risk	99.17.1	MAL-0000-amazon-inspector-3a5dc3ce9adff40e	https://github.com/ossf/malicious-packages/blob/1676add06579f82b97d3e500ea188294c0cb4e0c/osv/malicious/npm/reactjs-risk/MAL-0000-amazon-inspector-3a5dc3ce9adff40e.json
 reactjs-risk	99.17.1	MAL-2026-17339	https://osv.dev/vulnerability/MAL-2026-17339
+reactjs-risk	99.17.2	MAL-0000-amazon-inspector-0e58c82916c5199e	https://github.com/ossf/malicious-packages/blob/1676add06579f82b97d3e500ea188294c0cb4e0c/osv/malicious/npm/reactjs-risk/MAL-0000-amazon-inspector-0e58c82916c5199e.json
 reactjs-risk	99.17.2	MAL-2026-17339	https://osv.dev/vulnerability/MAL-2026-17339
 reactjs-slick	*	MAL-2022-5691	https://osv.dev/vulnerability/MAL-2022-5691
 reactlifecyclesycompat	*	MAL-2022-5692	https://osv.dev/vulnerability/MAL-2022-5692
