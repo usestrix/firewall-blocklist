@@ -1059,7 +1059,7 @@ beuatifulsoup	*	MAL-2023-1645	https://osv.dev/vulnerability/MAL-2023-1645
 beuatifulsoup4	*	MAL-2023-1646	https://osv.dev/vulnerability/MAL-2023-1646
 beutifulsoup	*	MAL-2023-1647	https://osv.dev/vulnerability/MAL-2023-1647
 beutifulsoup4	*	MAL-2023-1648	https://osv.dev/vulnerability/MAL-2023-1648
-bfox-build-utils	1.0.997	MAL-0000-amazon-inspector-cae53348f8261653	https://github.com/ossf/malicious-packages/blob/619d6e3583ce5f7fb9e3b640b5729c05599457d6/osv/malicious/pypi/bfox-build-utils/MAL-0000-amazon-inspector-cae53348f8261653.json
+bfox-build-utils	1.0.997	MAL-2026-17319	https://osv.dev/vulnerability/MAL-2026-17319
 bh-25-req-ase	0.0.3	MAL-2025-191690	https://osv.dev/vulnerability/MAL-2025-191690
 bh-usa-automate-req-ase	0.0.3	MAL-2025-191691	https://osv.dev/vulnerability/MAL-2025-191691
 bh-usa-req-ase	0.0.3	MAL-2025-191692	https://osv.dev/vulnerability/MAL-2025-191692

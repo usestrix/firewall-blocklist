@@ -42415,9 +42415,9 @@ book-short-grid-benchmark-route	*	MAL-2025-15957	https://osv.dev/vulnerability/M
 book-user-process-protected-execute	*	MAL-2025-15958	https://osv.dev/vulnerability/MAL-2025-15958
 book-web-deploy-object-byte	*	MAL-2025-185875	https://osv.dev/vulnerability/MAL-2025-185875
 bookatrip	*	MAL-2025-15959	https://osv.dev/vulnerability/MAL-2025-15959
-booking-eligibility	1.0.0	MAL-0000-amazon-inspector-2c93f5b06720659d	https://github.com/ossf/malicious-packages/blob/619d6e3583ce5f7fb9e3b640b5729c05599457d6/osv/malicious/npm/booking-eligibility/MAL-0000-amazon-inspector-2c93f5b06720659d.json
+booking-eligibility	1.0.0	MAL-2026-17316	https://osv.dev/vulnerability/MAL-2026-17316
 booking-react-slick	1.999.0	MAL-2024-1831	https://osv.dev/vulnerability/MAL-2024-1831
-booking-tasks	1.0.2	MAL-0000-amazon-inspector-08305a6c73bd94f2	https://github.com/ossf/malicious-packages/blob/619d6e3583ce5f7fb9e3b640b5729c05599457d6/osv/malicious/npm/booking-tasks/MAL-0000-amazon-inspector-08305a6c73bd94f2.json
+booking-tasks	1.0.2	MAL-2026-17317	https://osv.dev/vulnerability/MAL-2026-17317
 bookingan2	*	MAL-2025-179611	https://osv.dev/vulnerability/MAL-2025-179611
 bookingc	*	MAL-2025-15960	https://osv.dev/vulnerability/MAL-2025-15960
 bookingcom-admin	*	MAL-2025-1026	https://osv.dev/vulnerability/MAL-2025-1026
@@ -61496,8 +61496,8 @@ development-warp-halley-sagitta	*	MAL-2025-141639	https://osv.dev/vulnerability/
 development-webdriver-mocha-leda-bellatrix	*	MAL-2025-186583	https://osv.dev/vulnerability/MAL-2025-186583
 development-xerxes-dagda-repository	*	MAL-2025-186584	https://osv.dev/vulnerability/MAL-2025-186584
 development-xo-pegasus-schema	*	MAL-2025-141640	https://osv.dev/vulnerability/MAL-2025-141640
-developmentstelemetry	1.0.1	MAL-0000-amazon-inspector-98ef8863222571a8	https://github.com/ossf/malicious-packages/blob/619d6e3583ce5f7fb9e3b640b5729c05599457d6/osv/malicious/npm/developmentstelemetry/MAL-0000-amazon-inspector-98ef8863222571a8.json
-developmentstelemetry	1.0.2	MAL-0000-amazon-inspector-3263cf14c0493d40	https://github.com/ossf/malicious-packages/blob/619d6e3583ce5f7fb9e3b640b5729c05599457d6/osv/malicious/npm/developmentstelemetry/MAL-0000-amazon-inspector-3263cf14c0493d40.json
+developmentstelemetry	1.0.1	MAL-2026-17318	https://osv.dev/vulnerability/MAL-2026-17318
+developmentstelemetry	1.0.2	MAL-2026-17318	https://osv.dev/vulnerability/MAL-2026-17318
 devendrasingh	*	MAL-2025-171105	https://osv.dev/vulnerability/MAL-2025-171105
 devextreme-angular-rpk	21.2.8	MAL-2025-47305	https://osv.dev/vulnerability/MAL-2025-47305
 devextreme-rpk	21.2.8	MAL-2025-47422	https://osv.dev/vulnerability/MAL-2025-47422
