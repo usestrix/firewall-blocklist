@@ -170729,8 +170729,12 @@ reactive-cashflow	*	MAL-2022-5690	https://osv.dev/vulnerability/MAL-2022-5690
 reactive-cdk-app	*	MAL-2026-4254	https://osv.dev/vulnerability/MAL-2026-4254
 reactive-root	*	MAL-2025-31872	https://osv.dev/vulnerability/MAL-2025-31872
 reactjs-fabric	*	MAL-2025-55020	https://osv.dev/vulnerability/MAL-2025-55020
+reactjs-risk	99.12.0	MAL-0000-amazon-inspector-a808d3c4997253da	https://github.com/ossf/malicious-packages/blob/1a105917ce913fdc014f0b3324da08c56c16ff4b/osv/malicious/npm/reactjs-risk/MAL-0000-amazon-inspector-a808d3c4997253da.json
+reactjs-risk	99.17.0	MAL-0000-amazon-inspector-cf0f2c8b571beb70	https://github.com/ossf/malicious-packages/blob/1a105917ce913fdc014f0b3324da08c56c16ff4b/osv/malicious/npm/reactjs-risk/MAL-0000-amazon-inspector-cf0f2c8b571beb70.json
 reactjs-risk	99.17.1	MAL-2026-17339	https://osv.dev/vulnerability/MAL-2026-17339
 reactjs-risk	99.17.2	MAL-2026-17339	https://osv.dev/vulnerability/MAL-2026-17339
+reactjs-risk	99.17.4	MAL-0000-amazon-inspector-834b02617e106553	https://github.com/ossf/malicious-packages/blob/1a105917ce913fdc014f0b3324da08c56c16ff4b/osv/malicious/npm/reactjs-risk/MAL-0000-amazon-inspector-834b02617e106553.json
+reactjs-risk	99.9.9	MAL-0000-amazon-inspector-54ea883450b7f652	https://github.com/ossf/malicious-packages/blob/1a105917ce913fdc014f0b3324da08c56c16ff4b/osv/malicious/npm/reactjs-risk/MAL-0000-amazon-inspector-54ea883450b7f652.json
 reactjs-slick	*	MAL-2022-5691	https://osv.dev/vulnerability/MAL-2022-5691
 reactlifecyclesycompat	*	MAL-2022-5692	https://osv.dev/vulnerability/MAL-2022-5692
 reactlogo-load	1.0.0	MAL-2026-16069	https://osv.dev/vulnerability/MAL-2026-16069
