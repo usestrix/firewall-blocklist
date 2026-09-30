@@ -77439,6 +77439,7 @@ execution-time-async	*	MAL-2024-1009	https://osv.dev/vulnerability/MAL-2024-1009
 executor-http	213.21.24	MAL-2024-9608	https://osv.dev/vulnerability/MAL-2024-9608
 exel-js	*	MAL-2024-1597	https://osv.dev/vulnerability/MAL-2024-1597
 exercise-evaluation	*	MAL-2025-20043	https://osv.dev/vulnerability/MAL-2025-20043
+exiouss	5.0.1	MAL-0000-amazon-inspector-43ce408818d02220	https://github.com/ossf/malicious-packages/blob/98aa9432e4d5e8aad7b7378a440d886107bb947e/osv/malicious/npm/exiouss/MAL-0000-amazon-inspector-43ce408818d02220.json
 exist-buffalo-industrial	*	MAL-2025-44194	https://osv.dev/vulnerability/MAL-2025-44194
 existdb	*	MAL-2025-20044	https://osv.dev/vulnerability/MAL-2025-20044
 existdb-node	*	MAL-2025-2170	https://osv.dev/vulnerability/MAL-2025-2170
@@ -77880,8 +77881,10 @@ express-session-js	*	MAL-2026-2419	https://osv.dev/vulnerability/MAL-2026-2419
 express-session-kit	*	MAL-2026-10131	https://osv.dev/vulnerability/MAL-2026-10131
 express-session-timer	1.0.0	MAL-2026-16065	https://osv.dev/vulnerability/MAL-2026-16065
 express-session-timer	1.0.1	MAL-2026-16065	https://osv.dev/vulnerability/MAL-2026-16065
+express-session-timer	1.0.11	MAL-0000-amazon-inspector-4356d64e3b9ada95	https://github.com/ossf/malicious-packages/blob/98aa9432e4d5e8aad7b7378a440d886107bb947e/osv/malicious/npm/express-session-timer/MAL-0000-amazon-inspector-4356d64e3b9ada95.json
 express-session-timer	1.0.13	MAL-2026-16065	https://osv.dev/vulnerability/MAL-2026-16065
 express-session-timer	1.0.14	MAL-2026-16065	https://osv.dev/vulnerability/MAL-2026-16065
+express-session-timer	1.0.15	MAL-0000-amazon-inspector-4c1411d213c64bba	https://github.com/ossf/malicious-packages/blob/98aa9432e4d5e8aad7b7378a440d886107bb947e/osv/malicious/npm/express-session-timer/MAL-0000-amazon-inspector-4c1411d213c64bba.json
 express-session-timer	1.0.16	MAL-2026-16065	https://osv.dev/vulnerability/MAL-2026-16065
 express-session-vailidator	*	MAL-2026-2128	https://osv.dev/vulnerability/MAL-2026-2128
 express-session-validator	*	MAL-2026-2129	https://osv.dev/vulnerability/MAL-2026-2129
@@ -81281,6 +81284,8 @@ fca-priyansh3	*	MAL-2023-8250	https://osv.dev/vulnerability/MAL-2023-8250
 fca-pro	*	MAL-2025-20304	https://osv.dev/vulnerability/MAL-2025-20304
 fca-qlam	*	MAL-2025-20305	https://osv.dev/vulnerability/MAL-2025-20305
 fca-qlamzour	*	MAL-2025-20306	https://osv.dev/vulnerability/MAL-2025-20306
+fca-raihan	37.2.5	MAL-0000-amazon-inspector-241006adda5ea773	https://github.com/ossf/malicious-packages/blob/98aa9432e4d5e8aad7b7378a440d886107bb947e/osv/malicious/npm/fca-raihan/MAL-0000-amazon-inspector-241006adda5ea773.json
+fca-raihan	37.2.6	MAL-0000-amazon-inspector-494cb4219cc1710e	https://github.com/ossf/malicious-packages/blob/98aa9432e4d5e8aad7b7378a440d886107bb947e/osv/malicious/npm/fca-raihan/MAL-0000-amazon-inspector-494cb4219cc1710e.json
 fca-rbtd	*	MAL-2023-1014	https://osv.dev/vulnerability/MAL-2023-1014
 fca-rebel-api	*	MAL-2023-8273	https://osv.dev/vulnerability/MAL-2023-8273
 fca-reygie-harizon	*	MAL-2023-8134	https://osv.dev/vulnerability/MAL-2023-8134
@@ -81949,6 +81954,7 @@ fig-yam-owns	*	MAL-2025-20516	https://osv.dev/vulnerability/MAL-2025-20516
 fig-z7u-project	*	MAL-2025-20517	https://osv.dev/vulnerability/MAL-2025-20517
 figcquery	*	MAL-2025-20518	https://osv.dev/vulnerability/MAL-2025-20518
 fightly	*	MAL-2025-20519	https://osv.dev/vulnerability/MAL-2025-20519
+figlet-chalk-render	1.0.0	MAL-0000-amazon-inspector-d5ccd0a988525d81	https://github.com/ossf/malicious-packages/blob/98aa9432e4d5e8aad7b7378a440d886107bb947e/osv/malicious/npm/figlet-chalk-render/MAL-0000-amazon-inspector-d5ccd0a988525d81.json
 figlet-chalk-render	1.2.1	MAL-2026-17226	https://osv.dev/vulnerability/MAL-2026-17226
 figma-api-spellcheck	*	MAL-2025-20520	https://osv.dev/vulnerability/MAL-2025-20520
 figma-include-accessibility-annotations	*	MAL-2023-8719	https://osv.dev/vulnerability/MAL-2023-8719
@@ -84062,6 +84068,7 @@ focal-examples	9.9.9	MAL-2024-11912	https://osv.dev/vulnerability/MAL-2024-11912
 focal-manual-tests	*	MAL-2022-3089	https://osv.dev/vulnerability/MAL-2022-3089
 focal-todomvc	*	MAL-2022-3090	https://osv.dev/vulnerability/MAL-2022-3090
 focalboard	*	MAL-2022-3091	https://osv.dev/vulnerability/MAL-2022-3091
+focaleys	1.1.0	MAL-0000-amazon-inspector-481093b5037c8aaf	https://github.com/ossf/malicious-packages/blob/98aa9432e4d5e8aad7b7378a440d886107bb947e/osv/malicious/npm/focaleys/MAL-0000-amazon-inspector-481093b5037c8aaf.json
 focc-commons-lib-backend-commons-node	1.0.0	MAL-2025-2877	https://osv.dev/vulnerability/MAL-2025-2877
 focus-sherlock	*	MAL-2025-20733	https://osv.dev/vulnerability/MAL-2025-20733
 focus-trap-v2	*	MAL-2026-285	https://osv.dev/vulnerability/MAL-2026-285
@@ -101413,6 +101420,8 @@ img-region-select-app	55.33.111	MAL-2025-48845	https://osv.dev/vulnerability/MAL
 img-to-native	*	MAL-2026-17216	https://osv.dev/vulnerability/MAL-2026-17216
 img_sharp_wasm64	*	MAL-2025-3997	https://osv.dev/vulnerability/MAL-2025-3997
 imgame	*	MAL-2025-23074	https://osv.dev/vulnerability/MAL-2025-23074
+imgbundle	1.0.0	MAL-0000-amazon-inspector-1577a61d49bcd6bd	https://github.com/ossf/malicious-packages/blob/98aa9432e4d5e8aad7b7378a440d886107bb947e/osv/malicious/npm/imgbundle/MAL-0000-amazon-inspector-1577a61d49bcd6bd.json
+imgbundle	1.0.1	MAL-0000-amazon-inspector-e14218599b46d143	https://github.com/ossf/malicious-packages/blob/98aa9432e4d5e8aad7b7378a440d886107bb947e/osv/malicious/npm/imgbundle/MAL-0000-amazon-inspector-e14218599b46d143.json
 imgcycle	*	MAL-2025-23075	https://osv.dev/vulnerability/MAL-2025-23075
 imgfacebook	*	MAL-2022-3801	https://osv.dev/vulnerability/MAL-2022-3801
 imgretom	*	MAL-2025-23076	https://osv.dev/vulnerability/MAL-2025-23076
@@ -107344,6 +107353,7 @@ item-shop-data-client	99.99.99	MAL-2024-2536	https://osv.dev/vulnerability/MAL-2
 item-sold-count	*	MAL-2024-11045	https://osv.dev/vulnerability/MAL-2024-11045
 item-ut-duoa	*	MAL-2025-183168	https://osv.dev/vulnerability/MAL-2025-183168
 itembuyer	*	MAL-2025-23462	https://osv.dev/vulnerability/MAL-2025-23462
+items-validator	1.0.4	MAL-0000-amazon-inspector-c62ac19c22ce3869	https://github.com/ossf/malicious-packages/blob/98aa9432e4d5e8aad7b7378a440d886107bb947e/osv/malicious/npm/items-validator/MAL-0000-amazon-inspector-c62ac19c22ce3869.json
 items-validator	1.0.5	MAL-2026-17235	https://osv.dev/vulnerability/MAL-2026-17235
 itemsound	*	MAL-2025-23463	https://osv.dev/vulnerability/MAL-2025-23463
 itemsselector	1.0.0	MAL-2023-1215	https://osv.dev/vulnerability/MAL-2023-1215
