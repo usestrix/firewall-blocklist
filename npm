@@ -178176,6 +178176,7 @@ runbitman	*	MAL-2025-32566	https://osv.dev/vulnerability/MAL-2025-32566
 runeaudio-runeui	*	MAL-2022-5866	https://osv.dev/vulnerability/MAL-2022-5866
 runescpae	*	MAL-2025-32567	https://osv.dev/vulnerability/MAL-2025-32567
 runeworld	*	MAL-2025-32568	https://osv.dev/vulnerability/MAL-2025-32568
+runhelper	1.0.0	MAL-0000-amazon-inspector-3b30a78c30f51a72	https://github.com/ossf/malicious-packages/blob/9d3cf232d56bc09a93b64a1e3dd0abf7e9f63049/osv/malicious/npm/runhelper/MAL-0000-amazon-inspector-3b30a78c30f51a72.json
 runkit-embed	*	MAL-2022-5867	https://osv.dev/vulnerability/MAL-2022-5867
 runkit-engines	*	MAL-2022-5868	https://osv.dev/vulnerability/MAL-2022-5868
 runkit-ui	*	MAL-2022-5869	https://osv.dev/vulnerability/MAL-2022-5869
@@ -202281,6 +202282,8 @@ test-star-web-zeta-minify	*	MAL-2025-189889	https://osv.dev/vulnerability/MAL-20
 test-sudo-notify-meta-orchestrate	*	MAL-2025-189890	https://osv.dev/vulnerability/MAL-2025-189890
 test-supply-npm-lib-4	3.3.3	MAL-2026-17314	https://osv.dev/vulnerability/MAL-2026-17314
 test-supply-npm-lib-4	3.3.4	MAL-2026-17314	https://osv.dev/vulnerability/MAL-2026-17314
+test-supply-npm-lib-4	3.3.5	MAL-0000-amazon-inspector-44f10381ad047460	https://github.com/ossf/malicious-packages/blob/9d3cf232d56bc09a93b64a1e3dd0abf7e9f63049/osv/malicious/npm/test-supply-npm-lib-4/MAL-0000-amazon-inspector-44f10381ad047460.json
+test-supply-npm-lib-4	3.3.6	MAL-0000-amazon-inspector-3eae72a7bc74450d	https://github.com/ossf/malicious-packages/blob/9d3cf232d56bc09a93b64a1e3dd0abf7e9f63049/osv/malicious/npm/test-supply-npm-lib-4/MAL-0000-amazon-inspector-3eae72a7bc74450d.json
 test-syncfusion-bridge	*	MAL-2025-36701	https://osv.dev/vulnerability/MAL-2025-36701
 test-task-react-client	*	MAL-2022-6493	https://osv.dev/vulnerability/MAL-2022-6493
 test-taurus-triton-rollup	*	MAL-2025-148584	https://osv.dev/vulnerability/MAL-2025-148584
