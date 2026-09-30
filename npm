@@ -22458,6 +22458,7 @@
 @zentrafinance/sdk	*	MAL-2026-3814	https://osv.dev/vulnerability/MAL-2026-3814
 @zentrafinance/types	*	MAL-2026-3815	https://osv.dev/vulnerability/MAL-2026-3815
 @zeos-libs/auth-client	*	MAL-2022-793	https://osv.dev/vulnerability/MAL-2022-793
+@zeronexcode/baileys	7.0.0-zeronex.8	MAL-0000-zeronexcode-baileys	https://github.com/ossf/malicious-packages/blob/c632d32d9f42ee51be0735b85e2ee27dc741d86b/osv/malicious/npm/@zeronexcode/baileys/MAL-0000-zeronexcode-baileys.json
 @zettle-bo/account-settings	*	MAL-2023-8189	https://osv.dev/vulnerability/MAL-2023-8189
 @zettle-bo/account-statement	*	MAL-2023-8190	https://osv.dev/vulnerability/MAL-2023-8190
 @zettle-bo/apps	35.0.0	MAL-2024-1767	https://osv.dev/vulnerability/MAL-2024-1767
