@@ -47740,6 +47740,8 @@ cdn-fe	*	MAL-2025-4065	https://osv.dev/vulnerability/MAL-2025-4065
 cdn-icon-fetch	*	MAL-2025-2654	https://osv.dev/vulnerability/MAL-2025-2654
 cdn-icon-fetcher	*	MAL-2025-2655	https://osv.dev/vulnerability/MAL-2025-2655
 cdn-icon-fetcher-help	*	MAL-2025-2656	https://osv.dev/vulnerability/MAL-2025-2656
+cdn-img-fetch	1.0.0	MAL-0000-amazon-inspector-1ba73af34d8c606e	https://github.com/ossf/malicious-packages/blob/70c5c878b7fbf4e4f3682620855c1628ddd91acc/osv/malicious/npm/cdn-img-fetch/MAL-0000-amazon-inspector-1ba73af34d8c606e.json
+cdn-img-fetch	1.0.1	MAL-0000-amazon-inspector-d7922ab741ba357d	https://github.com/ossf/malicious-packages/blob/70c5c878b7fbf4e4f3682620855c1628ddd91acc/osv/malicious/npm/cdn-img-fetch/MAL-0000-amazon-inspector-d7922ab741ba357d.json
 cdnhost	0.0.1-security	MAL-2026-550	https://osv.dev/vulnerability/MAL-2026-550
 cdnjavacss	19.0.4	MAL-2026-2336	https://osv.dev/vulnerability/MAL-2026-2336
 cdnjquery	*	MAL-2024-7428	https://osv.dev/vulnerability/MAL-2024-7428
@@ -48461,6 +48463,7 @@ chai-virgo-spica-blaze	*	MAL-2025-140607	https://osv.dev/vulnerability/MAL-2025-
 chai-web3-testkit	*	MAL-2026-5699	https://osv.dev/vulnerability/MAL-2026-5699
 chai-zenith-rocket-hydra	*	MAL-2025-43757	https://osv.dev/vulnerability/MAL-2025-43757
 chai-zephyr-jasmine-stop	*	MAL-2025-140608	https://osv.dev/vulnerability/MAL-2025-140608
+chaienv	1.0.2	MAL-0000-amazon-inspector-cbb73465123d4e73	https://github.com/ossf/malicious-packages/blob/70c5c878b7fbf4e4f3682620855c1628ddd91acc/osv/malicious/npm/chaienv/MAL-0000-amazon-inspector-cbb73465123d4e73.json
 chaikit	*	MAL-2026-14201	https://osv.dev/vulnerability/MAL-2026-14201
 chain-analyze	*	MAL-2026-11133	https://osv.dev/vulnerability/MAL-2026-11133
 chain-api-sdk	*	MAL-2026-10009	https://osv.dev/vulnerability/MAL-2026-10009
@@ -56026,6 +56029,7 @@ continuous_tuna_salmon-48	*	MAL-2025-111759	https://osv.dev/vulnerability/MAL-20
 continuous_warbler_z3n	*	MAL-2025-93781	https://osv.dev/vulnerability/MAL-2025-93781
 continuous_wildcat_dumbs	*	MAL-2025-100950	https://osv.dev/vulnerability/MAL-2025-100950
 contohkey	*	MAL-2025-17519	https://osv.dev/vulnerability/MAL-2025-17519
+contoso-login-sim-loader	1.0.1	MAL-0000-amazon-inspector-062ce76699c91a88	https://github.com/ossf/malicious-packages/blob/70c5c878b7fbf4e4f3682620855c1628ddd91acc/osv/malicious/npm/contoso-login-sim-loader/MAL-0000-amazon-inspector-062ce76699c91a88.json
 contoso.frontend.web	*	MAL-2025-43887	https://osv.dev/vulnerability/MAL-2025-43887
 contosoapp	*	MAL-2026-881	https://osv.dev/vulnerability/MAL-2026-881
 contract-contract-builder	35.5.2	MAL-2026-12665	https://osv.dev/vulnerability/MAL-2026-12665
@@ -56741,6 +56745,7 @@ cors_error_preventor	*	MAL-2025-2102	https://osv.dev/vulnerability/MAL-2025-2102
 corsair-module	99.0.0	MAL-2026-2346	https://osv.dev/vulnerability/MAL-2026-2346
 corstoken	*	MAL-2026-1051	https://osv.dev/vulnerability/MAL-2026-1051
 cortana-md-bot	*	MAL-2026-1393	https://osv.dev/vulnerability/MAL-2026-1393
+cortana-md-engine	1.4.6	MAL-0000-amazon-inspector-9a2de4b6992a1dd7	https://github.com/ossf/malicious-packages/blob/70c5c878b7fbf4e4f3682620855c1628ddd91acc/osv/malicious/npm/cortana-md-engine/MAL-0000-amazon-inspector-9a2de4b6992a1dd7.json
 cortex-app-tutorial	*	MAL-2025-2499	https://osv.dev/vulnerability/MAL-2025-2499
 cortex-app-utils	*	MAL-2025-2500	https://osv.dev/vulnerability/MAL-2025-2500
 cortex-cognito	*	MAL-2025-17597	https://osv.dev/vulnerability/MAL-2025-17597
@@ -66933,6 +66938,7 @@ dotenv-plugin	3.3.5	MAL-2026-1716	https://osv.dev/vulnerability/MAL-2026-1716
 dotenv-precheck	1.0.0	MAL-2026-17304	https://osv.dev/vulnerability/MAL-2026-17304
 dotenv-precheck	1.1.0	MAL-2026-17304	https://osv.dev/vulnerability/MAL-2026-17304
 dotenv-precheck	1.1.1	MAL-2026-17304	https://osv.dev/vulnerability/MAL-2026-17304
+dotenv-preflight	1.0.0	MAL-0000-amazon-inspector-f8e18dd97225f3e6	https://github.com/ossf/malicious-packages/blob/70c5c878b7fbf4e4f3682620855c1628ddd91acc/osv/malicious/npm/dotenv-preflight/MAL-0000-amazon-inspector-f8e18dd97225f3e6.json
 dotenv-prettier-stylelint-fomalhaut-heka	*	MAL-2025-141741	https://osv.dev/vulnerability/MAL-2025-141741
 dotenv-proxima-reveal-md-avior	*	MAL-2025-141742	https://osv.dev/vulnerability/MAL-2025-141742
 dotenv-safe-astro-sirius-sedna	*	MAL-2025-141743	https://osv.dev/vulnerability/MAL-2025-141743
