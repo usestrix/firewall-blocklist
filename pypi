@@ -3145,7 +3145,6 @@ dontdownloadthis	0.0.0	MAL-2024-5094	https://osv.dev/vulnerability/MAL-2024-5094
 donutautosellsrc	0.3.7	MAL-2026-17192	https://osv.dev/vulnerability/MAL-2026-17192
 donutautosellsrc	0.3.8	MAL-2026-17192	https://osv.dev/vulnerability/MAL-2026-17192
 donutautosellsrc	0.3.9	MAL-2026-17192	https://osv.dev/vulnerability/MAL-2026-17192
-donutpromotion	0.1.0	MAL-0000-donutpromotion-0.1.0	https://github.com/ossf/malicious-packages/blob/3ac500a802ea61f42e2844e2117731288e121d03/osv/malicious/pypi/donutpromotion/MAL-0000-donutpromotion-0.1.0.json
 donutpromotion	0.1.0	MAL-2026-17196	https://osv.dev/vulnerability/MAL-2026-17196
 dotenv-sync	1.0.0	MAL-2026-6082	https://osv.dev/vulnerability/MAL-2026-6082
 doughnuts	3.5.1	MAL-2025-41665	https://osv.dev/vulnerability/MAL-2025-41665
