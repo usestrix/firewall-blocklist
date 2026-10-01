@@ -13609,6 +13609,7 @@ shom	1.0	MAL-2024-6008	https://osv.dev/vulnerability/MAL-2024-6008
 shoots-api-test	0.1.1	MAL-2025-985	https://osv.dev/vulnerability/MAL-2025-985
 shoots-bynet	0.1.1	MAL-2025-986	https://osv.dev/vulnerability/MAL-2025-986
 shoots-flutter	0.1.1	MAL-2025-987	https://osv.dev/vulnerability/MAL-2025-987
+shortneer	0.1.0	MAL-0000-kam193-5e166ae1253c8868	https://github.com/ossf/malicious-packages/blob/365f6c4d65de5764b72571b685bd5272533743cb/osv/malicious/pypi/shortneer/MAL-0000-kam193-5e166ae1253c8868.json
 shot2story	99.6	MAL-2024-10829	https://osv.dev/vulnerability/MAL-2024-10829
 si-python	0.0.1	MAL-2024-6009	https://osv.dev/vulnerability/MAL-2024-6009
 siamphishtest	2.1.6	MAL-2024-6010	https://osv.dev/vulnerability/MAL-2024-6010
