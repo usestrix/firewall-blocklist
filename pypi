@@ -1024,7 +1024,6 @@ beautifusloup4	*	MAL-2023-1630	https://osv.dev/vulnerability/MAL-2023-1630
 beautifusoup	*	MAL-2023-1631	https://osv.dev/vulnerability/MAL-2023-1631
 beautifuulsoup	*	MAL-2023-1632	https://osv.dev/vulnerability/MAL-2023-1632
 beautifuulsoup4	*	MAL-2023-1633	https://osv.dev/vulnerability/MAL-2023-1633
-beautifytext	1.0.3	MAL-0000-beautifytext	https://github.com/ossf/malicious-packages/blob/d496cf1131b56526081a7f2021da4490437db76e/osv/malicious/pypi/beautifytext/MAL-0000-beautifytext.json
 beautifytext	1.0.3	MAL-2026-17417	https://osv.dev/vulnerability/MAL-2026-17417
 beautifytext	1.0.4	MAL-2026-17417	https://osv.dev/vulnerability/MAL-2026-17417
 beautifytext	1.0.7	MAL-2026-17417	https://osv.dev/vulnerability/MAL-2026-17417
