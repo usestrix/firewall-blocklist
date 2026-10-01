@@ -13962,10 +13962,10 @@ splitram	*	MAL-2023-6809	https://osv.dev/vulnerability/MAL-2023-6809
 splitsplit	*	MAL-2023-6810	https://osv.dev/vulnerability/MAL-2023-6810
 splitstudy	*	MAL-2023-6811	https://osv.dev/vulnerability/MAL-2023-6811
 splitver	*	MAL-2023-6812	https://osv.dev/vulnerability/MAL-2023-6812
-spo365-graph	1.0.0	MAL-0000-kam193-ea8dd7600717964f	https://github.com/ossf/malicious-packages/blob/92791c5a974cf09a1b21a81482693edb015207db/osv/malicious/pypi/spo365-graph/MAL-0000-kam193-ea8dd7600717964f.json
-spo365-graph	1.1.0	MAL-0000-kam193-ea8dd7600717964f	https://github.com/ossf/malicious-packages/blob/92791c5a974cf09a1b21a81482693edb015207db/osv/malicious/pypi/spo365-graph/MAL-0000-kam193-ea8dd7600717964f.json
-spo365-graph	1.1.1	MAL-0000-kam193-ea8dd7600717964f	https://github.com/ossf/malicious-packages/blob/92791c5a974cf09a1b21a81482693edb015207db/osv/malicious/pypi/spo365-graph/MAL-0000-kam193-ea8dd7600717964f.json
-spo365-graph	1.1.2	MAL-0000-kam193-ea8dd7600717964f	https://github.com/ossf/malicious-packages/blob/92791c5a974cf09a1b21a81482693edb015207db/osv/malicious/pypi/spo365-graph/MAL-0000-kam193-ea8dd7600717964f.json
+spo365-graph	1.0.0	MAL-2026-17421	https://osv.dev/vulnerability/MAL-2026-17421
+spo365-graph	1.1.0	MAL-2026-17421	https://osv.dev/vulnerability/MAL-2026-17421
+spo365-graph	1.1.1	MAL-2026-17421	https://osv.dev/vulnerability/MAL-2026-17421
+spo365-graph	1.1.2	MAL-2026-17421	https://osv.dev/vulnerability/MAL-2026-17421
 spokeo	0.1.0	MAL-2025-6594	https://osv.dev/vulnerability/MAL-2025-6594
 spokeo	0.1.1	MAL-2025-6594	https://osv.dev/vulnerability/MAL-2025-6594
 spokeoapi	0.1.0	MAL-2025-6595	https://osv.dev/vulnerability/MAL-2025-6595
