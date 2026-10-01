@@ -77919,6 +77919,7 @@ exporter-trace-otlp-http	213.21.24	MAL-2024-9611	https://osv.dev/vulnerability/M
 exporter-trace-otlp-proto	213.21.24	MAL-2024-9612	https://osv.dev/vulnerability/MAL-2024-9612
 exporting-ref-project	*	MAL-2022-2923	https://osv.dev/vulnerability/MAL-2022-2923
 exppress	*	MAL-2025-20065	https://osv.dev/vulnerability/MAL-2025-20065
+exprdd	5.2.1	MAL-0000-invisirisk-exprdd	https://github.com/ossf/malicious-packages/blob/5fb77783006f828ddcd6ed5a225644924afbc6db/osv/malicious/npm/exprdd/MAL-0000-invisirisk-exprdd.json
 exprdd	5.2.1	MAL-2026-17241	https://osv.dev/vulnerability/MAL-2026-17241
 expreeeess	1.0.0	MAL-2026-2442	https://osv.dev/vulnerability/MAL-2026-2442
 expres.js	*	MAL-2026-11302	https://osv.dev/vulnerability/MAL-2026-11302
@@ -77994,6 +77995,7 @@ express-ini	*	MAL-2026-10505	https://osv.dev/vulnerability/MAL-2026-10505
 express-ini-soap-local	*	MAL-2025-142379	https://osv.dev/vulnerability/MAL-2025-142379
 express-initial	*	MAL-2026-6543	https://osv.dev/vulnerability/MAL-2026-6543
 express-janus-auth-publish	*	MAL-2025-142380	https://osv.dev/vulnerability/MAL-2025-142380
+express-javascript	5.2.1	MAL-0000-invisirisk-express-javascript	https://github.com/ossf/malicious-packages/blob/5fb77783006f828ddcd6ed5a225644924afbc6db/osv/malicious/npm/express-javascript/MAL-0000-invisirisk-express-javascript.json
 express-javascript	5.2.1	MAL-2026-17242	https://osv.dev/vulnerability/MAL-2026-17242
 express-js-web	*	MAL-2025-192968	https://osv.dev/vulnerability/MAL-2025-192968
 express-jscookie	*	MAL-2025-4829	https://osv.dev/vulnerability/MAL-2025-4829
@@ -78019,6 +78021,7 @@ express-mongo-santi	1.1.9	MAL-2026-12377	https://osv.dev/vulnerability/MAL-2026-
 express-my-error-handler	*	MAL-2025-192350	https://osv.dev/vulnerability/MAL-2025-192350
 express-national-redirect2	*	MAL-2025-20081	https://osv.dev/vulnerability/MAL-2025-20081
 express-nconf-husky-mocha	*	MAL-2025-142387	https://osv.dev/vulnerability/MAL-2025-142387
+express-nodejs	5.2.1	MAL-0000-invisirisk-express-nodejs	https://github.com/ossf/malicious-packages/blob/5fb77783006f828ddcd6ed5a225644924afbc6db/osv/malicious/npm/express-nodejs/MAL-0000-invisirisk-express-nodejs.json
 express-nodejs	5.2.1	MAL-2026-17243	https://osv.dev/vulnerability/MAL-2026-17243
 express-non-blocking-radiant-fork	*	MAL-2025-142388	https://osv.dev/vulnerability/MAL-2025-142388
 express-odin-hermes-build	*	MAL-2025-142389	https://osv.dev/vulnerability/MAL-2025-142389
@@ -78104,12 +78107,16 @@ expressjs-mynodeutils	*	MAL-2025-20097	https://osv.dev/vulnerability/MAL-2025-20
 expressos	*	MAL-2025-190961	https://osv.dev/vulnerability/MAL-2025-190961
 expressyession	*	MAL-2022-2931	https://osv.dev/vulnerability/MAL-2022-2931
 exprono	*	MAL-2025-20098	https://osv.dev/vulnerability/MAL-2025-20098
+exprrdd	5.2.1	MAL-0000-invisirisk-exprrdd	https://github.com/ossf/malicious-packages/blob/5fb77783006f828ddcd6ed5a225644924afbc6db/osv/malicious/npm/exprrdd/MAL-0000-invisirisk-exprrdd.json
 exprrdd	5.2.1	MAL-2026-17244	https://osv.dev/vulnerability/MAL-2026-17244
 exprrrress	1.0.0	MAL-2026-2443	https://osv.dev/vulnerability/MAL-2026-2443
 exprses	*	MAL-2025-20099	https://osv.dev/vulnerability/MAL-2025-20099
 exprss	*	MAL-2025-20100	https://osv.dev/vulnerability/MAL-2025-20100
+exptrdd	5.2.1	MAL-0000-invisirisk-exptrdd	https://github.com/ossf/malicious-packages/blob/5fb77783006f828ddcd6ed5a225644924afbc6db/osv/malicious/npm/exptrdd/MAL-0000-invisirisk-exptrdd.json
 exptrdd	5.2.1	MAL-2026-17245	https://osv.dev/vulnerability/MAL-2026-17245
+exptred	5.2.1	MAL-0000-invisirisk-exptred	https://github.com/ossf/malicious-packages/blob/5fb77783006f828ddcd6ed5a225644924afbc6db/osv/malicious/npm/exptred/MAL-0000-invisirisk-exptred.json
 exptred	5.2.1	MAL-2026-17246	https://osv.dev/vulnerability/MAL-2026-17246
+exptredd	5.2.1	MAL-0000-invisirisk-exptredd	https://github.com/ossf/malicious-packages/blob/5fb77783006f828ddcd6ed5a225644924afbc6db/osv/malicious/npm/exptredd/MAL-0000-invisirisk-exptredd.json
 exptredd	5.2.1	MAL-2026-17247	https://osv.dev/vulnerability/MAL-2026-17247
 expvariantassignmentsdk	10.0.1	MAL-2025-47670	https://osv.dev/vulnerability/MAL-2025-47670
 expvariantassignmentsdk	10.0.2	MAL-2025-47670	https://osv.dev/vulnerability/MAL-2025-47670
@@ -170598,6 +170605,7 @@ react-next-dom	1.1.7	MAL-2026-6825	https://osv.dev/vulnerability/MAL-2026-6825
 react-next-dom	17.2.7	MAL-2026-6825	https://osv.dev/vulnerability/MAL-2026-6825
 react-next-dom	17.2.8	MAL-2026-6825	https://osv.dev/vulnerability/MAL-2026-6825
 react-next-vite	1.2.9	MAL-2026-10211	https://osv.dev/vulnerability/MAL-2026-10211
+react-nodejs	19.3.0	MAL-0000-invisirisk-react-nodejs	https://github.com/ossf/malicious-packages/blob/5fb77783006f828ddcd6ed5a225644924afbc6db/osv/malicious/npm/react-nodejs/MAL-0000-invisirisk-react-nodejs.json
 react-nodejs	19.3.0	MAL-2026-17294	https://osv.dev/vulnerability/MAL-2026-17294
 react-nodes	4.0.1	MAL-2025-6327	https://osv.dev/vulnerability/MAL-2025-6327
 react-notifications-alert	*	MAL-2025-49361	https://osv.dev/vulnerability/MAL-2025-49361
@@ -226962,6 +226970,7 @@ xenos-xenon-husky-webpack	*	MAL-2025-149696	https://osv.dev/vulnerability/MAL-20
 xenos-zenobia-postcss-janus	*	MAL-2025-149697	https://osv.dev/vulnerability/MAL-2025-149697
 xenoupdater	*	MAL-2024-11020	https://osv.dev/vulnerability/MAL-2024-11020
 xepress	*	MAL-2025-39700	https://osv.dev/vulnerability/MAL-2025-39700
+xeprews	5.2.1	MAL-0000-invisirisk-xeprews	https://github.com/ossf/malicious-packages/blob/5fb77783006f828ddcd6ed5a225644924afbc6db/osv/malicious/npm/xeprews/MAL-0000-invisirisk-xeprews.json
 xeprews	5.2.1	MAL-2026-17248	https://osv.dev/vulnerability/MAL-2026-17248
 xeric-salmon-scallop	*	MAL-2025-71682	https://osv.dev/vulnerability/MAL-2025-71682
 xeric-yellow-mollusk	*	MAL-2025-71683	https://osv.dev/vulnerability/MAL-2025-71683
