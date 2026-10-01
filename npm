@@ -86088,8 +86088,8 @@ futuota	*	MAL-2025-21083	https://osv.dev/vulnerability/MAL-2025-21083
 future-blue-koala	*	MAL-2025-68480	https://osv.dev/vulnerability/MAL-2025-68480
 future-blush-crayfish	*	MAL-2025-68481	https://osv.dev/vulnerability/MAL-2025-68481
 future-gray-opossum	*	MAL-2025-68482	https://osv.dev/vulnerability/MAL-2025-68482
-future-scripts	0.0.2	MAL-0000-future-scripts	https://github.com/ossf/malicious-packages/blob/f78e357dbab98bf05bfc33b4628f1ad997346432/osv/malicious/npm/future-scripts/MAL-0000-future-scripts.json
-future-scripts	0.0.3	MAL-0000-future-scripts	https://github.com/ossf/malicious-packages/blob/f78e357dbab98bf05bfc33b4628f1ad997346432/osv/malicious/npm/future-scripts/MAL-0000-future-scripts.json
+future-scripts	0.0.2	MAL-2026-17418	https://osv.dev/vulnerability/MAL-2026-17418
+future-scripts	0.0.3	MAL-2026-17418	https://osv.dev/vulnerability/MAL-2026-17418
 future-sold-correctly	*	MAL-2025-44343	https://osv.dev/vulnerability/MAL-2025-44343
 future-teal-tapir	*	MAL-2025-68483	https://osv.dev/vulnerability/MAL-2025-68483
 future_armadillo_z3n	*	MAL-2025-120156	https://osv.dev/vulnerability/MAL-2025-120156
