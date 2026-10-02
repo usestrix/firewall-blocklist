@@ -114121,6 +114121,7 @@ kartykgithub-ph-b	0.0.1-security	MAL-2026-17424	https://osv.dev/vulnerability/MA
 kartykgithub-ph-b	0.0.1-security.0	MAL-2026-17424	https://osv.dev/vulnerability/MAL-2026-17424
 kartykgithub-ph-b	1.0.0	MAL-2026-17424	https://osv.dev/vulnerability/MAL-2026-17424
 kartykgithub-ph-e	1.0.0	MAL-2026-17425	https://osv.dev/vulnerability/MAL-2026-17425
+kartykgithub-ph-f	1.0.0	MAL-0000-ghsa-malware-1e9463feb27a295a	https://github.com/ossf/malicious-packages/blob/e8e887f4e0eae6065100aa4ec4aca4d9a5ec912d/osv/malicious/npm/kartykgithub-ph-f/MAL-0000-ghsa-malware-1e9463feb27a295a.json
 kartykgithub-takedown-a	1.0.0	MAL-2026-16248	https://osv.dev/vulnerability/MAL-2026-16248
 kartykgithub-takedown-a	1.0.1	MAL-2026-16248	https://osv.dev/vulnerability/MAL-2026-16248
 kartykgithub-takedown-a	1.0.2	MAL-2026-16248	https://osv.dev/vulnerability/MAL-2026-16248
