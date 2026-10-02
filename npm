@@ -27243,6 +27243,9 @@ ai-texts	*	MAL-2026-14217	https://osv.dev/vulnerability/MAL-2026-14217
 ai-texts-utils	*	MAL-2026-14302	https://osv.dev/vulnerability/MAL-2026-14302
 ai-verify-shared-library	*	MAL-2025-2237	https://osv.dev/vulnerability/MAL-2025-2237
 ai-workbench	2.7.8	MAL-2025-6399	https://osv.dev/vulnerability/MAL-2025-6399
+ai-workshop-maa15-radio	*	MAL-0000-invisirisk-ai-workshop-maa15-radio	https://github.com/ossf/malicious-packages/blob/ab2ca446d93dc3c104816dd96feabc544a2d59d0/osv/malicious/npm/ai-workshop-maa15-radio/MAL-0000-invisirisk-ai-workshop-maa15-radio.json
+ai-workshop-radio-app	*	MAL-0000-invisirisk-ai-workshop-radio-app	https://github.com/ossf/malicious-packages/blob/ab2ca446d93dc3c104816dd96feabc544a2d59d0/osv/malicious/npm/ai-workshop-radio-app/MAL-0000-invisirisk-ai-workshop-radio-app.json
+ai-workshop-radio-lambda	*	MAL-0000-invisirisk-ai-workshop-radio-lambda	https://github.com/ossf/malicious-packages/blob/ab2ca446d93dc3c104816dd96feabc544a2d59d0/osv/malicious/npm/ai-workshop-radio-lambda/MAL-0000-invisirisk-ai-workshop-radio-lambda.json
 ai3	0.3.5	MAL-2026-4476	https://osv.dev/vulnerability/MAL-2026-4476
 ai_challenge	*	MAL-2025-3814	https://osv.dev/vulnerability/MAL-2025-3814
 aiasahu-sautg-infaru	*	MAL-2025-172742	https://osv.dev/vulnerability/MAL-2025-172742
@@ -28189,6 +28192,7 @@ alerttest	*	MAL-2025-14291	https://osv.dev/vulnerability/MAL-2025-14291
 alex_cloud	*	MAL-2025-1058	https://osv.dev/vulnerability/MAL-2025-1058
 alex_evil-test-package	*	MAL-2024-10743	https://osv.dev/vulnerability/MAL-2024-10743
 alex_v1	*	MAL-2025-1059	https://osv.dev/vulnerability/MAL-2025-1059
+alexa-cybertron-team-code-review-agent	*	MAL-0000-invisirisk-alexa-cybertron-team-code-review-agent	https://github.com/ossf/malicious-packages/blob/ab2ca446d93dc3c104816dd96feabc544a2d59d0/osv/malicious/npm/alexa-cybertron-team-code-review-agent/MAL-0000-invisirisk-alexa-cybertron-team-code-review-agent.json
 alexablueprintswizard	1.0.0	MAL-2024-9498	https://osv.dev/vulnerability/MAL-2024-9498
 alexablueprintswizard	190.0.0	MAL-2024-9498	https://osv.dev/vulnerability/MAL-2024-9498
 alexablueprintswizard	190.11.0	MAL-2024-9498	https://osv.dev/vulnerability/MAL-2024-9498
@@ -31812,6 +31816,7 @@ apl-announcements	9.9.9	MAL-2026-2728	https://osv.dev/vulnerability/MAL-2026-272
 apl-client	*	MAL-2022-1050	https://osv.dev/vulnerability/MAL-2022-1050
 apl-github-test	9.9.9	MAL-2026-2729	https://osv.dev/vulnerability/MAL-2026-2729
 apl-html	*	MAL-2022-1051	https://osv.dev/vulnerability/MAL-2022-1051
+apl-rive-renderer	*	MAL-0000-invisirisk-apl-rive-renderer	https://github.com/ossf/malicious-packages/blob/ab2ca446d93dc3c104816dd96feabc544a2d59d0/osv/malicious/npm/apl-rive-renderer/MAL-0000-invisirisk-apl-rive-renderer.json
 apl-validator	*	MAL-2024-1568	https://osv.dev/vulnerability/MAL-2024-1568
 aplay-audio	*	MAL-2025-14652	https://osv.dev/vulnerability/MAL-2025-14652
 aploybro	*	MAL-2022-1052	https://osv.dev/vulnerability/MAL-2022-1052
@@ -43384,6 +43389,7 @@ brinkbit-schema-permissions	*	MAL-2025-16175	https://osv.dev/vulnerability/MAL-2
 brinkbit-schema-playerdata	*	MAL-2025-16176	https://osv.dev/vulnerability/MAL-2025-16176
 brinkbit-schema-project	*	MAL-2025-16177	https://osv.dev/vulnerability/MAL-2025-16177
 brinkbit-schema-user	*	MAL-2025-16178	https://osv.dev/vulnerability/MAL-2025-16178
+brioche-apl-dev-env	*	MAL-0000-invisirisk-brioche-apl-dev-env	https://github.com/ossf/malicious-packages/blob/ab2ca446d93dc3c104816dd96feabc544a2d59d0/osv/malicious/npm/brioche-apl-dev-env/MAL-0000-invisirisk-brioche-apl-dev-env.json
 brioche1-notthedevs	*	MAL-2025-100117	https://osv.dev/vulnerability/MAL-2025-100117
 brisk-kismet-wiw904-project	*	MAL-2025-16179	https://osv.dev/vulnerability/MAL-2025-16179
 brisk-web-ssr	99.99.1	MAL-2026-1664	https://osv.dev/vulnerability/MAL-2026-1664
@@ -82132,6 +82138,7 @@ figma-intern-shell	*	MAL-2022-3029	https://osv.dev/vulnerability/MAL-2022-3029
 figma-ping	*	MAL-2023-440	https://osv.dev/vulnerability/MAL-2023-440
 figma-plugins-and-widgets	*	MAL-2025-1647	https://osv.dev/vulnerability/MAL-2025-1647
 figma-scripts	*	MAL-2022-3030	https://osv.dev/vulnerability/MAL-2022-3030
+figma-to-apl	*	MAL-0000-invisirisk-figma-to-apl	https://github.com/ossf/malicious-packages/blob/ab2ca446d93dc3c104816dd96feabc544a2d59d0/osv/malicious/npm/figma-to-apl/MAL-0000-invisirisk-figma-to-apl.json
 figma-to-streamlit	*	MAL-2025-20521	https://osv.dev/vulnerability/MAL-2025-20521
 figstack	*	MAL-2025-20522	https://osv.dev/vulnerability/MAL-2025-20522
 figurer	*	MAL-2025-20523	https://osv.dev/vulnerability/MAL-2025-20523
@@ -123673,6 +123680,7 @@ live-blue-dove	*	MAL-2025-69185	https://osv.dev/vulnerability/MAL-2025-69185
 live-bronze-goat	*	MAL-2025-69186	https://osv.dev/vulnerability/MAL-2025-69186
 live-canvas-tests	10.0.1	MAL-2025-47685	https://osv.dev/vulnerability/MAL-2025-47685
 live-copper-xerinae	*	MAL-2025-69187	https://osv.dev/vulnerability/MAL-2025-69187
+live-detection-dashboard	*	MAL-0000-invisirisk-live-detection-dashboard	https://github.com/ossf/malicious-packages/blob/ab2ca446d93dc3c104816dd96feabc544a2d59d0/osv/malicious/npm/live-detection-dashboard/MAL-0000-invisirisk-live-detection-dashboard.json
 live-emerald-centipede	*	MAL-2025-138840	https://osv.dev/vulnerability/MAL-2025-138840
 live-magenta-porcupine	*	MAL-2025-144479	https://osv.dev/vulnerability/MAL-2025-144479
 live-reload-on-error	*	MAL-2026-11326	https://osv.dev/vulnerability/MAL-2026-11326
@@ -143522,6 +143530,7 @@ nikeyi-zaitaluo-yidian	*	MAL-2025-45317	https://osv.dev/vulnerability/MAL-2025-4
 nikkei-adapter	*	MAL-2022-4853	https://osv.dev/vulnerability/MAL-2022-4853
 nikmodzp	*	MAL-2024-11055	https://osv.dev/vulnerability/MAL-2024-11055
 nikou-node	2.0.1	MAL-2026-4620	https://osv.dev/vulnerability/MAL-2026-4620
+niksinnkatalapp	*	MAL-0000-invisirisk-niksinnkatalapp	https://github.com/ossf/malicious-packages/blob/ab2ca446d93dc3c104816dd96feabc544a2d59d0/osv/malicious/npm/niksinnkatalapp/MAL-0000-invisirisk-niksinnkatalapp.json
 nileleetpkg	*	MAL-2025-47912	https://osv.dev/vulnerability/MAL-2025-47912
 nileninjapkg	1.0.0	MAL-2025-48370	https://osv.dev/vulnerability/MAL-2025-48370
 nileninjapkg2	1.0.0	MAL-2025-48371	https://osv.dev/vulnerability/MAL-2025-48371
@@ -151914,6 +151923,7 @@ okipeqhzwdvtnkjx	*	MAL-2025-28180	https://osv.dev/vulnerability/MAL-2025-28180
 okmanalright	*	MAL-2025-3160	https://osv.dev/vulnerability/MAL-2025-3160
 okmcyrplhnvewxfu	*	MAL-2025-28181	https://osv.dev/vulnerability/MAL-2025-28181
 okqaelhmbfuwipvz	*	MAL-2022-5053	https://osv.dev/vulnerability/MAL-2022-5053
+okra-cloud-cdk	*	MAL-0000-invisirisk-okra-cloud-cdk	https://github.com/ossf/malicious-packages/blob/ab2ca446d93dc3c104816dd96feabc544a2d59d0/osv/malicious/npm/okra-cloud-cdk/MAL-0000-invisirisk-okra-cloud-cdk.json
 okt-scripts	0.0.1	MAL-2025-1908	https://osv.dev/vulnerability/MAL-2025-1908
 okta-asinan28-breki	*	MAL-2025-74772	https://osv.dev/vulnerability/MAL-2025-74772
 okta-asinan4-sluey	*	MAL-2025-64649	https://osv.dev/vulnerability/MAL-2025-64649
