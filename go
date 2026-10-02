@@ -16,3 +16,5 @@ github.com/shallowmulti/hypert	*	MAL-2025-2548	https://osv.dev/vulnerability/MAL
 github.com/thankfulmai/hypert	*	MAL-2025-2549	https://osv.dev/vulnerability/MAL-2025-2549
 github.com/utilizedsun/layout	*	MAL-2025-2550	https://osv.dev/vulnerability/MAL-2025-2550
 github.com/vainreboot/layout	*	MAL-2025-2551	https://osv.dev/vulnerability/MAL-2025-2551
+gocommunity.io/orderedbtree	*	MAL-0000-graphalgo-orderedbtree	https://github.com/ossf/malicious-packages/blob/19378737e6b2cff2954981f5761d9a56f6b58d5f/osv/malicious/go/gocommunity.io/orderedbtree/MAL-0000-graphalgo-orderedbtree.json
+gogets.dev/btreex	*	MAL-0000-graphalgo-btreex	https://github.com/ossf/malicious-packages/blob/19378737e6b2cff2954981f5761d9a56f6b58d5f/osv/malicious/go/gogets.dev/btreex/MAL-0000-graphalgo-btreex.json
