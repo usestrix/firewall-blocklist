@@ -95692,8 +95692,7 @@ hardhat-test-log	*	MAL-2026-6369	https://osv.dev/vulnerability/MAL-2026-6369
 hardhat-waffle	*	MAL-2025-22213	https://osv.dev/vulnerability/MAL-2025-22213
 hardhat-web3-deploy	*	MAL-2023-493	https://osv.dev/vulnerability/MAL-2023-493
 hardhat-web3-utility	*	MAL-2023-494	https://osv.dev/vulnerability/MAL-2023-494
-hardhat-zet	*	MAL-0000-ghsa-malware-781273d2c802d378	https://github.com/ossf/malicious-packages/blob/f8706514014b8b98fe3d78e603c31a40e034a30e/osv/malicious/npm/hardhat-zet/MAL-0000-ghsa-malware-781273d2c802d378.json
-hardhat-zet	2.0.1	MAL-2026-17234	https://osv.dev/vulnerability/MAL-2026-17234
+hardhat-zet	*	MAL-2026-17234	https://osv.dev/vulnerability/MAL-2026-17234
 hardhat2-config	*	MAL-2026-1414	https://osv.dev/vulnerability/MAL-2026-1414
 hardhta	*	MAL-2026-960	https://osv.dev/vulnerability/MAL-2026-960
 hardinfo	*	MAL-2025-22214	https://osv.dev/vulnerability/MAL-2025-22214
@@ -206333,7 +206332,7 @@ transify-helper-cli	*	MAL-2024-11111	https://osv.dev/vulnerability/MAL-2024-1111
 transitive-vulnerability-demo	*	MAL-2024-7758	https://osv.dev/vulnerability/MAL-2024-7758
 transitive_lib	*	MAL-2026-2157	https://osv.dev/vulnerability/MAL-2026-2157
 translatables	1.0.0	MAL-2025-6965	https://osv.dev/vulnerability/MAL-2025-6965
-translate-base-font	*	MAL-0000-ghsa-malware-d0ae1970321abd04	https://github.com/ossf/malicious-packages/blob/f8706514014b8b98fe3d78e603c31a40e034a30e/osv/malicious/npm/translate-base-font/MAL-0000-ghsa-malware-d0ae1970321abd04.json
+translate-base-font	*	MAL-2026-17458	https://osv.dev/vulnerability/MAL-2026-17458
 translate-readme	0.1.5	MAL-2024-9887	https://osv.dev/vulnerability/MAL-2024-9887
 translate-readme	0.1.6	MAL-2024-9887	https://osv.dev/vulnerability/MAL-2024-9887
 translation-note	*	MAL-2026-484	https://osv.dev/vulnerability/MAL-2026-484
@@ -209856,7 +209855,7 @@ ui-2	*	MAL-2025-48767	https://osv.dev/vulnerability/MAL-2025-48767
 ui-ace	*	MAL-2022-6746	https://osv.dev/vulnerability/MAL-2022-6746
 ui-ad-marketplace	*	MAL-2025-37590	https://osv.dev/vulnerability/MAL-2025-37590
 ui-advert-manager	*	MAL-2025-37591	https://osv.dev/vulnerability/MAL-2025-37591
-ui-base-colors	*	MAL-0000-ghsa-malware-1f7251d8342fbc78	https://github.com/ossf/malicious-packages/blob/f8706514014b8b98fe3d78e603c31a40e034a30e/osv/malicious/npm/ui-base-colors/MAL-0000-ghsa-malware-1f7251d8342fbc78.json
+ui-base-colors	*	MAL-2026-17459	https://osv.dev/vulnerability/MAL-2026-17459
 ui-challenge	*	MAL-2022-6747	https://osv.dev/vulnerability/MAL-2022-6747
 ui-cluster-driver-civo	1.0.0	MAL-2024-11477	https://osv.dev/vulnerability/MAL-2024-11477
 ui-cluster-driver-otccce	*	MAL-2025-191555	https://osv.dev/vulnerability/MAL-2025-191555
@@ -209908,7 +209907,7 @@ ui-tooltip	1.1.2	MAL-2024-10282	https://osv.dev/vulnerability/MAL-2024-10282
 ui-utils-udhay-alerts	*	MAL-2026-2659	https://osv.dev/vulnerability/MAL-2026-2659
 ui-weave	*	MAL-2026-5406	https://osv.dev/vulnerability/MAL-2026-5406
 ui-zephyr	19.20.0	MAL-2023-8628	https://osv.dev/vulnerability/MAL-2023-8628
-ui.dist.min.js	*	MAL-0000-ghsa-malware-cf50ae695b73c666	https://github.com/ossf/malicious-packages/blob/f8706514014b8b98fe3d78e603c31a40e034a30e/osv/malicious/npm/ui.dist.min.js/MAL-0000-ghsa-malware-cf50ae695b73c666.json
+ui.dist.min.js	*	MAL-2026-17460	https://osv.dev/vulnerability/MAL-2026-17460
 ui5-cap-event-app-server	9.9.9	MAL-2026-945	https://osv.dev/vulnerability/MAL-2026-945
 ui5-mobx-state-tree	*	MAL-2025-37600	https://osv.dev/vulnerability/MAL-2025-37600
 ui_assets	*	MAL-2025-37601	https://osv.dev/vulnerability/MAL-2025-37601
