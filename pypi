@@ -16404,6 +16404,10 @@ voto3	0.3	MAL-2024-11746	https://osv.dev/vulnerability/MAL-2024-11746
 voto3	0.3.0	MAL-2024-11746	https://osv.dev/vulnerability/MAL-2024-11746
 voto3	0.7.0	MAL-2024-11746	https://osv.dev/vulnerability/MAL-2024-11746
 voto3	0.9.0	MAL-2024-11746	https://osv.dev/vulnerability/MAL-2024-11746
+voxeval	0.4.2	MAL-0000-kam193-4ffc5162b3b77de4	https://github.com/ossf/malicious-packages/blob/1de465fccb9330abbf4b17b0e7b77f23e780484c/osv/malicious/pypi/voxeval/MAL-0000-kam193-4ffc5162b3b77de4.json
+voxeval	0.4.3	MAL-0000-kam193-4ffc5162b3b77de4	https://github.com/ossf/malicious-packages/blob/1de465fccb9330abbf4b17b0e7b77f23e780484c/osv/malicious/pypi/voxeval/MAL-0000-kam193-4ffc5162b3b77de4.json
+voxeval	0.4.4	MAL-0000-kam193-4ffc5162b3b77de4	https://github.com/ossf/malicious-packages/blob/1de465fccb9330abbf4b17b0e7b77f23e780484c/osv/malicious/pypi/voxeval/MAL-0000-kam193-4ffc5162b3b77de4.json
+voxeval	0.4.5	MAL-0000-kam193-4ffc5162b3b77de4	https://github.com/ossf/malicious-packages/blob/1de465fccb9330abbf4b17b0e7b77f23e780484c/osv/malicious/pypi/voxeval/MAL-0000-kam193-4ffc5162b3b77de4.json
 vper	*	MAL-2023-2348	https://osv.dev/vulnerability/MAL-2023-2348
 vpyer	*	MAL-2023-2349	https://osv.dev/vulnerability/MAL-2023-2349
 vramx	1.6.2	MAL-2025-6614	https://osv.dev/vulnerability/MAL-2025-6614
