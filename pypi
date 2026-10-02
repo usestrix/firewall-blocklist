@@ -4782,6 +4782,7 @@ friendly-greeting-tools	0.3.5	MAL-2026-17416	https://osv.dev/vulnerability/MAL-2
 friendly-greeting-tools	0.3.6	MAL-2026-17416	https://osv.dev/vulnerability/MAL-2026-17416
 friendly-greeting-tools	0.3.7	MAL-2026-17416	https://osv.dev/vulnerability/MAL-2026-17416
 friendly-tools	0.1	MAL-2026-17419	https://osv.dev/vulnerability/MAL-2026-17419
+friendly-tools	0.2	MAL-0000-friendly-tools	https://github.com/ossf/malicious-packages/blob/a494ac7ffd11136a878586ecc4d50473bfc69ccf/osv/malicious/pypi/friendly-tools/MAL-0000-friendly-tools.json
 friendly-tools	0.2	MAL-2026-17419	https://osv.dev/vulnerability/MAL-2026-17419
 friendlyproxies	1.0	MAL-2024-5165	https://osv.dev/vulnerability/MAL-2024-5165
 fromwherebitch	0.1.3	MAL-2025-191735	https://osv.dev/vulnerability/MAL-2025-191735
