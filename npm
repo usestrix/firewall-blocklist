@@ -17410,10 +17410,7 @@
 @wongapl/offer-selector	100.0.0	MAL-2025-728	https://osv.dev/vulnerability/MAL-2025-728
 @wongapl/offer-ui-tools	100.0.0	MAL-2025-729	https://osv.dev/vulnerability/MAL-2025-729
 @wongapl/sliders	100.0.0	MAL-2025-730	https://osv.dev/vulnerability/MAL-2025-730
-@woodpecker-web-shared/components	*	MAL-0000-ghsa-malware-a8758860e4cd2b09	https://github.com/ossf/malicious-packages/blob/2833c99a31948f479518be37cc819d4e2354625e/osv/malicious/npm/@woodpecker-web-shared/components/MAL-0000-ghsa-malware-a8758860e4cd2b09.json
-@woodpecker-web-shared/components	1.20.4	MAL-2026-16354	https://osv.dev/vulnerability/MAL-2026-16354
-@woodpecker-web-shared/components	2.20.5	MAL-2026-16354	https://osv.dev/vulnerability/MAL-2026-16354
-@woodpecker-web-shared/components	4.20.5	MAL-2026-16354	https://osv.dev/vulnerability/MAL-2026-16354
+@woodpecker-web-shared/components	*	MAL-2026-16354	https://osv.dev/vulnerability/MAL-2026-16354
 @woody-mrs-potato/utils-banking	1.0.0	MAL-2024-10227	https://osv.dev/vulnerability/MAL-2024-10227
 @woody-mrs-potato/utils-banking	1.0.1	MAL-2024-10227	https://osv.dev/vulnerability/MAL-2024-10227
 @woody-mrs-potato/utils-banking	1.0.10	MAL-2024-10227	https://osv.dev/vulnerability/MAL-2024-10227
@@ -42326,8 +42323,7 @@ bnpl-core	35.8.2	MAL-2026-13023	https://osv.dev/vulnerability/MAL-2026-13023
 bnpl-forms-test-utils	35.4.1	MAL-2026-13024	https://osv.dev/vulnerability/MAL-2026-13024
 bnpl-molecule-mobile-bnpl-onboarding	35.7.8	MAL-2026-13025	https://osv.dev/vulnerability/MAL-2026-13025
 bnpl-molecule-mobile-bnpl-selector	35.1.1	MAL-2026-13026	https://osv.dev/vulnerability/MAL-2026-13026
-bnppf-flag-icons	*	MAL-0000-ghsa-malware-e0671ec4edd4de7b	https://github.com/ossf/malicious-packages/blob/2833c99a31948f479518be37cc819d4e2354625e/osv/malicious/npm/bnppf-flag-icons/MAL-0000-ghsa-malware-e0671ec4edd4de7b.json
-bnppf-flag-icons	99.99.99	MAL-2026-16350	https://osv.dev/vulnerability/MAL-2026-16350
+bnppf-flag-icons	*	MAL-2026-16350	https://osv.dev/vulnerability/MAL-2026-16350
 bnppf-font-icons	*	MAL-2024-9523	https://osv.dev/vulnerability/MAL-2024-9523
 bnrn	*	MAL-2025-15910	https://osv.dev/vulnerability/MAL-2025-15910
 bnrn-cli	*	MAL-2025-15911	https://osv.dev/vulnerability/MAL-2025-15911
@@ -133356,7 +133352,6 @@ mfacord	1.0.4	MAL-2026-15557	https://osv.dev/vulnerability/MAL-2026-15557
 mfafix	1.0.0	MAL-2026-15630	https://osv.dev/vulnerability/MAL-2026-15630
 mfafix	1.1.0	MAL-2026-15630	https://osv.dev/vulnerability/MAL-2026-15630
 mfafix	1.1.1	MAL-2026-15630	https://osv.dev/vulnerability/MAL-2026-15630
-mfahelper	1.0.0	MAL-0000-ghsa-malware-84ee181e9b6b445c	https://github.com/ossf/malicious-packages/blob/2833c99a31948f479518be37cc819d4e2354625e/osv/malicious/npm/mfahelper/MAL-0000-ghsa-malware-84ee181e9b6b445c.json
 mfahelper	1.0.0	MAL-2026-17308	https://osv.dev/vulnerability/MAL-2026-17308
 mfakit	1.4.0	MAL-2026-15558	https://osv.dev/vulnerability/MAL-2026-15558
 mfatest2	1.0.0	MAL-2026-16102	https://osv.dev/vulnerability/MAL-2026-16102
@@ -207535,7 +207530,6 @@ turbo-bike-inspector	*	MAL-2025-3504	https://osv.dev/vulnerability/MAL-2025-3504
 turbo-he	*	MAL-2026-2943	https://osv.dev/vulnerability/MAL-2026-2943
 turbo-json-parser	*	MAL-2026-1213	https://osv.dev/vulnerability/MAL-2026-1213
 turbo-leven	*	MAL-2026-2944	https://osv.dev/vulnerability/MAL-2026-2944
-turbo-ws	1.0.0	MAL-0000-ghsa-malware-71a94f67778999b9	https://github.com/ossf/malicious-packages/blob/2833c99a31948f479518be37cc819d4e2354625e/osv/malicious/npm/turbo-ws/MAL-0000-ghsa-malware-71a94f67778999b9.json
 turbo-ws	1.0.0	MAL-2026-16440	https://osv.dev/vulnerability/MAL-2026-16440
 turbograft	*	MAL-2025-37315	https://osv.dev/vulnerability/MAL-2025-37315
 turbolinks-tests	*	MAL-2023-8466	https://osv.dev/vulnerability/MAL-2023-8466
