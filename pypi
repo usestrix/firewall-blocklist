@@ -1555,8 +1555,8 @@ candyultra	*	MAL-2023-2536	https://osv.dev/vulnerability/MAL-2023-2536
 candyurl	*	MAL-2023-2537	https://osv.dev/vulnerability/MAL-2023-2537
 candyvisa	*	MAL-2023-2538	https://osv.dev/vulnerability/MAL-2023-2538
 canvas-crawler	0.1	MAL-2025-2943	https://osv.dev/vulnerability/MAL-2025-2943
-caoxiltts	0.1.0	MAL-0000-kam193-c0d27d780e356c6a	https://github.com/ossf/malicious-packages/blob/19c4993c7e081d9ac54dbda10955f083b2001115/osv/malicious/pypi/caoxiltts/MAL-0000-kam193-c0d27d780e356c6a.json
-caoxiltts	0.1.1	MAL-0000-kam193-c0d27d780e356c6a	https://github.com/ossf/malicious-packages/blob/19c4993c7e081d9ac54dbda10955f083b2001115/osv/malicious/pypi/caoxiltts/MAL-0000-kam193-c0d27d780e356c6a.json
+caoxiltts	0.1.0	MAL-2026-17471	https://osv.dev/vulnerability/MAL-2026-17471
+caoxiltts	0.1.1	MAL-2026-17471	https://osv.dev/vulnerability/MAL-2026-17471
 capmoneercloudclient	1.0.0	MAL-2024-4845	https://osv.dev/vulnerability/MAL-2024-4845
 capmonsstercloudcliennt	1.0.0	MAL-2024-4846	https://osv.dev/vulnerability/MAL-2024-4846
 capmonsstercloudclient	1.0.0	MAL-2024-4847	https://osv.dev/vulnerability/MAL-2024-4847
