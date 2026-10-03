@@ -16408,6 +16408,7 @@ voto3	0.9.0	MAL-2024-11746	https://osv.dev/vulnerability/MAL-2024-11746
 voxcpmtts3	0.1.0	MAL-2026-17463	https://osv.dev/vulnerability/MAL-2026-17463
 voxcpmtts3	0.1.1	MAL-2026-17463	https://osv.dev/vulnerability/MAL-2026-17463
 voxcpmtts3	0.1.2	MAL-2026-17463	https://osv.dev/vulnerability/MAL-2026-17463
+voxcpmui3	0.1.0	MAL-0000-kam193-5050cd1cac91a217	https://github.com/ossf/malicious-packages/blob/d815fe1d16282cd1bad66df164ab5dfca4154311/osv/malicious/pypi/voxcpmui3/MAL-0000-kam193-5050cd1cac91a217.json
 voxel-tts	0.5.0	MAL-2026-17461	https://osv.dev/vulnerability/MAL-2026-17461
 voxel-tts	0.5.1	MAL-2026-17461	https://osv.dev/vulnerability/MAL-2026-17461
 voxeval	0.4.2	MAL-2026-17457	https://osv.dev/vulnerability/MAL-2026-17457
