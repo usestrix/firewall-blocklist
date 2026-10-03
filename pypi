@@ -5812,6 +5812,9 @@ infotool	*	MAL-2023-3805	https://osv.dev/vulnerability/MAL-2023-3805
 infourl	*	MAL-2023-3806	https://osv.dev/vulnerability/MAL-2023-3806
 infovirtual	*	MAL-2023-3807	https://osv.dev/vulnerability/MAL-2023-3807
 infovm	*	MAL-2023-3808	https://osv.dev/vulnerability/MAL-2023-3808
+infrabench	0.1.0	MAL-0000-kam193-4abc7154004498e9	https://github.com/ossf/malicious-packages/blob/9a8b7783a5499cd663c0174a838c9bc303f1f0d3/osv/malicious/pypi/infrabench/MAL-0000-kam193-4abc7154004498e9.json
+infrabench	0.1.1	MAL-0000-kam193-4abc7154004498e9	https://github.com/ossf/malicious-packages/blob/9a8b7783a5499cd663c0174a838c9bc303f1f0d3/osv/malicious/pypi/infrabench/MAL-0000-kam193-4abc7154004498e9.json
+infrabench	0.2.0	MAL-0000-kam193-4abc7154004498e9	https://github.com/ossf/malicious-packages/blob/9a8b7783a5499cd663c0174a838c9bc303f1f0d3/osv/malicious/pypi/infrabench/MAL-0000-kam193-4abc7154004498e9.json
 init2winit	9.9.9	MAL-2026-1989	https://osv.dev/vulnerability/MAL-2026-1989
 initer	0.2.1	MAL-2025-6524	https://osv.dev/vulnerability/MAL-2025-6524
 initer	0.2.2	MAL-2025-6524	https://osv.dev/vulnerability/MAL-2025-6524
@@ -16408,6 +16411,7 @@ voto3	0.9.0	MAL-2024-11746	https://osv.dev/vulnerability/MAL-2024-11746
 voxcpmeval	0.1.0	MAL-2026-17465	https://osv.dev/vulnerability/MAL-2026-17465
 voxcpmintel	0.1.0	MAL-2026-17468	https://osv.dev/vulnerability/MAL-2026-17468
 voxcpmkit	0.1.0	MAL-2026-17466	https://osv.dev/vulnerability/MAL-2026-17466
+voxcpmruntime	0.1.0	MAL-0000-kam193-12f18950a276ca27	https://github.com/ossf/malicious-packages/blob/9a8b7783a5499cd663c0174a838c9bc303f1f0d3/osv/malicious/pypi/voxcpmruntime/MAL-0000-kam193-12f18950a276ca27.json
 voxcpmtts3	0.1.0	MAL-2026-17463	https://osv.dev/vulnerability/MAL-2026-17463
 voxcpmtts3	0.1.1	MAL-2026-17463	https://osv.dev/vulnerability/MAL-2026-17463
 voxcpmtts3	0.1.2	MAL-2026-17463	https://osv.dev/vulnerability/MAL-2026-17463
