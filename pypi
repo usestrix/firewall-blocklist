@@ -464,7 +464,6 @@ anrok	0.1.1	MAL-2025-47745	https://osv.dev/vulnerability/MAL-2025-47745
 ansiicolor	1.2.5	MAL-2024-4767	https://osv.dev/vulnerability/MAL-2024-4767
 ansishade	0.1.0	MAL-2024-12190	https://osv.dev/vulnerability/MAL-2024-12190
 ant-mcp-proxy-for-test	0.10.0	MAL-2026-2669	https://osv.dev/vulnerability/MAL-2026-2669
-anthropic-sdk	0.1.0	MAL-0000-kam193-84360a33b408842f	https://github.com/ossf/malicious-packages/blob/2d714c21132548028bf921f1d0e468574f35f39e/osv/malicious/pypi/anthropic-sdk/MAL-0000-kam193-84360a33b408842f.json
 anthropic-sdk	0.1.0	MAL-2026-17472	https://osv.dev/vulnerability/MAL-2026-17472
 anthropickit	999.9.9	MAL-2026-5755	https://osv.dev/vulnerability/MAL-2026-5755
 anthropy	0.0.1	MAL-2026-5273	https://osv.dev/vulnerability/MAL-2026-5273
