@@ -3268,9 +3268,12 @@ rails_structured_logging	1.0.1	MAL-2026-1920	https://osv.dev/vulnerability/MAL-2
 rails_structured_logging	1.0.2	MAL-2026-1920	https://osv.dev/vulnerability/MAL-2026-1920
 rails_test-serving	0.1.4.2	MAL-2024-7008	https://osv.dev/vulnerability/MAL-2024-7008
 rate-beer	0.0.2	MAL-2024-7009	https://osv.dev/vulnerability/MAL-2024-7009
+rate-limit-mini	1.0.0	MAL-0000-amazon-inspector-edfe870cadc07265	https://github.com/ossf/malicious-packages/blob/91d2e1ffa8bc0b4c45316e606d7aec08bf284248/osv/malicious/rubygems/rate-limit-mini/MAL-0000-amazon-inspector-edfe870cadc07265.json
 rbi-central	0.0.2	MAL-2024-7010	https://osv.dev/vulnerability/MAL-2024-7010
 redis_connectable	90002.0	MAL-2025-192916	https://osv.dev/vulnerability/MAL-2025-192916
 referral-candy	0.1.0	MAL-2024-7011	https://osv.dev/vulnerability/MAL-2024-7011
+req-throttle-mini	1.0.0	MAL-0000-amazon-inspector-91bd1a5cb0c3bacb	https://github.com/ossf/malicious-packages/blob/91d2e1ffa8bc0b4c45316e606d7aec08bf284248/osv/malicious/rubygems/req-throttle-mini/MAL-0000-amazon-inspector-91bd1a5cb0c3bacb.json
+request-guard	1.0.0	MAL-0000-amazon-inspector-5724f6df96af48a0	https://github.com/ossf/malicious-packages/blob/91d2e1ffa8bc0b4c45316e606d7aec08bf284248/osv/malicious/rubygems/request-guard/MAL-0000-amazon-inspector-5724f6df96af48a0.json
 resolvrtest	0.0.3	MAL-2026-1921	https://osv.dev/vulnerability/MAL-2026-1921
 resource_registry	0.0.1	MAL-2025-6348	https://osv.dev/vulnerability/MAL-2025-6348
 resource_registry	1.0.22	MAL-2025-6348	https://osv.dev/vulnerability/MAL-2025-6348
@@ -3850,6 +3853,7 @@ testslnews795	0.0.1	MAL-2026-8990	https://osv.dev/vulnerability/MAL-2026-8990
 testssp-wukues	0.0.1	MAL-2026-8991	https://osv.dev/vulnerability/MAL-2026-8991
 testtmp993	0.0.1	MAL-2026-8992	https://osv.dev/vulnerability/MAL-2026-8992
 testwandyg3hook	0.0.1	MAL-2026-8993	https://osv.dev/vulnerability/MAL-2026-8993
+throttle-requests	1.0.0	MAL-0000-amazon-inspector-ff1a325fc41cbb1d	https://github.com/ossf/malicious-packages/blob/91d2e1ffa8bc0b4c45316e606d7aec08bf284248/osv/malicious/rubygems/throttle-requests/MAL-0000-amazon-inspector-ff1a325fc41cbb1d.json
 tiny-max-box	0.0.1	MAL-2026-15783	https://osv.dev/vulnerability/MAL-2026-15783
 tiny-max-gem	0.0.1	MAL-2026-15784	https://osv.dev/vulnerability/MAL-2026-15784
 tiny-pro-lib	0.0.1	MAL-2026-15785	https://osv.dev/vulnerability/MAL-2026-15785
