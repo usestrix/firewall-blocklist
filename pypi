@@ -17008,9 +17008,9 @@ zatta	1	MAL-2024-6253	https://osv.dev/vulnerability/MAL-2024-6253
 zebo	0.1.0	MAL-2024-11751	https://osv.dev/vulnerability/MAL-2024-11751
 zefkopzekfo	0.0.1	MAL-2024-6254	https://osv.dev/vulnerability/MAL-2024-6254
 zelixnitro	1.0	MAL-2024-6255	https://osv.dev/vulnerability/MAL-2024-6255
-zencleaner	1.0.0	MAL-0000-zencleaner	https://github.com/ossf/malicious-packages/blob/4d5748b03d5883e96080a19596b2e7c84a8643ad/osv/malicious/pypi/zencleaner/MAL-0000-zencleaner.json
-zencleaner	1.0.3	MAL-0000-zencleaner	https://github.com/ossf/malicious-packages/blob/4d5748b03d5883e96080a19596b2e7c84a8643ad/osv/malicious/pypi/zencleaner/MAL-0000-zencleaner.json
-zencleaner	1.0.3.1	MAL-0000-zencleaner	https://github.com/ossf/malicious-packages/blob/4d5748b03d5883e96080a19596b2e7c84a8643ad/osv/malicious/pypi/zencleaner/MAL-0000-zencleaner.json
+zencleaner	1.0.0	MAL-2026-17629	https://osv.dev/vulnerability/MAL-2026-17629
+zencleaner	1.0.3	MAL-2026-17629	https://osv.dev/vulnerability/MAL-2026-17629
+zencleaner	1.0.3.1	MAL-2026-17629	https://osv.dev/vulnerability/MAL-2026-17629
 zenomenallib	2.7.0	MAL-2025-47814	https://osv.dev/vulnerability/MAL-2025-47814
 zero123	9.6	MAL-2024-11752	https://osv.dev/vulnerability/MAL-2024-11752
 zeubilamouche	0.1.4	MAL-2024-6256	https://osv.dev/vulnerability/MAL-2024-6256
