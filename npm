@@ -65846,7 +65846,7 @@ docsmate-docsmate-core	35.9.3	MAL-2026-13281	https://osv.dev/vulnerability/MAL-2
 doctorme	*	MAL-2025-18574	https://osv.dev/vulnerability/MAL-2025-18574
 docu-scripts	*	MAL-2024-12146	https://osv.dev/vulnerability/MAL-2024-12146
 docued	*	MAL-2025-18575	https://osv.dev/vulnerability/MAL-2025-18575
-documenclient	*	MAL-0000-ghsa-malware-fd77316cd00f6397	https://github.com/ossf/malicious-packages/blob/1b3d15be3b51d85703ef12957d85a44c9fa4e5ff/osv/malicious/npm/documenclient/MAL-0000-ghsa-malware-fd77316cd00f6397.json
+documenclient	*	MAL-2026-17624	https://osv.dev/vulnerability/MAL-2026-17624
 document-list-extra-questions	*	MAL-2025-4334	https://osv.dev/vulnerability/MAL-2025-4334
 document-metadata	*	MAL-2025-44029	https://osv.dev/vulnerability/MAL-2025-44029
 document-sample	*	MAL-2024-9059	https://osv.dev/vulnerability/MAL-2024-9059
@@ -105337,8 +105337,7 @@ internallib_v234	1.0.7	MAL-2026-6796	https://osv.dev/vulnerability/MAL-2026-6796
 internallib_v243	*	MAL-2022-3896	https://osv.dev/vulnerability/MAL-2022-3896
 internallib_v249	*	MAL-2025-47557	https://osv.dev/vulnerability/MAL-2025-47557
 internallib_v268	*	MAL-2024-10979	https://osv.dev/vulnerability/MAL-2024-10979
-internallib_v275	*	MAL-0000-ghsa-malware-7e73d7869fce3c75	https://github.com/ossf/malicious-packages/blob/1b3d15be3b51d85703ef12957d85a44c9fa4e5ff/osv/malicious/npm/internallib_v275/MAL-0000-ghsa-malware-7e73d7869fce3c75.json
-internallib_v275	1.0.3	MAL-2026-17510	https://osv.dev/vulnerability/MAL-2026-17510
+internallib_v275	*	MAL-2026-17510	https://osv.dev/vulnerability/MAL-2026-17510
 internallib_v284	*	MAL-2025-3101	https://osv.dev/vulnerability/MAL-2025-3101
 internallib_v320	*	MAL-2025-47182	https://osv.dev/vulnerability/MAL-2025-47182
 internallib_v325	*	MAL-2026-390	https://osv.dev/vulnerability/MAL-2026-390
@@ -183077,9 +183076,9 @@ serious_tarsier_z3n	*	MAL-2025-90466	https://osv.dev/vulnerability/MAL-2025-9046
 serious_turkey_z3n	*	MAL-2025-123178	https://osv.dev/vulnerability/MAL-2025-123178
 seriously-simple-podcasting	3.0.0	MAL-2024-3003	https://osv.dev/vulnerability/MAL-2024-3003
 serotonine320	*	MAL-2022-6018	https://osv.dev/vulnerability/MAL-2022-6018
-serpacksven	*	MAL-0000-ghsa-malware-83d5c9ee44036873	https://github.com/ossf/malicious-packages/blob/1b3d15be3b51d85703ef12957d85a44c9fa4e5ff/osv/malicious/npm/serpacksven/MAL-0000-ghsa-malware-83d5c9ee44036873.json
-serpacksven1	*	MAL-0000-ghsa-malware-d0730e12f59904bd	https://github.com/ossf/malicious-packages/blob/1b3d15be3b51d85703ef12957d85a44c9fa4e5ff/osv/malicious/npm/serpacksven1/MAL-0000-ghsa-malware-d0730e12f59904bd.json
-serpacksven2	*	MAL-0000-ghsa-malware-698338a866ac3c7c	https://github.com/ossf/malicious-packages/blob/1b3d15be3b51d85703ef12957d85a44c9fa4e5ff/osv/malicious/npm/serpacksven2/MAL-0000-ghsa-malware-698338a866ac3c7c.json
+serpacksven	*	MAL-2026-17625	https://osv.dev/vulnerability/MAL-2026-17625
+serpacksven1	*	MAL-2026-17626	https://osv.dev/vulnerability/MAL-2026-17626
+serpacksven2	*	MAL-2026-17627	https://osv.dev/vulnerability/MAL-2026-17627
 serqet	*	MAL-2025-32998	https://osv.dev/vulnerability/MAL-2025-32998
 serraview.common.styles	*	MAL-2025-32999	https://osv.dev/vulnerability/MAL-2025-32999
 serswef3	*	MAL-2025-33000	https://osv.dev/vulnerability/MAL-2025-33000
