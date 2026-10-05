@@ -218517,7 +218517,7 @@ vip-landing	*	MAL-2026-2661	https://osv.dev/vulnerability/MAL-2026-2661
 viper_emerald-72-tisubasah	*	MAL-2025-98495	https://osv.dev/vulnerability/MAL-2025-98495
 viper_lime-59	*	MAL-2025-98496	https://osv.dev/vulnerability/MAL-2025-98496
 vipps-stitches	*	MAL-2022-6938	https://osv.dev/vulnerability/MAL-2022-6938
-virgil-cli	0.1.4	MAL-0000-virgil-cli	https://github.com/ossf/malicious-packages/blob/7d913ae19bedcfae9bafcebadc939f8de316f3ef/osv/malicious/npm/virgil-cli/MAL-0000-virgil-cli.json
+virgil-cli	0.1.4	MAL-2026-17630	https://osv.dev/vulnerability/MAL-2026-17630
 virgil-spring-boot-starter	20.0.0	MAL-2023-1337	https://osv.dev/vulnerability/MAL-2023-1337
 virgo-airbnb-accretion-backend	*	MAL-2025-190153	https://osv.dev/vulnerability/MAL-2025-190153
 virgo-arcturus-hydra-stream	*	MAL-2025-190154	https://osv.dev/vulnerability/MAL-2025-190154
