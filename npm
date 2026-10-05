@@ -31779,6 +31779,7 @@ api-key-provider	*	MAL-2025-6149	https://osv.dev/vulnerability/MAL-2025-6149
 api-manh	*	MAL-2025-14643	https://osv.dev/vulnerability/MAL-2025-14643
 api-microsoft	*	MAL-2022-1041	https://osv.dev/vulnerability/MAL-2022-1041
 api-mojang	*	MAL-2025-5177	https://osv.dev/vulnerability/MAL-2025-5177
+api-nebula	1.0.0	MAL-0000-amazon-inspector-b8232ec775642268	https://github.com/ossf/malicious-packages/blob/f0e5560fc28d69d74270c40f425de895523a290c/osv/malicious/npm/api-nebula/MAL-0000-amazon-inspector-b8232ec775642268.json
 api-node-sdk	2.1.6	MAL-2026-11124	https://osv.dev/vulnerability/MAL-2026-11124
 api-node-utils	*	MAL-2026-6743	https://osv.dev/vulnerability/MAL-2026-6743
 api-nodejs-template	0.0.1	MAL-2025-1726	https://osv.dev/vulnerability/MAL-2025-1726
