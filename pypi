@@ -464,6 +464,7 @@ anrok	0.1.1	MAL-2025-47745	https://osv.dev/vulnerability/MAL-2025-47745
 ansiicolor	1.2.5	MAL-2024-4767	https://osv.dev/vulnerability/MAL-2024-4767
 ansishade	0.1.0	MAL-2024-12190	https://osv.dev/vulnerability/MAL-2024-12190
 ant-mcp-proxy-for-test	0.10.0	MAL-2026-2669	https://osv.dev/vulnerability/MAL-2026-2669
+anthropic-sdk	0.1.0	MAL-0000-amazon-inspector-500869e36b3f7620	https://github.com/ossf/malicious-packages/blob/e84d7336ddfbf3e2a029eb6739dd895c40b6b712/osv/malicious/pypi/anthropic-sdk/MAL-0000-amazon-inspector-500869e36b3f7620.json
 anthropic-sdk	0.1.0	MAL-2026-17472	https://osv.dev/vulnerability/MAL-2026-17472
 anthropickit	999.9.9	MAL-2026-5755	https://osv.dev/vulnerability/MAL-2026-5755
 anthropy	0.0.1	MAL-2026-5273	https://osv.dev/vulnerability/MAL-2026-5273
@@ -16414,6 +16415,7 @@ voto3	0.9.0	MAL-2024-11746	https://osv.dev/vulnerability/MAL-2024-11746
 voxcpmeval	0.1.0	MAL-2026-17465	https://osv.dev/vulnerability/MAL-2026-17465
 voxcpmintel	0.1.0	MAL-2026-17468	https://osv.dev/vulnerability/MAL-2026-17468
 voxcpmkit	0.1.0	MAL-2026-17466	https://osv.dev/vulnerability/MAL-2026-17466
+voxcpmruntime	0.1.0	MAL-0000-amazon-inspector-ef6e0220a1b37d63	https://github.com/ossf/malicious-packages/blob/e84d7336ddfbf3e2a029eb6739dd895c40b6b712/osv/malicious/pypi/voxcpmruntime/MAL-0000-amazon-inspector-ef6e0220a1b37d63.json
 voxcpmruntime	0.1.0	MAL-2026-17470	https://osv.dev/vulnerability/MAL-2026-17470
 voxcpmtts3	0.1.0	MAL-2026-17463	https://osv.dev/vulnerability/MAL-2026-17463
 voxcpmtts3	0.1.1	MAL-2026-17463	https://osv.dev/vulnerability/MAL-2026-17463
