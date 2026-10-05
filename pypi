@@ -3400,7 +3400,7 @@ equests	*	MAL-2022-7433	https://osv.dev/vulnerability/MAL-2022-7433
 equests-toolbelt	*	MAL-2023-1823	https://osv.dev/vulnerability/MAL-2023-1823
 erc20-scanner	1.0.0	MAL-2024-5112	https://osv.dev/vulnerability/MAL-2024-5112
 erc20-scanner	1.0.1	MAL-2024-5112	https://osv.dev/vulnerability/MAL-2024-5112
-erc7730-hackathon	99.0.0	MAL-0000-kam193-9020d8cb4fe701c7	https://github.com/ossf/malicious-packages/blob/b19d80eb91c602f687011d15e5e82269f52bac47/osv/malicious/pypi/erc7730-hackathon/MAL-0000-kam193-9020d8cb4fe701c7.json
+erc7730-hackathon	99.0.0	MAL-2026-17628	https://osv.dev/vulnerability/MAL-2026-17628
 erquests	*	MAL-2023-1824	https://osv.dev/vulnerability/MAL-2023-1824
 erquests-toolbelt	*	MAL-2023-1825	https://osv.dev/vulnerability/MAL-2023-1825
 erwanncacasurevann	1.0.4	MAL-2024-5113	https://osv.dev/vulnerability/MAL-2024-5113
