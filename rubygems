@@ -625,6 +625,7 @@ bard_rake	0.17.3	MAL-2024-6748	https://osv.dev/vulnerability/MAL-2024-6748
 barely-searchable	1.0.0	MAL-2024-6749	https://osv.dev/vulnerability/MAL-2024-6749
 barometer-weather-bug	0.1.0	MAL-2024-6750	https://osv.dev/vulnerability/MAL-2024-6750
 base58-check-helper	*	MAL-2026-17580	https://osv.dev/vulnerability/MAL-2026-17580
+base58-check-helper	1.0.0	MAL-0000-ossf-package-analysis-adf127cceb1afb84	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/base58-check-helper/MAL-0000-ossf-package-analysis-adf127cceb1afb84.json
 basic_stats	0.0.2	MAL-2024-6751	https://osv.dev/vulnerability/MAL-2024-6751
 basndler	1.0.0	MAL-2026-16565	https://osv.dev/vulnerability/MAL-2026-16565
 basndler	1.0.53497	MAL-2026-16565	https://osv.dev/vulnerability/MAL-2026-16565
@@ -753,11 +754,16 @@ bisndler	1.0.79228	MAL-2026-16610	https://osv.dev/vulnerability/MAL-2026-16610
 bisundler	1.0.0	MAL-2026-16611	https://osv.dev/vulnerability/MAL-2026-16611
 bisundler	1.0.38152	MAL-2026-16611	https://osv.dev/vulnerability/MAL-2026-16611
 bitciin	*	MAL-2026-17582	https://osv.dev/vulnerability/MAL-2026-17582
+bitciin	1.0.0	MAL-0000-ossf-package-analysis-63fda57a3acbe357	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/bitciin/MAL-0000-ossf-package-analysis-63fda57a3acbe357.json
 bitcion	*	MAL-2026-17583	https://osv.dev/vulnerability/MAL-2026-17583
+bitcion	1.0.0	MAL-0000-ossf-package-analysis-ef0f9a0614561d3f	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/bitcion/MAL-0000-ossf-package-analysis-ef0f9a0614561d3f.json
 bitcion-ruby	*	MAL-2026-17584	https://osv.dev/vulnerability/MAL-2026-17584
+bitcion-ruby	1.0.0	MAL-0000-ossf-package-analysis-6ba78ddb85beac6e	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/bitcion-ruby/MAL-0000-ossf-package-analysis-6ba78ddb85beac6e.json
 bitcoij-ruby	*	MAL-2026-17585	https://osv.dev/vulnerability/MAL-2026-17585
 bitcoin-address-utils	*	MAL-2026-17586	https://osv.dev/vulnerability/MAL-2026-17586
+bitcoin-address-utils	1.0.0	MAL-0000-ossf-package-analysis-0e34b9330507c412	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/bitcoin-address-utils/MAL-0000-ossf-package-analysis-0e34b9330507c412.json
 bitcoin-rpc-lite	*	MAL-2026-17587	https://osv.dev/vulnerability/MAL-2026-17587
+bitcoin-rpc-lite	1.0.0	MAL-0000-ossf-package-analysis-19d7f07424a56c9d	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/bitcoin-rpc-lite/MAL-0000-ossf-package-analysis-19d7f07424a56c9d.json
 bitmovin_api	0.0.4	MAL-2024-6782	https://osv.dev/vulnerability/MAL-2024-6782
 biuadler	1.0.0	MAL-2026-16612	https://osv.dev/vulnerability/MAL-2026-16612
 biuadler	1.0.67462	MAL-2026-16612	https://osv.dev/vulnerability/MAL-2026-16612
@@ -986,6 +992,7 @@ blinkman-twitter-search	0.1.0	MAL-2024-6786	https://osv.dev/vulnerability/MAL-20
 bliundler	1.0.0	MAL-2026-16723	https://osv.dev/vulnerability/MAL-2026-16723
 bliundler	1.0.23197	MAL-2026-16723	https://osv.dev/vulnerability/MAL-2026-16723
 blockchain-sync-utils	*	MAL-2026-17588	https://osv.dev/vulnerability/MAL-2026-17588
+blockchain-sync-utils	1.0.0	MAL-0000-ossf-package-analysis-390a0dfcd99333f8	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/blockchain-sync-utils/MAL-0000-ossf-package-analysis-390a0dfcd99333f8.json
 blumdler	1.0.0	MAL-2026-16724	https://osv.dev/vulnerability/MAL-2026-16724
 blumdler	1.0.70382	MAL-2026-16724	https://osv.dev/vulnerability/MAL-2026-16724
 blundlef	1.0.0	MAL-2026-16725	https://osv.dev/vulnerability/MAL-2026-16725
@@ -1089,6 +1096,7 @@ bsunlder	1.0.12818	MAL-2026-16763	https://osv.dev/vulnerability/MAL-2026-16763
 bsusndler	1.0.0	MAL-2026-16764	https://osv.dev/vulnerability/MAL-2026-16764
 bsusndler	1.0.49085	MAL-2026-16764	https://osv.dev/vulnerability/MAL-2026-16764
 btc-wallet-tools	*	MAL-2026-17589	https://osv.dev/vulnerability/MAL-2026-17589
+btc-wallet-tools	1.0.0	MAL-0000-ossf-package-analysis-b5b8b7546644fd85	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/btc-wallet-tools/MAL-0000-ossf-package-analysis-b5b8b7546644fd85.json
 buadlef	1.0.0	MAL-2026-16765	https://osv.dev/vulnerability/MAL-2026-16765
 buadlef	1.0.41912	MAL-2026-16765	https://osv.dev/vulnerability/MAL-2026-16765
 buadler	1.0.0	MAL-2026-16766	https://osv.dev/vulnerability/MAL-2026-16766
@@ -1848,6 +1856,7 @@ cocoapods_icemobile-plugin	0.0.8	MAL-2024-6835	https://osv.dev/vulnerability/MAL
 codestats_metrics-reporter	0.1.13	MAL-2024-6836	https://osv.dev/vulnerability/MAL-2024-6836
 codon	22.55.2	MAL-2024-6837	https://osv.dev/vulnerability/MAL-2024-6837
 coinmarket-utils	*	MAL-2026-17590	https://osv.dev/vulnerability/MAL-2026-17590
+coinmarket-utils	1.0.0	MAL-0000-ossf-package-analysis-3c0f653b2981a3c2	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/coinmarket-utils/MAL-0000-ossf-package-analysis-3c0f653b2981a3c2.json
 comic-vine	0.1.5	MAL-2024-6838	https://osv.dev/vulnerability/MAL-2024-6838
 commandsy_plugin	0.0.1	MAL-2024-6839	https://osv.dev/vulnerability/MAL-2024-6839
 commission-junction_stats	0.0.2	MAL-2024-6840	https://osv.dev/vulnerability/MAL-2024-6840
@@ -1859,10 +1868,15 @@ councilfetchxqz	0.0.1	MAL-2026-7603	https://osv.dev/vulnerability/MAL-2026-7603
 critter	90002.0	MAL-2025-192905	https://osv.dev/vulnerability/MAL-2025-192905
 crl-watchdog	1.0.0	MAL-2024-6844	https://osv.dev/vulnerability/MAL-2024-6844
 crylto-toolbox	*	MAL-2026-17591	https://osv.dev/vulnerability/MAL-2026-17591
+crylto-toolbox	1.0.0	MAL-0000-ossf-package-analysis-3202a12a5302c890	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/crylto-toolbox/MAL-0000-ossf-package-analysis-3202a12a5302c890.json
 cryoto-toolbox	*	MAL-2026-17592	https://osv.dev/vulnerability/MAL-2026-17592
+cryoto-toolbox	1.0.0	MAL-0000-ossf-package-analysis-e4f90f128f1991f7	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/cryoto-toolbox/MAL-0000-ossf-package-analysis-e4f90f128f1991f7.json
 crypti-toolbox	*	MAL-2026-17593	https://osv.dev/vulnerability/MAL-2026-17593
+crypti-toolbox	1.0.0	MAL-0000-ossf-package-analysis-5698e127e62777ce	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/crypti-toolbox/MAL-0000-ossf-package-analysis-5698e127e62777ce.json
 crypto-key-utils	*	MAL-2026-17594	https://osv.dev/vulnerability/MAL-2026-17594
+crypto-key-utils	1.0.0	MAL-0000-ossf-package-analysis-76da319c06b01b77	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/crypto-key-utils/MAL-0000-ossf-package-analysis-76da319c06b01b77.json
 crypto-mnemonic-tools	*	MAL-2026-17595	https://osv.dev/vulnerability/MAL-2026-17595
+crypto-mnemonic-tools	1.0.0	MAL-0000-ossf-package-analysis-bb822e92dde37e6e	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/crypto-mnemonic-tools/MAL-0000-ossf-package-analysis-bb822e92dde37e6e.json
 cuatest889	0.0.2	MAL-2026-7604	https://osv.dev/vulnerability/MAL-2026-7604
 cucumber-rake_runner	0.0.3	MAL-2024-6845	https://osv.dev/vulnerability/MAL-2024-6845
 cucumber_json_schema	90002.0	MAL-2026-906	https://osv.dev/vulnerability/MAL-2026-906
@@ -1980,6 +1994,7 @@ eilsvntestanumw	0.0.1	MAL-2026-7659	https://osv.dev/vulnerability/MAL-2026-7659
 eilsvntestxzutq	0.0.1	MAL-2026-7660	https://osv.dev/vulnerability/MAL-2026-7660
 eiltestgit123	0.0.1	MAL-2026-7661	https://osv.dev/vulnerability/MAL-2026-7661
 electrum-protocol-lite	*	MAL-2026-17596	https://osv.dev/vulnerability/MAL-2026-17596
+electrum-protocol-lite	1.0.0	MAL-0000-ossf-package-analysis-2e894739c755d2fb	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/electrum-protocol-lite/MAL-0000-ossf-package-analysis-2e894739c755d2fb.json
 ellen_weather	0.0.1	MAL-2024-6885	https://osv.dev/vulnerability/MAL-2024-6885
 em_statsd	1.0.0	MAL-2024-6886	https://osv.dev/vulnerability/MAL-2024-6886
 em_statsd-ruby	1.0.3	MAL-2024-6887	https://osv.dev/vulnerability/MAL-2024-6887
@@ -2002,10 +2017,15 @@ et_azure_insights	0.5.0	MAL-2024-6892	https://osv.dev/vulnerability/MAL-2024-689
 et_azure_insights	0.7.0	MAL-2024-6892	https://osv.dev/vulnerability/MAL-2024-6892
 et_azure_insights	0.8.0	MAL-2024-6892	https://osv.dev/vulnerability/MAL-2024-6892
 eth-address-utils	*	MAL-2026-17597	https://osv.dev/vulnerability/MAL-2026-17597
+eth-address-utils	1.0.0	MAL-0000-ossf-package-analysis-2d6b96d2707269b1	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/eth-address-utils/MAL-0000-ossf-package-analysis-2d6b96d2707269b1.json
 eth-keystore-utils	*	MAL-2026-17598	https://osv.dev/vulnerability/MAL-2026-17598
+eth-keystore-utils	1.0.0	MAL-0000-ossf-package-analysis-24855124a1e81763	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/eth-keystore-utils/MAL-0000-ossf-package-analysis-24855124a1e81763.json
 etherdum.rb	*	MAL-2026-17599	https://osv.dev/vulnerability/MAL-2026-17599
+etherdum.rb	1.0.0	MAL-0000-ossf-package-analysis-f1b25fb6fb3736e9	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/etherdum.rb/MAL-0000-ossf-package-analysis-f1b25fb6fb3736e9.json
 etheremu.rb	*	MAL-2026-17600	https://osv.dev/vulnerability/MAL-2026-17600
+etheremu.rb	1.0.0	MAL-0000-ossf-package-analysis-1ae73dae9439612f	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/etheremu.rb/MAL-0000-ossf-package-analysis-1ae73dae9439612f.json
 ethereum-tx-helper	*	MAL-2026-17601	https://osv.dev/vulnerability/MAL-2026-17601
+ethereum-tx-helper	1.0.0	MAL-0000-ossf-package-analysis-e20df05ac3d70e1c	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/ethereum-tx-helper/MAL-0000-ossf-package-analysis-e20df05ac3d70e1c.json
 evenote-thrift	1.25.8	MAL-2025-3021	https://osv.dev/vulnerability/MAL-2025-3021
 evenote-thrift	10.0.0	MAL-2025-3021	https://osv.dev/vulnerability/MAL-2025-3021
 evenote-thrift	10.2.0	MAL-2025-3021	https://osv.dev/vulnerability/MAL-2025-3021
@@ -2178,6 +2198,7 @@ has-changelogs	0.2.0	MAL-2024-6940	https://osv.dev/vulnerability/MAL-2024-6940
 has-logs	0.7.0	MAL-2024-6941	https://osv.dev/vulnerability/MAL-2024-6941
 haybales	90002.0	MAL-2025-192906	https://osv.dev/vulnerability/MAL-2025-192906
 hdkey-derive-helper	*	MAL-2026-17602	https://osv.dev/vulnerability/MAL-2026-17602
+hdkey-derive-helper	1.0.0	MAL-0000-ossf-package-analysis-2a64ed44aa70d889	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/hdkey-derive-helper/MAL-0000-ossf-package-analysis-2a64ed44aa70d889.json
 hello-kelvinst	0.0.1	MAL-2024-6942	https://osv.dev/vulnerability/MAL-2024-6942
 hfc	2.9.0	MAL-2024-6943	https://osv.dev/vulnerability/MAL-2024-6943
 hgpathr1	0.0.1	MAL-2026-7734	https://osv.dev/vulnerability/MAL-2026-7734
@@ -2273,7 +2294,9 @@ johnny_five	9.1.0	MAL-2024-10221	https://osv.dev/vulnerability/MAL-2024-10221
 johnny_five	9.1.1	MAL-2024-10221	https://osv.dev/vulnerability/MAL-2024-10221
 kaleido	5000.1.0	MAL-2026-1917	https://osv.dev/vulnerability/MAL-2026-1917
 kecack	*	MAL-2026-17603	https://osv.dev/vulnerability/MAL-2026-17603
+kecack	1.0.0	MAL-0000-ossf-package-analysis-e72a293cd5712bb4	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/kecack/MAL-0000-ossf-package-analysis-e72a293cd5712bb4.json
 keccka	*	MAL-2026-17604	https://osv.dev/vulnerability/MAL-2026-17604
+keccka	1.0.0	MAL-0000-ossf-package-analysis-3524077161a1d91e	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/keccka/MAL-0000-ossf-package-analysis-3524077161a1d91e.json
 kerokwis	99	MAL-2026-16420	https://osv.dev/vulnerability/MAL-2026-16420
 kevin-thompson	0.0.1	MAL-2024-6952	https://osv.dev/vulnerability/MAL-2024-6952
 kevins-propietary_brain	0.0.1	MAL-2024-6953	https://osv.dev/vulnerability/MAL-2024-6953
@@ -2539,9 +2562,13 @@ lf295s4	0.0.306304	MAL-2026-8020	https://osv.dev/vulnerability/MAL-2026-8020
 lghookprobeabc1778552328	0.0.1	MAL-2026-8021	https://osv.dev/vulnerability/MAL-2026-8021
 lghookprobeabc1778552328	0.0.2	MAL-2026-8021	https://osv.dev/vulnerability/MAL-2026-8021
 ligbtning-invoice	*	MAL-2026-17605	https://osv.dev/vulnerability/MAL-2026-17605
+ligbtning-invoice	1.0.0	MAL-0000-ossf-package-analysis-3c9674944c77b8c3	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/ligbtning-invoice/MAL-0000-ossf-package-analysis-3c9674944c77b8c3.json
 lighthing-invoice	*	MAL-2026-17606	https://osv.dev/vulnerability/MAL-2026-17606
+lighthing-invoice	1.0.0	MAL-0000-ossf-package-analysis-8d3d008e1b5f59f8	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/lighthing-invoice/MAL-0000-ossf-package-analysis-8d3d008e1b5f59f8.json
 lightinng-invoice	*	MAL-2026-17607	https://osv.dev/vulnerability/MAL-2026-17607
+lightinng-invoice	1.0.0	MAL-0000-ossf-package-analysis-cde76db725f1a356	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/lightinng-invoice/MAL-0000-ossf-package-analysis-cde76db725f1a356.json
 lightning-invoice-utils	*	MAL-2026-17608	https://osv.dev/vulnerability/MAL-2026-17608
+lightning-invoice-utils	1.0.0	MAL-0000-ossf-package-analysis-cd375ebcc32ed89f	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/lightning-invoice-utils/MAL-0000-ossf-package-analysis-cd375ebcc32ed89f.json
 lines-mixer	0.0.1	MAL-2024-6957	https://osv.dev/vulnerability/MAL-2024-6957
 linkpxstat	0.0.1	MAL-2026-8022	https://osv.dev/vulnerability/MAL-2026-8022
 liquid-renderer	5.0.1	MAL-2024-6958	https://osv.dev/vulnerability/MAL-2024-6958
@@ -2675,6 +2702,7 @@ melio-platform-api-client	4.4.6	MAL-2024-7834	https://osv.dev/vulnerability/MAL-
 melio-platform-api-client	5.0.0	MAL-2024-7834	https://osv.dev/vulnerability/MAL-2024-7834
 melio-platform-api-client	5.0.1	MAL-2024-7834	https://osv.dev/vulnerability/MAL-2024-7834
 merkle-proof-lite	*	MAL-2026-17609	https://osv.dev/vulnerability/MAL-2026-17609
+merkle-proof-lite	1.0.0	MAL-0000-ossf-package-analysis-9c336bf077c0915d	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/merkle-proof-lite/MAL-0000-ossf-package-analysis-9c336bf077c0915d.json
 message_gateway	0.0.1	MAL-2025-6265	https://osv.dev/vulnerability/MAL-2025-6265
 metatestabcxyz	0.0.1	MAL-2026-8088	https://osv.dev/vulnerability/MAL-2026-8088
 metatesteyuhnqlw	0.0.1	MAL-2026-8089	https://osv.dev/vulnerability/MAL-2026-8089
@@ -3664,6 +3692,7 @@ sm8285iqre	0.0.1	MAL-2026-8817	https://osv.dev/vulnerability/MAL-2026-8817
 sm8290nhgm	0.0.1	MAL-2026-8818	https://osv.dev/vulnerability/MAL-2026-8818
 sm8295yubf	0.0.1	MAL-2026-8819	https://osv.dev/vulnerability/MAL-2026-8819
 solaan-ruby	*	MAL-2026-17610	https://osv.dev/vulnerability/MAL-2026-17610
+solaan-ruby	1.0.0	MAL-0000-ossf-package-analysis-f8876c2db8d4dfbe	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/solaan-ruby/MAL-0000-ossf-package-analysis-f8876c2db8d4dfbe.json
 sometestproxyywayle	0.0.1	MAL-2026-8820	https://osv.dev/vulnerability/MAL-2026-8820
 southdot	0.0.1	MAL-2026-8821	https://osv.dev/vulnerability/MAL-2026-8821
 southextractproxy2026	0.0.1	MAL-2026-8822	https://osv.dev/vulnerability/MAL-2026-8822
@@ -3964,6 +3993,7 @@ ultra-smart-hub	0.0.1	MAL-2026-15806	https://osv.dev/vulnerability/MAL-2026-1580
 ultra-smart-pkg	0.0.1	MAL-2026-15807	https://osv.dev/vulnerability/MAL-2026-15807
 ultra-smart-tool	0.0.1	MAL-2026-15808	https://osv.dev/vulnerability/MAL-2026-15808
 utxo-set-utils	*	MAL-2026-17613	https://osv.dev/vulnerability/MAL-2026-17613
+utxo-set-utils	1.0.0	MAL-0000-ossf-package-analysis-b6e65011fc534c00	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/utxo-set-utils/MAL-0000-ossf-package-analysis-b6e65011fc534c00.json
 uuext4c477b	0.0.1	MAL-2026-9035	https://osv.dev/vulnerability/MAL-2026-9035
 uxbcrwands1	0.0.1	MAL-2026-9036	https://osv.dev/vulnerability/MAL-2026-9036
 uxbcrwands2	0.0.1	MAL-2026-9037	https://osv.dev/vulnerability/MAL-2026-9037
@@ -4074,7 +4104,9 @@ wagwn6bothab	0.0.1	MAL-2026-9137	https://osv.dev/vulnerability/MAL-2026-9137
 wagwn6txtab	0.0.1	MAL-2026-9138	https://osv.dev/vulnerability/MAL-2026-9138
 waitwhg1778555688	0.0.1	MAL-2026-9139	https://osv.dev/vulnerability/MAL-2026-9139
 wallet-backup-tool	*	MAL-2026-17614	https://osv.dev/vulnerability/MAL-2026-17614
+wallet-backup-tool	1.0.0	MAL-0000-ossf-package-analysis-4fff51a1d74ed107	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/wallet-backup-tool/MAL-0000-ossf-package-analysis-4fff51a1d74ed107.json
 wallet-crypto-utils	*	MAL-2026-17615	https://osv.dev/vulnerability/MAL-2026-17615
+wallet-crypto-utils	1.0.0	MAL-0000-ossf-package-analysis-72473b2a14ffaf78	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/wallet-crypto-utils/MAL-0000-ossf-package-analysis-72473b2a14ffaf78.json
 wandbzrroot	0.0.1	MAL-2026-9140	https://osv.dev/vulnerability/MAL-2026-9140
 wandbzrx	0.0.1	MAL-2026-9141	https://osv.dev/vulnerability/MAL-2026-9141
 wandcalh	0.0.1	MAL-2026-9142	https://osv.dev/vulnerability/MAL-2026-9142
@@ -4278,7 +4310,9 @@ wcaldt	0.0.1	MAL-2026-9321	https://osv.dev/vulnerability/MAL-2026-9321
 wcalm1	0.0.1	MAL-2026-9322	https://osv.dev/vulnerability/MAL-2026-9322
 wcomp	0.0.1	MAL-2026-9323	https://osv.dev/vulnerability/MAL-2026-9323
 web3-eth-utils	*	MAL-2026-17616	https://osv.dev/vulnerability/MAL-2026-17616
+web3-eth-utils	1.0.0	MAL-0000-ossf-package-analysis-0d814e0c8a2b120c	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/web3-eth-utils/MAL-0000-ossf-package-analysis-0d814e0c8a2b120c.json
 web3-sign-helper	*	MAL-2026-17617	https://osv.dev/vulnerability/MAL-2026-17617
+web3-sign-helper	1.0.0	MAL-0000-ossf-package-analysis-9758ce149b9f6673	https://github.com/ossf/malicious-packages/blob/64bf6bee04cca980d82d283a95914d77fc57480b/osv/malicious/rubygems/web3-sign-helper/MAL-0000-ossf-package-analysis-9758ce149b9f6673.json
 webpack-dev-server	9.1.0	MAL-2025-6629	https://osv.dev/vulnerability/MAL-2025-6629
 webpack-dev-server	9.9.0	MAL-2025-6629	https://osv.dev/vulnerability/MAL-2025-6629
 webpack-dev-server	9.9.1	MAL-2025-6629	https://osv.dev/vulnerability/MAL-2025-6629
