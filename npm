@@ -58053,6 +58053,7 @@ css-hgwctv-polyfill	1.0.0	MAL-2026-17552	https://osv.dev/vulnerability/MAL-2026-
 css-ikomdq-polyfill	1.0.0	MAL-2026-17553	https://osv.dev/vulnerability/MAL-2026-17553
 css-import-order	1.1.0	MAL-2026-14473	https://osv.dev/vulnerability/MAL-2026-14473
 css-interop-observer-polyfill	1.0.0	MAL-2026-17480	https://osv.dev/vulnerability/MAL-2026-17480
+css-jptvix-polyfill	1.0.0	MAL-0000-amazon-inspector-cea61788c370593a	https://github.com/ossf/malicious-packages/blob/2a97ee5b54f3c9ca7cc54a4897f786cf9c8726a3/osv/malicious/npm/css-jptvix-polyfill/MAL-0000-amazon-inspector-cea61788c370593a.json
 css-keylogger	*	MAL-2025-5683	https://osv.dev/vulnerability/MAL-2025-5683
 css-kfvwax-polyfill	1.0.0	MAL-2026-17575	https://osv.dev/vulnerability/MAL-2026-17575
 css-light-dark-polyfill	1.0.0	MAL-2026-17481	https://osv.dev/vulnerability/MAL-2026-17481
@@ -194481,6 +194482,7 @@ tailwind-form-kit	*	MAL-2026-16139	https://osv.dev/vulnerability/MAL-2026-16139
 tailwind-form-styles	*	MAL-2026-16405	https://osv.dev/vulnerability/MAL-2026-16405
 tailwind-form-templates	0.7.4	MAL-2026-13923	https://osv.dev/vulnerability/MAL-2026-13923
 tailwind-forms-kit	0.5.1	MAL-2026-17310	https://osv.dev/vulnerability/MAL-2026-17310
+tailwind-forms-kit	0.5.3	MAL-0000-amazon-inspector-0ddad6b159f2cfa1	https://github.com/ossf/malicious-packages/blob/2a97ee5b54f3c9ca7cc54a4897f786cf9c8726a3/osv/malicious/npm/tailwind-forms-kit/MAL-0000-amazon-inspector-0ddad6b159f2cfa1.json
 tailwind-forms-styles	*	MAL-2026-16195	https://osv.dev/vulnerability/MAL-2026-16195
 tailwind-glass-icon	*	MAL-2025-47503	https://osv.dev/vulnerability/MAL-2025-47503
 tailwind-gutenberg-block-zero	1.0.0	MAL-2026-11044	https://osv.dev/vulnerability/MAL-2026-11044
