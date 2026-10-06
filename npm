@@ -7590,7 +7590,6 @@
 @kvytech/medusa-plugin-product-reviews	0.0.9	MAL-2025-190746	https://osv.dev/vulnerability/MAL-2025-190746
 @kvytech/medusa-plugin-promotion	0.0.2	MAL-2025-191240	https://osv.dev/vulnerability/MAL-2025-191240
 @kvytech/web	0.0.2	MAL-2025-190747	https://osv.dev/vulnerability/MAL-2025-190747
-@kxa/xbails	*	MAL-0000-ghsa-malware-1cc30c634ae2ff3e	https://github.com/ossf/malicious-packages/blob/12ac533a86c3aa244872d3767f1dced12be2a023/osv/malicious/npm/@kxa/xbails/MAL-0000-ghsa-malware-1cc30c634ae2ff3e.json
 @kxa/xbails	*	MAL-2026-17363	https://osv.dev/vulnerability/MAL-2026-17363
 @kyriba/data-frontend	*	MAL-2026-164	https://osv.dev/vulnerability/MAL-2026-164
 @kyriba/mf-kit	*	MAL-2026-165	https://osv.dev/vulnerability/MAL-2026-165
