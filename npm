@@ -66994,8 +66994,7 @@ dot-utils-plus	0.1.9	MAL-2026-4549	https://osv.dev/vulnerability/MAL-2026-4549
 dotconfig	*	MAL-2025-18655	https://osv.dev/vulnerability/MAL-2025-18655
 dotenv-antares-eslint-plugin-sedna	*	MAL-2025-141700	https://osv.dev/vulnerability/MAL-2025-141700
 dotenv-antares-exobiology-hermes	*	MAL-2025-18656	https://osv.dev/vulnerability/MAL-2025-18656
-dotenv-async	*	MAL-0000-ghsa-malware-ab704deac4e98c56	https://github.com/ossf/malicious-packages/blob/b45269e5860473b5b7994bbb40aaf486a0d27c01/osv/malicious/npm/dotenv-async/MAL-0000-ghsa-malware-ab704deac4e98c56.json
-dotenv-async	1.0.0	MAL-2026-17504	https://osv.dev/vulnerability/MAL-2026-17504
+dotenv-async	*	MAL-2026-17504	https://osv.dev/vulnerability/MAL-2026-17504
 dotenv-avior-native-blitz	*	MAL-2025-141701	https://osv.dev/vulnerability/MAL-2025-141701
 dotenv-blitz-gatsby-publish	*	MAL-2025-141702	https://osv.dev/vulnerability/MAL-2025-141702
 dotenv-cassini-andromeda-slides	*	MAL-2025-141703	https://osv.dev/vulnerability/MAL-2025-141703
