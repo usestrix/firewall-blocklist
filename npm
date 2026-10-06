@@ -95773,7 +95773,7 @@ hardhat-gas-tracer	*	MAL-2023-8140	https://osv.dev/vulnerability/MAL-2023-8140
 hardhat-gas-tracker	1.0.0	MAL-2026-11020	https://osv.dev/vulnerability/MAL-2026-11020
 hardhat-gas-tracker	1.0.1	MAL-2026-11020	https://osv.dev/vulnerability/MAL-2026-11020
 hardhat-hold	*	MAL-2026-14246	https://osv.dev/vulnerability/MAL-2026-14246
-hardhat-init	2.21.0	MAL-0000-amazon-inspector-e2f570102756d04a	https://github.com/ossf/malicious-packages/blob/d3ec3ae675d3f771144069bb2ec92aad94dbda73/osv/malicious/npm/hardhat-init/MAL-0000-amazon-inspector-e2f570102756d04a.json
+hardhat-init	2.21.0	MAL-2026-17636	https://osv.dev/vulnerability/MAL-2026-17636
 hardhat-jsx	2.0.1	MAL-2026-17507	https://osv.dev/vulnerability/MAL-2026-17507
 hardhat-kex	2.0.1	MAL-2026-17559	https://osv.dev/vulnerability/MAL-2026-17559
 hardhat-lock	2.21.0	MAL-2026-17233	https://osv.dev/vulnerability/MAL-2026-17233
