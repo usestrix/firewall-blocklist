@@ -47857,8 +47857,10 @@ cdn-fe	*	MAL-2025-4065	https://osv.dev/vulnerability/MAL-2025-4065
 cdn-icon-fetch	*	MAL-2025-2654	https://osv.dev/vulnerability/MAL-2025-2654
 cdn-icon-fetcher	*	MAL-2025-2655	https://osv.dev/vulnerability/MAL-2025-2655
 cdn-icon-fetcher-help	*	MAL-2025-2656	https://osv.dev/vulnerability/MAL-2025-2656
+cdn-img-fetch	1.0.0	MAL-0000-ghsa-malware-68301866f373e268	https://github.com/ossf/malicious-packages/blob/4efc258fe4fa775d5d60909bc20b3be0738c575c/osv/malicious/npm/cdn-img-fetch/MAL-0000-ghsa-malware-68301866f373e268.json
 cdn-img-fetch	1.0.0	MAL-2026-17320	https://osv.dev/vulnerability/MAL-2026-17320
 cdn-img-fetch	1.0.1	MAL-2026-17320	https://osv.dev/vulnerability/MAL-2026-17320
+cdn-img-fetch	1.0.3	MAL-0000-ghsa-malware-68301866f373e268	https://github.com/ossf/malicious-packages/blob/4efc258fe4fa775d5d60909bc20b3be0738c575c/osv/malicious/npm/cdn-img-fetch/MAL-0000-ghsa-malware-68301866f373e268.json
 cdnhost	0.0.1-security	MAL-2026-550	https://osv.dev/vulnerability/MAL-2026-550
 cdnjavacss	19.0.4	MAL-2026-2336	https://osv.dev/vulnerability/MAL-2026-2336
 cdnjquery	*	MAL-2024-7428	https://osv.dev/vulnerability/MAL-2024-7428
@@ -85965,9 +85967,12 @@ funcraft-api-v3	*	MAL-2023-7904	https://osv.dev/vulnerability/MAL-2023-7904
 function-assert-orchestrate-theta-cloud	*	MAL-2025-187054	https://osv.dev/vulnerability/MAL-2025-187054
 function-bluebird	>=10.0.1	MAL-2025-41986	https://osv.dev/vulnerability/MAL-2025-41986
 function-bundle-log-validate-grid	*	MAL-2025-187055	https://osv.dev/vulnerability/MAL-2025-187055
+function-color	1.0.0	MAL-0000-ghsa-malware-551ba64ea86ca7d7	https://github.com/ossf/malicious-packages/blob/4efc258fe4fa775d5d60909bc20b3be0738c575c/osv/malicious/npm/function-color/MAL-0000-ghsa-malware-551ba64ea86ca7d7.json
+function-color	1.7.3	MAL-0000-ghsa-malware-551ba64ea86ca7d7	https://github.com/ossf/malicious-packages/blob/4efc258fe4fa775d5d60909bc20b3be0738c575c/osv/malicious/npm/function-color/MAL-0000-ghsa-malware-551ba64ea86ca7d7.json
 function-fast-error-private-orchestrate	*	MAL-2025-187056	https://osv.dev/vulnerability/MAL-2025-187056
 function-finally-beta-fast-deploy	*	MAL-2025-187057	https://osv.dev/vulnerability/MAL-2025-187057
 function-fkag	3.0.0	MAL-2025-41569	https://osv.dev/vulnerability/MAL-2025-41569
+function-flag	1.7.3	MAL-0000-ghsa-malware-41710fdfae558502	https://github.com/ossf/malicious-packages/blob/4efc258fe4fa775d5d60909bc20b3be0738c575c/osv/malicious/npm/function-flag/MAL-0000-ghsa-malware-41710fdfae558502.json
 function-iota-sanitize-view-old	*	MAL-2025-187058	https://osv.dev/vulnerability/MAL-2025-187058
 function-new-alert-visualize-compile	*	MAL-2025-21049	https://osv.dev/vulnerability/MAL-2025-21049
 function-string	3.0.0	MAL-2025-41570	https://osv.dev/vulnerability/MAL-2025-41570
