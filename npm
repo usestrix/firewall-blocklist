@@ -68582,7 +68582,8 @@ e2e-frontend	1.0.0	MAL-2024-1537	https://osv.dev/vulnerability/MAL-2024-1537
 e2e-synthetics	*	MAL-2022-2641	https://osv.dev/vulnerability/MAL-2022-2641
 e2e-test-repo	*	MAL-2022-2642	https://osv.dev/vulnerability/MAL-2022-2642
 e2e-test-server	10.0.1	MAL-2025-47654	https://osv.dev/vulnerability/MAL-2025-47654
-e2e-test-utils	*	MAL-2025-47990	https://osv.dev/vulnerability/MAL-2025-47990
+e2e-test-utils	0.0.1-security	MAL-2025-47990	https://osv.dev/vulnerability/MAL-2025-47990
+e2e-test-utils	2.0.0	MAL-2025-47990	https://osv.dev/vulnerability/MAL-2025-47990
 e2e-test-utils-w	0.1.0	MAL-2025-48360	https://osv.dev/vulnerability/MAL-2025-48360
 e2e-test-utils-w	2.1.0	MAL-2025-48360	https://osv.dev/vulnerability/MAL-2025-48360
 e2e-test-utils-w	3.0.0	MAL-2025-48360	https://osv.dev/vulnerability/MAL-2025-48360
@@ -75957,7 +75958,10 @@ eslint-config-starry	*	MAL-2025-19841	https://osv.dev/vulnerability/MAL-2025-198
 eslint-config-stitch	*	MAL-2026-689	https://osv.dev/vulnerability/MAL-2026-689
 eslint-config-sunset-nodejs	*	MAL-2024-11166	https://osv.dev/vulnerability/MAL-2024-11166
 eslint-config-supervisor-figures-sails	*	MAL-2025-142211	https://osv.dev/vulnerability/MAL-2025-142211
-eslint-config-support	*	MAL-2022-2806	https://osv.dev/vulnerability/MAL-2022-2806
+eslint-config-support	0.0.1-security	MAL-2022-2806	https://osv.dev/vulnerability/MAL-2022-2806
+eslint-config-support	1.0.4	MAL-2022-2806	https://osv.dev/vulnerability/MAL-2022-2806
+eslint-config-support	1.0.5	MAL-2022-2806	https://osv.dev/vulnerability/MAL-2022-2806
+eslint-config-support	1.1.0	MAL-2022-2806	https://osv.dev/vulnerability/MAL-2022-2806
 eslint-config-techintouch	*	MAL-2025-19842	https://osv.dev/vulnerability/MAL-2025-19842
 eslint-config-teselagen	6.1.7	MAL-2025-47313	https://osv.dev/vulnerability/MAL-2025-47313
 eslint-config-teselagen	6.1.8	MAL-2025-47313	https://osv.dev/vulnerability/MAL-2025-47313
@@ -190690,7 +190694,8 @@ store-locator-widget	9999.0.0	MAL-2026-12804	https://osv.dev/vulnerability/MAL-2
 store-service-worker	0.0.1-security	MAL-2025-49239	https://osv.dev/vulnerability/MAL-2025-49239
 store-service-worker	1.0.0	MAL-2025-49239	https://osv.dev/vulnerability/MAL-2025-49239
 store-std	*	MAL-2025-49240	https://osv.dev/vulnerability/MAL-2025-49240
-store-webpack-config	*	MAL-2025-49241	https://osv.dev/vulnerability/MAL-2025-49241
+store-webpack-config	0.0.1-security	MAL-2025-49241	https://osv.dev/vulnerability/MAL-2025-49241
+store-webpack-config	1.0.0	MAL-2025-49241	https://osv.dev/vulnerability/MAL-2025-49241
 storedock	*	MAL-2025-33999	https://osv.dev/vulnerability/MAL-2025-33999
 storedvalueserv-paypal	*	MAL-2025-34000	https://osv.dev/vulnerability/MAL-2025-34000
 storefront-h5-sdk	1.0.0	MAL-2024-1646	https://osv.dev/vulnerability/MAL-2024-1646
@@ -224138,7 +224143,8 @@ windows-api-codec-pack	*	MAL-2025-3658	https://osv.dev/vulnerability/MAL-2025-36
 windows-confirm	*	MAL-2024-11907	https://osv.dev/vulnerability/MAL-2024-11907
 windows-sdks	*	MAL-2025-46638	https://osv.dev/vulnerability/MAL-2025-46638
 windows-version-check	*	MAL-2024-11908	https://osv.dev/vulnerability/MAL-2024-11908
-windows_registry_editor	*	MAL-2025-49244	https://osv.dev/vulnerability/MAL-2025-49244
+windows_registry_editor	0.0.1-security	MAL-2025-49244	https://osv.dev/vulnerability/MAL-2025-49244
+windows_registry_editor	1.0.0	MAL-2025-49244	https://osv.dev/vulnerability/MAL-2025-49244
 windowscleaner	*	MAL-2024-11115	https://osv.dev/vulnerability/MAL-2024-11115
 windowsreveal	*	MAL-2025-3127	https://osv.dev/vulnerability/MAL-2025-3127
 windowston	*	MAL-2026-1057	https://osv.dev/vulnerability/MAL-2026-1057
