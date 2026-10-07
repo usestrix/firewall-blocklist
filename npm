@@ -219918,6 +219918,7 @@ wagner-horizon	*	MAL-2026-3286	https://osv.dev/vulnerability/MAL-2026-3286
 wagtail-supertable	*	MAL-2022-7033	https://osv.dev/vulnerability/MAL-2022-7033
 wagyu-cli	*	MAL-2023-955	https://osv.dev/vulnerability/MAL-2023-955
 wahyulestari	*	MAL-2025-171990	https://osv.dev/vulnerability/MAL-2025-171990
+waie-crash-baileys	*	MAL-0000-ghsa-malware-bfd798457d1d852c	https://github.com/ossf/malicious-packages/blob/063008c05e8ad4cf12bfbcfa2629c179cf3c5dd5/osv/malicious/npm/waie-crash-baileys/MAL-0000-ghsa-malware-bfd798457d1d852c.json
 wailib	*	MAL-2026-17451	https://osv.dev/vulnerability/MAL-2026-17451
 waiqin	*	MAL-2025-38736	https://osv.dev/vulnerability/MAL-2025-38736
 wajihah	*	MAL-2025-38737	https://osv.dev/vulnerability/MAL-2025-38737
