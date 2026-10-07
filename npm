@@ -194563,7 +194563,7 @@ tailwindcss-animate-plus	*	MAL-2025-34388	https://osv.dev/vulnerability/MAL-2025
 tailwindcss-animate-styles	1.0.9	MAL-2026-15906	https://osv.dev/vulnerability/MAL-2026-15906
 tailwindcss-animate-tool	*	MAL-2026-235	https://osv.dev/vulnerability/MAL-2026-235
 tailwindcss-animate-ui	*	MAL-2025-42095	https://osv.dev/vulnerability/MAL-2025-42095
-tailwindcss-animatecss-keyframes	*	MAL-0000-ghsa-malware-00e39ad48b12b711	https://github.com/ossf/malicious-packages/blob/990c5592e6a91b0faf4a30cfbd2f6a3a0019b4e5/osv/malicious/npm/tailwindcss-animatecss-keyframes/MAL-0000-ghsa-malware-00e39ad48b12b711.json
+tailwindcss-animatecss-keyframes	*	MAL-2026-17646	https://osv.dev/vulnerability/MAL-2026-17646
 tailwindcss-animatecss-latest	2.1.0	MAL-2026-6888	https://osv.dev/vulnerability/MAL-2026-6888
 tailwindcss-animatecss-latest	2.1.1	MAL-2026-6888	https://osv.dev/vulnerability/MAL-2026-6888
 tailwindcss-animates-css	*	MAL-2026-6064	https://osv.dev/vulnerability/MAL-2026-6064
