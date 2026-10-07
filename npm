@@ -43550,6 +43550,12 @@ browser-gaming-client	99.0.5	MAL-2026-1578	https://osv.dev/vulnerability/MAL-202
 browser-html-to-rtf	*	MAL-2025-16197	https://osv.dev/vulnerability/MAL-2025-16197
 browser-interaction-time-demo	*	MAL-2026-3785	https://osv.dev/vulnerability/MAL-2026-3785
 browser-interaction-time-utils	*	MAL-2026-3786	https://osv.dev/vulnerability/MAL-2026-3786
+browser-metrics-plugin.contrib	0.0.1	MAL-0000-invisirisk-browser-metrics-plugin.contrib	https://github.com/ossf/malicious-packages/blob/99bf15203021970dc6c9de682303adf2f844e39e/osv/malicious/npm/browser-metrics-plugin.contrib/MAL-0000-invisirisk-browser-metrics-plugin.contrib.json
+browser-metrics-plugin.contrib	1.0.0	MAL-0000-invisirisk-browser-metrics-plugin.contrib	https://github.com/ossf/malicious-packages/blob/99bf15203021970dc6c9de682303adf2f844e39e/osv/malicious/npm/browser-metrics-plugin.contrib/MAL-0000-invisirisk-browser-metrics-plugin.contrib.json
+browser-metrics-plugin.contrib	1.0.1	MAL-0000-invisirisk-browser-metrics-plugin.contrib	https://github.com/ossf/malicious-packages/blob/99bf15203021970dc6c9de682303adf2f844e39e/osv/malicious/npm/browser-metrics-plugin.contrib/MAL-0000-invisirisk-browser-metrics-plugin.contrib.json
+browser-metrics-plugin.contrib	1.1.0	MAL-0000-invisirisk-browser-metrics-plugin.contrib	https://github.com/ossf/malicious-packages/blob/99bf15203021970dc6c9de682303adf2f844e39e/osv/malicious/npm/browser-metrics-plugin.contrib/MAL-0000-invisirisk-browser-metrics-plugin.contrib.json
+browser-metrics-plugin.contrib	2.0.1	MAL-0000-invisirisk-browser-metrics-plugin.contrib	https://github.com/ossf/malicious-packages/blob/99bf15203021970dc6c9de682303adf2f844e39e/osv/malicious/npm/browser-metrics-plugin.contrib/MAL-0000-invisirisk-browser-metrics-plugin.contrib.json
+browser-metrics-plugin.contrib	99.0.1	MAL-0000-invisirisk-browser-metrics-plugin.contrib	https://github.com/ossf/malicious-packages/blob/99bf15203021970dc6c9de682303adf2f844e39e/osv/malicious/npm/browser-metrics-plugin.contrib/MAL-0000-invisirisk-browser-metrics-plugin.contrib.json
 browser-nextjs	*	MAL-2025-701	https://osv.dev/vulnerability/MAL-2025-701
 browser-readline	*	MAL-2025-16198	https://osv.dev/vulnerability/MAL-2025-16198
 browser-sign-in	*	MAL-2025-1068	https://osv.dev/vulnerability/MAL-2025-1068
@@ -207191,6 +207197,13 @@ troubled_toad_z3n	*	MAL-2025-98973	https://osv.dev/vulnerability/MAL-2025-98973
 troubled_turkey_z3n	*	MAL-2025-81757	https://osv.dev/vulnerability/MAL-2025-81757
 troubled_xerinae_z3n	*	MAL-2025-97064	https://osv.dev/vulnerability/MAL-2025-97064
 troubled_zebra_z3n	*	MAL-2025-137411	https://osv.dev/vulnerability/MAL-2025-137411
+troubleshooting	0.1.0	MAL-0000-invisirisk-troubleshooting	https://github.com/ossf/malicious-packages/blob/99bf15203021970dc6c9de682303adf2f844e39e/osv/malicious/npm/troubleshooting/MAL-0000-invisirisk-troubleshooting.json
+troubleshooting	1.0.0	MAL-0000-invisirisk-troubleshooting	https://github.com/ossf/malicious-packages/blob/99bf15203021970dc6c9de682303adf2f844e39e/osv/malicious/npm/troubleshooting/MAL-0000-invisirisk-troubleshooting.json
+troubleshooting	1.0.1	MAL-0000-invisirisk-troubleshooting	https://github.com/ossf/malicious-packages/blob/99bf15203021970dc6c9de682303adf2f844e39e/osv/malicious/npm/troubleshooting/MAL-0000-invisirisk-troubleshooting.json
+troubleshooting	1.1.0	MAL-0000-invisirisk-troubleshooting	https://github.com/ossf/malicious-packages/blob/99bf15203021970dc6c9de682303adf2f844e39e/osv/malicious/npm/troubleshooting/MAL-0000-invisirisk-troubleshooting.json
+troubleshooting	2.0.1	MAL-0000-invisirisk-troubleshooting	https://github.com/ossf/malicious-packages/blob/99bf15203021970dc6c9de682303adf2f844e39e/osv/malicious/npm/troubleshooting/MAL-0000-invisirisk-troubleshooting.json
+troubleshooting	3.0.0	MAL-0000-invisirisk-troubleshooting	https://github.com/ossf/malicious-packages/blob/99bf15203021970dc6c9de682303adf2f844e39e/osv/malicious/npm/troubleshooting/MAL-0000-invisirisk-troubleshooting.json
+troubleshooting	99.0.1	MAL-0000-invisirisk-troubleshooting	https://github.com/ossf/malicious-packages/blob/99bf15203021970dc6c9de682303adf2f844e39e/osv/malicious/npm/troubleshooting/MAL-0000-invisirisk-troubleshooting.json
 trout-notthedevs	*	MAL-2025-109856	https://osv.dev/vulnerability/MAL-2025-109856
 trova	*	MAL-2023-904	https://osv.dev/vulnerability/MAL-2023-904
 trovam	*	MAL-2023-905	https://osv.dev/vulnerability/MAL-2023-905
