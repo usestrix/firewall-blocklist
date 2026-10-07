@@ -101748,11 +101748,9 @@ img-region-select-app	55.33.111	MAL-2025-48845	https://osv.dev/vulnerability/MAL
 img-to-native	*	MAL-2026-17216	https://osv.dev/vulnerability/MAL-2026-17216
 img_sharp_wasm64	*	MAL-2025-3997	https://osv.dev/vulnerability/MAL-2025-3997
 imgame	*	MAL-2025-23074	https://osv.dev/vulnerability/MAL-2025-23074
-imgbundle	1.0.0	MAL-0000-ghsa-malware-6175161f6fa07571	https://github.com/ossf/malicious-packages/blob/17151a99eadaeb3400e078f0799faa7ac1b7fd57/osv/malicious/npm/imgbundle/MAL-0000-ghsa-malware-6175161f6fa07571.json
 imgbundle	1.0.0	MAL-2026-17330	https://osv.dev/vulnerability/MAL-2026-17330
-imgbundle	1.0.1	MAL-0000-ghsa-malware-6175161f6fa07571	https://github.com/ossf/malicious-packages/blob/17151a99eadaeb3400e078f0799faa7ac1b7fd57/osv/malicious/npm/imgbundle/MAL-0000-ghsa-malware-6175161f6fa07571.json
 imgbundle	1.0.1	MAL-2026-17330	https://osv.dev/vulnerability/MAL-2026-17330
-imgbundle	1.0.2	MAL-0000-ghsa-malware-6175161f6fa07571	https://github.com/ossf/malicious-packages/blob/17151a99eadaeb3400e078f0799faa7ac1b7fd57/osv/malicious/npm/imgbundle/MAL-0000-ghsa-malware-6175161f6fa07571.json
+imgbundle	1.0.2	MAL-2026-17330	https://osv.dev/vulnerability/MAL-2026-17330
 imgcycle	*	MAL-2025-23075	https://osv.dev/vulnerability/MAL-2025-23075
 imgfacebook	*	MAL-2022-3801	https://osv.dev/vulnerability/MAL-2022-3801
 imgretom	*	MAL-2025-23076	https://osv.dev/vulnerability/MAL-2025-23076
