@@ -158100,6 +158100,7 @@ personal_whitefish_z3n	*	MAL-2025-122504	https://osv.dev/vulnerability/MAL-2025-
 personalizationtrkserv	10.0.0	MAL-2025-6947	https://osv.dev/vulnerability/MAL-2025-6947
 personalizationtrkserv	11.0.0	MAL-2025-6947	https://osv.dev/vulnerability/MAL-2025-6947
 personalizationtrkserv	11.0.1	MAL-2025-6947	https://osv.dev/vulnerability/MAL-2025-6947
+personio-pipeline-projen	1.171.31	MAL-0000-invisirisk-personio-pipeline-projen	https://github.com/ossf/malicious-packages/blob/ef16e775586fd7ca0da2fdc7751f0ef9b6789e24/osv/malicious/npm/personio-pipeline-projen/MAL-0000-invisirisk-personio-pipeline-projen.json
 personn-colors	*	MAL-2022-5305	https://osv.dev/vulnerability/MAL-2022-5305
 perthfp	*	MAL-2025-29081	https://osv.dev/vulnerability/MAL-2025-29081
 perturbation-altair-sedna-eridanus	*	MAL-2025-29082	https://osv.dev/vulnerability/MAL-2025-29082
