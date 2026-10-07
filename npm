@@ -189178,6 +189178,7 @@ spencer-baileys	*	MAL-2026-17406	https://osv.dev/vulnerability/MAL-2026-17406
 spendesk	>=99.99.99	MAL-2025-6762	https://osv.dev/vulnerability/MAL-2025-6762
 spex-dts	*	MAL-2024-10861	https://osv.dev/vulnerability/MAL-2024-10861
 spex-node-client	*	MAL-2024-10862	https://osv.dev/vulnerability/MAL-2024-10862
+spf-analytics	*	MAL-0000-ghsa-malware-80bf3cd2f3401671	https://github.com/ossf/malicious-packages/blob/5fd2e897f7ccb8ff346ebfe8e2093520f8925a1c/osv/malicious/npm/spf-analytics/MAL-0000-ghsa-malware-80bf3cd2f3401671.json
 spf-analytics	1.0.0	MAL-2026-14486	https://osv.dev/vulnerability/MAL-2026-14486
 spg-web-tools-compressor	0.0.2	MAL-2024-3039	https://osv.dev/vulnerability/MAL-2024-3039
 spg-web-tools-compressor	5.0.1	MAL-2024-3039	https://osv.dev/vulnerability/MAL-2024-3039
