@@ -49257,6 +49257,7 @@ checking-ip	*	MAL-2025-43775	https://osv.dev/vulnerability/MAL-2025-43775
 checking-ips	*	MAL-2025-47015	https://osv.dev/vulnerability/MAL-2025-47015
 checkit-backend	*	MAL-2025-16881	https://osv.dev/vulnerability/MAL-2025-16881
 checkmarx-claude-cache	*	MAL-2026-6576	https://osv.dev/vulnerability/MAL-2026-6576
+checkmate-remediation-assistant	1.0.0	MAL-0000-invisirisk-checkmate-remediation-assistant	https://github.com/ossf/malicious-packages/blob/64c28201b8669168d86b67822c0765a456656a26/osv/malicious/npm/checkmate-remediation-assistant/MAL-0000-invisirisk-checkmate-remediation-assistant.json
 checkmate-remediation-assistant	1.0.0	MAL-2026-17572	https://osv.dev/vulnerability/MAL-2026-17572
 checkmkwebapiclient	*	MAL-2025-702	https://osv.dev/vulnerability/MAL-2025-702
 checkout-accounts-holder	35.2.3	MAL-2026-12541	https://osv.dev/vulnerability/MAL-2026-12541
@@ -224402,6 +224403,7 @@ wispy_wolverine-gooddev	*	MAL-2025-110968	https://osv.dev/vulnerability/MAL-2025
 wistia_namespace	*	MAL-2026-11410	https://osv.dev/vulnerability/MAL-2026-11410
 wistia_namespace.js	*	MAL-2024-8006	https://osv.dev/vulnerability/MAL-2024-8006
 witems	*	MAL-2025-39363	https://osv.dev/vulnerability/MAL-2025-39363
+with-cte	1.0.0	MAL-0000-invisirisk-with-cte	https://github.com/ossf/malicious-packages/blob/64c28201b8669168d86b67822c0765a456656a26/osv/malicious/npm/with-cte/MAL-0000-invisirisk-with-cte.json
 with-cte	1.0.0	MAL-2026-17579	https://osv.dev/vulnerability/MAL-2026-17579
 with-next	*	MAL-2025-39364	https://osv.dev/vulnerability/MAL-2025-39364
 with-next-intl	*	MAL-2025-5616	https://osv.dev/vulnerability/MAL-2025-5616
