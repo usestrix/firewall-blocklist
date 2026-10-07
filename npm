@@ -169829,6 +169829,7 @@ random-avishek	*	MAL-2024-1522	https://osv.dev/vulnerability/MAL-2024-1522
 random-billy-pkg	*	MAL-2025-42061	https://osv.dev/vulnerability/MAL-2025-42061
 random-black-hippopotamus	*	MAL-2025-70170	https://osv.dev/vulnerability/MAL-2025-70170
 random-blue-angelfish	*	MAL-2025-70171	https://osv.dev/vulnerability/MAL-2025-70171
+random-certs	*	MAL-0000-ghsa-malware-e002d7cdc913cbca	https://github.com/ossf/malicious-packages/blob/cb27097f8435befe33fb8b9789fe09b57312831e/osv/malicious/npm/random-certs/MAL-0000-ghsa-malware-e002d7cdc913cbca.json
 random-color-selector	*	MAL-2025-31618	https://osv.dev/vulnerability/MAL-2025-31618
 random-datas	*	MAL-2025-42062	https://osv.dev/vulnerability/MAL-2025-42062
 random-drink-selector	*	MAL-2025-31619	https://osv.dev/vulnerability/MAL-2025-31619
@@ -215447,6 +215448,7 @@ ve.zz	*	MAL-2025-49243	https://osv.dev/vulnerability/MAL-2025-49243
 vecboy	*	MAL-2025-38183	https://osv.dev/vulnerability/MAL-2025-38183
 vectorflow	*	MAL-2025-1641	https://osv.dev/vulnerability/MAL-2025-1641
 vectorize-perf-alt	*	MAL-2025-48768	https://osv.dev/vulnerability/MAL-2025-48768
+vectorizers	*	MAL-0000-ghsa-malware-d1082db2b4593a2b	https://github.com/ossf/malicious-packages/blob/cb27097f8435befe33fb8b9789fe09b57312831e/osv/malicious/npm/vectorizers/MAL-0000-ghsa-malware-d1082db2b4593a2b.json
 vectormark	*	MAL-2026-11017	https://osv.dev/vulnerability/MAL-2026-11017
 veda-crypto	*	MAL-2025-38184	https://osv.dev/vulnerability/MAL-2025-38184
 vedionote	*	MAL-2025-38185	https://osv.dev/vulnerability/MAL-2025-38185
