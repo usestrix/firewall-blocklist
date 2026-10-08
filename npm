@@ -169891,7 +169891,6 @@ random-billy-pkg	*	MAL-2025-42061	https://osv.dev/vulnerability/MAL-2025-42061
 random-black-hippopotamus	*	MAL-2025-70170	https://osv.dev/vulnerability/MAL-2025-70170
 random-blue-angelfish	*	MAL-2025-70171	https://osv.dev/vulnerability/MAL-2025-70171
 random-certs	*	MAL-2026-17644	https://osv.dev/vulnerability/MAL-2026-17644
-random-certs	0.0.1	MAL-0000-random-certs	https://github.com/ossf/malicious-packages/blob/3c73c430a16790267f1210d7d1a67ab6a3594d74/osv/malicious/npm/random-certs/MAL-0000-random-certs.json
 random-color-selector	*	MAL-2025-31618	https://osv.dev/vulnerability/MAL-2025-31618
 random-datas	*	MAL-2025-42062	https://osv.dev/vulnerability/MAL-2025-42062
 random-drink-selector	*	MAL-2025-31619	https://osv.dev/vulnerability/MAL-2025-31619
