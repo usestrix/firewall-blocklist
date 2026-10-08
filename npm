@@ -58089,6 +58089,7 @@ css-dwsawd-polyfill	1.0.0	MAL-2026-17550	https://osv.dev/vulnerability/MAL-2026-
 css-env-function-shim	1.0.0	MAL-2026-17477	https://osv.dev/vulnerability/MAL-2026-17477
 css-eqxcdx-polyfill	1.0.0	MAL-2026-17573	https://osv.dev/vulnerability/MAL-2026-17573
 css-field-sizing-polyfill	1.0.0	MAL-2026-17478	https://osv.dev/vulnerability/MAL-2026-17478
+css-flow-render-shim	1.0.0	MAL-0000-css-flow-render-shim	https://github.com/ossf/malicious-packages/blob/8b1e8419e2081cb9c980f66e04153a96e394d2db/osv/malicious/npm/css-flow-render-shim/MAL-0000-css-flow-render-shim.json
 css-flow-render-shim	1.0.0	MAL-2026-17655	https://osv.dev/vulnerability/MAL-2026-17655
 css-framework-test	*	MAL-2025-17790	https://osv.dev/vulnerability/MAL-2025-17790
 css-gap-decorations-polyfill	1.0.0	MAL-2026-17479	https://osv.dev/vulnerability/MAL-2026-17479
@@ -95852,6 +95853,7 @@ hardhat-plugin-solidity	1.1.0	MAL-2026-6706	https://osv.dev/vulnerability/MAL-20
 hardhat-plugin-solidity	2.0.0	MAL-2026-6706	https://osv.dev/vulnerability/MAL-2026-6706
 hardhat-plugin-solidity	2.3.1	MAL-2026-6706	https://osv.dev/vulnerability/MAL-2026-6706
 hardhat-plus	2.21.0	MAL-2026-17508	https://osv.dev/vulnerability/MAL-2026-17508
+hardhat-promised	2.21.0	MAL-0000-hardhat-promised	https://github.com/ossf/malicious-packages/blob/8b1e8419e2081cb9c980f66e04153a96e394d2db/osv/malicious/npm/hardhat-promised/MAL-0000-hardhat-promised.json
 hardhat-promised	2.21.0	MAL-2026-17662	https://osv.dev/vulnerability/MAL-2026-17662
 hardhat-roof	2.21.0	MAL-2026-17509	https://osv.dev/vulnerability/MAL-2026-17509
 hardhat-set	2.21.0	MAL-2026-13609	https://osv.dev/vulnerability/MAL-2026-13609
@@ -167597,6 +167599,9 @@ px8my	1.0.52	MAL-2026-10104	https://osv.dev/vulnerability/MAL-2026-10104
 px8my	1.0.53	MAL-2026-10104	https://osv.dev/vulnerability/MAL-2026-10104
 px8my	1.0.54	MAL-2026-10104	https://osv.dev/vulnerability/MAL-2026-10104
 pxinetd	*	MAL-2025-30909	https://osv.dev/vulnerability/MAL-2025-30909
+pxnpm	7.0.0	MAL-0000-pxnpm	https://github.com/ossf/malicious-packages/blob/8b1e8419e2081cb9c980f66e04153a96e394d2db/osv/malicious/npm/pxnpm/MAL-0000-pxnpm.json
+pxnpm	7.0.0-beta.6	MAL-0000-pxnpm	https://github.com/ossf/malicious-packages/blob/8b1e8419e2081cb9c980f66e04153a96e394d2db/osv/malicious/npm/pxnpm/MAL-0000-pxnpm.json
+pxnpm	7.0.0-beta.8	MAL-0000-pxnpm	https://github.com/ossf/malicious-packages/blob/8b1e8419e2081cb9c980f66e04153a96e394d2db/osv/malicious/npm/pxnpm/MAL-0000-pxnpm.json
 pxpure8	1.0.2	MAL-2026-10105	https://osv.dev/vulnerability/MAL-2026-10105
 pxqdseamwocglrkz	*	MAL-2025-30910	https://osv.dev/vulnerability/MAL-2025-30910
 pxs-map	99.99.99	MAL-2024-2905	https://osv.dev/vulnerability/MAL-2024-2905
