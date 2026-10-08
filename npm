@@ -58136,6 +58136,7 @@ css-nbanqq-polyfill	1.0.0	MAL-2026-17555	https://osv.dev/vulnerability/MAL-2026-
 css-nrmgzn-polyfill	1.0.0	MAL-2026-17576	https://osv.dev/vulnerability/MAL-2026-17576
 css-ogojwh-polyfill	1.0.0	MAL-2026-17556	https://osv.dev/vulnerability/MAL-2026-17556
 css-platform-js	*	MAL-2025-48489	https://osv.dev/vulnerability/MAL-2025-48489
+css-reading-display-polyfill	1.0.0	MAL-0000-css-reading-display-polyfill	https://github.com/ossf/malicious-packages/blob/a73e3a06d4051cdf9bfe275327259928bf899653/osv/malicious/npm/css-reading-display-polyfill/MAL-0000-css-reading-display-polyfill.json
 css-reading-display-polyfill	1.0.0	MAL-2026-17656	https://osv.dev/vulnerability/MAL-2026-17656
 css-reading-flow-polyfill	1.0.0	MAL-2026-17483	https://osv.dev/vulnerability/MAL-2026-17483
 css-relative-color-util	1.0.0	MAL-2026-17484	https://osv.dev/vulnerability/MAL-2026-17484
