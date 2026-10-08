@@ -67726,6 +67726,7 @@ dramatic_tiglon_z3n	*	MAL-2025-94112	https://osv.dev/vulnerability/MAL-2025-9411
 dramatic_wildfowl-tool	*	MAL-2025-101764	https://osv.dev/vulnerability/MAL-2025-101764
 dramatic_woodpecker_z3n	*	MAL-2025-101765	https://osv.dev/vulnerability/MAL-2025-101765
 drangula	*	MAL-2025-18769	https://osv.dev/vulnerability/MAL-2025-18769
+dransay	99.0.0	MAL-0000-amazon-inspector-46d06d0ce8291334	https://github.com/ossf/malicious-packages/blob/7a8a9072dd5996342d6b507565c10ca70ffbf38f/osv/malicious/npm/dransay/MAL-0000-amazon-inspector-46d06d0ce8291334.json
 draugur	*	MAL-2025-18770	https://osv.dev/vulnerability/MAL-2025-18770
 draw-with-twilio	*	MAL-2025-5551	https://osv.dev/vulnerability/MAL-2025-5551
 drawingps	*	MAL-2025-18771	https://osv.dev/vulnerability/MAL-2025-18771
