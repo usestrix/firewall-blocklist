@@ -200261,7 +200261,7 @@ tensor-nft-js	1.0.5	MAL-2025-6661	https://osv.dev/vulnerability/MAL-2025-6661
 tensorfi-secure-hash	*	MAL-2025-191554	https://osv.dev/vulnerability/MAL-2025-191554
 tensorflow-js-website	*	MAL-2022-6458	https://osv.dev/vulnerability/MAL-2022-6458
 tensorflowjs	*	MAL-2025-6829	https://osv.dev/vulnerability/MAL-2025-6829
-tensorlake	0.5.144	MAL-0000-ghsa-malware-de1a505f248f0041	https://github.com/ossf/malicious-packages/blob/913f462d49c492b81ee9009cadc3c9efb252fd30/osv/malicious/npm/tensorlake/MAL-0000-ghsa-malware-de1a505f248f0041.json
+tensorlake	0.5.144	MAL-2026-17650	https://osv.dev/vulnerability/MAL-2026-17650
 tensorplow	*	MAL-2025-34714	https://osv.dev/vulnerability/MAL-2025-34714
 tensorzero-node	*	MAL-2026-2684	https://osv.dev/vulnerability/MAL-2026-2684
 tent-using-western	*	MAL-2025-34715	https://osv.dev/vulnerability/MAL-2025-34715
