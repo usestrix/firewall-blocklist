@@ -85983,6 +85983,7 @@ function-color	1.7.3	MAL-2026-17647	https://osv.dev/vulnerability/MAL-2026-17647
 function-fast-error-private-orchestrate	*	MAL-2025-187056	https://osv.dev/vulnerability/MAL-2025-187056
 function-finally-beta-fast-deploy	*	MAL-2025-187057	https://osv.dev/vulnerability/MAL-2025-187057
 function-fkag	3.0.0	MAL-2025-41569	https://osv.dev/vulnerability/MAL-2025-41569
+function-flag	*	MAL-0000-ghsa-malware-2c50d63d63100ce9	https://github.com/ossf/malicious-packages/blob/a91f909a925ab75a8c1cc3b7ef90f5ac6eb41358/osv/malicious/npm/function-flag/MAL-0000-ghsa-malware-2c50d63d63100ce9.json
 function-flag	1.7.3	MAL-2026-17648	https://osv.dev/vulnerability/MAL-2026-17648
 function-iota-sanitize-view-old	*	MAL-2025-187058	https://osv.dev/vulnerability/MAL-2025-187058
 function-new-alert-visualize-compile	*	MAL-2025-21049	https://osv.dev/vulnerability/MAL-2025-21049
