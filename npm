@@ -47859,7 +47859,6 @@ cdn-icon-fetcher	*	MAL-2025-2655	https://osv.dev/vulnerability/MAL-2025-2655
 cdn-icon-fetcher-help	*	MAL-2025-2656	https://osv.dev/vulnerability/MAL-2025-2656
 cdn-img-fetch	1.0.0	MAL-2026-17320	https://osv.dev/vulnerability/MAL-2026-17320
 cdn-img-fetch	1.0.1	MAL-2026-17320	https://osv.dev/vulnerability/MAL-2026-17320
-cdn-img-fetch	1.0.3	MAL-0000-amazon-inspector-cc4b99f186837aa0	https://github.com/ossf/malicious-packages/blob/fcde878f9446d212534024c2030d8c87b698ca9b/osv/malicious/npm/cdn-img-fetch/MAL-0000-amazon-inspector-cc4b99f186837aa0.json
 cdn-img-fetch	1.0.3	MAL-2026-17320	https://osv.dev/vulnerability/MAL-2026-17320
 cdnhost	0.0.1-security	MAL-2026-550	https://osv.dev/vulnerability/MAL-2026-550
 cdnjavacss	19.0.4	MAL-2026-2336	https://osv.dev/vulnerability/MAL-2026-2336
