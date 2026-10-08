@@ -55,8 +55,6 @@ ProjZ.py	1.7.1	MAL-2026-3696	https://osv.dev/vulnerability/MAL-2026-3696
 ProjZ.py	1.8.2	MAL-2026-3696	https://osv.dev/vulnerability/MAL-2026-3696
 ProjZ.py	2.3.5	MAL-2026-3696	https://osv.dev/vulnerability/MAL-2026-3696
 ProjZ.py	2.3.9	MAL-2026-3696	https://osv.dev/vulnerability/MAL-2026-3696
-Queeuees	0.0.1	MAL-0000-amazon-inspector-f793adc7f1d26294	https://github.com/ossf/malicious-packages/blob/d70e7183747b08e0a4ffc7badf9e14f5d7496a6d/osv/malicious/pypi/queeuees/MAL-0000-amazon-inspector-f793adc7f1d26294.json
-SPO365-GRAPH	1.1.2	MAL-0000-amazon-inspector-091649f7b927b27a	https://github.com/ossf/malicious-packages/blob/d70e7183747b08e0a4ffc7badf9e14f5d7496a6d/osv/malicious/pypi/spo365-graph/MAL-0000-amazon-inspector-091649f7b927b27a.json
 TestPGAgent	0.1	MAL-2026-5824	https://osv.dev/vulnerability/MAL-2026-5824
 TestPGAgent	0.2	MAL-2026-5824	https://osv.dev/vulnerability/MAL-2026-5824
 VLifeGram	2.1.2.4	MAL-2026-4773	https://osv.dev/vulnerability/MAL-2026-4773
@@ -1027,9 +1025,6 @@ beautifusloup4	*	MAL-2023-1630	https://osv.dev/vulnerability/MAL-2023-1630
 beautifusoup	*	MAL-2023-1631	https://osv.dev/vulnerability/MAL-2023-1631
 beautifuulsoup	*	MAL-2023-1632	https://osv.dev/vulnerability/MAL-2023-1632
 beautifuulsoup4	*	MAL-2023-1633	https://osv.dev/vulnerability/MAL-2023-1633
-beautifyText	1.0.3	MAL-0000-amazon-inspector-488a492f2e87fa16	https://github.com/ossf/malicious-packages/blob/d70e7183747b08e0a4ffc7badf9e14f5d7496a6d/osv/malicious/pypi/beautifytext/MAL-0000-amazon-inspector-488a492f2e87fa16.json
-beautifyText	1.0.4	MAL-0000-amazon-inspector-c8181de3b2eec9e3	https://github.com/ossf/malicious-packages/blob/d70e7183747b08e0a4ffc7badf9e14f5d7496a6d/osv/malicious/pypi/beautifytext/MAL-0000-amazon-inspector-c8181de3b2eec9e3.json
-beautifyText	1.0.7	MAL-0000-amazon-inspector-0a59c3a794476922	https://github.com/ossf/malicious-packages/blob/d70e7183747b08e0a4ffc7badf9e14f5d7496a6d/osv/malicious/pypi/beautifytext/MAL-0000-amazon-inspector-0a59c3a794476922.json
 beautifytext	1.0.3	MAL-2026-17417	https://osv.dev/vulnerability/MAL-2026-17417
 beautifytext	1.0.4	MAL-2026-17417	https://osv.dev/vulnerability/MAL-2026-17417
 beautifytext	1.0.7	MAL-2026-17417	https://osv.dev/vulnerability/MAL-2026-17417
