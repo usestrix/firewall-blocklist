@@ -5169,6 +5169,7 @@
 @dramateas/ut-distinctio-aliquam-est	*	MAL-2025-7831	https://osv.dev/vulnerability/MAL-2025-7831
 @dramateas/veritatis-quidem-quis-odit	*	MAL-2025-7832	https://osv.dev/vulnerability/MAL-2025-7832
 @dramateas/voluptatum-perferendis-laboriosam-dolor	*	MAL-2025-42475	https://osv.dev/vulnerability/MAL-2025-42475
+@dransay/address-validation	99.0.0	MAL-0000-ossf-package-analysis-82ababa5637b2f53	https://github.com/ossf/malicious-packages/blob/0559ee2a92791cbb1fc294b9d2357a1eb582f650/osv/malicious/npm/@dransay/address-validation/MAL-0000-ossf-package-analysis-82ababa5637b2f53.json
 @dreamguyxeon/baileyx	1.0.0	MAL-2026-13930	https://osv.dev/vulnerability/MAL-2026-13930
 @dreamguyxeon/baileyx	2.0.0	MAL-2026-13930	https://osv.dev/vulnerability/MAL-2026-13930
 @dreamguyxeon/baileyx	3.0.0	MAL-2026-13930	https://osv.dev/vulnerability/MAL-2026-13930
