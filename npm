@@ -144862,7 +144862,7 @@ node-elm-stdio	*	MAL-2024-10855	https://osv.dev/vulnerability/MAL-2024-10855
 node-env-buffer	*	MAL-2026-16403	https://osv.dev/vulnerability/MAL-2026-16403
 node-env-detector	1.0.0	MAL-2026-6856	https://osv.dev/vulnerability/MAL-2026-6856
 node-env-detector	1.0.1	MAL-2026-6856	https://osv.dev/vulnerability/MAL-2026-6856
-node-env-resolve	1.2.3	MAL-0000-amazon-inspector-6f3e0e1b364a3d74	https://github.com/ossf/malicious-packages/blob/5606c02b3dcc5e9b212dbc23e3c11f8363d98502/osv/malicious/npm/node-env-resolve/MAL-0000-amazon-inspector-6f3e0e1b364a3d74.json
+node-env-resolve	1.2.3	MAL-2026-17681	https://osv.dev/vulnerability/MAL-2026-17681
 node-env-resolver	6.5.1	MAL-2026-5262	https://osv.dev/vulnerability/MAL-2026-5262
 node-env-resolver-aws	10.0.1	MAL-2026-5263	https://osv.dev/vulnerability/MAL-2026-5263
 node-env-resolver-aws	11.0.1	MAL-2026-5263	https://osv.dev/vulnerability/MAL-2026-5263
