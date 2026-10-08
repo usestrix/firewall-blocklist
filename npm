@@ -31121,6 +31121,8 @@ animalrightshistory	*	MAL-2025-14541	https://osv.dev/vulnerability/MAL-2025-1454
 animalrightshistory_888	*	MAL-2025-14542	https://osv.dev/vulnerability/MAL-2025-14542
 animate-css-vite	1.0.1	MAL-2026-14226	https://osv.dev/vulnerability/MAL-2026-14226
 animatecss-postcss-plugin	*	MAL-2026-6495	https://osv.dev/vulnerability/MAL-2026-6495
+animatecss-tailwind-adapter	2.0.6	MAL-0000-animatecss-tailwind-adapter	https://github.com/ossf/malicious-packages/blob/50b7bac26125310044852de1c0d914461df41566/osv/malicious/npm/animatecss-tailwind-adapter/MAL-0000-animatecss-tailwind-adapter.json
+animatecss-tailwind-bridge	2.0.6	MAL-0000-animatecss-tailwind-bridge	https://github.com/ossf/malicious-packages/blob/50b7bac26125310044852de1c0d914461df41566/osv/malicious/npm/animatecss-tailwind-bridge/MAL-0000-animatecss-tailwind-bridge.json
 animated-css-kit	*	MAL-2026-10432	https://osv.dev/vulnerability/MAL-2026-10432
 animated_vector_annotations	*	MAL-2025-2031	https://osv.dev/vulnerability/MAL-2025-2031
 animation-debug-app	*	MAL-2025-191506	https://osv.dev/vulnerability/MAL-2025-191506
@@ -194459,6 +194461,7 @@ tailwind-anim	*	MAL-2026-11500	https://osv.dev/vulnerability/MAL-2026-11500
 tailwind-animate-css-plugin	*	MAL-2026-14352	https://osv.dev/vulnerability/MAL-2026-14352
 tailwind-animate-plugin	1.1.0	MAL-2026-12217	https://osv.dev/vulnerability/MAL-2026-12217
 tailwind-animate-v4	*	MAL-2026-10073	https://osv.dev/vulnerability/MAL-2026-10073
+tailwind-animatecss-uniform	2.0.7	MAL-0000-tailwind-animatecss-uniform	https://github.com/ossf/malicious-packages/blob/50b7bac26125310044852de1c0d914461df41566/osv/malicious/npm/tailwind-animatecss-uniform/MAL-0000-tailwind-animatecss-uniform.json
 tailwind-animates	*	MAL-2026-6727	https://osv.dev/vulnerability/MAL-2026-6727
 tailwind-animation-founder	2.5.7	MAL-2026-12218	https://osv.dev/vulnerability/MAL-2026-12218
 tailwind-animationbased	*	MAL-2025-192640	https://osv.dev/vulnerability/MAL-2025-192640
