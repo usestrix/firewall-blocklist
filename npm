@@ -105422,7 +105422,7 @@ internallib_v76	*	MAL-2022-3906	https://osv.dev/vulnerability/MAL-2022-3906
 internallib_v762	*	MAL-2022-3907	https://osv.dev/vulnerability/MAL-2022-3907
 internallib_v773	*	MAL-2025-47071	https://osv.dev/vulnerability/MAL-2025-47071
 internallib_v782	*	MAL-2026-681	https://osv.dev/vulnerability/MAL-2026-681
-internallib_v788	*	MAL-0000-ghsa-malware-e9395ae1eb59e35b	https://github.com/ossf/malicious-packages/blob/d674917c4d85a88621b93420b5ec838977ef680f/osv/malicious/npm/internallib_v788/MAL-0000-ghsa-malware-e9395ae1eb59e35b.json
+internallib_v788	*	MAL-2026-17649	https://osv.dev/vulnerability/MAL-2026-17649
 internallib_v789	*	MAL-2025-1267	https://osv.dev/vulnerability/MAL-2025-1267
 internallib_v799	*	MAL-2025-48931	https://osv.dev/vulnerability/MAL-2025-48931
 internallib_v803	*	MAL-2025-3625	https://osv.dev/vulnerability/MAL-2025-3625
