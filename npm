@@ -173621,7 +173621,7 @@ revenuecat-mcp-extension	*	MAL-2025-49378	https://osv.dev/vulnerability/MAL-2025
 reverb-event	*	MAL-2025-32180	https://osv.dev/vulnerability/MAL-2025-32180
 review-length-stats	*	MAL-2025-32181	https://osv.dev/vulnerability/MAL-2025-32181
 reviewstack	*	MAL-2022-5773	https://osv.dev/vulnerability/MAL-2022-5773
-revine	2.4.0	MAL-0000-ghsa-malware-3dbf4288af8869a7	https://github.com/ossf/malicious-packages/blob/b5f0053c281f91cad2dbfac09789b03e8487a141/osv/malicious/npm/revine/MAL-0000-ghsa-malware-3dbf4288af8869a7.json
+revine	2.4.0	MAL-2026-17709	https://osv.dev/vulnerability/MAL-2026-17709
 revinux	*	MAL-2025-32182	https://osv.dev/vulnerability/MAL-2025-32182
 revit-to-ifc-scheduler	1.0.1	MAL-2025-191585	https://osv.dev/vulnerability/MAL-2025-191585
 revoke-user-access	*	MAL-2022-5774	https://osv.dev/vulnerability/MAL-2022-5774
