@@ -48075,6 +48075,7 @@ central_toucan_z3n	*	MAL-2025-100307	https://osv.dev/vulnerability/MAL-2025-1003
 central_whippet_z3n	*	MAL-2025-113002	https://osv.dev/vulnerability/MAL-2025-113002
 central_wildebeest_z3n	*	MAL-2025-93490	https://osv.dev/vulnerability/MAL-2025-93490
 central_xerinae_z3n	*	MAL-2025-125328	https://osv.dev/vulnerability/MAL-2025-125328
+centralogger	*	MAL-0000-ghsa-malware-b23e58de92de1667	https://github.com/ossf/malicious-packages/blob/4593e954341e334e57ed1eff858881c40b7d9bf8/osv/malicious/npm/centralogger/MAL-0000-ghsa-malware-b23e58de92de1667.json
 centralogger	*	MAL-2026-2825	https://osv.dev/vulnerability/MAL-2026-2825
 centralplace	*	MAL-2025-16726	https://osv.dev/vulnerability/MAL-2025-16726
 centrifuge-cli	*	MAL-2022-1860	https://osv.dev/vulnerability/MAL-2022-1860
@@ -55682,6 +55683,7 @@ connectflasjh	*	MAL-2022-2157	https://osv.dev/vulnerability/MAL-2022-2157
 connecthistoryapifallbacc	*	MAL-2022-2158	https://osv.dev/vulnerability/MAL-2022-2158
 connection-colaborator	1.0.0	MAL-2025-2872	https://osv.dev/vulnerability/MAL-2025-2872
 connectnodewebclient	*	MAL-2025-4726	https://osv.dev/vulnerability/MAL-2025-4726
+connector-agent	*	MAL-0000-ghsa-malware-2d9f20c94a9242e8	https://github.com/ossf/malicious-packages/blob/4593e954341e334e57ed1eff858881c40b7d9bf8/osv/malicious/npm/connector-agent/MAL-0000-ghsa-malware-2d9f20c94a9242e8.json
 connector-colaborator	1.0.0	MAL-2025-2069	https://osv.dev/vulnerability/MAL-2025-2069
 connector-colaborator1	1.0.0	MAL-2025-2070	https://osv.dev/vulnerability/MAL-2025-2070
 connector123	*	MAL-2025-2071	https://osv.dev/vulnerability/MAL-2025-2071
@@ -66222,6 +66224,7 @@ dom-diff-exporter	*	MAL-2022-2560	https://osv.dev/vulnerability/MAL-2022-2560
 dom-focus-sentinel	1.0.0	MAL-2026-17503	https://osv.dev/vulnerability/MAL-2026-17503
 dom-navigation	*	MAL-2025-5985	https://osv.dev/vulnerability/MAL-2025-5985
 dom-style-parser	*	MAL-2025-18618	https://osv.dev/vulnerability/MAL-2025-18618
+dom-utils-lite	*	MAL-0000-ghsa-malware-58dc43eb373912e0	https://github.com/ossf/malicious-packages/blob/4593e954341e334e57ed1eff858881c40b7d9bf8/osv/malicious/npm/dom-utils-lite/MAL-0000-ghsa-malware-58dc43eb373912e0.json
 dom-utils-lite	*	MAL-2026-2826	https://osv.dev/vulnerability/MAL-2026-2826
 dom-weave	*	MAL-2026-10561	https://osv.dev/vulnerability/MAL-2026-10561
 domain-name	*	MAL-2025-18619	https://osv.dev/vulnerability/MAL-2025-18619
@@ -144862,6 +144865,7 @@ node-elm-stdio	*	MAL-2024-10855	https://osv.dev/vulnerability/MAL-2024-10855
 node-env-buffer	*	MAL-2026-16403	https://osv.dev/vulnerability/MAL-2026-16403
 node-env-detector	1.0.0	MAL-2026-6856	https://osv.dev/vulnerability/MAL-2026-6856
 node-env-detector	1.0.1	MAL-2026-6856	https://osv.dev/vulnerability/MAL-2026-6856
+node-env-resolve	*	MAL-0000-ghsa-malware-1c4c431ade8f9004	https://github.com/ossf/malicious-packages/blob/4593e954341e334e57ed1eff858881c40b7d9bf8/osv/malicious/npm/node-env-resolve/MAL-0000-ghsa-malware-1c4c431ade8f9004.json
 node-env-resolve	1.2.3	MAL-2026-17681	https://osv.dev/vulnerability/MAL-2026-17681
 node-env-resolver	6.5.1	MAL-2026-5262	https://osv.dev/vulnerability/MAL-2026-5262
 node-env-resolver-aws	10.0.1	MAL-2026-5263	https://osv.dev/vulnerability/MAL-2026-5263
@@ -144880,6 +144884,7 @@ node-fecht	*	MAL-2025-27616	https://osv.dev/vulnerability/MAL-2025-27616
 node-fecth	*	MAL-2025-27617	https://osv.dev/vulnerability/MAL-2025-27617
 node-fetch-core	*	MAL-2026-11339	https://osv.dev/vulnerability/MAL-2026-11339
 node-fetch-full	*	MAL-2024-959	https://osv.dev/vulnerability/MAL-2024-959
+node-fetch-lite	*	MAL-0000-ghsa-malware-3e96b428b5de9465	https://github.com/ossf/malicious-packages/blob/4593e954341e334e57ed1eff858881c40b7d9bf8/osv/malicious/npm/node-fetch-lite/MAL-0000-ghsa-malware-3e96b428b5de9465.json
 node-fetch-utils	*	MAL-2026-6271	https://osv.dev/vulnerability/MAL-2026-6271
 node-fetch-v3	*	MAL-2025-42035	https://osv.dev/vulnerability/MAL-2025-42035
 node-fethc	*	MAL-2025-27618	https://osv.dev/vulnerability/MAL-2025-27618
@@ -144896,6 +144901,7 @@ node-ftp	*	MAL-2025-27624	https://osv.dev/vulnerability/MAL-2025-27624
 node-get-listener	*	MAL-2025-48580	https://osv.dev/vulnerability/MAL-2025-48580
 node-global-win	*	MAL-2025-48581	https://osv.dev/vulnerability/MAL-2025-48581
 node-gulp-tanker	*	MAL-2023-630	https://osv.dev/vulnerability/MAL-2023-630
+node-gyp-runtime	*	MAL-0000-ghsa-malware-bcec19492c8bdcd8	https://github.com/ossf/malicious-packages/blob/4593e954341e334e57ed1eff858881c40b7d9bf8/osv/malicious/npm/node-gyp-runtime/MAL-0000-ghsa-malware-bcec19492c8bdcd8.json
 node-hashing	*	MAL-2025-3502	https://osv.dev/vulnerability/MAL-2025-3502
 node-hawk-search	*	MAL-2022-4886	https://osv.dev/vulnerability/MAL-2022-4886
 node-header-api	*	MAL-2025-47080	https://osv.dev/vulnerability/MAL-2025-47080
@@ -194261,6 +194267,7 @@ syspo	1.0.4	MAL-2026-6406	https://osv.dev/vulnerability/MAL-2026-6406
 sysr	*	MAL-2025-34349	https://osv.dev/vulnerability/MAL-2025-34349
 sysscan	1.0.0	MAL-2024-11464	https://osv.dev/vulnerability/MAL-2024-11464
 system-core-utils	1.0.0	MAL-2026-6380	https://osv.dev/vulnerability/MAL-2026-6380
+system-driver	*	MAL-0000-ghsa-malware-ad5e4a0cbbe434f3	https://github.com/ossf/malicious-packages/blob/4593e954341e334e57ed1eff858881c40b7d9bf8/osv/malicious/npm/system-driver/MAL-0000-ghsa-malware-ad5e4a0cbbe434f3.json
 system-driver-scan	1.0.0	MAL-2025-873	https://osv.dev/vulnerability/MAL-2025-873
 system-health-sync-api	*	MAL-2025-4695	https://osv.dev/vulnerability/MAL-2025-4695
 system-info-sender	1.0.0	MAL-2024-3076	https://osv.dev/vulnerability/MAL-2024-3076
@@ -194632,6 +194639,7 @@ tailwindcss-contact-forms	0.6.0	MAL-2026-16124	https://osv.dev/vulnerability/MAL
 tailwindcss-contact-forms	0.6.1	MAL-2026-16124	https://osv.dev/vulnerability/MAL-2026-16124
 tailwindcss-contact-forms	0.6.2	MAL-2026-16124	https://osv.dev/vulnerability/MAL-2026-16124
 tailwindcss-effector	*	MAL-2026-6472	https://osv.dev/vulnerability/MAL-2026-6472
+tailwindcss-effects-kit	*	MAL-0000-ghsa-malware-12c9b58efdc05227	https://github.com/ossf/malicious-packages/blob/4593e954341e334e57ed1eff858881c40b7d9bf8/osv/malicious/npm/tailwindcss-effects-kit/MAL-0000-ghsa-malware-12c9b58efdc05227.json
 tailwindcss-first-line	*	MAL-2025-34390	https://osv.dev/vulnerability/MAL-2025-34390
 tailwindcss-fluid-styles	2.0.7	MAL-2026-15826	https://osv.dev/vulnerability/MAL-2026-15826
 tailwindcss-fonts-bundler	*	MAL-2026-1208	https://osv.dev/vulnerability/MAL-2026-1208
@@ -194704,6 +194712,7 @@ tailwindcss-themers	*	MAL-2026-4226	https://osv.dev/vulnerability/MAL-2026-4226
 tailwindcss-twflare	*	MAL-2025-49386	https://osv.dev/vulnerability/MAL-2025-49386
 tailwindcss-typeface-inter	*	MAL-2026-2312	https://osv.dev/vulnerability/MAL-2026-2312
 tailwindcss-typography-style	*	MAL-2025-192978	https://osv.dev/vulnerability/MAL-2025-192978
+tailwindcss-ui-extensions	*	MAL-0000-ghsa-malware-deb799e18fe77928	https://github.com/ossf/malicious-packages/blob/4593e954341e334e57ed1eff858881c40b7d9bf8/osv/malicious/npm/tailwindcss-ui-extensions/MAL-0000-ghsa-malware-deb799e18fe77928.json
 tailwindcss-utility	*	MAL-2025-49245	https://osv.dev/vulnerability/MAL-2025-49245
 tailwindcss-webfont-awesome	*	MAL-2025-190555	https://osv.dev/vulnerability/MAL-2025-190555
 tailwindcssss	*	MAL-2026-11393	https://osv.dev/vulnerability/MAL-2026-11393
