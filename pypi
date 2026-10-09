@@ -5717,6 +5717,7 @@ idnna	0.3.0	MAL-2026-13488	https://osv.dev/vulnerability/MAL-2026-13488
 idscord-py	*	MAL-2023-1879	https://osv.dev/vulnerability/MAL-2023-1879
 idscord-webhook	*	MAL-2023-1880	https://osv.dev/vulnerability/MAL-2023-1880
 idtotoken	0.0.1	MAL-2024-5255	https://osv.dev/vulnerability/MAL-2024-5255
+ig-gox	1.0.0	MAL-0000-kam193-780638a0747103eb	https://github.com/ossf/malicious-packages/blob/7cf223116c4d6819e614ed57d94dba8ff82e838c/osv/malicious/pypi/ig-gox/MAL-0000-kam193-780638a0747103eb.json
 ighack	3.0	MAL-2026-1410	https://osv.dev/vulnerability/MAL-2026-1410
 ignore-ssl	0.0.1	MAL-2025-2968	https://osv.dev/vulnerability/MAL-2025-2968
 igtpython	*	MAL-2023-1881	https://osv.dev/vulnerability/MAL-2023-1881
