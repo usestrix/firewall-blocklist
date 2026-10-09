@@ -224583,6 +224583,7 @@ wix-pilot	*	MAL-2025-3785	https://osv.dev/vulnerability/MAL-2025-3785
 wix-public	*	MAL-2022-7174	https://osv.dev/vulnerability/MAL-2022-7174
 wix-react-dealer-viewer	*	MAL-2022-7175	https://osv.dev/vulnerability/MAL-2022-7175
 wix-realtime-backend	*	MAL-2022-7176	https://osv.dev/vulnerability/MAL-2022-7176
+wix-reg-poc-bypass	1.0.0	MAL-0000-amazon-inspector-4b0b4a2bb63a48ca	https://github.com/ossf/malicious-packages/blob/896064a1a74fed65928e2431dffbdcecc1202b78/osv/malicious/npm/wix-reg-poc-bypass/MAL-0000-amazon-inspector-4b0b4a2bb63a48ca.json
 wix-secrets-backend	*	MAL-2025-39369	https://osv.dev/vulnerability/MAL-2025-39369
 wix-smarts	*	MAL-2024-7868	https://osv.dev/vulnerability/MAL-2024-7868
 wix-smarts-nextjs	*	MAL-2024-7856	https://osv.dev/vulnerability/MAL-2024-7856
