@@ -45067,7 +45067,6 @@ bundleliep	*	MAL-2025-47053	https://osv.dev/vulnerability/MAL-2025-47053
 bundrix	*	MAL-2026-6658	https://osv.dev/vulnerability/MAL-2026-6658
 bunfer-xor	*	MAL-2025-16345	https://osv.dev/vulnerability/MAL-2025-16345
 bungoma	*	MAL-2026-17389	https://osv.dev/vulnerability/MAL-2026-17389
-bungoma	1.0.0	MAL-0000-amazon-inspector-c67fa681909df231	https://github.com/ossf/malicious-packages/blob/8e4a0c45f3e450ace20a4a9e5e36c458b3841640/osv/malicious/npm/bungoma/MAL-0000-amazon-inspector-c67fa681909df231.json
 bunker-avatar	1.0.1	MAL-2024-1846	https://osv.dev/vulnerability/MAL-2024-1846
 bunker-avatar	1.0.2	MAL-2024-1846	https://osv.dev/vulnerability/MAL-2024-1846
 bunker-avatar	1.13.17	MAL-2024-1846	https://osv.dev/vulnerability/MAL-2024-1846
