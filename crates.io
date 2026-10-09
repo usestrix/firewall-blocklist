@@ -18,6 +18,6 @@ proton-pfff	99.99.5	MAL-2026-6959	https://osv.dev/vulnerability/MAL-2026-6959
 replit_ruspty	1.0.0	MAL-2025-49350	https://osv.dev/vulnerability/MAL-2025-49350
 rustdecimal	*	MAL-2022-1	https://osv.dev/vulnerability/MAL-2022-1
 semantic-search-client	99.0.1	MAL-2026-3102	https://osv.dev/vulnerability/MAL-2026-3102
-sharpnes	*	MAL-0000-sharpnes	https://github.com/ossf/malicious-packages/blob/5f2d198cae0b5406b933cbf57bfc96ddc51f894f/osv/malicious/crates.io/sharpnes/MAL-0000-sharpnes.json
+sharpnes	*	MAL-2026-17713	https://osv.dev/vulnerability/MAL-2026-17713
 supertag	99.1.1	MAL-2026-3129	https://osv.dev/vulnerability/MAL-2026-3129
 tinymember	*	MAL-2026-14340	https://osv.dev/vulnerability/MAL-2026-14340
