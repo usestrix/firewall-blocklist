@@ -116398,10 +116398,10 @@ kmastatic	*	MAL-2022-4195	https://osv.dev/vulnerability/MAL-2022-4195
 kmauqkvxzsgifpbj	*	MAL-2022-4196	https://osv.dev/vulnerability/MAL-2022-4196
 kmcwtjlfiaznysxp	*	MAL-2022-4197	https://osv.dev/vulnerability/MAL-2022-4197
 kmeet	77.7.7	MAL-2026-125	https://osv.dev/vulnerability/MAL-2026-125
-kmf-bootstrap	100.100.102	MAL-0000-ossf-package-analysis-4a4e085f9bdddf68	https://github.com/ossf/malicious-packages/blob/0a50d309b6de969f0a879b9a34cbe67d1de5381d/osv/malicious/npm/kmf-bootstrap/MAL-0000-ossf-package-analysis-4a4e085f9bdddf68.json
+kmf-bootstrap	100.100.102	MAL-2026-17746	https://osv.dev/vulnerability/MAL-2026-17746
 kmf-cookiecatcher	*	MAL-2025-48410	https://osv.dev/vulnerability/MAL-2025-48410
 kmf-cookieservice	*	MAL-2025-191498	https://osv.dev/vulnerability/MAL-2025-191498
-kmf-i18n	100.100.102	MAL-0000-ossf-package-analysis-c506e33bdce28606	https://github.com/ossf/malicious-packages/blob/0a50d309b6de969f0a879b9a34cbe67d1de5381d/osv/malicious/npm/kmf-i18n/MAL-0000-ossf-package-analysis-c506e33bdce28606.json
+kmf-i18n	100.100.102	MAL-2026-17747	https://osv.dev/vulnerability/MAL-2026-17747
 kmf-vendor-pack	99.0.0	MAL-2026-17744	https://osv.dev/vulnerability/MAL-2026-17744
 kmnb	1.0.0	MAL-2026-1767	https://osv.dev/vulnerability/MAL-2026-1767
 kmnxptuwdkeflbyh	*	MAL-2022-4198	https://osv.dev/vulnerability/MAL-2022-4198
@@ -200657,7 +200657,7 @@ tessa-npm-plugin	*	MAL-2023-8614	https://osv.dev/vulnerability/MAL-2023-8614
 test-10	*	MAL-2025-34763	https://osv.dev/vulnerability/MAL-2025-34763
 test-23456	1.0.0	MAL-2024-11470	https://osv.dev/vulnerability/MAL-2024-11470
 test-aaa-yyyy-zzz	*	MAL-2022-6465	https://osv.dev/vulnerability/MAL-2022-6465
-test-account-portal-fe	100.100.102	MAL-0000-ossf-package-analysis-5dd02103458df4fa	https://github.com/ossf/malicious-packages/blob/0a50d309b6de969f0a879b9a34cbe67d1de5381d/osv/malicious/npm/test-account-portal-fe/MAL-0000-ossf-package-analysis-5dd02103458df4fa.json
+test-account-portal-fe	100.100.102	MAL-2026-17748	https://osv.dev/vulnerability/MAL-2026-17748
 test-agency-assign	1.0.4	MAL-2026-17295	https://osv.dev/vulnerability/MAL-2026-17295
 test-agency-assignment	1.0.2	MAL-2026-17239	https://osv.dev/vulnerability/MAL-2026-17239
 test-agency-assignment-01	1.0.5	MAL-2026-17296	https://osv.dev/vulnerability/MAL-2026-17296
