@@ -172,7 +172,7 @@ afriton-py	1.6	MAL-2024-11515	https://osv.dev/vulnerability/MAL-2024-11515
 afriton-py	1.7	MAL-2024-11515	https://osv.dev/vulnerability/MAL-2024-11515
 afritonpy	1	MAL-2024-11516	https://osv.dev/vulnerability/MAL-2024-11516
 agent-user-generate	1.6.7	MAL-2024-11517	https://osv.dev/vulnerability/MAL-2024-11517
-agent-vx	0.1.0	MAL-0000-kam193-815c9aad02259785	https://github.com/ossf/malicious-packages/blob/d857511ac369da6423e68d11ca141b35c478d458/osv/malicious/pypi/agent-vx/MAL-0000-kam193-815c9aad02259785.json
+agent-vx	0.1.0	MAL-2026-17755	https://osv.dev/vulnerability/MAL-2026-17755
 agentaix	0.1.0	MAL-2026-17752	https://osv.dev/vulnerability/MAL-2026-17752
 agentaix	0.2.0	MAL-2026-17752	https://osv.dev/vulnerability/MAL-2026-17752
 agents-kit	0.0.0.1	MAL-2025-2930	https://osv.dev/vulnerability/MAL-2025-2930
@@ -8747,8 +8747,8 @@ packagename69	1	MAL-2024-5447	https://osv.dev/vulnerability/MAL-2024-5447
 packagescrape	0.9.0	MAL-2024-5448	https://osv.dev/vulnerability/MAL-2024-5448
 packagescraping	0.9.0	MAL-2024-5449	https://osv.dev/vulnerability/MAL-2024-5449
 packed-w3shi	0.0.1	MAL-2025-191809	https://osv.dev/vulnerability/MAL-2025-191809
-pafer	0.9.7	MAL-0000-kam193-a74b7c5b356a87fe	https://github.com/ossf/malicious-packages/blob/d857511ac369da6423e68d11ca141b35c478d458/osv/malicious/pypi/pafer/MAL-0000-kam193-a74b7c5b356a87fe.json
-pafer	0.9.8	MAL-0000-kam193-a74b7c5b356a87fe	https://github.com/ossf/malicious-packages/blob/d857511ac369da6423e68d11ca141b35c478d458/osv/malicious/pypi/pafer/MAL-0000-kam193-a74b7c5b356a87fe.json
+pafer	0.9.7	MAL-2026-17756	https://osv.dev/vulnerability/MAL-2026-17756
+pafer	0.9.8	MAL-2026-17756	https://osv.dev/vulnerability/MAL-2026-17756
 paintpy	2.0	MAL-2024-5450	https://osv.dev/vulnerability/MAL-2024-5450
 pam98wyfupa98w	0.0.1	MAL-2025-191810	https://osv.dev/vulnerability/MAL-2025-191810
 panads	*	MAL-2023-1934	https://osv.dev/vulnerability/MAL-2023-1934
@@ -16694,7 +16694,7 @@ webockets	*	MAL-2023-2365	https://osv.dev/vulnerability/MAL-2023-2365
 weboscket-client	*	MAL-2023-2366	https://osv.dev/vulnerability/MAL-2023-2366
 webosckets	*	MAL-2023-2367	https://osv.dev/vulnerability/MAL-2023-2367
 webquickauth	2.3.5	MAL-2024-1651	https://osv.dev/vulnerability/MAL-2024-1651
-webreader	2.3.8	MAL-0000-kam193-165632b7385ab993	https://github.com/ossf/malicious-packages/blob/d857511ac369da6423e68d11ca141b35c478d458/osv/malicious/pypi/webreader/MAL-0000-kam193-165632b7385ab993.json
+webreader	2.3.8	MAL-2026-17757	https://osv.dev/vulnerability/MAL-2026-17757
 webscket-client	*	MAL-2023-2368	https://osv.dev/vulnerability/MAL-2023-2368
 websckets	*	MAL-2023-2369	https://osv.dev/vulnerability/MAL-2023-2369
 webscoket-client	*	MAL-2023-2370	https://osv.dev/vulnerability/MAL-2023-2370
