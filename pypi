@@ -172,8 +172,8 @@ afriton-py	1.6	MAL-2024-11515	https://osv.dev/vulnerability/MAL-2024-11515
 afriton-py	1.7	MAL-2024-11515	https://osv.dev/vulnerability/MAL-2024-11515
 afritonpy	1	MAL-2024-11516	https://osv.dev/vulnerability/MAL-2024-11516
 agent-user-generate	1.6.7	MAL-2024-11517	https://osv.dev/vulnerability/MAL-2024-11517
-agentaix	0.1.0	MAL-0000-kam193-fd321806b9622242	https://github.com/ossf/malicious-packages/blob/a68ec3409b9d83786c6e70b5c2346a8070b51582/osv/malicious/pypi/agentaix/MAL-0000-kam193-fd321806b9622242.json
-agentaix	0.2.0	MAL-0000-kam193-fd321806b9622242	https://github.com/ossf/malicious-packages/blob/a68ec3409b9d83786c6e70b5c2346a8070b51582/osv/malicious/pypi/agentaix/MAL-0000-kam193-fd321806b9622242.json
+agentaix	0.1.0	MAL-2026-17752	https://osv.dev/vulnerability/MAL-2026-17752
+agentaix	0.2.0	MAL-2026-17752	https://osv.dev/vulnerability/MAL-2026-17752
 agents-kit	0.0.0.1	MAL-2025-2930	https://osv.dev/vulnerability/MAL-2025-2930
 ai-cypher	0.1.0	MAL-2025-192683	https://osv.dev/vulnerability/MAL-2025-192683
 ai-cypher	0.2.0	MAL-2025-192683	https://osv.dev/vulnerability/MAL-2025-192683
@@ -7684,7 +7684,7 @@ me-dheeraj-moye-moye	1.0.6	MAL-2024-5357	https://osv.dev/vulnerability/MAL-2024-
 mecit1	1.0.0	MAL-2024-10042	https://osv.dev/vulnerability/MAL-2024-10042
 mecit2	1.0.0	MAL-2024-10043	https://osv.dev/vulnerability/MAL-2024-10043
 mecit3	1.0.0	MAL-2024-10044	https://osv.dev/vulnerability/MAL-2024-10044
-media-manager5	0.1.0	MAL-0000-kam193-28307627b9e2bead	https://github.com/ossf/malicious-packages/blob/a68ec3409b9d83786c6e70b5c2346a8070b51582/osv/malicious/pypi/media-manager5/MAL-0000-kam193-28307627b9e2bead.json
+media-manager5	0.1.0	MAL-2026-17753	https://osv.dev/vulnerability/MAL-2026-17753
 medifile	2.1	MAL-2026-352	https://osv.dev/vulnerability/MAL-2026-352
 medoen	0.1.1	MAL-2025-47786	https://osv.dev/vulnerability/MAL-2025-47786
 mega-sparks	92.6	MAL-2024-10586	https://osv.dev/vulnerability/MAL-2024-10586
