@@ -172,11 +172,8 @@ afriton-py	1.6	MAL-2024-11515	https://osv.dev/vulnerability/MAL-2024-11515
 afriton-py	1.7	MAL-2024-11515	https://osv.dev/vulnerability/MAL-2024-11515
 afritonpy	1	MAL-2024-11516	https://osv.dev/vulnerability/MAL-2024-11516
 agent-user-generate	1.6.7	MAL-2024-11517	https://osv.dev/vulnerability/MAL-2024-11517
-agent-vx	0.1.0	MAL-0000-amazon-inspector-90f0a2b273b0361f	https://github.com/ossf/malicious-packages/blob/0e9201ba1961463a47896920d0ce6207dd4f4fcb/osv/malicious/pypi/agent-vx/MAL-0000-amazon-inspector-90f0a2b273b0361f.json
 agent-vx	0.1.0	MAL-2026-17755	https://osv.dev/vulnerability/MAL-2026-17755
-agentaix	0.1.0	MAL-0000-amazon-inspector-c403a9ecab78c519	https://github.com/ossf/malicious-packages/blob/0e9201ba1961463a47896920d0ce6207dd4f4fcb/osv/malicious/pypi/agentaix/MAL-0000-amazon-inspector-c403a9ecab78c519.json
 agentaix	0.1.0	MAL-2026-17752	https://osv.dev/vulnerability/MAL-2026-17752
-agentaix	0.2.0	MAL-0000-amazon-inspector-360b4359c789a2ba	https://github.com/ossf/malicious-packages/blob/0e9201ba1961463a47896920d0ce6207dd4f4fcb/osv/malicious/pypi/agentaix/MAL-0000-amazon-inspector-360b4359c789a2ba.json
 agentaix	0.2.0	MAL-2026-17752	https://osv.dev/vulnerability/MAL-2026-17752
 agents-kit	0.0.0.1	MAL-2025-2930	https://osv.dev/vulnerability/MAL-2025-2930
 ai-cypher	0.1.0	MAL-2025-192683	https://osv.dev/vulnerability/MAL-2025-192683
@@ -5723,7 +5720,6 @@ idnna	0.3.0	MAL-2026-13488	https://osv.dev/vulnerability/MAL-2026-13488
 idscord-py	*	MAL-2023-1879	https://osv.dev/vulnerability/MAL-2023-1879
 idscord-webhook	*	MAL-2023-1880	https://osv.dev/vulnerability/MAL-2023-1880
 idtotoken	0.0.1	MAL-2024-5255	https://osv.dev/vulnerability/MAL-2024-5255
-ig-gox	1.0.0	MAL-0000-amazon-inspector-9b31f8ba5b2167be	https://github.com/ossf/malicious-packages/blob/0e9201ba1961463a47896920d0ce6207dd4f4fcb/osv/malicious/pypi/ig-gox/MAL-0000-amazon-inspector-9b31f8ba5b2167be.json
 ig-gox	1.0.0	MAL-2026-17712	https://osv.dev/vulnerability/MAL-2026-17712
 ighack	3.0	MAL-2026-1410	https://osv.dev/vulnerability/MAL-2026-1410
 ignore-ssl	0.0.1	MAL-2025-2968	https://osv.dev/vulnerability/MAL-2025-2968
@@ -7689,7 +7685,6 @@ me-dheeraj-moye-moye	1.0.6	MAL-2024-5357	https://osv.dev/vulnerability/MAL-2024-
 mecit1	1.0.0	MAL-2024-10042	https://osv.dev/vulnerability/MAL-2024-10042
 mecit2	1.0.0	MAL-2024-10043	https://osv.dev/vulnerability/MAL-2024-10043
 mecit3	1.0.0	MAL-2024-10044	https://osv.dev/vulnerability/MAL-2024-10044
-media-manager5	0.1.0	MAL-0000-amazon-inspector-b2598535fc7c5864	https://github.com/ossf/malicious-packages/blob/0e9201ba1961463a47896920d0ce6207dd4f4fcb/osv/malicious/pypi/media-manager5/MAL-0000-amazon-inspector-b2598535fc7c5864.json
 media-manager5	0.1.0	MAL-2026-17753	https://osv.dev/vulnerability/MAL-2026-17753
 medifile	2.1	MAL-2026-352	https://osv.dev/vulnerability/MAL-2026-352
 medoen	0.1.1	MAL-2025-47786	https://osv.dev/vulnerability/MAL-2025-47786
