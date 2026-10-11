@@ -170705,6 +170705,7 @@ react-dropdownhunter	*	MAL-2025-31781	https://osv.dev/vulnerability/MAL-2025-317
 react-dropzone-legacy	*	MAL-2023-1440	https://osv.dev/vulnerability/MAL-2023-1440
 react-dropzone-log	*	MAL-2025-47102	https://osv.dev/vulnerability/MAL-2025-47102
 react-dropzone-truffle	*	MAL-2026-999	https://osv.dev/vulnerability/MAL-2026-999
+react-dropzone-v4	99.0.0	MAL-0000-ossf-package-analysis-a198afa2f10e287b	https://github.com/ossf/malicious-packages/blob/c9aace4e888ca30b10b80ac38d7ad99e4918e36b/osv/malicious/npm/react-dropzone-v4/MAL-0000-ossf-package-analysis-a198afa2f10e287b.json
 react-dts-codegen	*	MAL-2022-5644	https://osv.dev/vulnerability/MAL-2022-5644
 react-dynamic-parser	*	MAL-2026-14415	https://osv.dev/vulnerability/MAL-2026-14415
 react-dynamic-table-compenent	*	MAL-2026-6533	https://osv.dev/vulnerability/MAL-2026-6533
