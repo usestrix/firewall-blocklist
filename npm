@@ -31727,7 +31727,7 @@ ap-components-react	3.9.9	MAL-2024-10879	https://osv.dev/vulnerability/MAL-2024-
 ap-election-adapter	*	MAL-2022-1033	https://osv.dev/vulnerability/MAL-2022-1033
 ap-is-required-by-the-labour-digital-membership-card	*	MAL-2025-14626	https://osv.dev/vulnerability/MAL-2025-14626
 ap3-components-ui	*	MAL-2026-10150	https://osv.dev/vulnerability/MAL-2026-10150
-ap3-foundations-ui	99.0.1	MAL-0000-amazon-inspector-7469eefaab624821	https://github.com/ossf/malicious-packages/blob/6a8b38736364332b6943c817c43e722a8da66e1e/osv/malicious/npm/ap3-foundations-ui/MAL-0000-amazon-inspector-7469eefaab624821.json
+ap3-foundations-ui	99.0.1	MAL-2026-17806	https://osv.dev/vulnerability/MAL-2026-17806
 ap607	*	MAL-2025-14627	https://osv.dev/vulnerability/MAL-2025-14627
 apa-components	6.1.3	MAL-2024-10382	https://osv.dev/vulnerability/MAL-2024-10382
 apa-root-pzatj	*	MAL-2022-1034	https://osv.dev/vulnerability/MAL-2022-1034
