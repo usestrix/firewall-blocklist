@@ -15854,6 +15854,7 @@
 @teselagen/sequence-utils	0.3.34	MAL-2025-47279	https://osv.dev/vulnerability/MAL-2025-47279
 @teselagen/ui	0.9.10	MAL-2025-47280	https://osv.dev/vulnerability/MAL-2025-47280
 @teselagen/ui	0.9.9	MAL-2025-47280	https://osv.dev/vulnerability/MAL-2025-47280
+@tesla-insurance/vinless-quote	*	MAL-0000-ghsa-malware-177675920d7326f3	https://github.com/ossf/malicious-packages/blob/1104f809d3205f361c82508adba0c208d6e90ddc/osv/malicious/npm/@tesla-insurance/vinless-quote/MAL-0000-ghsa-malware-177675920d7326f3.json
 @tesla-insurance/vinless-quote	9.9.10	MAL-2026-16378	https://osv.dev/vulnerability/MAL-2026-16378
 @test1230504/probe-7f3k2m-utils	*	MAL-2026-16467	https://osv.dev/vulnerability/MAL-2026-16467
 @test1230504/string-format-helper	*	MAL-2026-16468	https://osv.dev/vulnerability/MAL-2026-16468
@@ -54166,6 +54167,7 @@ com.apple.unityplugin.gamecontroller	*	MAL-2025-17313	https://osv.dev/vulnerabil
 com.apple.unityplugin.gamekit	*	MAL-2025-17314	https://osv.dev/vulnerability/MAL-2025-17314
 com.apple.unityplugin.phase	*	MAL-2025-17315	https://osv.dev/vulnerability/MAL-2025-17315
 com.apple.unityplugin.spatialcontroller	*	MAL-2025-49110	https://osv.dev/vulnerability/MAL-2025-49110
+com.apple.unityplugin.storekit	*	MAL-0000-ghsa-malware-8a4afbda3ffd9f5e	https://github.com/ossf/malicious-packages/blob/1104f809d3205f361c82508adba0c208d6e90ddc/osv/malicious/npm/com.apple.unityplugin.storekit/MAL-0000-ghsa-malware-8a4afbda3ffd9f5e.json
 com.apple.unityplugin.storekit	1.0.1	MAL-2026-16477	https://osv.dev/vulnerability/MAL-2026-16477
 com.apple.unityplugin.storekit	1.0.2	MAL-2026-16477	https://osv.dev/vulnerability/MAL-2026-16477
 com.appsflyer.app.letscook	*	MAL-2025-17316	https://osv.dev/vulnerability/MAL-2025-17316
@@ -96803,6 +96805,7 @@ helper-module-context	*	MAL-2022-3606	https://osv.dev/vulnerability/MAL-2022-360
 helper-plugin-utils	*	MAL-2025-3256	https://osv.dev/vulnerability/MAL-2025-3256
 helper-split-export-declaration	*	MAL-2025-3257	https://osv.dev/vulnerability/MAL-2025-3257
 helper-validator-identifier	*	MAL-2025-47885	https://osv.dev/vulnerability/MAL-2025-47885
+helpersutils-dev-tools	*	MAL-0000-ghsa-malware-a91c7804b54f49f6	https://github.com/ossf/malicious-packages/blob/1104f809d3205f361c82508adba0c208d6e90ddc/osv/malicious/npm/helpersutils-dev-tools/MAL-0000-ghsa-malware-a91c7804b54f49f6.json
 helpersutils-dev-tools	1.0.11	MAL-2026-16465	https://osv.dev/vulnerability/MAL-2026-16465
 helpful-apricot-goose	*	MAL-2025-68656	https://osv.dev/vulnerability/MAL-2025-68656
 helpful-indigo-goose	*	MAL-2025-138771	https://osv.dev/vulnerability/MAL-2025-138771
@@ -148131,6 +148134,7 @@ npmrce-trials	*	MAL-2022-4948	https://osv.dev/vulnerability/MAL-2022-4948
 npmrcetest	1.0.0	MAL-2025-5761	https://osv.dev/vulnerability/MAL-2025-5761
 npmrunnall	*	MAL-2024-11059	https://osv.dev/vulnerability/MAL-2024-11059
 npmrunnode-fetch-test	1337.1.0	MAL-2025-48529	https://osv.dev/vulnerability/MAL-2025-48529
+npmscript_tesstalert_unpkg	*	MAL-0000-ghsa-malware-efdb5fd9b7105d7d	https://github.com/ossf/malicious-packages/blob/1104f809d3205f361c82508adba0c208d6e90ddc/osv/malicious/npm/npmscript_tesstalert_unpkg/MAL-0000-ghsa-malware-efdb5fd9b7105d7d.json
 npmscript_tesstalert_unpkg	1.0.1	MAL-2026-16309	https://osv.dev/vulnerability/MAL-2026-16309
 npmscript_tesstalert_unpkg	1.0.2	MAL-2026-16309	https://osv.dev/vulnerability/MAL-2026-16309
 npmscript_tesstalert_unpkg	1.1.7	MAL-2026-16309	https://osv.dev/vulnerability/MAL-2026-16309
@@ -203151,6 +203155,7 @@ testli	*	MAL-2025-36735	https://osv.dev/vulnerability/MAL-2025-36735
 testlight	*	MAL-2025-36736	https://osv.dev/vulnerability/MAL-2025-36736
 testmatrix	*	MAL-2022-6525	https://osv.dev/vulnerability/MAL-2022-6525
 testmbox1	*	MAL-2025-36737	https://osv.dev/vulnerability/MAL-2025-36737
+testmgkregme	*	MAL-0000-ghsa-malware-232bcd8cfd23f7b1	https://github.com/ossf/malicious-packages/blob/1104f809d3205f361c82508adba0c208d6e90ddc/osv/malicious/npm/testmgkregme/MAL-0000-ghsa-malware-232bcd8cfd23f7b1.json
 testmgkregme	1.0.1	MAL-2026-16317	https://osv.dev/vulnerability/MAL-2026-16317
 testmv	*	MAL-2025-36738	https://osv.dev/vulnerability/MAL-2025-36738
 testneb	*	MAL-2023-858	https://osv.dev/vulnerability/MAL-2023-858
