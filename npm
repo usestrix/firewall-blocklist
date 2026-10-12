@@ -95977,6 +95977,7 @@ hardhat-manager	*	MAL-2023-492	https://osv.dev/vulnerability/MAL-2023-492
 hardhat-modern	*	MAL-2022-3561	https://osv.dev/vulnerability/MAL-2022-3561
 hardhat-node	1.0.1	MAL-2026-1053	https://osv.dev/vulnerability/MAL-2026-1053
 hardhat-node	1.0.2	MAL-2026-1053	https://osv.dev/vulnerability/MAL-2026-1053
+hardhat-option	2.0.1	MAL-0000-hardhat-option	https://github.com/ossf/malicious-packages/blob/eddc2cd1db842a4c73a26662feaad4e5cf5aec47/osv/malicious/npm/hardhat-option/MAL-0000-hardhat-option.json
 hardhat-option	2.0.1	MAL-2026-17660	https://osv.dev/vulnerability/MAL-2026-17660
 hardhat-pack	2.0.1	MAL-2026-17661	https://osv.dev/vulnerability/MAL-2026-17661
 hardhat-plugin-solidity	1.0.0	MAL-2026-6706	https://osv.dev/vulnerability/MAL-2026-6706
