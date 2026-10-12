@@ -116442,7 +116442,6 @@ kmf-i18n	100.100.102	MAL-2026-17747	https://osv.dev/vulnerability/MAL-2026-17747
 kmf-vendor-pack	100.100.100	MAL-2026-17744	https://osv.dev/vulnerability/MAL-2026-17744
 kmf-vendor-pack	100.100.101	MAL-2026-17744	https://osv.dev/vulnerability/MAL-2026-17744
 kmf-vendor-pack	100.100.106	MAL-2026-17744	https://osv.dev/vulnerability/MAL-2026-17744
-kmf-vendor-pack	99.0.0	MAL-0000-invisirisk-kmf-vendor-pack	https://github.com/ossf/malicious-packages/blob/b008038328cfbabe20ed9ee18f3314ff9ea5449f/osv/malicious/npm/kmf-vendor-pack/MAL-0000-invisirisk-kmf-vendor-pack.json
 kmf-vendor-pack	99.0.0	MAL-2026-17744	https://osv.dev/vulnerability/MAL-2026-17744
 kmnb	1.0.0	MAL-2026-1767	https://osv.dev/vulnerability/MAL-2026-1767
 kmnxptuwdkeflbyh	*	MAL-2022-4198	https://osv.dev/vulnerability/MAL-2022-4198
