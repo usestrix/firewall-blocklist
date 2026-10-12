@@ -8432,6 +8432,9 @@ np6helperhttptest	0.3	MAL-2024-5420	https://osv.dev/vulnerability/MAL-2024-5420
 np6helperhttptest	0.4	MAL-2024-5420	https://osv.dev/vulnerability/MAL-2024-5420
 np6helperhttptest	0.5	MAL-2024-5420	https://osv.dev/vulnerability/MAL-2024-5420
 np6helperhttptest	0.6	MAL-2024-5420	https://osv.dev/vulnerability/MAL-2024-5420
+npp-ml	0.1.7	MAL-0000-kam193-7f575d02caf23637	https://github.com/ossf/malicious-packages/blob/346d4388b25ffcb62d555b5c540f04977434c504/osv/malicious/pypi/npp-ml/MAL-0000-kam193-7f575d02caf23637.json
+npp-ml	0.1.8	MAL-0000-kam193-7f575d02caf23637	https://github.com/ossf/malicious-packages/blob/346d4388b25ffcb62d555b5c540f04977434c504/osv/malicious/pypi/npp-ml/MAL-0000-kam193-7f575d02caf23637.json
+npp-ml	0.1.9	MAL-0000-kam193-7f575d02caf23637	https://github.com/ossf/malicious-packages/blob/346d4388b25ffcb62d555b5c540f04977434c504/osv/malicious/pypi/npp-ml/MAL-0000-kam193-7f575d02caf23637.json
 nshack	1.0	MAL-2024-5421	https://osv.dev/vulnerability/MAL-2024-5421
 nshack	1.1	MAL-2024-5421	https://osv.dev/vulnerability/MAL-2024-5421
 nspacercesolve	0.0.1	MAL-2025-191805	https://osv.dev/vulnerability/MAL-2025-191805
