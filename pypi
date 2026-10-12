@@ -10592,6 +10592,7 @@ py-xord	1.0.0	MAL-2024-5635	https://osv.dev/vulnerability/MAL-2024-5635
 py23crypt	0.1.5	MAL-2024-5636	https://osv.dev/vulnerability/MAL-2024-5636
 py23crypt	0.1.6	MAL-2024-5636	https://osv.dev/vulnerability/MAL-2024-5636
 py2colors	0.0.0	MAL-2024-5637	https://osv.dev/vulnerability/MAL-2024-5637
+py2ops	2.2	MAL-0000-py2ops	https://github.com/ossf/malicious-packages/blob/a8bfe0540583a19c438252c19815f4848e4534ea/osv/malicious/pypi/py2ops/MAL-0000-py2ops.json
 py32cly	0.1.0	MAL-2024-5638	https://osv.dev/vulnerability/MAL-2024-5638
 py32flayer	0.1.6	MAL-2024-5639	https://osv.dev/vulnerability/MAL-2024-5639
 py32obf	0.1.6	MAL-2024-5640	https://osv.dev/vulnerability/MAL-2024-5640
