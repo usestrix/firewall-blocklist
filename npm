@@ -58291,7 +58291,7 @@ css-minimizer-webpack-plugin-winston-jwt-phoebe	*	MAL-2025-141337	https://osv.de
 css-minimizer-webpack-plugin-yaml-sails-test	*	MAL-2025-141338	https://osv.dev/vulnerability/MAL-2025-141338
 css-mpmdds-polyfill	1.0.0	MAL-2026-17554	https://osv.dev/vulnerability/MAL-2026-17554
 css-nbanqq-polyfill	1.0.0	MAL-2026-17555	https://osv.dev/vulnerability/MAL-2026-17555
-css-nesting-transform	1.0.0	MAL-0000-css-nesting-transform	https://github.com/ossf/malicious-packages/blob/5979c08fc78a86467d13a2ff81c61f47ec3421f0/osv/malicious/npm/css-nesting-transform/MAL-0000-css-nesting-transform.json
+css-nesting-transform	1.0.0	MAL-2026-17804	https://osv.dev/vulnerability/MAL-2026-17804
 css-nrmgzn-polyfill	1.0.0	MAL-2026-17576	https://osv.dev/vulnerability/MAL-2026-17576
 css-ogojwh-polyfill	1.0.0	MAL-2026-17556	https://osv.dev/vulnerability/MAL-2026-17556
 css-overscroll-contain	1.0.1	MAL-2026-17705	https://osv.dev/vulnerability/MAL-2026-17705
