@@ -2350,7 +2350,7 @@ credential-sdk	0.0.1	MAL-2024-5000	https://osv.dev/vulnerability/MAL-2024-5000
 credential-sdk	0.0.2	MAL-2024-5000	https://osv.dev/vulnerability/MAL-2024-5000
 credential-sdk	0.0.3	MAL-2024-5000	https://osv.dev/vulnerability/MAL-2024-5000
 credit-decision-metrics	9.1.0	MAL-2026-653	https://osv.dev/vulnerability/MAL-2026-653
-crelic-bqwheel-52f66a3f1d	0.0.1	MAL-0000-kam193-0ca34d571eaf5198	https://github.com/ossf/malicious-packages/blob/320695690b5564e80e6596f2450680b5e4509b29/osv/malicious/pypi/crelic-bqwheel-52f66a3f1d/MAL-0000-kam193-0ca34d571eaf5198.json
+crelic-bqwheel-52f66a3f1d	0.0.1	MAL-2026-17863	https://osv.dev/vulnerability/MAL-2026-17863
 crowdnav	1.0	MAL-2025-41642	https://osv.dev/vulnerability/MAL-2025-41642
 crowdstrike-foundry	20.1.0	MAL-2025-912	https://osv.dev/vulnerability/MAL-2025-912
 crowdstrike-foundry	20.2.0	MAL-2025-912	https://osv.dev/vulnerability/MAL-2025-912
