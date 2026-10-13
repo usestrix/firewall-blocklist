@@ -10435,7 +10435,6 @@
 @myorder-frontend-commons/analytics	1.2.0	MAL-2026-17749	https://osv.dev/vulnerability/MAL-2026-17749
 @myorder-frontend-commons/analytics	10.0.0	MAL-2026-17749	https://osv.dev/vulnerability/MAL-2026-17749
 @myorder-frontend-commons/analytics	100.0.0	MAL-2026-17749	https://osv.dev/vulnerability/MAL-2026-17749
-@myorder-frontend-commons/analytics	101.0.0	MAL-0000-invisirisk-myorder-frontend-commons-analytics	https://github.com/ossf/malicious-packages/blob/e52e2a5529d40770ba4102ec4524d7fea2909ca2/osv/malicious/npm/@myorder-frontend-commons/analytics/MAL-0000-invisirisk-myorder-frontend-commons-analytics.json
 @myorder-frontend-commons/analytics	101.0.0	MAL-2026-17749	https://osv.dev/vulnerability/MAL-2026-17749
 @myorder-frontend-commons/analytics	2.0.0	MAL-2026-17749	https://osv.dev/vulnerability/MAL-2026-17749
 @myorder-frontend-commons/analytics	3.0.0	MAL-2026-17749	https://osv.dev/vulnerability/MAL-2026-17749
