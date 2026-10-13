@@ -4693,6 +4693,9 @@ flyteplugins-redis	2.6.10	MAL-2026-14584	https://osv.dev/vulnerability/MAL-2026-
 fonafx	0.1	MAL-2025-191733	https://osv.dev/vulnerability/MAL-2025-191733
 fonafx	0.2	MAL-2025-191733	https://osv.dev/vulnerability/MAL-2025-191733
 fonafx	0.3	MAL-2025-191733	https://osv.dev/vulnerability/MAL-2025-191733
+fontcase	0.1.0	MAL-0000-kam193-9e2c4992e5295f2b	https://github.com/ossf/malicious-packages/blob/bb28129d56265b8e537b96cbf9b817a15ed178c9/osv/malicious/pypi/fontcase/MAL-0000-kam193-9e2c4992e5295f2b.json
+fontcase	0.1.1	MAL-0000-kam193-9e2c4992e5295f2b	https://github.com/ossf/malicious-packages/blob/bb28129d56265b8e537b96cbf9b817a15ed178c9/osv/malicious/pypi/fontcase/MAL-0000-kam193-9e2c4992e5295f2b.json
+fontcase	0.1.2	MAL-0000-kam193-9e2c4992e5295f2b	https://github.com/ossf/malicious-packages/blob/bb28129d56265b8e537b96cbf9b817a15ed178c9/osv/malicious/pypi/fontcase/MAL-0000-kam193-9e2c4992e5295f2b.json
 foop	60.0.0	MAL-2025-927	https://osv.dev/vulnerability/MAL-2025-927
 forecolor5	0.0.1	MAL-2024-5147	https://osv.dev/vulnerability/MAL-2024-5147
 forecolor5	0.0.2	MAL-2024-5147	https://osv.dev/vulnerability/MAL-2024-5147
