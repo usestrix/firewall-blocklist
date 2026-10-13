@@ -156709,8 +156709,8 @@ passpzrtfaueth2	*	MAL-2022-5223	https://osv.dev/vulnerability/MAL-2022-5223
 passrdigitalportal	100.1.5	MAL-2025-2888	https://osv.dev/vulnerability/MAL-2025-2888
 passsport1	*	MAL-2026-11344	https://osv.dev/vulnerability/MAL-2026-11344
 passtpor	*	MAL-2026-11345	https://osv.dev/vulnerability/MAL-2026-11345
-passwordcracker	*	MAL-0000-invisirisk-passwordcracker	https://github.com/ossf/malicious-packages/blob/826d542405efe8561a79764e6dcd82e614ef9293/osv/malicious/npm/passwordcracker/MAL-0000-invisirisk-passwordcracker.json
-passwordcrackv2	*	MAL-0000-invisirisk-passwordcrackv2	https://github.com/ossf/malicious-packages/blob/826d542405efe8561a79764e6dcd82e614ef9293/osv/malicious/npm/passwordcrackv2/MAL-0000-invisirisk-passwordcrackv2.json
+passwordcracker	*	MAL-2026-17864	https://osv.dev/vulnerability/MAL-2026-17864
+passwordcrackv2	*	MAL-2026-17865	https://osv.dev/vulnerability/MAL-2026-17865
 past-blue-hippopotamus	*	MAL-2025-69840	https://osv.dev/vulnerability/MAL-2025-69840
 past-lime-warbler	*	MAL-2025-69841	https://osv.dev/vulnerability/MAL-2025-69841
 past-olive-tern	*	MAL-2025-69842	https://osv.dev/vulnerability/MAL-2025-69842
