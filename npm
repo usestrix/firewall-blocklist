@@ -154768,6 +154768,12 @@ orderly-js-sdk-nextjs-template	*	MAL-2025-28485	https://osv.dev/vulnerability/MA
 orderly-js-sdk-remix-template	*	MAL-2025-28486	https://osv.dev/vulnerability/MAL-2025-28486
 orderly-network-config	*	MAL-2025-49327	https://osv.dev/vulnerability/MAL-2025-49327
 orderly-omnichain-occ	*	MAL-2024-7088	https://osv.dev/vulnerability/MAL-2024-7088
+orderly-plugin-liquidity-heatmap	1.0.0	MAL-0000-invisirisk-orderly-plugin-liquidity-heatmap	https://github.com/ossf/malicious-packages/blob/62bad5b58f81a4d1332248f8bd7e2adbdd01cb7f/osv/malicious/npm/orderly-plugin-liquidity-heatmap/MAL-0000-invisirisk-orderly-plugin-liquidity-heatmap.json
+orderly-plugin-liquidity-heatmap	1.0.1	MAL-0000-invisirisk-orderly-plugin-liquidity-heatmap	https://github.com/ossf/malicious-packages/blob/62bad5b58f81a4d1332248f8bd7e2adbdd01cb7f/osv/malicious/npm/orderly-plugin-liquidity-heatmap/MAL-0000-invisirisk-orderly-plugin-liquidity-heatmap.json
+orderly-plugin-liquidity-heatmap	1.0.2	MAL-0000-invisirisk-orderly-plugin-liquidity-heatmap	https://github.com/ossf/malicious-packages/blob/62bad5b58f81a4d1332248f8bd7e2adbdd01cb7f/osv/malicious/npm/orderly-plugin-liquidity-heatmap/MAL-0000-invisirisk-orderly-plugin-liquidity-heatmap.json
+orderly-plugin-liquidity-heatmap	1.0.3	MAL-0000-invisirisk-orderly-plugin-liquidity-heatmap	https://github.com/ossf/malicious-packages/blob/62bad5b58f81a4d1332248f8bd7e2adbdd01cb7f/osv/malicious/npm/orderly-plugin-liquidity-heatmap/MAL-0000-invisirisk-orderly-plugin-liquidity-heatmap.json
+orderly-plugin-liquidity-heatmap	1.0.4	MAL-0000-invisirisk-orderly-plugin-liquidity-heatmap	https://github.com/ossf/malicious-packages/blob/62bad5b58f81a4d1332248f8bd7e2adbdd01cb7f/osv/malicious/npm/orderly-plugin-liquidity-heatmap/MAL-0000-invisirisk-orderly-plugin-liquidity-heatmap.json
+orderly-plugin-liquidity-heatmap	1.0.6	MAL-0000-invisirisk-orderly-plugin-liquidity-heatmap	https://github.com/ossf/malicious-packages/blob/62bad5b58f81a4d1332248f8bd7e2adbdd01cb7f/osv/malicious/npm/orderly-plugin-liquidity-heatmap/MAL-0000-invisirisk-orderly-plugin-liquidity-heatmap.json
 orderly-web	*	MAL-2024-11858	https://osv.dev/vulnerability/MAL-2024-11858
 orderly.network	*	MAL-2024-11914	https://osv.dev/vulnerability/MAL-2024-11914
 ordinals-explorer	*	MAL-2025-49577	https://osv.dev/vulnerability/MAL-2025-49577
