@@ -230809,6 +230809,7 @@ yongyujia-liaoyu-chuangshang	*	MAL-2025-40608	https://osv.dev/vulnerability/MAL-
 yonzoffic-baileys	*	MAL-2026-17413	https://osv.dev/vulnerability/MAL-2026-17413
 yonzofficial	*	MAL-2026-17414	https://osv.dev/vulnerability/MAL-2026-17414
 yoo-styles	6.0.326	MAL-2025-47230	https://osv.dev/vulnerability/MAL-2025-47230
+yoodan-github-single-ver-pkg	1.0.1	MAL-0000-ghsa-malware-d5ec21b694320e65	https://github.com/ossf/malicious-packages/blob/ce022dbff5c670d4bc7a2e6d0983b0a69e8edb8b/osv/malicious/npm/yoodan-github-single-ver-pkg/MAL-0000-ghsa-malware-d5ec21b694320e65.json
 yoojae-validator	*	MAL-2025-2336	https://osv.dev/vulnerability/MAL-2025-2336
 yoomoney-github-landing	*	MAL-2025-5756	https://osv.dev/vulnerability/MAL-2025-5756
 yorz	*	MAL-2024-7481	https://osv.dev/vulnerability/MAL-2024-7481
