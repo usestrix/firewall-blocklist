@@ -7616,6 +7616,7 @@
 @kp-admin/history	20.0.3	MAL-2024-9036	https://osv.dev/vulnerability/MAL-2024-9036
 @kp-admin/history	20.0.4	MAL-2024-9036	https://osv.dev/vulnerability/MAL-2024-9036
 @kp-admin/main	20.0.0	MAL-2024-9032	https://osv.dev/vulnerability/MAL-2024-9032
+@kre64/hello-npm-test	1.0.0	MAL-0000-ghsa-malware-654ab50c81e138ba	https://github.com/ossf/malicious-packages/blob/5b788c75541bb0ab41c656b3e6ff3394532eed37/osv/malicious/npm/@kre64/hello-npm-test/MAL-0000-ghsa-malware-654ab50c81e138ba.json
 @krentzen/buffer-reverse	1.0.3	MAL-2026-6536	https://osv.dev/vulnerability/MAL-2026-6536
 @ks-cqc/fingerprint-generator	1.99.99	MAL-2026-16523	https://osv.dev/vulnerability/MAL-2026-16523
 @ks-cqc/h5-sig4	2.99.99	MAL-2026-16524	https://osv.dev/vulnerability/MAL-2026-16524
