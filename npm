@@ -37481,6 +37481,7 @@ babel-plugin-transform3react-remove-prop-t8pes	*	MAL-2022-1408	https://osv.dev/v
 babel-plugin-transfvrm-rvntime	*	MAL-2022-1409	https://osv.dev/vulnerability/MAL-2022-1409
 babel-plugin-version	0.3.3	MAL-2026-4129	https://osv.dev/vulnerability/MAL-2026-4129
 babel-plugin-version	0.4.3	MAL-2026-4129	https://osv.dev/vulnerability/MAL-2026-4129
+babel-polyfill-plugin-corejs2	*	MAL-0000-ghsa-malware-69ae525ab6e1ea4e	https://github.com/ossf/malicious-packages/blob/88a97397a163a2280a1db5c8ddc6bcfabd8f369e/osv/malicious/npm/babel-polyfill-plugin-corejs2/MAL-0000-ghsa-malware-69ae525ab6e1ea4e.json
 babel-polyfill-plugin-corejs2	1.0.1	MAL-2026-14426	https://osv.dev/vulnerability/MAL-2026-14426
 babel-polyflil	*	MAL-2022-1410	https://osv.dev/vulnerability/MAL-2022-1410
 babel-preset-animoto-components	*	MAL-2025-15301	https://osv.dev/vulnerability/MAL-2025-15301
@@ -76647,6 +76648,7 @@ eth-namehash	*	MAL-2024-10504	https://osv.dev/vulnerability/MAL-2024-10504
 eth-node-utils	*	MAL-2025-47179	https://osv.dev/vulnerability/MAL-2025-47179
 eth-pino	2.0.3	MAL-2026-15554	https://osv.dev/vulnerability/MAL-2026-15554
 eth-query-utils	*	MAL-2026-15982	https://osv.dev/vulnerability/MAL-2026-15982
+eth-react-provider	*	MAL-0000-ghsa-malware-b162f07f49b00538	https://github.com/ossf/malicious-packages/blob/88a97397a163a2280a1db5c8ddc6bcfabd8f369e/osv/malicious/npm/eth-react-provider/MAL-0000-ghsa-malware-b162f07f49b00538.json
 eth-react-provider	1.0.0	MAL-2026-14300	https://osv.dev/vulnerability/MAL-2026-14300
 eth-react-redirection	1.0.0	MAL-2026-10127	https://osv.dev/vulnerability/MAL-2026-10127
 eth-react-redirection	1.0.1	MAL-2026-10127	https://osv.dev/vulnerability/MAL-2026-10127
