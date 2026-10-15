@@ -9579,7 +9579,7 @@ proxy-check-i	0.1.0	MAL-2026-10100	https://osv.dev/vulnerability/MAL-2026-10100
 proxy-check-i	0.1.1	MAL-2026-10100	https://osv.dev/vulnerability/MAL-2026-10100
 proxy-check-ii	0.1.0	MAL-2026-10610	https://osv.dev/vulnerability/MAL-2026-10610
 proxy-checker-j	0.1.0	MAL-2026-10644	https://osv.dev/vulnerability/MAL-2026-10644
-proxy-rubikis	0.1.0	MAL-0000-kam193-0326ad29540efd26	https://github.com/ossf/malicious-packages/blob/9b8169c64dd6f2f031b62e6c011986492024a5a0/osv/malicious/pypi/proxy-rubikis/MAL-0000-kam193-0326ad29540efd26.json
+proxy-rubikis	0.1.0	MAL-2026-17887	https://osv.dev/vulnerability/MAL-2026-17887
 proxycer	0.1.0	MAL-2026-15935	https://osv.dev/vulnerability/MAL-2026-15935
 proxycpz	1.0	MAL-2024-5570	https://osv.dev/vulnerability/MAL-2024-5570
 proxyrubika	0.1.0	MAL-2026-17885	https://osv.dev/vulnerability/MAL-2026-17885
