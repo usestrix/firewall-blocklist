@@ -10415,7 +10415,7 @@ py-rever	*	MAL-2023-5616	https://osv.dev/vulnerability/MAL-2023-5616
 py-revercontrol	*	MAL-2023-5617	https://osv.dev/vulnerability/MAL-2023-5617
 py-revisaram	*	MAL-2023-5618	https://osv.dev/vulnerability/MAL-2023-5618
 py-slugify	0.8.2	MAL-2026-6976	https://osv.dev/vulnerability/MAL-2026-6976
-py-sock2	0.1.0	MAL-0000-kam193-ce0a067ced77a150	https://github.com/ossf/malicious-packages/blob/dbe26363747eb23f4000ee24cc3f633a0d8b5da1/osv/malicious/pypi/py-sock2/MAL-0000-kam193-ce0a067ced77a150.json
+py-sock2	0.1.0	MAL-2026-17881	https://osv.dev/vulnerability/MAL-2026-17881
 py-solana-cli	1.2	MAL-2024-10110	https://osv.dev/vulnerability/MAL-2024-10110
 py-solana-cli	1.2.4	MAL-2024-10110	https://osv.dev/vulnerability/MAL-2024-10110
 py-solana-cli	1.3	MAL-2024-10110	https://osv.dev/vulnerability/MAL-2024-10110
