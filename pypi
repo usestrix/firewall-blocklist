@@ -9581,6 +9581,7 @@ proxy-check-ii	0.1.0	MAL-2026-10610	https://osv.dev/vulnerability/MAL-2026-10610
 proxy-checker-j	0.1.0	MAL-2026-10644	https://osv.dev/vulnerability/MAL-2026-10644
 proxycer	0.1.0	MAL-2026-15935	https://osv.dev/vulnerability/MAL-2026-15935
 proxycpz	1.0	MAL-2024-5570	https://osv.dev/vulnerability/MAL-2024-5570
+proxyrubika	0.1.0	MAL-0000-kam193-dd55df978007c1a7	https://github.com/ossf/malicious-packages/blob/6bfdbec987abb4b2c84b2647fd46de4a50948474/osv/malicious/pypi/proxyrubika/MAL-0000-kam193-dd55df978007c1a7.json
 proxyscrapertool	0.0.2	MAL-2024-5571	https://osv.dev/vulnerability/MAL-2024-5571
 prrogressbar2	*	MAL-2023-2018	https://osv.dev/vulnerability/MAL-2023-2018
 prrompt-toolkit	*	MAL-2023-2019	https://osv.dev/vulnerability/MAL-2023-2019
@@ -10611,6 +10612,7 @@ py-vord	1.0.0	MAL-2024-5634	https://osv.dev/vulnerability/MAL-2024-5634
 py-worm	0.1.0	MAL-2026-17883	https://osv.dev/vulnerability/MAL-2026-17883
 py-worm	2.0.0	MAL-2026-17883	https://osv.dev/vulnerability/MAL-2026-17883
 py-worm	2.0.1	MAL-2026-17883	https://osv.dev/vulnerability/MAL-2026-17883
+py-wormgpt	1.0.0	MAL-0000-kam193-6f7fef8f96279801	https://github.com/ossf/malicious-packages/blob/6bfdbec987abb4b2c84b2647fd46de4a50948474/osv/malicious/pypi/py-wormgpt/MAL-0000-kam193-6f7fef8f96279801.json
 py-xord	1.0.0	MAL-2024-5635	https://osv.dev/vulnerability/MAL-2024-5635
 py23crypt	0.1.5	MAL-2024-5636	https://osv.dev/vulnerability/MAL-2024-5636
 py23crypt	0.1.6	MAL-2024-5636	https://osv.dev/vulnerability/MAL-2024-5636
