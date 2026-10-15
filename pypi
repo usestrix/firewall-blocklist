@@ -12641,6 +12641,14 @@ sdgsdghsdhd1	0.0.1	MAL-2024-5975	https://osv.dev/vulnerability/MAL-2024-5975
 sdgsdghsdhd12	0.0.1	MAL-2024-5976	https://osv.dev/vulnerability/MAL-2024-5976
 sdoihgio9sudghsiudbg	0.1.0	MAL-2026-3197	https://osv.dev/vulnerability/MAL-2026-3197
 seabonr	0.1	MAL-2024-11701	https://osv.dev/vulnerability/MAL-2024-11701
+seapy-ops	1.0.0	MAL-0000-seapy-ops	https://github.com/ossf/malicious-packages/blob/0eacd649bbf6790bac8af24fb256bf1ba988ab6a/osv/malicious/pypi/seapy-ops/MAL-0000-seapy-ops.json
+seapy-ops	1.0.1	MAL-0000-seapy-ops	https://github.com/ossf/malicious-packages/blob/0eacd649bbf6790bac8af24fb256bf1ba988ab6a/osv/malicious/pypi/seapy-ops/MAL-0000-seapy-ops.json
+seapy-ops	1.0.2	MAL-0000-seapy-ops	https://github.com/ossf/malicious-packages/blob/0eacd649bbf6790bac8af24fb256bf1ba988ab6a/osv/malicious/pypi/seapy-ops/MAL-0000-seapy-ops.json
+seapy-ops	1.1.0	MAL-0000-seapy-ops	https://github.com/ossf/malicious-packages/blob/0eacd649bbf6790bac8af24fb256bf1ba988ab6a/osv/malicious/pypi/seapy-ops/MAL-0000-seapy-ops.json
+seapy-ops	1.1.1	MAL-0000-seapy-ops	https://github.com/ossf/malicious-packages/blob/0eacd649bbf6790bac8af24fb256bf1ba988ab6a/osv/malicious/pypi/seapy-ops/MAL-0000-seapy-ops.json
+seapy-ops	1.1.2	MAL-0000-seapy-ops	https://github.com/ossf/malicious-packages/blob/0eacd649bbf6790bac8af24fb256bf1ba988ab6a/osv/malicious/pypi/seapy-ops/MAL-0000-seapy-ops.json
+seapy-ops	1.2.1	MAL-0000-seapy-ops	https://github.com/ossf/malicious-packages/blob/0eacd649bbf6790bac8af24fb256bf1ba988ab6a/osv/malicious/pypi/seapy-ops/MAL-0000-seapy-ops.json
+seapy-ops	1.2.2	MAL-0000-seapy-ops	https://github.com/ossf/malicious-packages/blob/0eacd649bbf6790bac8af24fb256bf1ba988ab6a/osv/malicious/pypi/seapy-ops/MAL-0000-seapy-ops.json
 search-python-common	1	MAL-2024-11702	https://osv.dev/vulnerability/MAL-2024-11702
 search-python-common	1.0	MAL-2024-11702	https://osv.dev/vulnerability/MAL-2024-11702
 search-python-common	10.0	MAL-2024-11702	https://osv.dev/vulnerability/MAL-2024-11702
