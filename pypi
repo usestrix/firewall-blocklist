@@ -172,11 +172,8 @@ afriton-py	1.6	MAL-2024-11515	https://osv.dev/vulnerability/MAL-2024-11515
 afriton-py	1.7	MAL-2024-11515	https://osv.dev/vulnerability/MAL-2024-11515
 afritonpy	1	MAL-2024-11516	https://osv.dev/vulnerability/MAL-2024-11516
 agent-user-generate	1.6.7	MAL-2024-11517	https://osv.dev/vulnerability/MAL-2024-11517
-agent-vx	0.1.0	MAL-0000-kam193-f91699ff915dd202	https://github.com/ossf/malicious-packages/blob/05ec02f2925f17439e9998eb1180c6789cd6542f/osv/malicious/pypi/agent-vx/MAL-0000-kam193-f91699ff915dd202.json
 agent-vx	0.1.0	MAL-2026-17755	https://osv.dev/vulnerability/MAL-2026-17755
-agentaix	0.1.0	MAL-0000-kam193-f42a135102abc5c6	https://github.com/ossf/malicious-packages/blob/05ec02f2925f17439e9998eb1180c6789cd6542f/osv/malicious/pypi/agentaix/MAL-0000-kam193-f42a135102abc5c6.json
 agentaix	0.1.0	MAL-2026-17752	https://osv.dev/vulnerability/MAL-2026-17752
-agentaix	0.2.0	MAL-0000-kam193-f42a135102abc5c6	https://github.com/ossf/malicious-packages/blob/05ec02f2925f17439e9998eb1180c6789cd6542f/osv/malicious/pypi/agentaix/MAL-0000-kam193-f42a135102abc5c6.json
 agentaix	0.2.0	MAL-2026-17752	https://osv.dev/vulnerability/MAL-2026-17752
 agents-kit	0.0.0.1	MAL-2025-2930	https://osv.dev/vulnerability/MAL-2025-2930
 ai-cypher	0.1.0	MAL-2025-192683	https://osv.dev/vulnerability/MAL-2025-192683
@@ -7692,7 +7689,6 @@ me-dheeraj-moye-moye	1.0.6	MAL-2024-5357	https://osv.dev/vulnerability/MAL-2024-
 mecit1	1.0.0	MAL-2024-10042	https://osv.dev/vulnerability/MAL-2024-10042
 mecit2	1.0.0	MAL-2024-10043	https://osv.dev/vulnerability/MAL-2024-10043
 mecit3	1.0.0	MAL-2024-10044	https://osv.dev/vulnerability/MAL-2024-10044
-media-manager5	0.1.0	MAL-0000-kam193-cb983aa5b7a424ff	https://github.com/ossf/malicious-packages/blob/05ec02f2925f17439e9998eb1180c6789cd6542f/osv/malicious/pypi/media-manager5/MAL-0000-kam193-cb983aa5b7a424ff.json
 media-manager5	0.1.0	MAL-2026-17753	https://osv.dev/vulnerability/MAL-2026-17753
 medifile	2.1	MAL-2026-352	https://osv.dev/vulnerability/MAL-2026-352
 medoen	0.1.1	MAL-2025-47786	https://osv.dev/vulnerability/MAL-2025-47786
@@ -10419,7 +10415,6 @@ py-rever	*	MAL-2023-5616	https://osv.dev/vulnerability/MAL-2023-5616
 py-revercontrol	*	MAL-2023-5617	https://osv.dev/vulnerability/MAL-2023-5617
 py-revisaram	*	MAL-2023-5618	https://osv.dev/vulnerability/MAL-2023-5618
 py-slugify	0.8.2	MAL-2026-6976	https://osv.dev/vulnerability/MAL-2026-6976
-py-sock2	0.1.0	MAL-0000-kam193-317abc5a9c1b535f	https://github.com/ossf/malicious-packages/blob/05ec02f2925f17439e9998eb1180c6789cd6542f/osv/malicious/pypi/py-sock2/MAL-0000-kam193-317abc5a9c1b535f.json
 py-sock2	0.1.0	MAL-2026-17881	https://osv.dev/vulnerability/MAL-2026-17881
 py-solana-cli	1.2	MAL-2024-10110	https://osv.dev/vulnerability/MAL-2024-10110
 py-solana-cli	1.2.4	MAL-2024-10110	https://osv.dev/vulnerability/MAL-2024-10110
@@ -10610,9 +10605,9 @@ py-vmrandomsuper	*	MAL-2023-5790	https://osv.dev/vulnerability/MAL-2023-5790
 py-vmstudy	*	MAL-2023-5791	https://osv.dev/vulnerability/MAL-2023-5791
 py-vmvm	*	MAL-2023-5792	https://osv.dev/vulnerability/MAL-2023-5792
 py-vord	1.0.0	MAL-2024-5634	https://osv.dev/vulnerability/MAL-2024-5634
-py-worm	0.1.0	MAL-0000-kam193-d4c5838f30da7c1f	https://github.com/ossf/malicious-packages/blob/05ec02f2925f17439e9998eb1180c6789cd6542f/osv/malicious/pypi/py-worm/MAL-0000-kam193-d4c5838f30da7c1f.json
-py-worm	2.0.0	MAL-0000-kam193-d4c5838f30da7c1f	https://github.com/ossf/malicious-packages/blob/05ec02f2925f17439e9998eb1180c6789cd6542f/osv/malicious/pypi/py-worm/MAL-0000-kam193-d4c5838f30da7c1f.json
-py-worm	2.0.1	MAL-0000-kam193-d4c5838f30da7c1f	https://github.com/ossf/malicious-packages/blob/05ec02f2925f17439e9998eb1180c6789cd6542f/osv/malicious/pypi/py-worm/MAL-0000-kam193-d4c5838f30da7c1f.json
+py-worm	0.1.0	MAL-2026-17883	https://osv.dev/vulnerability/MAL-2026-17883
+py-worm	2.0.0	MAL-2026-17883	https://osv.dev/vulnerability/MAL-2026-17883
+py-worm	2.0.1	MAL-2026-17883	https://osv.dev/vulnerability/MAL-2026-17883
 py-xord	1.0.0	MAL-2024-5635	https://osv.dev/vulnerability/MAL-2024-5635
 py23crypt	0.1.5	MAL-2024-5636	https://osv.dev/vulnerability/MAL-2024-5636
 py23crypt	0.1.6	MAL-2024-5636	https://osv.dev/vulnerability/MAL-2024-5636
