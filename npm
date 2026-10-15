@@ -194872,8 +194872,7 @@ tailwindcss-fonts-bundler	*	MAL-2026-1208	https://osv.dev/vulnerability/MAL-2026
 tailwindcss-fonttype-inter	2.3.1	MAL-2026-6889	https://osv.dev/vulnerability/MAL-2026-6889
 tailwindcss-fonttype-inter	2.3.2	MAL-2026-6889	https://osv.dev/vulnerability/MAL-2026-6889
 tailwindcss-fonttypo-inter	2.3.2	MAL-2026-6890	https://osv.dev/vulnerability/MAL-2026-6890
-tailwindcss-form	*	MAL-0000-ghsa-malware-a6360dfe9a149abb	https://github.com/ossf/malicious-packages/blob/1c17409d0cdf4331fd6d1e1cfa51ea56685d88a9/osv/malicious/npm/tailwindcss-form/MAL-0000-ghsa-malware-a6360dfe9a149abb.json
-tailwindcss-form	0.5.1	MAL-2026-16282	https://osv.dev/vulnerability/MAL-2026-16282
+tailwindcss-form	*	MAL-2026-16282	https://osv.dev/vulnerability/MAL-2026-16282
 tailwindcss-form-bundler	*	MAL-2026-1209	https://osv.dev/vulnerability/MAL-2026-1209
 tailwindcss-form-components	*	MAL-2026-12223	https://osv.dev/vulnerability/MAL-2026-12223
 tailwindcss-form-kit	*	MAL-2026-17221	https://osv.dev/vulnerability/MAL-2026-17221
@@ -194940,7 +194939,7 @@ tailwindcss-twflare	*	MAL-2025-49386	https://osv.dev/vulnerability/MAL-2025-4938
 tailwindcss-typeface-inter	*	MAL-2026-2312	https://osv.dev/vulnerability/MAL-2026-2312
 tailwindcss-typography-style	*	MAL-2025-192978	https://osv.dev/vulnerability/MAL-2025-192978
 tailwindcss-ui-extensions	*	MAL-2026-17687	https://osv.dev/vulnerability/MAL-2026-17687
-tailwindcss-uniform	*	MAL-0000-ghsa-malware-9f1697009648c97e	https://github.com/ossf/malicious-packages/blob/1c17409d0cdf4331fd6d1e1cfa51ea56685d88a9/osv/malicious/npm/tailwindcss-uniform/MAL-0000-ghsa-malware-9f1697009648c97e.json
+tailwindcss-uniform	*	MAL-2026-17882	https://osv.dev/vulnerability/MAL-2026-17882
 tailwindcss-utility	*	MAL-2025-49245	https://osv.dev/vulnerability/MAL-2025-49245
 tailwindcss-webfont-awesome	*	MAL-2025-190555	https://osv.dev/vulnerability/MAL-2025-190555
 tailwindcssss	*	MAL-2026-11393	https://osv.dev/vulnerability/MAL-2026-11393
