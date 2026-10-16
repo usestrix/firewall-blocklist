@@ -11676,9 +11676,9 @@ pyyal	94.6	MAL-2024-10646	https://osv.dev/vulnerability/MAL-2024-10646
 pyyaml-selenium	1.15.3	MAL-2023-1398	https://osv.dev/vulnerability/MAL-2023-1398
 pyycodestyle	*	MAL-2023-2139	https://osv.dev/vulnerability/MAL-2023-2139
 pyygame	*	MAL-2023-2140	https://osv.dev/vulnerability/MAL-2023-2140
-pyyi	2.4	MAL-0000-amazon-inspector-7ac60870a568a1e1	https://github.com/ossf/malicious-packages/blob/dac5f6153b354abe88b7c9f092298d95354e13bf/osv/malicious/pypi/pyyi/MAL-0000-amazon-inspector-7ac60870a568a1e1.json
+pyyi	2.4	MAL-2026-17866	https://osv.dev/vulnerability/MAL-2026-17866
 pyyi	2.4.1	MAL-2026-17866	https://osv.dev/vulnerability/MAL-2026-17866
-pyyi	2.4.2	MAL-0000-amazon-inspector-7c36f3b8e69fc44e	https://github.com/ossf/malicious-packages/blob/dac5f6153b354abe88b7c9f092298d95354e13bf/osv/malicious/pypi/pyyi/MAL-0000-amazon-inspector-7c36f3b8e69fc44e.json
+pyyi	2.4.2	MAL-2026-17866	https://osv.dev/vulnerability/MAL-2026-17866
 pyyinstaller	*	MAL-2023-2141	https://osv.dev/vulnerability/MAL-2023-2141
 pyysocks	*	MAL-2023-2142	https://osv.dev/vulnerability/MAL-2023-2142
 pyython-binance	*	MAL-2023-2143	https://osv.dev/vulnerability/MAL-2023-2143
