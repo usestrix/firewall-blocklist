@@ -7514,7 +7514,6 @@ marinff-test	0.8	MAL-2025-2973	https://osv.dev/vulnerability/MAL-2025-2973
 marketing-mcp	0.1.0	MAL-2026-16250	https://osv.dev/vulnerability/MAL-2026-16250
 markitanalysis	0.0.1	MAL-2025-2974	https://osv.dev/vulnerability/MAL-2025-2974
 markitanalysis	0.1.0	MAL-2025-2974	https://osv.dev/vulnerability/MAL-2025-2974
-marocolor	1.0.0	MAL-0000-kam193-84922797997d3079	https://github.com/ossf/malicious-packages/blob/7dc3048e16c813813942b7d4cd6d419c8d95f3bc/osv/malicious/pypi/marocolor/MAL-0000-kam193-84922797997d3079.json
 marocolor	1.0.0	MAL-2026-17900	https://osv.dev/vulnerability/MAL-2026-17900
 marshall	3.8.5.1	MAL-2024-10041	https://osv.dev/vulnerability/MAL-2024-10041
 marshel	0.3	MAL-2026-325	https://osv.dev/vulnerability/MAL-2026-325
