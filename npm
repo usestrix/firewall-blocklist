@@ -101361,7 +101361,6 @@ idlidosa	1.0.2	MAL-2026-4581	https://osv.dev/vulnerability/MAL-2026-4581
 idlidosa	1.0.4	MAL-2026-4581	https://osv.dev/vulnerability/MAL-2026-4581
 idlidosa	1.0.7	MAL-2026-4581	https://osv.dev/vulnerability/MAL-2026-4581
 idlive-document-capture-web	14.2.1	MAL-2026-10733	https://osv.dev/vulnerability/MAL-2026-10733
-idlive-face-capture-web-development	78.8.1	MAL-0000-amazon-inspector-865b0bca2fc5b7c1	https://github.com/ossf/malicious-packages/blob/d3eb4e095830f3e46e17dfad124dd7b218460a8f/osv/malicious/npm/idlive-face-capture-web-development/MAL-0000-amazon-inspector-865b0bca2fc5b7c1.json
 idlive-face-capture-web-development	78.8.1	MAL-2026-17894	https://osv.dev/vulnerability/MAL-2026-17894
 idme	*	MAL-2023-8416	https://osv.dev/vulnerability/MAL-2023-8416
 idme-component-utilities	1.0.1	MAL-2025-2451	https://osv.dev/vulnerability/MAL-2025-2451
@@ -226544,13 +226543,9 @@ xanthus-writable-janus-middleware	*	MAL-2025-39585	https://osv.dev/vulnerability
 xanthus-xerxes-zenith-semantic-ui	*	MAL-2025-149639	https://osv.dev/vulnerability/MAL-2025-149639
 xanthus-zenobia-entanglement-prompts	*	MAL-2025-190361	https://osv.dev/vulnerability/MAL-2025-190361
 xanthus-zephyr-deimos-superagent	*	MAL-2025-149640	https://osv.dev/vulnerability/MAL-2025-149640
-xapi-lib	88.2.3	MAL-0000-amazon-inspector-beac62be73c115f3	https://github.com/ossf/malicious-packages/blob/d3eb4e095830f3e46e17dfad124dd7b218460a8f/osv/malicious/npm/xapi-lib/MAL-0000-amazon-inspector-beac62be73c115f3.json
 xapi-lib	88.2.3	MAL-2026-17896	https://osv.dev/vulnerability/MAL-2026-17896
-xapi-lib	88.2.5	MAL-0000-amazon-inspector-08fefb7bcc7ef9e2	https://github.com/ossf/malicious-packages/blob/d3eb4e095830f3e46e17dfad124dd7b218460a8f/osv/malicious/npm/xapi-lib/MAL-0000-amazon-inspector-08fefb7bcc7ef9e2.json
 xapi-lib	88.2.5	MAL-2026-17896	https://osv.dev/vulnerability/MAL-2026-17896
-xapi-lib	90.2.1	MAL-0000-amazon-inspector-e82133a7b4558aea	https://github.com/ossf/malicious-packages/blob/d3eb4e095830f3e46e17dfad124dd7b218460a8f/osv/malicious/npm/xapi-lib/MAL-0000-amazon-inspector-e82133a7b4558aea.json
 xapi-lib	90.2.1	MAL-2026-17896	https://osv.dev/vulnerability/MAL-2026-17896
-xapi-lib	90.3.1	MAL-0000-amazon-inspector-c2cad7956f6504f2	https://github.com/ossf/malicious-packages/blob/d3eb4e095830f3e46e17dfad124dd7b218460a8f/osv/malicious/npm/xapi-lib/MAL-0000-amazon-inspector-c2cad7956f6504f2.json
 xapi-lib	90.3.1	MAL-2026-17896	https://osv.dev/vulnerability/MAL-2026-17896
 xapi_test	1.1.0	MAL-2025-890	https://osv.dev/vulnerability/MAL-2025-890
 xarc-webpack-cli	*	MAL-2026-4352	https://osv.dev/vulnerability/MAL-2026-4352
