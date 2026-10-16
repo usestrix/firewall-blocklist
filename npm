@@ -10328,6 +10328,7 @@
 @mmm-otrade/transaction-adapter	*	MAL-2026-1301	https://osv.dev/vulnerability/MAL-2026-1301
 @mntv-analysis/ui	*	MAL-2026-17869	https://osv.dev/vulnerability/MAL-2026-17869
 @mntv-analysis/ui-components	*	MAL-2026-17870	https://osv.dev/vulnerability/MAL-2026-17870
+@mntv-analysis/ui-components	50.1.1	MAL-0000-invisirisk-mntv-analysis-ui-components	https://github.com/ossf/malicious-packages/blob/632d19c66b8da7d46b932dddfda2ec628ed9ab81/osv/malicious/npm/@mntv-analysis/ui-components/MAL-0000-invisirisk-mntv-analysis-ui-components.json
 @mntv-analysis/workspaces-components	*	MAL-2026-17871	https://osv.dev/vulnerability/MAL-2026-17871
 @mobile-sdk/videoads-ad-video-player-html5	99.99.1	MAL-2025-6906	https://osv.dev/vulnerability/MAL-2025-6906
 @mobile-sdk/videoads-ad-video-player-html5	99.99.99	MAL-2025-6906	https://osv.dev/vulnerability/MAL-2025-6906
@@ -45800,6 +45801,7 @@ buuwoej	5.10.15	MAL-2025-47620	https://osv.dev/vulnerability/MAL-2025-47620
 buvfer-xor	*	MAL-2025-16384	https://osv.dev/vulnerability/MAL-2025-16384
 buy-button-storefront	*	MAL-2022-1733	https://osv.dev/vulnerability/MAL-2022-1733
 buy-sell-opensea-sdk-demo	*	MAL-2024-9136	https://osv.dev/vulnerability/MAL-2024-9136
+buyerdashboard	45.3.4	MAL-0000-invisirisk-buyerdashboard	https://github.com/ossf/malicious-packages/blob/632d19c66b8da7d46b932dddfda2ec628ed9ab81/osv/malicious/npm/buyerdashboard/MAL-0000-invisirisk-buyerdashboard.json
 buyingflow-core-nav-web	*	MAL-2025-48273	https://osv.dev/vulnerability/MAL-2025-48273
 buyungupik	*	MAL-2025-170994	https://osv.dev/vulnerability/MAL-2025-170994
 buzdnl-devapptea	*	MAL-2025-100202	https://osv.dev/vulnerability/MAL-2025-100202
@@ -101346,6 +101348,7 @@ idlidosa	1.0.2	MAL-2026-4581	https://osv.dev/vulnerability/MAL-2026-4581
 idlidosa	1.0.4	MAL-2026-4581	https://osv.dev/vulnerability/MAL-2026-4581
 idlidosa	1.0.7	MAL-2026-4581	https://osv.dev/vulnerability/MAL-2026-4581
 idlive-document-capture-web	14.2.1	MAL-2026-10733	https://osv.dev/vulnerability/MAL-2026-10733
+idlive-face-capture-web-development	78.8.1	MAL-0000-invisirisk-idlive-face-capture-web-development	https://github.com/ossf/malicious-packages/blob/632d19c66b8da7d46b932dddfda2ec628ed9ab81/osv/malicious/npm/idlive-face-capture-web-development/MAL-0000-invisirisk-idlive-face-capture-web-development.json
 idme	*	MAL-2023-8416	https://osv.dev/vulnerability/MAL-2023-8416
 idme-component-utilities	1.0.1	MAL-2025-2451	https://osv.dev/vulnerability/MAL-2025-2451
 idms-web-components	*	MAL-2025-22977	https://osv.dev/vulnerability/MAL-2025-22977
@@ -222290,6 +222293,7 @@ web-nbq6lx	1.0.0	MAL-2025-191601	https://osv.dev/vulnerability/MAL-2025-191601
 web-pairing-kit	*	MAL-2023-960	https://osv.dev/vulnerability/MAL-2023-960
 web-palette-react	*	MAL-2025-48515	https://osv.dev/vulnerability/MAL-2025-48515
 web-pixels-extension	*	MAL-2025-38973	https://osv.dev/vulnerability/MAL-2025-38973
+web-pixels-manager	76.2.4	MAL-0000-invisirisk-web-pixels-manager	https://github.com/ossf/malicious-packages/blob/632d19c66b8da7d46b932dddfda2ec628ed9ab81/osv/malicious/npm/web-pixels-manager/MAL-0000-invisirisk-web-pixels-manager.json
 web-playback-sdk-sample-app	*	MAL-2022-7071	https://osv.dev/vulnerability/MAL-2022-7071
 web-pool	2.3.5	MAL-2026-5577	https://osv.dev/vulnerability/MAL-2026-5577
 web-pop	2.3.5	MAL-2026-10575	https://osv.dev/vulnerability/MAL-2026-10575
@@ -226526,6 +226530,10 @@ xanthus-writable-janus-middleware	*	MAL-2025-39585	https://osv.dev/vulnerability
 xanthus-xerxes-zenith-semantic-ui	*	MAL-2025-149639	https://osv.dev/vulnerability/MAL-2025-149639
 xanthus-zenobia-entanglement-prompts	*	MAL-2025-190361	https://osv.dev/vulnerability/MAL-2025-190361
 xanthus-zephyr-deimos-superagent	*	MAL-2025-149640	https://osv.dev/vulnerability/MAL-2025-149640
+xapi-lib	88.2.3	MAL-0000-invisirisk-xapi-lib	https://github.com/ossf/malicious-packages/blob/632d19c66b8da7d46b932dddfda2ec628ed9ab81/osv/malicious/npm/xapi-lib/MAL-0000-invisirisk-xapi-lib.json
+xapi-lib	88.2.5	MAL-0000-invisirisk-xapi-lib	https://github.com/ossf/malicious-packages/blob/632d19c66b8da7d46b932dddfda2ec628ed9ab81/osv/malicious/npm/xapi-lib/MAL-0000-invisirisk-xapi-lib.json
+xapi-lib	90.2.1	MAL-0000-invisirisk-xapi-lib	https://github.com/ossf/malicious-packages/blob/632d19c66b8da7d46b932dddfda2ec628ed9ab81/osv/malicious/npm/xapi-lib/MAL-0000-invisirisk-xapi-lib.json
+xapi-lib	90.3.1	MAL-0000-invisirisk-xapi-lib	https://github.com/ossf/malicious-packages/blob/632d19c66b8da7d46b932dddfda2ec628ed9ab81/osv/malicious/npm/xapi-lib/MAL-0000-invisirisk-xapi-lib.json
 xapi_test	1.1.0	MAL-2025-890	https://osv.dev/vulnerability/MAL-2025-890
 xarc-webpack-cli	*	MAL-2026-4352	https://osv.dev/vulnerability/MAL-2026-4352
 xascmlwhokkitdpz	*	MAL-2022-7261	https://osv.dev/vulnerability/MAL-2022-7261
