@@ -17644,6 +17644,7 @@
 @x-team/strapi	3.6.11	MAL-2026-15685	https://osv.dev/vulnerability/MAL-2026-15685
 @x-team/strapi	3.7.0	MAL-2026-15685	https://osv.dev/vulnerability/MAL-2026-15685
 @x-team/strapi	3.7.1	MAL-2026-15685	https://osv.dev/vulnerability/MAL-2026-15685
+@xatancchii/natabaileys	*	MAL-0000-ghsa-malware-f5ae1bb8eedff775	https://github.com/ossf/malicious-packages/blob/5f19958e22ba3b509f75b26f571ea4c610ea8745/osv/malicious/npm/@xatancchii/natabaileys/MAL-0000-ghsa-malware-f5ae1bb8eedff775.json
 @xatancchii/velycxbail	*	MAL-2026-17383	https://osv.dev/vulnerability/MAL-2026-17383
 @xayz/baileys	*	MAL-2026-17384	https://osv.dev/vulnerability/MAL-2026-17384
 @xayz/brat-generator	*	MAL-2026-17671	https://osv.dev/vulnerability/MAL-2026-17671
@@ -156621,6 +156622,7 @@ parwo-poke96	*	MAL-2025-164073	https://osv.dev/vulnerability/MAL-2025-164073
 parwo-poke97	*	MAL-2025-164074	https://osv.dev/vulnerability/MAL-2025-164074
 parwo-poke98	*	MAL-2025-164075	https://osv.dev/vulnerability/MAL-2025-164075
 parwo-poke99	*	MAL-2025-164076	https://osv.dev/vulnerability/MAL-2025-164076
+parxleys	*	MAL-0000-ghsa-malware-adc95934afa570c3	https://github.com/ossf/malicious-packages/blob/5f19958e22ba3b509f75b26f571ea4c610ea8745/osv/malicious/npm/parxleys/MAL-0000-ghsa-malware-adc95934afa570c3.json
 parynnon-notthedevs	*	MAL-2025-106925	https://osv.dev/vulnerability/MAL-2025-106925
 pascoresend	*	MAL-2025-584	https://osv.dev/vulnerability/MAL-2025-584
 pasdgta-notthedevs	*	MAL-2025-106926	https://osv.dev/vulnerability/MAL-2025-106926
