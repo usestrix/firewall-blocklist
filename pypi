@@ -3179,7 +3179,7 @@ dreamfusion	9.6	MAL-2024-11580	https://osv.dev/vulnerability/MAL-2024-11580
 dreamgen	1.8.1	MAL-2026-5313	https://osv.dev/vulnerability/MAL-2026-5313
 dremel	9.9.9	MAL-2026-2301	https://osv.dev/vulnerability/MAL-2026-2301
 driftme	1.0	MAL-2024-12259	https://osv.dev/vulnerability/MAL-2024-12259
-driftwavets	0.1.0	MAL-0000-kam193-e69baa6a16626f26	https://github.com/ossf/malicious-packages/blob/9af070267bd3525f941eab467c2405f6453e6bd5/osv/malicious/pypi/driftwavets/MAL-0000-kam193-e69baa6a16626f26.json
+driftwavets	0.1.0	MAL-2026-17912	https://osv.dev/vulnerability/MAL-2026-17912
 ds-lime	0.0.1	MAL-2025-6497	https://osv.dev/vulnerability/MAL-2025-6497
 dscord-py	*	MAL-2023-1813	https://osv.dev/vulnerability/MAL-2023-1813
 dscord-webhook	*	MAL-2023-1814	https://osv.dev/vulnerability/MAL-2023-1814
@@ -3340,7 +3340,7 @@ embeddings-validation	99.9.9	MAL-2024-5110	https://osv.dev/vulnerability/MAL-202
 embeds	0.0.1	MAL-2024-11581	https://osv.dev/vulnerability/MAL-2024-11581
 embeds	0.0.2	MAL-2024-11581	https://osv.dev/vulnerability/MAL-2024-11581
 embeds	0.0.3	MAL-2024-11581	https://osv.dev/vulnerability/MAL-2024-11581
-emberlytts	0.1.0	MAL-0000-kam193-c53182f7339fc139	https://github.com/ossf/malicious-packages/blob/9af070267bd3525f941eab467c2405f6453e6bd5/osv/malicious/pypi/emberlytts/MAL-0000-kam193-c53182f7339fc139.json
+emberlytts	0.1.0	MAL-2026-17913	https://osv.dev/vulnerability/MAL-2026-17913
 embiggen	0.11.97	MAL-2026-5314	https://osv.dev/vulnerability/MAL-2026-5314
 emd-ext	0.0.1	MAL-2026-2532	https://osv.dev/vulnerability/MAL-2026-2532
 emergentintegrations	0.0.1	MAL-2026-2702	https://osv.dev/vulnerability/MAL-2026-2702
@@ -5057,7 +5057,7 @@ gitython	*	MAL-2023-1874	https://osv.dev/vulnerability/MAL-2023-1874
 gkjzjh146	1.3	MAL-2023-1365	https://osv.dev/vulnerability/MAL-2023-1365
 glass-of-water	1.0.1	MAL-2026-4751	https://osv.dev/vulnerability/MAL-2026-4751
 glass-of-water	1.0.3	MAL-2026-4751	https://osv.dev/vulnerability/MAL-2026-4751
-glassbeakasr	0.1.0	MAL-0000-kam193-de05a7ca1743ea6c	https://github.com/ossf/malicious-packages/blob/9af070267bd3525f941eab467c2405f6453e6bd5/osv/malicious/pypi/glassbeakasr/MAL-0000-kam193-de05a7ca1743ea6c.json
+glassbeakasr	0.1.0	MAL-2026-17914	https://osv.dev/vulnerability/MAL-2026-17914
 glean-indexing-api-client	1.0.0	MAL-2025-4220	https://osv.dev/vulnerability/MAL-2025-4220
 glob-to-regexp	2.1.1	MAL-2025-6510	https://osv.dev/vulnerability/MAL-2025-6510
 globally	99.0.0	MAL-2026-2171	https://osv.dev/vulnerability/MAL-2026-2171
@@ -8433,7 +8433,7 @@ notrandompacketname	0.1.10	MAL-2026-7456	https://osv.dev/vulnerability/MAL-2026-
 notrandompacketname	0.1.11	MAL-2026-7456	https://osv.dev/vulnerability/MAL-2026-7456
 notrandompacketname	0.1.12	MAL-2026-7456	https://osv.dev/vulnerability/MAL-2026-7456
 notsogood	0.0.2	MAL-2023-1435	https://osv.dev/vulnerability/MAL-2023-1435
-novalithtts	0.1.0	MAL-0000-kam193-4d136563fb3f5bd0	https://github.com/ossf/malicious-packages/blob/9af070267bd3525f941eab467c2405f6453e6bd5/osv/malicious/pypi/novalithtts/MAL-0000-kam193-4d136563fb3f5bd0.json
+novalithtts	0.1.0	MAL-2026-17915	https://osv.dev/vulnerability/MAL-2026-17915
 novatwo	0.1	MAL-2025-1985	https://osv.dev/vulnerability/MAL-2025-1985
 noway-back	1.0.0	MAL-2025-947	https://osv.dev/vulnerability/MAL-2025-947
 nowcl	0.1.0	MAL-2024-5417	https://osv.dev/vulnerability/MAL-2024-5417
@@ -11219,7 +11219,7 @@ pyqtcolor	2.8	MAL-2024-5765	https://osv.dev/vulnerability/MAL-2024-5765
 pyqtcolor	2.9	MAL-2024-5765	https://osv.dev/vulnerability/MAL-2024-5765
 pyqubee	11.35.1	MAL-2025-128	https://osv.dev/vulnerability/MAL-2025-128
 pyqubee	12.1.1	MAL-2025-128	https://osv.dev/vulnerability/MAL-2025-128
-pyrechoasr	0.1.0	MAL-0000-kam193-abd16e8f67cf00b0	https://github.com/ossf/malicious-packages/blob/9af070267bd3525f941eab467c2405f6453e6bd5/osv/malicious/pypi/pyrechoasr/MAL-0000-kam193-abd16e8f67cf00b0.json
+pyrechoasr	0.1.0	MAL-2026-17916	https://osv.dev/vulnerability/MAL-2026-17916
 pyregions-snowflake	3.9.1	MAL-2026-2109	https://osv.dev/vulnerability/MAL-2026-2109
 pyregions-snowflake	3.9.10	MAL-2026-2109	https://osv.dev/vulnerability/MAL-2026-2109
 pyregions-snowflake	3.9.2	MAL-2026-2109	https://osv.dev/vulnerability/MAL-2026-2109
@@ -11714,7 +11714,7 @@ quant-backtest-helpers	1.0.1	MAL-2026-5152	https://osv.dev/vulnerability/MAL-202
 quantiumbase	0.7.0	MAL-2024-5846	https://osv.dev/vulnerability/MAL-2024-5846
 quantiumbase	0.8.1	MAL-2024-5846	https://osv.dev/vulnerability/MAL-2024-5846
 quantumania	0.0.3	MAL-2026-1912	https://osv.dev/vulnerability/MAL-2026-1912
-quasitonnts	0.1.0	MAL-0000-kam193-6b73744742a9129b	https://github.com/ossf/malicious-packages/blob/9af070267bd3525f941eab467c2405f6453e6bd5/osv/malicious/pypi/quasitonnts/MAL-0000-kam193-6b73744742a9129b.json
+quasitonnts	0.1.0	MAL-2026-17917	https://osv.dev/vulnerability/MAL-2026-17917
 quatre	3.0.0	MAL-2026-7465	https://osv.dev/vulnerability/MAL-2026-7465
 quatres	3.0.1	MAL-2026-4829	https://osv.dev/vulnerability/MAL-2026-4829
 queeuees	0.0.1	MAL-2026-17286	https://osv.dev/vulnerability/MAL-2026-17286
@@ -15031,7 +15031,7 @@ tokyo-ppe-test	1.0.0	MAL-2026-699	https://osv.dev/vulnerability/MAL-2026-699
 tomli-dzw	1.0.0	MAL-2024-11729	https://osv.dev/vulnerability/MAL-2024-11729
 tommygtst	0.1.0	MAL-2024-6162	https://osv.dev/vulnerability/MAL-2024-6162
 tomproxies	1.0	MAL-2024-6163	https://osv.dev/vulnerability/MAL-2024-6163
-tonemaptts	0.1.0	MAL-0000-kam193-19491cfac57ebbc5	https://github.com/ossf/malicious-packages/blob/9af070267bd3525f941eab467c2405f6453e6bd5/osv/malicious/pypi/tonemaptts/MAL-0000-kam193-19491cfac57ebbc5.json
+tonemaptts	0.1.0	MAL-2026-17918	https://osv.dev/vulnerability/MAL-2026-17918
 toneo	1.4.3	MAL-2025-995	https://osv.dev/vulnerability/MAL-2025-995
 tonetext	0.1.1	MAL-2025-191906	https://osv.dev/vulnerability/MAL-2025-191906
 tonetext	0.2.1	MAL-2025-191906	https://osv.dev/vulnerability/MAL-2025-191906
@@ -16160,14 +16160,14 @@ uidesign	0.0.1	MAL-2024-10180	https://osv.dev/vulnerability/MAL-2024-10180
 uihuihiuhiuhiu	0.0.1	MAL-2024-6174	https://osv.dev/vulnerability/MAL-2024-6174
 uitil	0.1.4	MAL-2026-1036	https://osv.dev/vulnerability/MAL-2026-1036
 uitil	0.1.5	MAL-2026-1036	https://osv.dev/vulnerability/MAL-2026-1036
-ukraine69	1.2.0	MAL-0000-kam193-751255a551e99647	https://github.com/ossf/malicious-packages/blob/9af070267bd3525f941eab467c2405f6453e6bd5/osv/malicious/pypi/ukraine69/MAL-0000-kam193-751255a551e99647.json
-ukraine69	1.2.1	MAL-0000-kam193-751255a551e99647	https://github.com/ossf/malicious-packages/blob/9af070267bd3525f941eab467c2405f6453e6bd5/osv/malicious/pypi/ukraine69/MAL-0000-kam193-751255a551e99647.json
-ukraine69	1.2.2	MAL-0000-kam193-751255a551e99647	https://github.com/ossf/malicious-packages/blob/9af070267bd3525f941eab467c2405f6453e6bd5/osv/malicious/pypi/ukraine69/MAL-0000-kam193-751255a551e99647.json
-ukraine69	1.2.3	MAL-0000-kam193-751255a551e99647	https://github.com/ossf/malicious-packages/blob/9af070267bd3525f941eab467c2405f6453e6bd5/osv/malicious/pypi/ukraine69/MAL-0000-kam193-751255a551e99647.json
-ukraine69	1.2.5	MAL-0000-kam193-751255a551e99647	https://github.com/ossf/malicious-packages/blob/9af070267bd3525f941eab467c2405f6453e6bd5/osv/malicious/pypi/ukraine69/MAL-0000-kam193-751255a551e99647.json
-ukraine69	1.2.6	MAL-0000-kam193-751255a551e99647	https://github.com/ossf/malicious-packages/blob/9af070267bd3525f941eab467c2405f6453e6bd5/osv/malicious/pypi/ukraine69/MAL-0000-kam193-751255a551e99647.json
-ukraine69	1.2.7	MAL-0000-kam193-751255a551e99647	https://github.com/ossf/malicious-packages/blob/9af070267bd3525f941eab467c2405f6453e6bd5/osv/malicious/pypi/ukraine69/MAL-0000-kam193-751255a551e99647.json
-ukraine69	1.2.8	MAL-0000-kam193-751255a551e99647	https://github.com/ossf/malicious-packages/blob/9af070267bd3525f941eab467c2405f6453e6bd5/osv/malicious/pypi/ukraine69/MAL-0000-kam193-751255a551e99647.json
+ukraine69	1.2.0	MAL-2026-17919	https://osv.dev/vulnerability/MAL-2026-17919
+ukraine69	1.2.1	MAL-2026-17919	https://osv.dev/vulnerability/MAL-2026-17919
+ukraine69	1.2.2	MAL-2026-17919	https://osv.dev/vulnerability/MAL-2026-17919
+ukraine69	1.2.3	MAL-2026-17919	https://osv.dev/vulnerability/MAL-2026-17919
+ukraine69	1.2.5	MAL-2026-17919	https://osv.dev/vulnerability/MAL-2026-17919
+ukraine69	1.2.6	MAL-2026-17919	https://osv.dev/vulnerability/MAL-2026-17919
+ukraine69	1.2.7	MAL-2026-17919	https://osv.dev/vulnerability/MAL-2026-17919
+ukraine69	1.2.8	MAL-2026-17919	https://osv.dev/vulnerability/MAL-2026-17919
 ultimate-ai-power	1.0.0	MAL-2026-5458	https://osv.dev/vulnerability/MAL-2026-5458
 ultraad	*	MAL-2023-7745	https://osv.dev/vulnerability/MAL-2023-7745
 ultracandy	*	MAL-2023-7746	https://osv.dev/vulnerability/MAL-2023-7746
@@ -16511,7 +16511,7 @@ voicemetterr	1.0.3	MAL-2025-191921	https://osv.dev/vulnerability/MAL-2025-191921
 voicemetterr	1.0.4	MAL-2025-191921	https://osv.dev/vulnerability/MAL-2025-191921
 voicemetterr	1.0.5	MAL-2025-191921	https://osv.dev/vulnerability/MAL-2025-191921
 voipms-service	0.1	MAL-2025-191922	https://osv.dev/vulnerability/MAL-2025-191922
-voltswannts	0.1.0	MAL-0000-kam193-5fa306d5f7de4915	https://github.com/ossf/malicious-packages/blob/9af070267bd3525f941eab467c2405f6453e6bd5/osv/malicious/pypi/voltswannts/MAL-0000-kam193-5fa306d5f7de4915.json
+voltswannts	0.1.0	MAL-2026-17920	https://osv.dev/vulnerability/MAL-2026-17920
 voto3	0.1	MAL-2024-11746	https://osv.dev/vulnerability/MAL-2024-11746
 voto3	0.2	MAL-2024-11746	https://osv.dev/vulnerability/MAL-2024-11746
 voto3	0.2.0	MAL-2024-11746	https://osv.dev/vulnerability/MAL-2024-11746
