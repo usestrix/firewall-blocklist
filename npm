@@ -107929,8 +107929,8 @@ itobuz-angular-button	8.0.11	MAL-2025-190973	https://osv.dev/vulnerability/MAL-2
 itop	*	MAL-2022-3982	https://osv.dev/vulnerability/MAL-2022-3982
 itprod	*	MAL-2025-23466	https://osv.dev/vulnerability/MAL-2025-23466
 its_for_testing	*	MAL-2022-3983	https://osv.dev/vulnerability/MAL-2022-3983
-itsa-react-focuscontainer	16.0.10	MAL-0000-ghsa-malware-3f24dbbde4e8dd35	https://github.com/ossf/malicious-packages/blob/00cadde06518dcbe2c0a11db4c56431fd5c31dfd/osv/malicious/npm/itsa-react-focuscontainer/MAL-0000-ghsa-malware-3f24dbbde4e8dd35.json
-itsa-react-maskedinput	16.1.2	MAL-0000-ghsa-malware-6914d695ead470d8	https://github.com/ossf/malicious-packages/blob/00cadde06518dcbe2c0a11db4c56431fd5c31dfd/osv/malicious/npm/itsa-react-maskedinput/MAL-0000-ghsa-malware-6914d695ead470d8.json
+itsa-react-focuscontainer	16.0.10	MAL-2026-17910	https://osv.dev/vulnerability/MAL-2026-17910
+itsa-react-maskedinput	16.1.2	MAL-2026-17911	https://osv.dev/vulnerability/MAL-2026-17911
 itself-country-orange	*	MAL-2025-44724	https://osv.dev/vulnerability/MAL-2025-44724
 itsmeeaizat-bailey	*	MAL-2026-17311	https://osv.dev/vulnerability/MAL-2026-17311
 itsmerobottt	*	MAL-2022-3984	https://osv.dev/vulnerability/MAL-2022-3984
