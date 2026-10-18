@@ -12385,6 +12385,7 @@
 @pkg-m/m	1.3.9	MAL-2023-8745	https://osv.dev/vulnerability/MAL-2023-8745
 @pkg-m/m	1.4.0	MAL-2023-8745	https://osv.dev/vulnerability/MAL-2023-8745
 @pkgr/core	0.2.8	MAL-2025-6021	https://osv.dev/vulnerability/MAL-2025-6021
+@pkgship/frpc-linux-arm64	0.71.0	MAL-0000-ghsa-malware-39802a26f48be15a	https://github.com/ossf/malicious-packages/blob/258f7515706f53ef7a0a52b737917a1fe14c230f/osv/malicious/npm/@pkgship/frpc-linux-arm64/MAL-0000-ghsa-malware-39802a26f48be15a.json
 @planetlabs/admin-ng	*	MAL-2026-6637	https://osv.dev/vulnerability/MAL-2026-6637
 @plangrid-private/babel-preset-react-app	1.0.0	MAL-2024-1801	https://osv.dev/vulnerability/MAL-2024-1801
 @plangrid-private/demo-components	1.0.0	MAL-2024-2071	https://osv.dev/vulnerability/MAL-2024-2071
