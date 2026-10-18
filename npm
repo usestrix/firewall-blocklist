@@ -2523,7 +2523,6 @@
 @beloved-lenora/opencode-orchestrator	*	MAL-2026-17905	https://osv.dev/vulnerability/MAL-2026-17905
 @beloved-lenora/opencode-shared-rpc	*	MAL-2026-17906	https://osv.dev/vulnerability/MAL-2026-17906
 @beloved-lenora/opencode-shell-guard	*	MAL-2026-17907	https://osv.dev/vulnerability/MAL-2026-17907
-@beloved-lenora/opencode-shell-guard	1.0.4	MAL-0000-amazon-inspector-57da70f7efcc9851	https://github.com/ossf/malicious-packages/blob/17a2f1c063638118348e4a597e6b25a3ca3d12a5/osv/malicious/npm/@beloved-lenora/opencode-shell-guard/MAL-0000-amazon-inspector-57da70f7efcc9851.json
 @beloved-lenora/opencode-stats	*	MAL-2026-17908	https://osv.dev/vulnerability/MAL-2026-17908
 @beloved-lenora/opencode-todo	*	MAL-2026-17909	https://osv.dev/vulnerability/MAL-2026-17909
 @benasin_2/frontend-logger	*	MAL-2024-8027	https://osv.dev/vulnerability/MAL-2024-8027
