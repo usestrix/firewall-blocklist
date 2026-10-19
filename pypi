@@ -4443,9 +4443,13 @@ f2d5cfdc642c3d5	0.1	MAL-2025-3447	https://osv.dev/vulnerability/MAL-2025-3447
 f5-logger	99.0.0	MAL-2025-192608	https://osv.dev/vulnerability/MAL-2025-192608
 f5rest	99.0.0	MAL-2025-192609	https://osv.dev/vulnerability/MAL-2025-192609
 faaladorcli	99.0.1	MAL-2026-1351	https://osv.dev/vulnerability/MAL-2026-1351
+fabdeploycheck	0.1.1	MAL-0000-amazon-inspector-73447d30a03b8359	https://github.com/ossf/malicious-packages/blob/ea3deea8fcca3c17b108d78afba57314af1ffddb/osv/malicious/pypi/fabdeploycheck/MAL-0000-amazon-inspector-73447d30a03b8359.json
 fabrice	*	MAL-2024-10573	https://osv.dev/vulnerability/MAL-2024-10573
 fabricee	1.0.0	MAL-2024-11586	https://osv.dev/vulnerability/MAL-2024-11586
 fabrlce	1.0.0	MAL-2024-11587	https://osv.dev/vulnerability/MAL-2024-11587
+fabtoolkit	0.1.0	MAL-0000-amazon-inspector-e55333b9d934a04c	https://github.com/ossf/malicious-packages/blob/ea3deea8fcca3c17b108d78afba57314af1ffddb/osv/malicious/pypi/fabtoolkit/MAL-0000-amazon-inspector-e55333b9d934a04c.json
+fabtoolkit	0.1.1	MAL-0000-amazon-inspector-7d579abeba93f8d9	https://github.com/ossf/malicious-packages/blob/ea3deea8fcca3c17b108d78afba57314af1ffddb/osv/malicious/pypi/fabtoolkit/MAL-0000-amazon-inspector-7d579abeba93f8d9.json
+fabtoolkit	0.1.2	MAL-0000-amazon-inspector-567b18257d1e8a38	https://github.com/ossf/malicious-packages/blob/ea3deea8fcca3c17b108d78afba57314af1ffddb/osv/malicious/pypi/fabtoolkit/MAL-0000-amazon-inspector-567b18257d1e8a38.json
 facebook-scrapper	0.0.1.dev0	MAL-2024-5127	https://osv.dev/vulnerability/MAL-2024-5127
 facebookresearch	99.0.0	MAL-2026-2175	https://osv.dev/vulnerability/MAL-2026-2175
 fadlearner	912.6	MAL-2024-11588	https://osv.dev/vulnerability/MAL-2024-11588
