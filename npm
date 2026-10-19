@@ -26289,7 +26289,7 @@ aem-react-editable-components	*	MAL-2025-269	https://osv.dev/vulnerability/MAL-2
 aem-react-spa	*	MAL-2024-12133	https://osv.dev/vulnerability/MAL-2024-12133
 aem-spa-component-mapping	*	MAL-2025-270	https://osv.dev/vulnerability/MAL-2025-270
 aem-spa-page-model-manager	*	MAL-2025-271	https://osv.dev/vulnerability/MAL-2025-271
-aemath-baileys	*	MAL-0000-ghsa-malware-c4ba11c491c52f6a	https://github.com/ossf/malicious-packages/blob/86113ac7510b1217171a8fbc98e08578183fca6a/osv/malicious/npm/aemath-baileys/MAL-0000-ghsa-malware-c4ba11c491c52f6a.json
+aemath-baileys	*	MAL-2026-17930	https://osv.dev/vulnerability/MAL-2026-17930
 aeqbdkzxvsthfuoc	*	MAL-2025-14127	https://osv.dev/vulnerability/MAL-2025-14127
 aer_css-vars	*	MAL-2022-879	https://osv.dev/vulnerability/MAL-2022-879
 aerisjs	*	MAL-2025-14128	https://osv.dev/vulnerability/MAL-2025-14128
@@ -28338,7 +28338,7 @@ aldebaran-stratigraphy-canopus-module	*	MAL-2025-185423	https://osv.dev/vulnerab
 aldebaran-thuban-gacrux-apex	*	MAL-2025-185424	https://osv.dev/vulnerability/MAL-2025-185424
 aldebaran-zenobia-package-blaze	*	MAL-2025-139287	https://osv.dev/vulnerability/MAL-2025-139287
 alder_morrgan	*	MAL-2026-6742	https://osv.dev/vulnerability/MAL-2026-6742
-aldi02-baileys	*	MAL-0000-ghsa-malware-52aad2c9e9c773ff	https://github.com/ossf/malicious-packages/blob/86113ac7510b1217171a8fbc98e08578183fca6a/osv/malicious/npm/aldi02-baileys/MAL-0000-ghsa-malware-52aad2c9e9c773ff.json
+aldi02-baileys	*	MAL-2026-17931	https://osv.dev/vulnerability/MAL-2026-17931
 aldipratama	*	MAL-2025-170780	https://osv.dev/vulnerability/MAL-2025-170780
 aldiputra	*	MAL-2025-170781	https://osv.dev/vulnerability/MAL-2025-170781
 aldorev	*	MAL-2025-170782	https://osv.dev/vulnerability/MAL-2025-170782
@@ -100506,7 +100506,6 @@ icha-97	*	MAL-2025-156082	https://osv.dev/vulnerability/MAL-2025-156082
 icha-98	*	MAL-2025-156083	https://osv.dev/vulnerability/MAL-2025-156083
 icha-99	*	MAL-2025-156084	https://osv.dev/vulnerability/MAL-2025-156084
 ichartjs	*	MAL-2025-22908	https://osv.dev/vulnerability/MAL-2025-22908
-ichigo-baileys	*	MAL-0000-ghsa-malware-4d9b532ccc541c00	https://github.com/ossf/malicious-packages/blob/86113ac7510b1217171a8fbc98e08578183fca6a/osv/malicious/npm/ichigo-baileys/MAL-0000-ghsa-malware-4d9b532ccc541c00.json
 ichigo-baileys	*	MAL-2026-17445	https://osv.dev/vulnerability/MAL-2026-17445
 ichigodot	*	MAL-2025-22909	https://osv.dev/vulnerability/MAL-2025-22909
 ichnaea	*	MAL-2025-22910	https://osv.dev/vulnerability/MAL-2025-22910
@@ -107917,11 +107916,9 @@ item-shop-data-client	99.99.100	MAL-2024-2536	https://osv.dev/vulnerability/MAL-
 item-shop-data-client	99.99.99	MAL-2024-2536	https://osv.dev/vulnerability/MAL-2024-2536
 item-sold-count	*	MAL-2024-11045	https://osv.dev/vulnerability/MAL-2024-11045
 item-ut-duoa	*	MAL-2025-183168	https://osv.dev/vulnerability/MAL-2025-183168
-item-validator	*	MAL-0000-ghsa-malware-21768e52f5deae21	https://github.com/ossf/malicious-packages/blob/86113ac7510b1217171a8fbc98e08578183fca6a/osv/malicious/npm/item-validator/MAL-0000-ghsa-malware-21768e52f5deae21.json
+item-validator	*	MAL-2026-17932	https://osv.dev/vulnerability/MAL-2026-17932
 itembuyer	*	MAL-2025-23462	https://osv.dev/vulnerability/MAL-2025-23462
-items-validator	*	MAL-0000-ghsa-malware-4d7809ec0ad9a227	https://github.com/ossf/malicious-packages/blob/86113ac7510b1217171a8fbc98e08578183fca6a/osv/malicious/npm/items-validator/MAL-0000-ghsa-malware-4d7809ec0ad9a227.json
-items-validator	1.0.4	MAL-2026-17235	https://osv.dev/vulnerability/MAL-2026-17235
-items-validator	1.0.5	MAL-2026-17235	https://osv.dev/vulnerability/MAL-2026-17235
+items-validator	*	MAL-2026-17235	https://osv.dev/vulnerability/MAL-2026-17235
 itemsound	*	MAL-2025-23463	https://osv.dev/vulnerability/MAL-2025-23463
 itemsselector	1.0.0	MAL-2023-1215	https://osv.dev/vulnerability/MAL-2023-1215
 iterationplan	*	MAL-2025-4090	https://osv.dev/vulnerability/MAL-2025-4090
@@ -162236,9 +162233,7 @@ pranked	*	MAL-2025-29601	https://osv.dev/vulnerability/MAL-2025-29601
 prasang	*	MAL-2025-29602	https://osv.dev/vulnerability/MAL-2025-29602
 prashantpatel	*	MAL-2025-171726	https://osv.dev/vulnerability/MAL-2025-171726
 prashantsharma	*	MAL-2025-171727	https://osv.dev/vulnerability/MAL-2025-171727
-prastzy	*	MAL-0000-ghsa-malware-16cc82c390160bd4	https://github.com/ossf/malicious-packages/blob/86113ac7510b1217171a8fbc98e08578183fca6a/osv/malicious/npm/prastzy/MAL-0000-ghsa-malware-16cc82c390160bd4.json
 prastzy	*	MAL-2026-17448	https://osv.dev/vulnerability/MAL-2026-17448
-prastzyy	*	MAL-0000-ghsa-malware-bf5b70083dc23385	https://github.com/ossf/malicious-packages/blob/86113ac7510b1217171a8fbc98e08578183fca6a/osv/malicious/npm/prastzyy/MAL-0000-ghsa-malware-bf5b70083dc23385.json
 prastzyy	*	MAL-2026-17449	https://osv.dev/vulnerability/MAL-2026-17449
 prathmeshox	*	MAL-2023-691	https://osv.dev/vulnerability/MAL-2023-691
 prathmi	*	MAL-2023-692	https://osv.dev/vulnerability/MAL-2023-692
@@ -178040,7 +178035,6 @@ rubber_ostrich_z3n	*	MAL-2025-81149	https://osv.dev/vulnerability/MAL-2025-81149
 rubber_silkworm_z3n	*	MAL-2025-108232	https://osv.dev/vulnerability/MAL-2025-108232
 rubber_snail_requirement	*	MAL-2025-96416	https://osv.dev/vulnerability/MAL-2025-96416
 rubber_worm_0xrequest	*	MAL-2025-108233	https://osv.dev/vulnerability/MAL-2025-108233
-rubbydev-crash-baileys	*	MAL-0000-ghsa-malware-e426d4ad1aee52c9	https://github.com/ossf/malicious-packages/blob/86113ac7510b1217171a8fbc98e08578183fca6a/osv/malicious/npm/rubbydev-crash-baileys/MAL-0000-ghsa-malware-e426d4ad1aee52c9.json
 rubbydev-crash-baileys	*	MAL-2026-17450	https://osv.dev/vulnerability/MAL-2026-17450
 rubequ	*	MAL-2025-32527	https://osv.dev/vulnerability/MAL-2025-32527
 rubix-ng2	*	MAL-2025-32528	https://osv.dev/vulnerability/MAL-2025-32528
@@ -227241,7 +227235,6 @@ xcryption	1.0.0	MAL-2026-15916	https://osv.dev/vulnerability/MAL-2026-15916
 xcryption	1.0.1	MAL-2026-15916	https://osv.dev/vulnerability/MAL-2026-15916
 xcryption	1.0.2	MAL-2026-15916	https://osv.dev/vulnerability/MAL-2026-15916
 xcryption	1.0.3	MAL-2026-15916	https://osv.dev/vulnerability/MAL-2026-15916
-xcvrenzcompany	*	MAL-0000-ghsa-malware-faf45b23cb039efe	https://github.com/ossf/malicious-packages/blob/86113ac7510b1217171a8fbc98e08578183fca6a/osv/malicious/npm/xcvrenzcompany/MAL-0000-ghsa-malware-faf45b23cb039efe.json
 xcvrenzcompany	*	MAL-2026-17452	https://osv.dev/vulnerability/MAL-2026-17452
 xd-test-gallery	*	MAL-2025-39600	https://osv.dev/vulnerability/MAL-2025-39600
 xdater	*	MAL-2025-48951	https://osv.dev/vulnerability/MAL-2025-48951
@@ -228346,13 +228339,11 @@ xytta	*	MAL-2024-7725	https://osv.dev/vulnerability/MAL-2024-7725
 xyz-maps-core	*	MAL-2022-7305	https://osv.dev/vulnerability/MAL-2022-7305
 xyzttt	*	MAL-2026-1981	https://osv.dev/vulnerability/MAL-2026-1981
 xyztttxyz	*	MAL-2026-1982	https://osv.dev/vulnerability/MAL-2026-1982
-xzbails	*	MAL-0000-ghsa-malware-fed94eddb5a73bf2	https://github.com/ossf/malicious-packages/blob/86113ac7510b1217171a8fbc98e08578183fca6a/osv/malicious/npm/xzbails/MAL-0000-ghsa-malware-fed94eddb5a73bf2.json
 xzbails	*	MAL-2026-17410	https://osv.dev/vulnerability/MAL-2026-17410
 xzepdx-devapptea	*	MAL-2025-111137	https://osv.dev/vulnerability/MAL-2025-111137
 xzvbailey	1.0.0	MAL-2026-16278	https://osv.dev/vulnerability/MAL-2026-16278
 xzvbails	*	MAL-2026-17411	https://osv.dev/vulnerability/MAL-2026-17411
 xzvbailsx	1.0.0	MAL-2026-16279	https://osv.dev/vulnerability/MAL-2026-16279
-xzvexpzcbailey	*	MAL-0000-ghsa-malware-736843928f7b49a8	https://github.com/ossf/malicious-packages/blob/86113ac7510b1217171a8fbc98e08578183fca6a/osv/malicious/npm/xzvexpzcbailey/MAL-0000-ghsa-malware-736843928f7b49a8.json
 xzvexpzcbailey	*	MAL-2026-17412	https://osv.dev/vulnerability/MAL-2026-17412
 y-dot	1.16.8	MAL-2024-3974	https://osv.dev/vulnerability/MAL-2024-3974
 y-dot	1.16.9	MAL-2024-3974	https://osv.dev/vulnerability/MAL-2024-3974
@@ -233651,8 +233642,7 @@ zerber	*	MAL-2025-40948	https://osv.dev/vulnerability/MAL-2025-40948
 zergio	*	MAL-2025-40949	https://osv.dev/vulnerability/MAL-2025-40949
 zerizt	*	MAL-2025-71767	https://osv.dev/vulnerability/MAL-2025-71767
 zero-authorize-compile-yaml-process	*	MAL-2025-46878	https://osv.dev/vulnerability/MAL-2025-46878
-zero-baileys	*	MAL-0000-ghsa-malware-e18ff0786d183c33	https://github.com/ossf/malicious-packages/blob/86113ac7510b1217171a8fbc98e08578183fca6a/osv/malicious/npm/zero-baileys/MAL-0000-ghsa-malware-e18ff0786d183c33.json
-zero-baileys	2.7.0	MAL-2026-16280	https://osv.dev/vulnerability/MAL-2026-16280
+zero-baileys	*	MAL-2026-16280	https://osv.dev/vulnerability/MAL-2026-16280
 zero-daemon-small-fire-pi	*	MAL-2025-190473	https://osv.dev/vulnerability/MAL-2025-190473
 zero-develop-component-library	99.99.2	MAL-2026-1880	https://osv.dev/vulnerability/MAL-2026-1880
 zero-epsilon-bash-cache-query	*	MAL-2025-190474	https://osv.dev/vulnerability/MAL-2025-190474
@@ -233700,7 +233690,7 @@ zeroth_sturgeon_z3n	*	MAL-2025-82768	https://osv.dev/vulnerability/MAL-2025-8276
 zeroth_warbler_z3n	*	MAL-2025-118476	https://osv.dev/vulnerability/MAL-2025-118476
 zeroth_wren-silentdev	*	MAL-2025-111538	https://osv.dev/vulnerability/MAL-2025-111538
 zeroth_wren_dumbs	*	MAL-2025-111539	https://osv.dev/vulnerability/MAL-2025-111539
-zeroz-baileys	*	MAL-0000-ghsa-malware-55c04838c571c768	https://github.com/ossf/malicious-packages/blob/86113ac7510b1217171a8fbc98e08578183fca6a/osv/malicious/npm/zeroz-baileys/MAL-0000-ghsa-malware-55c04838c571c768.json
+zeroz-baileys	*	MAL-2026-17933	https://osv.dev/vulnerability/MAL-2026-17933
 zest-carrot-sco5	*	MAL-2025-40955	https://osv.dev/vulnerability/MAL-2025-40955
 zest-gorilla-x1gi	*	MAL-2025-40956	https://osv.dev/vulnerability/MAL-2025-40956
 zest-product	*	MAL-2026-4738	https://osv.dev/vulnerability/MAL-2026-4738
