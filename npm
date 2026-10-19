@@ -181545,9 +181545,9 @@ sc-chimer	*	MAL-2024-1349	https://osv.dev/vulnerability/MAL-2024-1349
 sc-chimeraa	*	MAL-2024-1350	https://osv.dev/vulnerability/MAL-2024-1350
 sc-chimerra	*	MAL-2024-1351	https://osv.dev/vulnerability/MAL-2024-1351
 sc-cmt	*	MAL-2022-5950	https://osv.dev/vulnerability/MAL-2022-5950
-sc-font-icons	99.9.1	MAL-0000-ossf-package-analysis-1b1e3d1dcd8af0ee	https://github.com/ossf/malicious-packages/blob/79f800996d96ffeba68cff6ca2074a66b63cb4cf/osv/malicious/npm/sc-font-icons/MAL-0000-ossf-package-analysis-1b1e3d1dcd8af0ee.json
+sc-font-icons	99.9.1	MAL-2026-12800	https://osv.dev/vulnerability/MAL-2026-12800
 sc-font-icons	9999.0.0	MAL-2026-12800	https://osv.dev/vulnerability/MAL-2026-12800
-sc-geeksquad-core	99.9.1	MAL-0000-ossf-package-analysis-2094a7f35be1c723	https://github.com/ossf/malicious-packages/blob/79f800996d96ffeba68cff6ca2074a66b63cb4cf/osv/malicious/npm/sc-geeksquad-core/MAL-0000-ossf-package-analysis-2094a7f35be1c723.json
+sc-geeksquad-core	99.9.1	MAL-2026-12435	https://osv.dev/vulnerability/MAL-2026-12435
 sc-geeksquad-core	9999.0.0	MAL-2026-12435	https://osv.dev/vulnerability/MAL-2026-12435
 sc-hydrate-sku	*	MAL-2022-5951	https://osv.dev/vulnerability/MAL-2022-5951
 sc-libraries	*	MAL-2024-10327	https://osv.dev/vulnerability/MAL-2024-10327
