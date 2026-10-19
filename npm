@@ -87845,6 +87845,7 @@ gemini-cli-a2a-server	1.0.0	MAL-2026-14244	https://osv.dev/vulnerability/MAL-202
 gemini-cli-vscode-ide-companion	99.99.9	MAL-2026-2764	https://osv.dev/vulnerability/MAL-2026-2764
 gemini-computer-use	0.1.2	MAL-2026-16355	https://osv.dev/vulnerability/MAL-2026-16355
 gemini-computer-use	0.4.3	MAL-2026-16355	https://osv.dev/vulnerability/MAL-2026-16355
+gemini-computer-use	0.4.5	MAL-0000-ossf-package-analysis-513ba5f48b8693f1	https://github.com/ossf/malicious-packages/blob/cf22dc76040d2a2e2a1a8ba4cb76ceec6a6ac23b/osv/malicious/npm/gemini-computer-use/MAL-0000-ossf-package-analysis-513ba5f48b8693f1.json
 gemini-csv-cryonics-castor	*	MAL-2025-187133	https://osv.dev/vulnerability/MAL-2025-187133
 gemini-csv-gacrux-andromeda	*	MAL-2025-187134	https://osv.dev/vulnerability/MAL-2025-187134
 gemini-dactyl-archaeogenetics-morgan	*	MAL-2025-187135	https://osv.dev/vulnerability/MAL-2025-187135
