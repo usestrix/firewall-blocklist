@@ -718,6 +718,7 @@ astralnitro	1.0	MAL-2024-4782	https://osv.dev/vulnerability/MAL-2024-4782
 astrono2mio	0.6	MAL-2025-1962	https://osv.dev/vulnerability/MAL-2025-1962
 astronomio	0.5	MAL-2025-1963	https://osv.dev/vulnerability/MAL-2025-1963
 astronomios	0.6	MAL-2025-1964	https://osv.dev/vulnerability/MAL-2025-1964
+asurion	99.0.0	MAL-0000-kam193-05820dd77e1f73d1	https://github.com/ossf/malicious-packages/blob/910f94d7079a76d12490f150f3dc0e3006eb6b8e/osv/malicious/pypi/asurion/MAL-0000-kam193-05820dd77e1f73d1.json
 async-dispatcher	1.2.1	MAL-2024-4783	https://osv.dev/vulnerability/MAL-2024-4783
 async-dispatcher	1.2.2	MAL-2024-4783	https://osv.dev/vulnerability/MAL-2024-4783
 async-dispatcher	1.2.4	MAL-2024-4783	https://osv.dev/vulnerability/MAL-2024-4783
