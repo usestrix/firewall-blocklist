@@ -2809,7 +2809,7 @@ ddim	9.6	MAL-2024-11570	https://osv.dev/vulnerability/MAL-2024-11570
 ddiscord-py	*	MAL-2023-1760	https://osv.dev/vulnerability/MAL-2023-1760
 ddiscord-webhook	*	MAL-2023-1761	https://osv.dev/vulnerability/MAL-2023-1761
 deadiff	99.6	MAL-2024-10833	https://osv.dev/vulnerability/MAL-2024-10833
-debbug	1.0.0	MAL-0000-kam193-082b90f5908b0452	https://github.com/ossf/malicious-packages/blob/612f5148c382f18736d4d0e92a386b8624705ebd/osv/malicious/pypi/debbug/MAL-0000-kam193-082b90f5908b0452.json
+debbug	1.0.0	MAL-2026-18116	https://osv.dev/vulnerability/MAL-2026-18116
 debug-toolbar	0.0.1	MAL-2024-10239	https://osv.dev/vulnerability/MAL-2024-10239
 decapod-common	0.0.0	MAL-2026-13386	https://osv.dev/vulnerability/MAL-2026-13386
 decapod-common	1.2.dev1	MAL-2026-13386	https://osv.dev/vulnerability/MAL-2026-13386
@@ -2826,7 +2826,7 @@ dedh-devops-automation	5.6.999	MAL-2026-17455	https://osv.dev/vulnerability/MAL-
 dedh-devops-automation	5.8.0	MAL-2026-17455	https://osv.dev/vulnerability/MAL-2026-17455
 dedh-devops-automation	5.8.1	MAL-2026-17455	https://osv.dev/vulnerability/MAL-2026-17455
 dedh-devops-automation	5.9.0	MAL-2026-17455	https://osv.dev/vulnerability/MAL-2026-17455
-deebug	1.0.0	MAL-0000-kam193-db7aff856cffe158	https://github.com/ossf/malicious-packages/blob/612f5148c382f18736d4d0e92a386b8624705ebd/osv/malicious/pypi/deebug/MAL-0000-kam193-db7aff856cffe158.json
+deebug	1.0.0	MAL-2026-18117	https://osv.dev/vulnerability/MAL-2026-18117
 deepface-weight	0.1.4	MAL-2026-14158	https://osv.dev/vulnerability/MAL-2026-14158
 deepface-weights	0.1.0	MAL-2026-14132	https://osv.dev/vulnerability/MAL-2026-14132
 deepface-weights	0.1.1	MAL-2026-14132	https://osv.dev/vulnerability/MAL-2026-14132
@@ -13640,7 +13640,7 @@ selneium	*	MAL-2023-2242	https://osv.dev/vulnerability/MAL-2023-2242
 selnium	*	MAL-2023-2243	https://osv.dev/vulnerability/MAL-2023-2243
 semdb	0.1	MAL-2024-5984	https://osv.dev/vulnerability/MAL-2024-5984
 semdber	4.12	MAL-2024-5985	https://osv.dev/vulnerability/MAL-2024-5985
-semer	1.0.0	MAL-0000-kam193-7479f42de6f963e3	https://github.com/ossf/malicious-packages/blob/612f5148c382f18736d4d0e92a386b8624705ebd/osv/malicious/pypi/semer/MAL-0000-kam193-7479f42de6f963e3.json
+semer	1.0.0	MAL-2026-18118	https://osv.dev/vulnerability/MAL-2026-18118
 semmver	1.0.0	MAL-2026-18101	https://osv.dev/vulnerability/MAL-2026-18101
 semurgdb	0.1	MAL-2024-5986	https://osv.dev/vulnerability/MAL-2024-5986
 semveer	1.0.0	MAL-2026-18102	https://osv.dev/vulnerability/MAL-2026-18102
@@ -14150,7 +14150,7 @@ srcapy	*	MAL-2023-2285	https://osv.dev/vulnerability/MAL-2023-2285
 sscikit-learn	*	MAL-2023-2286	https://osv.dev/vulnerability/MAL-2023-2286
 sscrapy	*	MAL-2023-2287	https://osv.dev/vulnerability/MAL-2023-2287
 sselenium	*	MAL-2023-2288	https://osv.dev/vulnerability/MAL-2023-2288
-ssemver	1.0.0	MAL-0000-kam193-6aacc4af4fb66d33	https://github.com/ossf/malicious-packages/blob/612f5148c382f18736d4d0e92a386b8624705ebd/osv/malicious/pypi/ssemver/MAL-0000-kam193-6aacc4af4fb66d33.json
+ssemver	1.0.0	MAL-2026-18119	https://osv.dev/vulnerability/MAL-2026-18119
 ssimplejson	*	MAL-2023-2289	https://osv.dev/vulnerability/MAL-2023-2289
 ssolana	*	MAL-2023-2290	https://osv.dev/vulnerability/MAL-2023-2290
 st-payment	99.0.0	MAL-2026-2522	https://osv.dev/vulnerability/MAL-2026-2522
