@@ -8786,8 +8786,11 @@ packagename69	1	MAL-2024-5447	https://osv.dev/vulnerability/MAL-2024-5447
 packagescrape	0.9.0	MAL-2024-5448	https://osv.dev/vulnerability/MAL-2024-5448
 packagescraping	0.9.0	MAL-2024-5449	https://osv.dev/vulnerability/MAL-2024-5449
 packed-w3shi	0.0.1	MAL-2025-191809	https://osv.dev/vulnerability/MAL-2025-191809
+pafer	0.9.7	MAL-0000-kam193-996e28750a2dcc96	https://github.com/ossf/malicious-packages/blob/f9bfd10bc0d8d29c072729c7843199a7da1f4e9f/osv/malicious/pypi/pafer/MAL-0000-kam193-996e28750a2dcc96.json
 pafer	0.9.7	MAL-2026-17756	https://osv.dev/vulnerability/MAL-2026-17756
+pafer	0.9.8	MAL-0000-kam193-996e28750a2dcc96	https://github.com/ossf/malicious-packages/blob/f9bfd10bc0d8d29c072729c7843199a7da1f4e9f/osv/malicious/pypi/pafer/MAL-0000-kam193-996e28750a2dcc96.json
 pafer	0.9.8	MAL-2026-17756	https://osv.dev/vulnerability/MAL-2026-17756
+pafex	2.3	MAL-0000-kam193-8ad1f51a6f081ac9	https://github.com/ossf/malicious-packages/blob/f9bfd10bc0d8d29c072729c7843199a7da1f4e9f/osv/malicious/pypi/pafex/MAL-0000-kam193-8ad1f51a6f081ac9.json
 paintpy	2.0	MAL-2024-5450	https://osv.dev/vulnerability/MAL-2024-5450
 pam98wyfupa98w	0.0.1	MAL-2025-191810	https://osv.dev/vulnerability/MAL-2025-191810
 panads	*	MAL-2023-1934	https://osv.dev/vulnerability/MAL-2023-1934
@@ -12270,6 +12273,7 @@ rerandom	*	MAL-2023-5927	https://osv.dev/vulnerability/MAL-2023-5927
 res-adapter	912.6	MAL-2024-11692	https://osv.dev/vulnerability/MAL-2024-11692
 research-learn	0.0.1	MAL-2025-6577	https://osv.dev/vulnerability/MAL-2025-6577
 researchpoc	99.99.9	MAL-2026-504	https://osv.dev/vulnerability/MAL-2026-504
+resion	22.0.1	MAL-0000-kam193-2e9e3ce373adb26e	https://github.com/ossf/malicious-packages/blob/f9bfd10bc0d8d29c072729c7843199a7da1f4e9f/osv/malicious/pypi/resion/MAL-0000-kam193-2e9e3ce373adb26e.json
 resplit	*	MAL-2023-5928	https://osv.dev/vulnerability/MAL-2023-5928
 ressend	0.8	MAL-2024-5938	https://osv.dev/vulnerability/MAL-2024-5938
 ressy	0.8	MAL-2024-5939	https://osv.dev/vulnerability/MAL-2024-5939
@@ -16798,6 +16802,7 @@ webockets	*	MAL-2023-2365	https://osv.dev/vulnerability/MAL-2023-2365
 weboscket-client	*	MAL-2023-2366	https://osv.dev/vulnerability/MAL-2023-2366
 webosckets	*	MAL-2023-2367	https://osv.dev/vulnerability/MAL-2023-2367
 webquickauth	2.3.5	MAL-2024-1651	https://osv.dev/vulnerability/MAL-2024-1651
+webreader	2.3.8	MAL-0000-kam193-9a6899ef4008e014	https://github.com/ossf/malicious-packages/blob/f9bfd10bc0d8d29c072729c7843199a7da1f4e9f/osv/malicious/pypi/webreader/MAL-0000-kam193-9a6899ef4008e014.json
 webreader	2.3.8	MAL-2026-17757	https://osv.dev/vulnerability/MAL-2026-17757
 webscket-client	*	MAL-2023-2368	https://osv.dev/vulnerability/MAL-2023-2368
 websckets	*	MAL-2023-2369	https://osv.dev/vulnerability/MAL-2023-2369
@@ -16922,6 +16927,7 @@ wisecloudcyberark	1.4.0	MAL-2026-1142	https://osv.dev/vulnerability/MAL-2026-114
 wisecloudsecrets	1.4.0	MAL-2026-1143	https://osv.dev/vulnerability/MAL-2026-1143
 wmi-toolbox	0.1.0	MAL-2024-6214	https://osv.dev/vulnerability/MAL-2024-6214
 woowoowo	0.1.1	MAL-2025-47812	https://osv.dev/vulnerability/MAL-2025-47812
+workalender	17.1.0.dev0	MAL-0000-kam193-bb4f2824499fd64a	https://github.com/ossf/malicious-packages/blob/f9bfd10bc0d8d29c072729c7843199a7da1f4e9f/osv/malicious/pypi/workalender/MAL-0000-kam193-bb4f2824499fd64a.json
 workcalender	17.1.0.dev0	MAL-2026-18093	https://osv.dev/vulnerability/MAL-2026-18093
 workingitme	1.0.0	MAL-2026-2308	https://osv.dev/vulnerability/MAL-2026-2308
 workingitmehelpit	1.0.0	MAL-2026-3664	https://osv.dev/vulnerability/MAL-2026-3664
