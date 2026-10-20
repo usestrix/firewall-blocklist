@@ -80526,6 +80526,7 @@ famous_tahr_z3n	*	MAL-2025-94431	https://osv.dev/vulnerability/MAL-2025-94431
 famous_whale_z3n	*	MAL-2025-119979	https://osv.dev/vulnerability/MAL-2025-119979
 famshot	*	MAL-2026-11309	https://osv.dev/vulnerability/MAL-2026-11309
 fanada	*	MAL-2025-20216	https://osv.dev/vulnerability/MAL-2025-20216
+fanarena-common	99.9.1	MAL-0000-ossf-package-analysis-d81686cb5b877d15	https://github.com/ossf/malicious-packages/blob/0b9620718c5a7147484492c145a96ff045bef4fb/osv/malicious/npm/fanarena-common/MAL-0000-ossf-package-analysis-d81686cb5b877d15.json
 fanc6og	*	MAL-2022-2964	https://osv.dev/vulnerability/MAL-2022-2964
 fancode-fc-tools	*	MAL-2023-324	https://osv.dev/vulnerability/MAL-2023-324
 fancode-web-app	*	MAL-2026-2130	https://osv.dev/vulnerability/MAL-2026-2130
@@ -181658,6 +181659,7 @@ sbx-mask	1.0.0	MAL-2026-2132	https://osv.dev/vulnerability/MAL-2026-2132
 sbx-mask	1.0.1	MAL-2026-2132	https://osv.dev/vulnerability/MAL-2026-2132
 sbx-mask	1.0.2	MAL-2026-2132	https://osv.dev/vulnerability/MAL-2026-2132
 sc-add-to-cart	*	MAL-2022-5948	https://osv.dev/vulnerability/MAL-2022-5948
+sc-announcer	99.9.1	MAL-0000-ossf-package-analysis-38abcbba47f18b6d	https://github.com/ossf/malicious-packages/blob/0b9620718c5a7147484492c145a96ff045bef4fb/osv/malicious/npm/sc-announcer/MAL-0000-ossf-package-analysis-38abcbba47f18b6d.json
 sc-appreg	*	MAL-2025-32759	https://osv.dev/vulnerability/MAL-2025-32759
 sc-bing	*	MAL-2022-5949	https://osv.dev/vulnerability/MAL-2022-5949
 sc-bunyan-logstash-amqp	*	MAL-2025-32760	https://osv.dev/vulnerability/MAL-2025-32760
