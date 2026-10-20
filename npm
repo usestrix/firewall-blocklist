@@ -85057,7 +85057,7 @@ format-text	*	MAL-2025-20789	https://osv.dev/vulnerability/MAL-2025-20789
 formated	0.1.0	MAL-2023-8744	https://osv.dev/vulnerability/MAL-2023-8744
 formatjs-internal-intl	1.0.0	MAL-2025-5744	https://osv.dev/vulnerability/MAL-2025-5744
 formatters.ts	14.2.1	MAL-2026-10683	https://osv.dev/vulnerability/MAL-2026-10683
-formatting-subtitles-for-claude	*	MAL-0000-ghsa-malware-df3e538de57455a6	https://github.com/ossf/malicious-packages/blob/0b3ca0a12fdde5a52c21a9171f8a1b835c0753ad/osv/malicious/npm/formatting-subtitles-for-claude/MAL-0000-ghsa-malware-df3e538de57455a6.json
+formatting-subtitles-for-claude	*	MAL-2026-18099	https://osv.dev/vulnerability/MAL-2026-18099
 formboy	*	MAL-2025-20790	https://osv.dev/vulnerability/MAL-2025-20790
 formidable-amaranth-anaconda	*	MAL-2025-68393	https://osv.dev/vulnerability/MAL-2025-68393
 formidable-beige-krill	*	MAL-2025-68394	https://osv.dev/vulnerability/MAL-2025-68394
@@ -212374,7 +212374,7 @@ unicloak	*	MAL-2025-37744	https://osv.dev/vulnerability/MAL-2025-37744
 unico-android	9.9.9	MAL-2026-5829	https://osv.dev/vulnerability/MAL-2026-5829
 unico-check	9.9.9	MAL-2026-5830	https://osv.dev/vulnerability/MAL-2026-5830
 unicocheck-ios	9.9.9	MAL-2026-5831	https://osv.dev/vulnerability/MAL-2026-5831
-unicode-title-normalizer	*	MAL-0000-ghsa-malware-1f059f91bbee6e3b	https://github.com/ossf/malicious-packages/blob/0b3ca0a12fdde5a52c21a9171f8a1b835c0753ad/osv/malicious/npm/unicode-title-normalizer/MAL-0000-ghsa-malware-1f059f91bbee6e3b.json
+unicode-title-normalizer	*	MAL-2026-18100	https://osv.dev/vulnerability/MAL-2026-18100
 unicorefx	*	MAL-2025-37745	https://osv.dev/vulnerability/MAL-2025-37745
 unicorn-5exuw-uq4h2-serenity-project	*	MAL-2025-37746	https://osv.dev/vulnerability/MAL-2025-37746
 unicorn-5o0wt-dbtzy-terra-project	*	MAL-2025-37747	https://osv.dev/vulnerability/MAL-2025-37747
