@@ -22765,6 +22765,8 @@
 @zhengshuo888/huoke	1.0.0	MAL-2026-4472	https://osv.dev/vulnerability/MAL-2026-4472
 @zhengshuo888/huoke	1.0.1	MAL-2026-4472	https://osv.dev/vulnerability/MAL-2026-4472
 @zhiend989/asdfqwer	2.0.0	MAL-2024-9489	https://osv.dev/vulnerability/MAL-2024-9489
+@ziedzzz/demo-canary	0.0.0-stage	MAL-0000-ghsa-malware-d3e7b0e058e95345	https://github.com/ossf/malicious-packages/blob/57634488f164d3fa683f91344e691f6ce3d73a68/osv/malicious/npm/@ziedzzz/demo-canary/MAL-0000-ghsa-malware-d3e7b0e058e95345.json
+@ziedzzz/demo-canary	1.0.0	MAL-0000-ghsa-malware-d3e7b0e058e95345	https://github.com/ossf/malicious-packages/blob/57634488f164d3fa683f91344e691f6ce3d73a68/osv/malicious/npm/@ziedzzz/demo-canary/MAL-0000-ghsa-malware-d3e7b0e058e95345.json
 @ziedzzz/demo-canary	1.0.0	MAL-2026-17652	https://osv.dev/vulnerability/MAL-2026-17652
 @zig-design-system/react	*	MAL-2026-16372	https://osv.dev/vulnerability/MAL-2026-16372
 @zillow-types/constellation	*	MAL-2023-73	https://osv.dev/vulnerability/MAL-2023-73
@@ -23508,6 +23510,7 @@ abbbdi-putri-tea	*	MAL-2025-172682	https://osv.dev/vulnerability/MAL-2025-172682
 abbdi-putri-tea	*	MAL-2025-172683	https://osv.dev/vulnerability/MAL-2025-172683
 abbelregiswter	*	MAL-2022-803	https://osv.dev/vulnerability/MAL-2022-803
 abbishal-poc	1.1.0	MAL-2026-17545	https://osv.dev/vulnerability/MAL-2026-17545
+abbishal-poc-as-dependency	*	MAL-0000-ghsa-malware-4e09561cd1ef0eb9	https://github.com/ossf/malicious-packages/blob/57634488f164d3fa683f91344e691f6ce3d73a68/osv/malicious/npm/abbishal-poc-as-dependency/MAL-0000-ghsa-malware-4e09561cd1ef0eb9.json
 abbishal-poc-as-dependency	1.3.0	MAL-2026-17653	https://osv.dev/vulnerability/MAL-2026-17653
 abbishal-poc-as-dependency	1.3.1	MAL-2026-17653	https://osv.dev/vulnerability/MAL-2026-17653
 abbishal-poc2	1.2.0	MAL-2026-17654	https://osv.dev/vulnerability/MAL-2026-17654
@@ -31318,6 +31321,7 @@ animate-twcss-pack	2.0.6	MAL-2026-18067	https://osv.dev/vulnerability/MAL-2026-1
 animatecss-postcss-plugin	*	MAL-2026-6495	https://osv.dev/vulnerability/MAL-2026-6495
 animatecss-tailwind-adapter	2.0.6	MAL-2026-17665	https://osv.dev/vulnerability/MAL-2026-17665
 animatecss-tailwind-binary	2.0.6	MAL-2026-18068	https://osv.dev/vulnerability/MAL-2026-18068
+animatecss-tailwind-bridge	*	MAL-0000-ghsa-malware-577f09b61d994cab	https://github.com/ossf/malicious-packages/blob/57634488f164d3fa683f91344e691f6ce3d73a68/osv/malicious/npm/animatecss-tailwind-bridge/MAL-0000-ghsa-malware-577f09b61d994cab.json
 animatecss-tailwind-bridge	2.0.6	MAL-2026-17666	https://osv.dev/vulnerability/MAL-2026-17666
 animatecss-tailwind-graphic	2.0.6	MAL-2026-18069	https://osv.dev/vulnerability/MAL-2026-18069
 animatecss-tailwind-helper	2.0.6	MAL-2026-18070	https://osv.dev/vulnerability/MAL-2026-18070
@@ -68926,6 +68930,7 @@ eacq-auth	35.4.8	MAL-2026-13208	https://osv.dev/vulnerability/MAL-2026-13208
 eacq-cdk	35.8.1	MAL-2026-13513	https://osv.dev/vulnerability/MAL-2026-13513
 eacq-core	35.8.1	MAL-2026-13514	https://osv.dev/vulnerability/MAL-2026-13514
 eacq-dialog	35.8.1	MAL-2026-13515	https://osv.dev/vulnerability/MAL-2026-13515
+eacq-payform-core	*	MAL-0000-ghsa-malware-03e00d777946e707	https://github.com/ossf/malicious-packages/blob/57634488f164d3fa683f91344e691f6ce3d73a68/osv/malicious/npm/eacq-payform-core/MAL-0000-ghsa-malware-03e00d777946e707.json
 eacq-payform-core	20.3.6	MAL-2026-11538	https://osv.dev/vulnerability/MAL-2026-11538
 eact	*	MAL-2025-19056	https://osv.dev/vulnerability/MAL-2025-19056
 eact-routre	*	MAL-2022-2647	https://osv.dev/vulnerability/MAL-2022-2647
@@ -200546,6 +200551,7 @@ tell-research-conversation	*	MAL-2025-34669	https://osv.dev/vulnerability/MAL-20
 tellar-protocol	*	MAL-2022-6451	https://osv.dev/vulnerability/MAL-2022-6451
 teller-protocol	*	MAL-2022-6452	https://osv.dev/vulnerability/MAL-2022-6452
 telljokes	*	MAL-2025-34670	https://osv.dev/vulnerability/MAL-2025-34670
+tellyo-colours	*	MAL-0000-ghsa-malware-2db5060ac2f422cc	https://github.com/ossf/malicious-packages/blob/57634488f164d3fa683f91344e691f6ce3d73a68/osv/malicious/npm/tellyo-colours/MAL-0000-ghsa-malware-2db5060ac2f422cc.json
 telobike	*	MAL-2025-34671	https://osv.dev/vulnerability/MAL-2025-34671
 telstra-ui	*	MAL-2023-849	https://osv.dev/vulnerability/MAL-2023-849
 telstraprogrammablenetworkapilib	*	MAL-2025-49454	https://osv.dev/vulnerability/MAL-2025-49454
@@ -205217,6 +205223,7 @@ tinkoff-boxy-independent-kasko-form	20.1.3	MAL-2026-12233	https://osv.dev/vulner
 tinkoff-boxy-mobile-documents	*	MAL-2026-12234	https://osv.dev/vulnerability/MAL-2026-12234
 tinkoff-boxy-mobile-separator	*	MAL-2026-12235	https://osv.dev/vulnerability/MAL-2026-12235
 tinkoff-boxy-mobile-vivid-heading	*	MAL-2026-12075	https://osv.dev/vulnerability/MAL-2026-12075
+tinkoff-cache-path	*	MAL-0000-ghsa-malware-552aaa735c9fe984	https://github.com/ossf/malicious-packages/blob/57634488f164d3fa683f91344e691f6ce3d73a68/osv/malicious/npm/tinkoff-cache-path/MAL-0000-ghsa-malware-552aaa735c9fe984.json
 tinkoff-cache-path	20.8.3	MAL-2026-12076	https://osv.dev/vulnerability/MAL-2026-12076
 tinkoff-codeceptjs-storyshots	*	MAL-2026-12236	https://osv.dev/vulnerability/MAL-2026-12236
 tinkoff-codeceptjs-storyshots-alpha	*	MAL-2026-12237	https://osv.dev/vulnerability/MAL-2026-12237
@@ -206576,6 +206583,7 @@ tory_wildebeest_z3n	*	MAL-2025-123683	https://osv.dev/vulnerability/MAL-2025-123
 tory_zebra_z3n	*	MAL-2025-81745	https://osv.dev/vulnerability/MAL-2025-81745
 toscolino	*	MAL-2025-37104	https://osv.dev/vulnerability/MAL-2025-37104
 toskasldfjaldf-parser	*	MAL-2025-48006	https://osv.dev/vulnerability/MAL-2025-48006
+tostpro	*	MAL-0000-ghsa-malware-95a0ca1794b466d8	https://github.com/ossf/malicious-packages/blob/57634488f164d3fa683f91344e691f6ce3d73a68/osv/malicious/npm/tostpro/MAL-0000-ghsa-malware-95a0ca1794b466d8.json
 tostpro	100.2.0	MAL-2026-17564	https://osv.dev/vulnerability/MAL-2026-17564
 tostpro	100.6.0	MAL-2026-17564	https://osv.dev/vulnerability/MAL-2026-17564
 tostpro	100.7.0	MAL-2026-17564	https://osv.dev/vulnerability/MAL-2026-17564
