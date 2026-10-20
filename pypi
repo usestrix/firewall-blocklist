@@ -14772,6 +14772,9 @@ test-tetdssa	1.0.0	MAL-2025-41773	https://osv.dev/vulnerability/MAL-2025-41773
 test-tool-devdevrl-hackerone	1.0.0	MAL-2024-12361	https://osv.dev/vulnerability/MAL-2024-12361
 test-typo-pypi	1.1.18	MAL-2024-6108	https://osv.dev/vulnerability/MAL-2024-6108
 test-typo-pypi	1.1.7	MAL-2024-6108	https://osv.dev/vulnerability/MAL-2024-6108
+test-workalendar-internal	0.0.1	MAL-0000-kam193-9f36e976d0fcf254	https://github.com/ossf/malicious-packages/blob/17aed09c70c69f23427df6d12fa2f6205b38a242/osv/malicious/pypi/test-workalendar-internal/MAL-0000-kam193-9f36e976d0fcf254.json
+test-workalendar-internal	0.0.2	MAL-0000-kam193-9f36e976d0fcf254	https://github.com/ossf/malicious-packages/blob/17aed09c70c69f23427df6d12fa2f6205b38a242/osv/malicious/pypi/test-workalendar-internal/MAL-0000-kam193-9f36e976d0fcf254.json
+test-workalendar-internal	0.0.3	MAL-0000-kam193-9f36e976d0fcf254	https://github.com/ossf/malicious-packages/blob/17aed09c70c69f23427df6d12fa2f6205b38a242/osv/malicious/pypi/test-workalendar-internal/MAL-0000-kam193-9f36e976d0fcf254.json
 test128123612	0.1	MAL-2024-11723	https://osv.dev/vulnerability/MAL-2024-11723
 test24234	0.1	MAL-2024-10170	https://osv.dev/vulnerability/MAL-2024-10170
 test24234	0.4	MAL-2024-10170	https://osv.dev/vulnerability/MAL-2024-10170
@@ -16919,6 +16922,7 @@ wisecloudcyberark	1.4.0	MAL-2026-1142	https://osv.dev/vulnerability/MAL-2026-114
 wisecloudsecrets	1.4.0	MAL-2026-1143	https://osv.dev/vulnerability/MAL-2026-1143
 wmi-toolbox	0.1.0	MAL-2024-6214	https://osv.dev/vulnerability/MAL-2024-6214
 woowoowo	0.1.1	MAL-2025-47812	https://osv.dev/vulnerability/MAL-2025-47812
+workcalender	17.1.0.dev0	MAL-0000-kam193-9a336c0fa7a5b3ee	https://github.com/ossf/malicious-packages/blob/17aed09c70c69f23427df6d12fa2f6205b38a242/osv/malicious/pypi/workcalender/MAL-0000-kam193-9a336c0fa7a5b3ee.json
 workingitme	1.0.0	MAL-2026-2308	https://osv.dev/vulnerability/MAL-2026-2308
 workingitmehelpit	1.0.0	MAL-2026-3664	https://osv.dev/vulnerability/MAL-2026-3664
 worldhello	1.0.0	MAL-2025-5174	https://osv.dev/vulnerability/MAL-2025-5174
