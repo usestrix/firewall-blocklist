@@ -718,7 +718,6 @@ astralnitro	1.0	MAL-2024-4782	https://osv.dev/vulnerability/MAL-2024-4782
 astrono2mio	0.6	MAL-2025-1962	https://osv.dev/vulnerability/MAL-2025-1962
 astronomio	0.5	MAL-2025-1963	https://osv.dev/vulnerability/MAL-2025-1963
 astronomios	0.6	MAL-2025-1964	https://osv.dev/vulnerability/MAL-2025-1964
-asurion	99.0.0	MAL-0000-amazon-inspector-393ccbeed4c71a6a	https://github.com/ossf/malicious-packages/blob/2de22ea84288b21924be0f5b0461058bb04c1397/osv/malicious/pypi/asurion/MAL-0000-amazon-inspector-393ccbeed4c71a6a.json
 asurion	99.0.0	MAL-2026-18045	https://osv.dev/vulnerability/MAL-2026-18045
 async-dispatcher	1.2.1	MAL-2024-4783	https://osv.dev/vulnerability/MAL-2024-4783
 async-dispatcher	1.2.2	MAL-2024-4783	https://osv.dev/vulnerability/MAL-2024-4783
@@ -13628,11 +13627,11 @@ selneium	*	MAL-2023-2242	https://osv.dev/vulnerability/MAL-2023-2242
 selnium	*	MAL-2023-2243	https://osv.dev/vulnerability/MAL-2023-2243
 semdb	0.1	MAL-2024-5984	https://osv.dev/vulnerability/MAL-2024-5984
 semdber	4.12	MAL-2024-5985	https://osv.dev/vulnerability/MAL-2024-5985
-semmver	1.0.0	MAL-0000-amazon-inspector-8de323d5976a26f2	https://github.com/ossf/malicious-packages/blob/2de22ea84288b21924be0f5b0461058bb04c1397/osv/malicious/pypi/semmver/MAL-0000-amazon-inspector-8de323d5976a26f2.json
+semmver	1.0.0	MAL-2026-18101	https://osv.dev/vulnerability/MAL-2026-18101
 semurgdb	0.1	MAL-2024-5986	https://osv.dev/vulnerability/MAL-2024-5986
-semveer	1.0.0	MAL-0000-amazon-inspector-d86237b957fd063a	https://github.com/ossf/malicious-packages/blob/2de22ea84288b21924be0f5b0461058bb04c1397/osv/malicious/pypi/semveer/MAL-0000-amazon-inspector-d86237b957fd063a.json
-semverr	1.0.0	MAL-0000-amazon-inspector-110e0a64dd80654c	https://github.com/ossf/malicious-packages/blob/2de22ea84288b21924be0f5b0461058bb04c1397/osv/malicious/pypi/semverr/MAL-0000-amazon-inspector-110e0a64dd80654c.json
-semvver	1.0.0	MAL-0000-amazon-inspector-bbc16b0ced0bad1a	https://github.com/ossf/malicious-packages/blob/2de22ea84288b21924be0f5b0461058bb04c1397/osv/malicious/pypi/semvver/MAL-0000-amazon-inspector-bbc16b0ced0bad1a.json
+semveer	1.0.0	MAL-2026-18102	https://osv.dev/vulnerability/MAL-2026-18102
+semverr	1.0.0	MAL-2026-18103	https://osv.dev/vulnerability/MAL-2026-18103
+semvver	1.0.0	MAL-2026-18104	https://osv.dev/vulnerability/MAL-2026-18104
 sendtowev	0.1	MAL-2024-11704	https://osv.dev/vulnerability/MAL-2024-11704
 sendtowev	0.2	MAL-2024-11704	https://osv.dev/vulnerability/MAL-2024-11704
 sendtowev	0.3	MAL-2024-11704	https://osv.dev/vulnerability/MAL-2024-11704
@@ -14783,7 +14782,6 @@ test-typo-pypi	1.1.18	MAL-2024-6108	https://osv.dev/vulnerability/MAL-2024-6108
 test-typo-pypi	1.1.7	MAL-2024-6108	https://osv.dev/vulnerability/MAL-2024-6108
 test-workalendar-internal	0.0.1	MAL-2026-18092	https://osv.dev/vulnerability/MAL-2026-18092
 test-workalendar-internal	0.0.2	MAL-2026-18092	https://osv.dev/vulnerability/MAL-2026-18092
-test-workalendar-internal	0.0.3	MAL-0000-amazon-inspector-06eccee3c04982c1	https://github.com/ossf/malicious-packages/blob/2de22ea84288b21924be0f5b0461058bb04c1397/osv/malicious/pypi/test-workalendar-internal/MAL-0000-amazon-inspector-06eccee3c04982c1.json
 test-workalendar-internal	0.0.3	MAL-2026-18092	https://osv.dev/vulnerability/MAL-2026-18092
 test128123612	0.1	MAL-2024-11723	https://osv.dev/vulnerability/MAL-2024-11723
 test24234	0.1	MAL-2024-10170	https://osv.dev/vulnerability/MAL-2024-10170
