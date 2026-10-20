@@ -150260,6 +150260,8 @@ nwa-uikit-web	1.0.2	MAL-2023-1255	https://osv.dev/vulnerability/MAL-2023-1255
 nwa-uikit-web	1.0.3	MAL-2023-1255	https://osv.dev/vulnerability/MAL-2023-1255
 nwa-uikit-web	1.0.4	MAL-2023-1255	https://osv.dev/vulnerability/MAL-2023-1255
 nwb08g	*	MAL-2025-27940	https://osv.dev/vulnerability/MAL-2025-27940
+nwfp-build-config	0.0.0-stage	MAL-0000-ghsa-malware-918305da861c018c	https://github.com/ossf/malicious-packages/blob/708d9ba623947c8fb56836439b4f697efa73573e/osv/malicious/npm/nwfp-build-config/MAL-0000-ghsa-malware-918305da861c018c.json
+nwfp-build-config	1.0.0	MAL-0000-ghsa-malware-918305da861c018c	https://github.com/ossf/malicious-packages/blob/708d9ba623947c8fb56836439b4f697efa73573e/osv/malicious/npm/nwfp-build-config/MAL-0000-ghsa-malware-918305da861c018c.json
 nwfp-build-config	1.0.0	MAL-2026-18107	https://osv.dev/vulnerability/MAL-2026-18107
 nwko	*	MAL-2025-27941	https://osv.dev/vulnerability/MAL-2025-27941
 nwoeuot	*	MAL-2024-8790	https://osv.dev/vulnerability/MAL-2024-8790
