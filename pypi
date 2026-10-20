@@ -12270,7 +12270,7 @@ reram	*	MAL-2023-5926	https://osv.dev/vulnerability/MAL-2023-5926
 rerandom	*	MAL-2023-5927	https://osv.dev/vulnerability/MAL-2023-5927
 res-adapter	912.6	MAL-2024-11692	https://osv.dev/vulnerability/MAL-2024-11692
 research-learn	0.0.1	MAL-2025-6577	https://osv.dev/vulnerability/MAL-2025-6577
-research-probe-6150c1c915	0.1.0	MAL-0000-kam193-a646eaf4fe72ba01	https://github.com/ossf/malicious-packages/blob/22e53f9e8f31fb112ada8ffbe8c9a59dd7bca270/osv/malicious/pypi/research-probe-6150c1c915/MAL-0000-kam193-a646eaf4fe72ba01.json
+research-probe-6150c1c915	0.1.0	MAL-2026-18097	https://osv.dev/vulnerability/MAL-2026-18097
 researchpoc	99.99.9	MAL-2026-504	https://osv.dev/vulnerability/MAL-2026-504
 resion	22.0.1	MAL-2026-18095	https://osv.dev/vulnerability/MAL-2026-18095
 resplit	*	MAL-2023-5928	https://osv.dev/vulnerability/MAL-2023-5928
@@ -12702,7 +12702,7 @@ security-alerts-sdk	1.0.1	MAL-2026-6327	https://osv.dev/vulnerability/MAL-2026-6
 security-alerts-sdk	1.0.2	MAL-2026-6327	https://osv.dev/vulnerability/MAL-2026-6327
 security-alerts-sdk	1.0.3	MAL-2026-6327	https://osv.dev/vulnerability/MAL-2026-6327
 security-automation-job	99.99.99	MAL-2024-11703	https://osv.dev/vulnerability/MAL-2024-11703
-security-research-startup-snapshot-810764b303	0.1.0	MAL-0000-kam193-c7f807a5943ac03c	https://github.com/ossf/malicious-packages/blob/22e53f9e8f31fb112ada8ffbe8c9a59dd7bca270/osv/malicious/pypi/security-research-startup-snapshot-810764b303/MAL-0000-kam193-c7f807a5943ac03c.json
+security-research-startup-snapshot-810764b303	0.1.0	MAL-2026-18098	https://osv.dev/vulnerability/MAL-2026-18098
 security-util-py	0.0.5	MAL-2023-10	https://osv.dev/vulnerability/MAL-2023-10
 security-util-py	0.0.6	MAL-2023-10	https://osv.dev/vulnerability/MAL-2023-10
 seelenium	*	MAL-2023-2230	https://osv.dev/vulnerability/MAL-2023-2230
