@@ -48023,6 +48023,7 @@ cchome-shared	*	MAL-2024-8021	https://osv.dev/vulnerability/MAL-2024-8021
 ccip-resolver	>=0.2.10	MAL-2025-5026	https://osv.dev/vulnerability/MAL-2025-5026
 ccip-starter-kit-hardhat	99.0.1	MAL-2026-2739	https://osv.dev/vulnerability/MAL-2026-2739
 ccl-component-resources	*	MAL-2024-1959	https://osv.dev/vulnerability/MAL-2024-1959
+ccl-global-shopping	99.9.1	MAL-0000-ossf-package-analysis-31f39d40e2c7700b	https://github.com/ossf/malicious-packages/blob/5271814014052b0370ec3499755206f8bb76d5e6/osv/malicious/npm/ccl-global-shopping/MAL-0000-ossf-package-analysis-31f39d40e2c7700b.json
 ccl-modal	2.3.0	MAL-2024-957	https://osv.dev/vulnerability/MAL-2024-957
 ccl-product-carousel	*	MAL-2024-1081	https://osv.dev/vulnerability/MAL-2024-1081
 ccl-styles-2016	1.7.0	MAL-2024-1960	https://osv.dev/vulnerability/MAL-2024-1960
@@ -104446,6 +104447,7 @@ ing-feat-feedback	*	MAL-2022-3820	https://osv.dev/vulnerability/MAL-2022-3820
 ing-feat-grants-granting	200.0.0	MAL-2024-1587	https://osv.dev/vulnerability/MAL-2024-1587
 ing-feat-grants-management	*	MAL-2024-1324	https://osv.dev/vulnerability/MAL-2024-1324
 ing-feat-inbox	*	MAL-2025-1135	https://osv.dev/vulnerability/MAL-2025-1135
+ing-feat-itsme-oidc-authentication	99.9.1	MAL-0000-ossf-package-analysis-3d1b5976b551d1bb	https://github.com/ossf/malicious-packages/blob/5271814014052b0370ec3499755206f8bb76d5e6/osv/malicious/npm/ing-feat-itsme-oidc-authentication/MAL-0000-ossf-package-analysis-3d1b5976b551d1bb.json
 ing-feat-itsme-oidc-authentication	99.99.99	MAL-2026-5780	https://osv.dev/vulnerability/MAL-2026-5780
 ing-feat-kyc-consent	*	MAL-2025-192934	https://osv.dev/vulnerability/MAL-2025-192934
 ing-feat-loans-simulator	*	MAL-2025-3999	https://osv.dev/vulnerability/MAL-2025-3999
@@ -181681,6 +181683,7 @@ sc-quakq	1.0.0	MAL-2024-9825	https://osv.dev/vulnerability/MAL-2024-9825
 sc-qucak	1.0.0	MAL-2024-9826	https://osv.dev/vulnerability/MAL-2024-9826
 sc-rates-table	*	MAL-2025-32761	https://osv.dev/vulnerability/MAL-2025-32761
 sc-twitter	*	MAL-2025-2049	https://osv.dev/vulnerability/MAL-2025-2049
+sc-wizard	99.9.1	MAL-0000-ossf-package-analysis-54691cc130e614ee	https://github.com/ossf/malicious-packages/blob/5271814014052b0370ec3499755206f8bb76d5e6/osv/malicious/npm/sc-wizard/MAL-0000-ossf-package-analysis-54691cc130e614ee.json
 sc.amqp	*	MAL-2025-32762	https://osv.dev/vulnerability/MAL-2025-32762
 sc.logging	*	MAL-2025-32763	https://osv.dev/vulnerability/MAL-2025-32763
 sc5	*	MAL-2025-4019	https://osv.dev/vulnerability/MAL-2025-4019
