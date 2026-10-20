@@ -13634,10 +13634,14 @@ selneium	*	MAL-2023-2242	https://osv.dev/vulnerability/MAL-2023-2242
 selnium	*	MAL-2023-2243	https://osv.dev/vulnerability/MAL-2023-2243
 semdb	0.1	MAL-2024-5984	https://osv.dev/vulnerability/MAL-2024-5984
 semdber	4.12	MAL-2024-5985	https://osv.dev/vulnerability/MAL-2024-5985
+semmver	1.0.0	MAL-0000-kam193-7b4ffebc6fe59fc1	https://github.com/ossf/malicious-packages/blob/f9bac42dc025ba0e1a06b555f8bf7d3d93b98fd0/osv/malicious/pypi/semmver/MAL-0000-kam193-7b4ffebc6fe59fc1.json
 semmver	1.0.0	MAL-2026-18101	https://osv.dev/vulnerability/MAL-2026-18101
 semurgdb	0.1	MAL-2024-5986	https://osv.dev/vulnerability/MAL-2024-5986
+semveer	1.0.0	MAL-0000-kam193-857ac41cf6480d83	https://github.com/ossf/malicious-packages/blob/f9bac42dc025ba0e1a06b555f8bf7d3d93b98fd0/osv/malicious/pypi/semveer/MAL-0000-kam193-857ac41cf6480d83.json
 semveer	1.0.0	MAL-2026-18102	https://osv.dev/vulnerability/MAL-2026-18102
+semverr	1.0.0	MAL-0000-kam193-0f1ce7737886cf79	https://github.com/ossf/malicious-packages/blob/f9bac42dc025ba0e1a06b555f8bf7d3d93b98fd0/osv/malicious/pypi/semverr/MAL-0000-kam193-0f1ce7737886cf79.json
 semverr	1.0.0	MAL-2026-18103	https://osv.dev/vulnerability/MAL-2026-18103
+semvver	1.0.0	MAL-0000-kam193-870775cad2a7f248	https://github.com/ossf/malicious-packages/blob/f9bac42dc025ba0e1a06b555f8bf7d3d93b98fd0/osv/malicious/pypi/semvver/MAL-0000-kam193-870775cad2a7f248.json
 semvver	1.0.0	MAL-2026-18104	https://osv.dev/vulnerability/MAL-2026-18104
 sendtowev	0.1	MAL-2024-11704	https://osv.dev/vulnerability/MAL-2024-11704
 sendtowev	0.2	MAL-2024-11704	https://osv.dev/vulnerability/MAL-2024-11704
