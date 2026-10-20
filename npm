@@ -741,6 +741,7 @@
 8chan	*	MAL-2025-7035	https://osv.dev/vulnerability/MAL-2025-7035
 8h66ok	*	MAL-2026-17951	https://osv.dev/vulnerability/MAL-2026-17951
 8i7pp4	*	MAL-2026-17952	https://osv.dev/vulnerability/MAL-2026-17952
+8i7pp4	0.0.0-stage	MAL-0000-amazon-inspector-c623f39e0d4b0b51	https://github.com/ossf/malicious-packages/blob/10e57bffdd0d13afee29483274620bfad06b62df/osv/malicious/npm/8i7pp4/MAL-0000-amazon-inspector-c623f39e0d4b0b51.json
 8jfiesaf83	*	MAL-2025-49331	https://osv.dev/vulnerability/MAL-2025-49331
 8ng20w	*	MAL-2024-9317	https://osv.dev/vulnerability/MAL-2024-9317
 8oo	0.0.11	MAL-2026-3677	https://osv.dev/vulnerability/MAL-2026-3677
@@ -13357,6 +13358,7 @@
 @secretcollect/identity-core	*	MAL-2025-49457	https://osv.dev/vulnerability/MAL-2025-49457
 @secsol5g/qlik-sense	*	MAL-2025-6034	https://osv.dev/vulnerability/MAL-2025-6034
 @sectest429/hello-npm-world	*	MAL-2026-10478	https://osv.dev/vulnerability/MAL-2026-10478
+@securihackbot/depconf-stage-1792484738	1.0.0	MAL-0000-amazon-inspector-d8d8706d2a75c053	https://github.com/ossf/malicious-packages/blob/10e57bffdd0d13afee29483274620bfad06b62df/osv/malicious/npm/@securihackbot/depconf-stage-1792484738/MAL-0000-amazon-inspector-d8d8706d2a75c053.json
 @seezo/sdr-mcp-server	0.0.5	MAL-2025-191053	https://osv.dev/vulnerability/MAL-2025-191053
 @segmentation/gf2fov	*	MAL-2025-5856	https://osv.dev/vulnerability/MAL-2025-5856
 @self-sell/components	*	MAL-2025-47044	https://osv.dev/vulnerability/MAL-2025-47044
@@ -133172,6 +133174,7 @@ memoize-with-leveldb	*	MAL-2025-26180	https://osv.dev/vulnerability/MAL-2025-261
 memola	*	MAL-2025-26181	https://osv.dev/vulnerability/MAL-2025-26181
 memoos	*	MAL-2025-26182	https://osv.dev/vulnerability/MAL-2025-26182
 memophoto	*	MAL-2025-26183	https://osv.dev/vulnerability/MAL-2025-26183
+memories-core-web	99.0.0	MAL-0000-amazon-inspector-5aa2bc32ff519468	https://github.com/ossf/malicious-packages/blob/10e57bffdd0d13afee29483274620bfad06b62df/osv/malicious/npm/memories-core-web/MAL-0000-amazon-inspector-5aa2bc32ff519468.json
 memoripy	*	MAL-2025-26184	https://osv.dev/vulnerability/MAL-2025-26184
 memory-providers	99.0.9	MAL-2025-41307	https://osv.dev/vulnerability/MAL-2025-41307
 memoryzs	*	MAL-2022-4549	https://osv.dev/vulnerability/MAL-2022-4549
@@ -150258,6 +150261,7 @@ nwa-uikit-web	1.0.2	MAL-2023-1255	https://osv.dev/vulnerability/MAL-2023-1255
 nwa-uikit-web	1.0.3	MAL-2023-1255	https://osv.dev/vulnerability/MAL-2023-1255
 nwa-uikit-web	1.0.4	MAL-2023-1255	https://osv.dev/vulnerability/MAL-2023-1255
 nwb08g	*	MAL-2025-27940	https://osv.dev/vulnerability/MAL-2025-27940
+nwfp-build-config	1.0.0	MAL-0000-amazon-inspector-905a5825cb8abf7b	https://github.com/ossf/malicious-packages/blob/10e57bffdd0d13afee29483274620bfad06b62df/osv/malicious/npm/nwfp-build-config/MAL-0000-amazon-inspector-905a5825cb8abf7b.json
 nwko	*	MAL-2025-27941	https://osv.dev/vulnerability/MAL-2025-27941
 nwoeuot	*	MAL-2024-8790	https://osv.dev/vulnerability/MAL-2024-8790
 nwpfgeaquxjlzrib	*	MAL-2022-4982	https://osv.dev/vulnerability/MAL-2022-4982
@@ -177731,6 +177735,7 @@ root-root-iota-link-error	*	MAL-2025-189282	https://osv.dev/vulnerability/MAL-20
 root-template	*	MAL-2024-8062	https://osv.dev/vulnerability/MAL-2024-8062
 root-user-await-validate-iota	*	MAL-2025-189283	https://osv.dev/vulnerability/MAL-2025-189283
 root_lib	*	MAL-2025-32437	https://osv.dev/vulnerability/MAL-2025-32437
+rootaccessxvv-bbmarker	1.0.2	MAL-0000-amazon-inspector-126c6e67bc80ed62	https://github.com/ossf/malicious-packages/blob/10e57bffdd0d13afee29483274620bfad06b62df/osv/malicious/npm/rootaccessxvv-bbmarker/MAL-0000-amazon-inspector-126c6e67bc80ed62.json
 rootkidsholonote	1.0.0	MAL-2024-2969	https://osv.dev/vulnerability/MAL-2024-2969
 rootkitfix	*	MAL-2024-10942	https://osv.dev/vulnerability/MAL-2024-10942
 roots-cms-client	*	MAL-2026-617	https://osv.dev/vulnerability/MAL-2026-617
@@ -178064,6 +178069,7 @@ rs-downloader	3.0.0	MAL-2024-9807	https://osv.dev/vulnerability/MAL-2024-9807
 rs-downloaders	2.0.0	MAL-2024-9808	https://osv.dev/vulnerability/MAL-2024-9808
 rs-downloaders	3.0.0	MAL-2024-9808	https://osv.dev/vulnerability/MAL-2024-9808
 rs-downloaders	5.0.0	MAL-2024-9808	https://osv.dev/vulnerability/MAL-2024-9808
+rs-lookout-sandbox-poc	1.0.1	MAL-0000-amazon-inspector-4f28ed1c404dad5a	https://github.com/ossf/malicious-packages/blob/10e57bffdd0d13afee29483274620bfad06b62df/osv/malicious/npm/rs-lookout-sandbox-poc/MAL-0000-amazon-inspector-4f28ed1c404dad5a.json
 rs-thrift2ts-win32-x64-msvc	*	MAL-2025-32500	https://osv.dev/vulnerability/MAL-2025-32500
 rsckjs	*	MAL-2022-5854	https://osv.dev/vulnerability/MAL-2022-5854
 rsd-monorepo	*	MAL-2024-11839	https://osv.dev/vulnerability/MAL-2024-11839

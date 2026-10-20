@@ -4451,6 +4451,7 @@ fabrlce	1.0.0	MAL-2024-11587	https://osv.dev/vulnerability/MAL-2024-11587
 fabtoolkit	0.1.0	MAL-2026-17927	https://osv.dev/vulnerability/MAL-2026-17927
 fabtoolkit	0.1.1	MAL-2026-17927	https://osv.dev/vulnerability/MAL-2026-17927
 fabtoolkit	0.1.2	MAL-2026-17927	https://osv.dev/vulnerability/MAL-2026-17927
+fabtoolkit	0.2.1	MAL-0000-amazon-inspector-31bca15e3f2b0d00	https://github.com/ossf/malicious-packages/blob/10e57bffdd0d13afee29483274620bfad06b62df/osv/malicious/pypi/fabtoolkit/MAL-0000-amazon-inspector-31bca15e3f2b0d00.json
 facebook-scrapper	0.0.1.dev0	MAL-2024-5127	https://osv.dev/vulnerability/MAL-2024-5127
 facebookresearch	99.0.0	MAL-2026-2175	https://osv.dev/vulnerability/MAL-2026-2175
 fadlearner	912.6	MAL-2024-11588	https://osv.dev/vulnerability/MAL-2024-11588
@@ -11699,6 +11700,12 @@ pyygame	*	MAL-2023-2140	https://osv.dev/vulnerability/MAL-2023-2140
 pyyi	2.4	MAL-2026-17866	https://osv.dev/vulnerability/MAL-2026-17866
 pyyi	2.4.1	MAL-2026-17866	https://osv.dev/vulnerability/MAL-2026-17866
 pyyi	2.4.2	MAL-2026-17866	https://osv.dev/vulnerability/MAL-2026-17866
+pyyi	2.5.0	MAL-0000-amazon-inspector-c2b987db2bc9b14b	https://github.com/ossf/malicious-packages/blob/10e57bffdd0d13afee29483274620bfad06b62df/osv/malicious/pypi/pyyi/MAL-0000-amazon-inspector-c2b987db2bc9b14b.json
+pyyi	2.5.1	MAL-0000-amazon-inspector-4765ecf214740c46	https://github.com/ossf/malicious-packages/blob/10e57bffdd0d13afee29483274620bfad06b62df/osv/malicious/pypi/pyyi/MAL-0000-amazon-inspector-4765ecf214740c46.json
+pyyi	2.5.2	MAL-0000-amazon-inspector-9f5a8173a4900be5	https://github.com/ossf/malicious-packages/blob/10e57bffdd0d13afee29483274620bfad06b62df/osv/malicious/pypi/pyyi/MAL-0000-amazon-inspector-9f5a8173a4900be5.json
+pyyi	2.5.3	MAL-0000-amazon-inspector-7f723466cb3f5d65	https://github.com/ossf/malicious-packages/blob/10e57bffdd0d13afee29483274620bfad06b62df/osv/malicious/pypi/pyyi/MAL-0000-amazon-inspector-7f723466cb3f5d65.json
+pyyi	2.5.4	MAL-0000-amazon-inspector-79b1360595b32736	https://github.com/ossf/malicious-packages/blob/10e57bffdd0d13afee29483274620bfad06b62df/osv/malicious/pypi/pyyi/MAL-0000-amazon-inspector-79b1360595b32736.json
+pyyi	2.5.5	MAL-0000-amazon-inspector-9cf00d6eaf64906d	https://github.com/ossf/malicious-packages/blob/10e57bffdd0d13afee29483274620bfad06b62df/osv/malicious/pypi/pyyi/MAL-0000-amazon-inspector-9cf00d6eaf64906d.json
 pyyinstaller	*	MAL-2023-2141	https://osv.dev/vulnerability/MAL-2023-2141
 pyysocks	*	MAL-2023-2142	https://osv.dev/vulnerability/MAL-2023-2142
 pyython-binance	*	MAL-2023-2143	https://osv.dev/vulnerability/MAL-2023-2143
