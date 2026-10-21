@@ -158286,6 +158286,7 @@ pepeksyep	*	MAL-2024-7465	https://osv.dev/vulnerability/MAL-2024-7465
 pepinole	*	MAL-2022-5271	https://osv.dev/vulnerability/MAL-2022-5271
 pepper-notthedevs	*	MAL-2025-107022	https://osv.dev/vulnerability/MAL-2025-107022
 pepsico-ds	*	MAL-2025-192969	https://osv.dev/vulnerability/MAL-2025-192969
+peptide-modify	*	MAL-2026-18123	https://osv.dev/vulnerability/MAL-2026-18123
 peptideenv	16.6.1	MAL-2026-6860	https://osv.dev/vulnerability/MAL-2026-6860
 peptideenv	16.6.2	MAL-2026-6860	https://osv.dev/vulnerability/MAL-2026-6860
 peptideenv	16.6.3	MAL-2026-6860	https://osv.dev/vulnerability/MAL-2026-6860
@@ -159653,6 +159654,7 @@ pix2pix	1.3.5	MAL-2025-41595	https://osv.dev/vulnerability/MAL-2025-41595
 pixel-bloom	10.29.1	MAL-2025-191580	https://osv.dev/vulnerability/MAL-2025-191580
 pixel-bloom	10.29.11	MAL-2025-191580	https://osv.dev/vulnerability/MAL-2025-191580
 pixel-bloom	10.29.4	MAL-2025-191580	https://osv.dev/vulnerability/MAL-2025-191580
+pixel-map-testmetest	0.0.1	MAL-0000-pixel-map-testmetest	https://github.com/ossf/malicious-packages/pull/1656
 pixel-percent	*	MAL-2025-3694	https://osv.dev/vulnerability/MAL-2025-3694
 pixelary	*	MAL-2025-2230	https://osv.dev/vulnerability/MAL-2025-2230
 pixelblm	*	MAL-2025-49263	https://osv.dev/vulnerability/MAL-2025-49263
