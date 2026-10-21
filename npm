@@ -17671,6 +17671,7 @@
 @workoscalifant/sudoku-term	1.1.7	MAL-2026-14040	https://osv.dev/vulnerability/MAL-2026-14040
 @workoscalifant/sudoku-term	1.1.8	MAL-2026-14040	https://osv.dev/vulnerability/MAL-2026-14040
 @worksmobile/wmeet-sdk	*	MAL-2025-4605	https://osv.dev/vulnerability/MAL-2025-4605
+@worrisome/aaaa	*	MAL-2026-18125	https://osv.dev/vulnerability/MAL-2026-18125
 @worrisome/reutil	*	MAL-2026-15604	https://osv.dev/vulnerability/MAL-2026-15604
 @wp-feature-api/client-features	9.9.99	MAL-2025-41359	https://osv.dev/vulnerability/MAL-2025-41359
 @wptv/components	>=1.0.0	MAL-2025-6068	https://osv.dev/vulnerability/MAL-2025-6068
@@ -159655,6 +159656,7 @@ pixel-bloom	10.29.1	MAL-2025-191580	https://osv.dev/vulnerability/MAL-2025-19158
 pixel-bloom	10.29.11	MAL-2025-191580	https://osv.dev/vulnerability/MAL-2025-191580
 pixel-bloom	10.29.4	MAL-2025-191580	https://osv.dev/vulnerability/MAL-2025-191580
 pixel-map-testmetest	0.0.1	MAL-0000-pixel-map-testmetest	https://github.com/ossf/malicious-packages/pull/1656
+pixel-map-testmetest	0.0.2	MAL-0000-pixel-map-testmetest	https://github.com/ossf/malicious-packages/pull/1656
 pixel-percent	*	MAL-2025-3694	https://osv.dev/vulnerability/MAL-2025-3694
 pixelary	*	MAL-2025-2230	https://osv.dev/vulnerability/MAL-2025-2230
 pixelblm	*	MAL-2025-49263	https://osv.dev/vulnerability/MAL-2025-49263
