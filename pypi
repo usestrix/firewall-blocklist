@@ -7928,6 +7928,8 @@ morpho-sdk	1.0.0	MAL-2026-13731	https://osv.dev/vulnerability/MAL-2026-13731
 morty-package	0.0.0a1	MAL-2026-595	https://osv.dev/vulnerability/MAL-2026-595
 mousemovement	0.0.0	MAL-2024-5377	https://osv.dev/vulnerability/MAL-2024-5377
 movers	1.2	MAL-2024-5378	https://osv.dev/vulnerability/MAL-2024-5378
+moveworks-capi-starter	0.0.0	MAL-0000-kam193-2cd8f99409a87f01	https://github.com/ossf/malicious-packages/blob/f38fbc6265fe996fc98a39bb2c4e6485c7b45cf0/osv/malicious/pypi/moveworks-capi-starter/MAL-0000-kam193-2cd8f99409a87f01.json
+moveworks-capi-starter	0.2.0	MAL-0000-kam193-2cd8f99409a87f01	https://github.com/ossf/malicious-packages/blob/f38fbc6265fe996fc98a39bb2c4e6485c7b45cf0/osv/malicious/pypi/moveworks-capi-starter/MAL-0000-kam193-2cd8f99409a87f01.json
 moveworks-pipeline-test	2.0.0	MAL-2026-803	https://osv.dev/vulnerability/MAL-2026-803
 moxel-python-driver	0.0.1	MAL-2025-6550	https://osv.dev/vulnerability/MAL-2025-6550
 mozautomation	2.2160.0	MAL-2026-5819	https://osv.dev/vulnerability/MAL-2026-5819
