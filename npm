@@ -201056,6 +201056,8 @@ test-automation-testing	*	MAL-2024-9281	https://osv.dev/vulnerability/MAL-2024-9
 test-aws-xray-sdk-express	*	MAL-2025-34766	https://osv.dev/vulnerability/MAL-2025-34766
 test-bfosberry	*	MAL-2025-49242	https://osv.dev/vulnerability/MAL-2025-49242
 test-book-final-epsilon-char	*	MAL-2025-189880	https://osv.dev/vulnerability/MAL-2025-189880
+test-brotli-testmetest	1.0.0	MAL-0000-test-brotli-testmetest	https://github.com/ossf/malicious-packages/pull/1656
+test-brotli2-testmetest	1.0.0	MAL-0000-test-brotli2-testmetest	https://github.com/ossf/malicious-packages/pull/1656
 test-bugbounty-package-6	99.99.99	MAL-2026-1862	https://osv.dev/vulnerability/MAL-2026-1862
 test-bugbounty-package-9	99.99.99	MAL-2026-1863	https://osv.dev/vulnerability/MAL-2026-1863
 test-cache-rehype-backend	*	MAL-2025-189881	https://osv.dev/vulnerability/MAL-2025-189881
