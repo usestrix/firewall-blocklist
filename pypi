@@ -5957,6 +5957,12 @@ isred	4.1.3	MAL-2024-5275	https://osv.dev/vulnerability/MAL-2024-5275
 isred	4.1.6	MAL-2024-5275	https://osv.dev/vulnerability/MAL-2024-5275
 isred	4.1.9	MAL-2024-5275	https://osv.dev/vulnerability/MAL-2024-5275
 itcoinlib	*	MAL-2023-1887	https://osv.dev/vulnerability/MAL-2023-1887
+iterquarry	2.1.1	MAL-2026-18131	https://osv.dev/vulnerability/MAL-2026-18131
+iterquarry	2.1.2	MAL-2026-18131	https://osv.dev/vulnerability/MAL-2026-18131
+iterquarry	2.1.3	MAL-2026-18131	https://osv.dev/vulnerability/MAL-2026-18131
+iterquarry	2.1.4	MAL-2026-18131	https://osv.dev/vulnerability/MAL-2026-18131
+iterquarry	2.2.0	MAL-2026-18131	https://osv.dev/vulnerability/MAL-2026-18131
+iterquarry	2.2.1	MAL-2026-18131	https://osv.dev/vulnerability/MAL-2026-18131
 itpython	*	MAL-2023-1888	https://osv.dev/vulnerability/MAL-2023-1888
 iufgbewroibgfowiebc	0.0.1	MAL-2024-9306	https://osv.dev/vulnerability/MAL-2024-9306
 iufgbewroibgfowiebc	0.0.2	MAL-2024-9306	https://osv.dev/vulnerability/MAL-2024-9306
@@ -7013,6 +7019,10 @@ librepost	*	MAL-2023-4488	https://osv.dev/vulnerability/MAL-2023-4488
 librere	*	MAL-2023-4489	https://osv.dev/vulnerability/MAL-2023-4489
 librereplacereplace	*	MAL-2023-4490	https://osv.dev/vulnerability/MAL-2023-4490
 libreurlping	*	MAL-2023-4491	https://osv.dev/vulnerability/MAL-2023-4491
+libseal	1.1.0	MAL-2026-18132	https://osv.dev/vulnerability/MAL-2026-18132
+libseal	1.1.1	MAL-2026-18132	https://osv.dev/vulnerability/MAL-2026-18132
+libseal	1.1.2	MAL-2026-18132	https://osv.dev/vulnerability/MAL-2026-18132
+libseal	1.1.3	MAL-2026-18132	https://osv.dev/vulnerability/MAL-2026-18132
 libsock	1.1.0	MAL-2024-5325	https://osv.dev/vulnerability/MAL-2024-5325
 libsock	1.1.3	MAL-2024-5325	https://osv.dev/vulnerability/MAL-2024-5325
 libsocks5	1.1.1	MAL-2024-5326	https://osv.dev/vulnerability/MAL-2024-5326
