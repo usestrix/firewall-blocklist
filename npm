@@ -84683,6 +84683,7 @@ fn-util	*	MAL-2025-20727	https://osv.dev/vulnerability/MAL-2025-20727
 fnatural	*	MAL-2025-20728	https://osv.dev/vulnerability/MAL-2025-20728
 fnckrxvsqwkldzgi	*	MAL-2025-20729	https://osv.dev/vulnerability/MAL-2025-20729
 fnd-ridgian	*	MAL-2025-20730	https://osv.dev/vulnerability/MAL-2025-20730
+fnd-stores	*	MAL-0000-ghsa-malware-a5a8570b79443f0d	https://github.com/ossf/malicious-packages/blob/e82b9d52ca9409df649365a79303e0fd7707a752/osv/malicious/npm/fnd-stores/MAL-0000-ghsa-malware-a5a8570b79443f0d.json
 fnd-stores	0.0.6	MAL-2026-4565	https://osv.dev/vulnerability/MAL-2026-4565
 fnd-stores	0.0.7	MAL-2026-4565	https://osv.dev/vulnerability/MAL-2026-4565
 fnd-validation	*	MAL-2025-2384	https://osv.dev/vulnerability/MAL-2025-2384
