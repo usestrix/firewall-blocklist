@@ -7234,6 +7234,7 @@ ligitgays	1.0	MAL-2024-5327	https://osv.dev/vulnerability/MAL-2024-5327
 ligitkidss	1.0	MAL-2024-5328	https://osv.dev/vulnerability/MAL-2024-5328
 lindze	0.1	MAL-2024-5329	https://osv.dev/vulnerability/MAL-2024-5329
 linting	99.0.0	MAL-2026-2177	https://osv.dev/vulnerability/MAL-2026-2177
+litellm	1.107.0	MAL-0000-litellm-1.107.0	https://github.com/ossf/malicious-packages/pull/1655
 litellm	1.82.7	MAL-2026-2144	https://osv.dev/vulnerability/MAL-2026-2144
 litellm	1.82.8	MAL-2026-2144	https://osv.dev/vulnerability/MAL-2026-2144
 littelbitx0	1.1.0	MAL-2025-42	https://osv.dev/vulnerability/MAL-2025-42
@@ -8601,6 +8602,7 @@ officepyai	0.0.1	MAL-2026-2311	https://osv.dev/vulnerability/MAL-2026-2311
 offline-rl-congestion-control	99.6	MAL-2024-10836	https://osv.dev/vulnerability/MAL-2024-10836
 ohta	99.6	MAL-2024-10827	https://osv.dev/vulnerability/MAL-2024-10827
 oillow	1.0.0	MAL-2024-5433	https://osv.dev/vulnerability/MAL-2024-5433
+ok-script	*	MAL-0000-okscript	https://github.com/ossf/malicious-packages/pull/849
 okinalek	0.0.0	MAL-2024-5434	https://osv.dev/vulnerability/MAL-2024-5434
 okite	0.0.7	MAL-2026-5283	https://osv.dev/vulnerability/MAL-2026-5283
 okite	0.0.8	MAL-2026-5283	https://osv.dev/vulnerability/MAL-2026-5283
@@ -14950,6 +14952,9 @@ threads4images	1.3.5	MAL-2024-6140	https://osv.dev/vulnerability/MAL-2024-6140
 threadscount	0.1	MAL-2024-6141	https://osv.dev/vulnerability/MAL-2024-6141
 threadxpools	1.0	MAL-2024-1333	https://osv.dev/vulnerability/MAL-2024-1333
 threadxpools	1.2	MAL-2024-1333	https://osv.dev/vulnerability/MAL-2024-1333
+tig3r	0.1	MAL-0000-tig3r	https://github.com/ossf/malicious-packages/pull/848
+tig3r	0.3	MAL-0000-tig3r	https://github.com/ossf/malicious-packages/pull/848
+tiger-krd	0.5	MAL-0000-tiger-krd	https://github.com/ossf/malicious-packages/pull/848
 tiketoken	99.7	MAL-2024-10421	https://osv.dev/vulnerability/MAL-2024-10421
 tikinters	0.0.1	MAL-2024-6142	https://osv.dev/vulnerability/MAL-2024-6142
 tiksing	0.0.1	MAL-2025-191899	https://osv.dev/vulnerability/MAL-2025-191899
