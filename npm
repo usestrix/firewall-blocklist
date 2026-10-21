@@ -177735,6 +177735,7 @@ root-root-iota-link-error	*	MAL-2025-189282	https://osv.dev/vulnerability/MAL-20
 root-template	*	MAL-2024-8062	https://osv.dev/vulnerability/MAL-2024-8062
 root-user-await-validate-iota	*	MAL-2025-189283	https://osv.dev/vulnerability/MAL-2025-189283
 root_lib	*	MAL-2025-32437	https://osv.dev/vulnerability/MAL-2025-32437
+rootaccessxvv-bbmarker	1.0.2	MAL-0000-invisirisk-rootaccessxvv-bbmarker	https://github.com/ossf/malicious-packages/blob/0868c08fc802e8b015de6bb9704123484aa8a83a/osv/malicious/npm/rootaccessxvv-bbmarker/MAL-0000-invisirisk-rootaccessxvv-bbmarker.json
 rootaccessxvv-bbmarker	1.0.2	MAL-2026-18108	https://osv.dev/vulnerability/MAL-2026-18108
 rootkidsholonote	1.0.0	MAL-2024-2969	https://osv.dev/vulnerability/MAL-2024-2969
 rootkitfix	*	MAL-2024-10942	https://osv.dev/vulnerability/MAL-2024-10942
