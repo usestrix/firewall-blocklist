@@ -818,6 +818,7 @@ audio-separator-fork	0.8.9	MAL-2024-9947	https://osv.dev/vulnerability/MAL-2024-
 audit-themis-i18n	2.3.5	MAL-2024-12210	https://osv.dev/vulnerability/MAL-2024-12210
 auohttp	3.13.3	MAL-2026-38	https://osv.dev/vulnerability/MAL-2026-38
 aurafarmer	0.3.0	MAL-2026-4741	https://osv.dev/vulnerability/MAL-2026-4741
+aurenatts	0.1.0	MAL-2026-18134	https://osv.dev/vulnerability/MAL-2026-18134
 aurm-desktop-client	0.38.10	MAL-2025-1966	https://osv.dev/vulnerability/MAL-2025-1966
 aurm-desktop-client	0.38.11	MAL-2025-1966	https://osv.dev/vulnerability/MAL-2025-1966
 aurm-desktop-client	0.39.10	MAL-2025-1966	https://osv.dev/vulnerability/MAL-2025-1966
@@ -963,6 +964,7 @@ bash8	1.0.0	MAL-2026-5768	https://osv.dev/vulnerability/MAL-2026-5768
 basic-arithmetics	1.0.0	MAL-2024-12214	https://osv.dev/vulnerability/MAL-2024-12214
 batch-shipyard	99.0.0	MAL-2026-2174	https://osv.dev/vulnerability/MAL-2026-2174
 batchran	912.6	MAL-2024-10445	https://osv.dev/vulnerability/MAL-2024-10445
+batchspar	0.1.0	MAL-2026-18135	https://osv.dev/vulnerability/MAL-2026-18135
 bautifulsoup	*	MAL-2023-1588	https://osv.dev/vulnerability/MAL-2023-1588
 bautifulsoup4	*	MAL-2023-1589	https://osv.dev/vulnerability/MAL-2023-1589
 bavard-ml-common	0.0.1	MAL-2025-6461	https://osv.dev/vulnerability/MAL-2025-6461
@@ -1351,6 +1353,7 @@ browser-use-headless	0.1.4	MAL-2026-10484	https://osv.dev/vulnerability/MAL-2026
 browser-web	1.0	MAL-2024-4833	https://osv.dev/vulnerability/MAL-2024-4833
 browserdiv	*	MAL-2022-7422	https://osv.dev/vulnerability/MAL-2022-7422
 brrerrere	1.0	MAL-2024-4834	https://osv.dev/vulnerability/MAL-2024-4834
+brummatts	0.1.0	MAL-2026-18136	https://osv.dev/vulnerability/MAL-2026-18136
 bruts	1.0	MAL-2024-4835	https://osv.dev/vulnerability/MAL-2024-4835
 bs3	0.0.1	MAL-2024-4836	https://osv.dev/vulnerability/MAL-2024-4836
 bs5	0.0.1	MAL-2024-4837	https://osv.dev/vulnerability/MAL-2024-4837
@@ -1916,6 +1919,7 @@ code-suggester	1.0.0	MAL-2025-909	https://osv.dev/vulnerability/MAL-2025-909
 code-tracker	1.0.0	MAL-2025-910	https://osv.dev/vulnerability/MAL-2025-910
 code-transfering-3	0.1	MAL-2026-445	https://osv.dev/vulnerability/MAL-2026-445
 code-transfering-4	0.1	MAL-2026-446	https://osv.dev/vulnerability/MAL-2026-446
+codecraze	0.1.0	MAL-2026-18137	https://osv.dev/vulnerability/MAL-2026-18137
 codefrequencychecker	0.0.1	MAL-2026-126	https://osv.dev/vulnerability/MAL-2026-126
 codefrequencychecker	0.0.2	MAL-2026-126	https://osv.dev/vulnerability/MAL-2026-126
 codefrequencychecker	0.0.3	MAL-2026-126	https://osv.dev/vulnerability/MAL-2026-126
@@ -2352,6 +2356,7 @@ credential-sdk	0.0.2	MAL-2024-5000	https://osv.dev/vulnerability/MAL-2024-5000
 credential-sdk	0.0.3	MAL-2024-5000	https://osv.dev/vulnerability/MAL-2024-5000
 credit-decision-metrics	9.1.0	MAL-2026-653	https://osv.dev/vulnerability/MAL-2026-653
 crelic-bqwheel-52f66a3f1d	0.0.1	MAL-2026-17863	https://osv.dev/vulnerability/MAL-2026-17863
+crenelatts	0.1.0	MAL-2026-18138	https://osv.dev/vulnerability/MAL-2026-18138
 crowdnav	1.0	MAL-2025-41642	https://osv.dev/vulnerability/MAL-2025-41642
 crowdstrike-foundry	20.1.0	MAL-2025-912	https://osv.dev/vulnerability/MAL-2025-912
 crowdstrike-foundry	20.2.0	MAL-2025-912	https://osv.dev/vulnerability/MAL-2025-912
@@ -2916,6 +2921,7 @@ dicord-py	*	MAL-2023-1762	https://osv.dev/vulnerability/MAL-2023-1762
 dicord-webhook	*	MAL-2023-1763	https://osv.dev/vulnerability/MAL-2023-1763
 dicsord-py	*	MAL-2023-1764	https://osv.dev/vulnerability/MAL-2023-1764
 dicsord-webhook	*	MAL-2023-1765	https://osv.dev/vulnerability/MAL-2023-1765
+dictanovaasr	0.1.0	MAL-2026-18139	https://osv.dev/vulnerability/MAL-2026-18139
 dicuser	0.0.1	MAL-2024-5049	https://osv.dev/vulnerability/MAL-2024-5049
 dicuser	0.0.2	MAL-2024-5049	https://osv.dev/vulnerability/MAL-2024-5049
 dicuser	0.0.3	MAL-2024-5049	https://osv.dev/vulnerability/MAL-2024-5049
@@ -5212,6 +5218,7 @@ gridifies	1.0.2	MAL-2025-193012	https://osv.dev/vulnerability/MAL-2025-193012
 gridifys	1.0.2	MAL-2026-732	https://osv.dev/vulnerability/MAL-2026-732
 grokwrapper	0.1.0	MAL-2026-811	https://osv.dev/vulnerability/MAL-2026-811
 grokwrapper	0.2.0	MAL-2026-811	https://osv.dev/vulnerability/MAL-2026-811
+grommatts	0.1.0	MAL-2026-18140	https://osv.dev/vulnerability/MAL-2026-18140
 groq-mcp	0.0.1	MAL-2025-6007	https://osv.dev/vulnerability/MAL-2025-6007
 groq-mcp	9.9.9	MAL-2025-6007	https://osv.dev/vulnerability/MAL-2025-6007
 groq-ppe-pkg	1.0.0	MAL-2026-913	https://osv.dev/vulnerability/MAL-2026-913
@@ -7736,6 +7743,7 @@ medifile	2.1	MAL-2026-352	https://osv.dev/vulnerability/MAL-2026-352
 medoen	0.1.1	MAL-2025-47786	https://osv.dev/vulnerability/MAL-2025-47786
 mega-sparks	92.6	MAL-2024-10586	https://osv.dev/vulnerability/MAL-2024-10586
 megai	92.6	MAL-2024-10593	https://osv.dev/vulnerability/MAL-2024-10593
+melcuratts	0.1.0	MAL-2026-18141	https://osv.dev/vulnerability/MAL-2026-18141
 mem8	6.0.1	MAL-2026-5319	https://osv.dev/vulnerability/MAL-2026-5319
 memlib	2.0.0	MAL-2025-6547	https://osv.dev/vulnerability/MAL-2025-6547
 memorylib	2.0.0	MAL-2025-6548	https://osv.dev/vulnerability/MAL-2025-6548
@@ -8722,6 +8730,7 @@ oraceldb	1.0.0	MAL-2026-866	https://osv.dev/vulnerability/MAL-2026-866
 oracle-lag-sniper	1.2.0	MAL-2026-3223	https://osv.dev/vulnerability/MAL-2026-3223
 oracle-tools	0.20.0	MAL-2024-11650	https://osv.dev/vulnerability/MAL-2024-11650
 orchestr8-platform	3.3.2	MAL-2026-5321	https://osv.dev/vulnerability/MAL-2026-5321
+orchestril	0.1.0	MAL-2026-18142	https://osv.dev/vulnerability/MAL-2026-18142
 orion-algo-extrapol	1.0.0	MAL-2024-11651	https://osv.dev/vulnerability/MAL-2024-11651
 ort-moe	9.0.0	MAL-2026-3034	https://osv.dev/vulnerability/MAL-2026-3034
 os-numpy	3.19.4	MAL-2023-1384	https://osv.dev/vulnerability/MAL-2023-1384
@@ -8963,6 +8972,7 @@ phantomdecoderss	1.6.9	MAL-2024-10104	https://osv.dev/vulnerability/MAL-2024-101
 phasedibd	0.0.1	MAL-2026-2533	https://osv.dev/vulnerability/MAL-2026-2533
 phenopacket-store-toolkit	0.1.7	MAL-2026-5322	https://osv.dev/vulnerability/MAL-2026-5322
 phishermanx	4.0.1	MAL-2025-6563	https://osv.dev/vulnerability/MAL-2025-6563
+phonoviatts	0.1.0	MAL-2026-18143	https://osv.dev/vulnerability/MAL-2026-18143
 photo-extractor	2.33.0	MAL-2026-2488	https://osv.dev/vulnerability/MAL-2026-2488
 physisyphus	912.6	MAL-2024-10455	https://osv.dev/vulnerability/MAL-2024-10455
 pi-cord	1.0.0	MAL-2024-5465	https://osv.dev/vulnerability/MAL-2024-5465
@@ -9611,6 +9621,7 @@ prosocks	1.0.6	MAL-2026-17167	https://osv.dev/vulnerability/MAL-2026-17167
 prosocks	1.0.7	MAL-2026-17167	https://osv.dev/vulnerability/MAL-2026-17167
 prosocks	1.0.8	MAL-2026-17167	https://osv.dev/vulnerability/MAL-2026-17167
 prosocks	1.0.9	MAL-2026-17167	https://osv.dev/vulnerability/MAL-2026-17167
+prosodinetts	0.1.0	MAL-2026-18144	https://osv.dev/vulnerability/MAL-2026-18144
 proto-google-cloud-dlp-v2beta1	0.15.99	MAL-2025-4666	https://osv.dev/vulnerability/MAL-2025-4666
 protoc	0.0.1	MAL-2024-10107	https://osv.dev/vulnerability/MAL-2024-10107
 protoc	0.0.2	MAL-2024-10107	https://osv.dev/vulnerability/MAL-2024-10107
@@ -11795,6 +11806,7 @@ quicolor	10.0.6	MAL-2025-3462	https://osv.dev/vulnerability/MAL-2025-3462
 quicolor	10.0.9	MAL-2025-3462	https://osv.dev/vulnerability/MAL-2025-3462
 quicolor	9.7.3	MAL-2025-3462	https://osv.dev/vulnerability/MAL-2025-3462
 quicolor	9.8.1	MAL-2025-3462	https://osv.dev/vulnerability/MAL-2025-3462
+quillonatts	0.1.0	MAL-2026-18145	https://osv.dev/vulnerability/MAL-2026-18145
 quizdom	0.1.0	MAL-2025-3208	https://osv.dev/vulnerability/MAL-2025-3208
 quizdom	0.2.0	MAL-2025-3208	https://osv.dev/vulnerability/MAL-2025-3208
 quizdom	0.3.0	MAL-2025-3208	https://osv.dev/vulnerability/MAL-2025-3208
@@ -13748,6 +13760,7 @@ shark-e2e-bnsneo	0.3.1	MAL-2026-10912	https://osv.dev/vulnerability/MAL-2026-109
 shelipp	0.0.1	MAL-2026-2844	https://osv.dev/vulnerability/MAL-2026-2844
 shellexec	1.0.4	MAL-2024-6001	https://osv.dev/vulnerability/MAL-2024-6001
 shelley	0.1	MAL-2025-983	https://osv.dev/vulnerability/MAL-2025-983
+shellgrip	0.1.0	MAL-2026-18146	https://osv.dev/vulnerability/MAL-2026-18146
 sher-net	0.0.1	MAL-2026-2839	https://osv.dev/vulnerability/MAL-2026-2839
 sher-server-tool	0.0.1	MAL-2026-2840	https://osv.dev/vulnerability/MAL-2026-2840
 sherm	0.0.1	MAL-2024-6002	https://osv.dev/vulnerability/MAL-2024-6002
@@ -13978,6 +13991,7 @@ solhint-plugin-hyperlane	0.1.0	MAL-2026-547	https://osv.dev/vulnerability/MAL-20
 solidity-build-guard	0.1.0	MAL-2026-4262	https://osv.dev/vulnerability/MAL-2026-4262
 solidity-coverage	2.1.1	MAL-2025-6589	https://osv.dev/vulnerability/MAL-2025-6589
 solidity-dev	1.3.0	MAL-2026-10194	https://osv.dev/vulnerability/MAL-2026-10194
+solivoxtts	0.1.0	MAL-2026-18147	https://osv.dev/vulnerability/MAL-2026-18147
 sollana	*	MAL-2023-2281	https://osv.dev/vulnerability/MAL-2023-2281
 solna	*	MAL-2023-2282	https://osv.dev/vulnerability/MAL-2023-2282
 solnaa	*	MAL-2023-2283	https://osv.dev/vulnerability/MAL-2023-2283
@@ -14779,6 +14793,7 @@ terraform-binary-wheel	0.0.1	MAL-2025-6599	https://osv.dev/vulnerability/MAL-202
 terraformness	99.99.99	MAL-2024-11719	https://osv.dev/vulnerability/MAL-2024-11719
 tesnorflow	*	MAL-2023-2311	https://osv.dev/vulnerability/MAL-2023-2311
 tesorflow	*	MAL-2023-2312	https://osv.dev/vulnerability/MAL-2023-2312
+tessivatts	0.1.0	MAL-2026-18148	https://osv.dev/vulnerability/MAL-2026-18148
 test-23234231	0.1	MAL-2024-6105	https://osv.dev/vulnerability/MAL-2024-6105
 test-23234231	0.9	MAL-2024-6105	https://osv.dev/vulnerability/MAL-2024-6105
 test-23234231	10	MAL-2024-6105	https://osv.dev/vulnerability/MAL-2024-6105
@@ -16432,6 +16447,7 @@ vcdiff-py	2.2.0	MAL-2025-47811	https://osv.dev/vulnerability/MAL-2025-47811
 vectordb-engine	1.0.0	MAL-2026-4814	https://osv.dev/vulnerability/MAL-2026-4814
 veilcord-tls	0.0.7.5	MAL-2025-47458	https://osv.dev/vulnerability/MAL-2025-47458
 veilcord-tls	0.0.7.6	MAL-2025-47458	https://osv.dev/vulnerability/MAL-2025-47458
+vellutts	0.1.0	MAL-2026-18149	https://osv.dev/vulnerability/MAL-2026-18149
 veloxml-cli	0.1.0	MAL-2026-4862	https://osv.dev/vulnerability/MAL-2026-4862
 venomenallib	0.1.1	MAL-2025-191920	https://osv.dev/vulnerability/MAL-2025-191920
 venomenallib	0.1.2	MAL-2025-191920	https://osv.dev/vulnerability/MAL-2025-191920
@@ -16595,6 +16611,7 @@ voxeval	0.4.2	MAL-2026-17457	https://osv.dev/vulnerability/MAL-2026-17457
 voxeval	0.4.3	MAL-2026-17457	https://osv.dev/vulnerability/MAL-2026-17457
 voxeval	0.4.4	MAL-2026-17457	https://osv.dev/vulnerability/MAL-2026-17457
 voxeval	0.4.5	MAL-2026-17457	https://osv.dev/vulnerability/MAL-2026-17457
+voxilaratts	0.1.0	MAL-2026-18150	https://osv.dev/vulnerability/MAL-2026-18150
 vper	*	MAL-2023-2348	https://osv.dev/vulnerability/MAL-2023-2348
 vpyer	*	MAL-2023-2349	https://osv.dev/vulnerability/MAL-2023-2349
 vramx	1.6.2	MAL-2025-6614	https://osv.dev/vulnerability/MAL-2025-6614
@@ -17182,6 +17199,7 @@ zelixnitro	1.0	MAL-2024-6255	https://osv.dev/vulnerability/MAL-2024-6255
 zencleaner	1.0.0	MAL-2026-17629	https://osv.dev/vulnerability/MAL-2026-17629
 zencleaner	1.0.3	MAL-2026-17629	https://osv.dev/vulnerability/MAL-2026-17629
 zencleaner	1.0.3.1	MAL-2026-17629	https://osv.dev/vulnerability/MAL-2026-17629
+zennittts	0.1.0	MAL-2026-18151	https://osv.dev/vulnerability/MAL-2026-18151
 zenomenallib	2.7.0	MAL-2025-47814	https://osv.dev/vulnerability/MAL-2025-47814
 zero123	9.6	MAL-2024-11752	https://osv.dev/vulnerability/MAL-2024-11752
 zeubilamouche	0.1.4	MAL-2024-6256	https://osv.dev/vulnerability/MAL-2024-6256
