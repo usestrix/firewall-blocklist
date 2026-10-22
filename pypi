@@ -84,6 +84,7 @@ acloud-clients	1.0.1	MAL-2025-191673	https://osv.dev/vulnerability/MAL-2025-1916
 acme-widget-layout-utils	0.0.1	MAL-2026-5545	https://osv.dev/vulnerability/MAL-2026-5545
 acme-widget-layout-utils	0.0.2	MAL-2026-5545	https://osv.dev/vulnerability/MAL-2026-5545
 acme-widget-layout-utils	0.0.3	MAL-2026-5545	https://osv.dev/vulnerability/MAL-2026-5545
+acousticpack	0.1.0	MAL-2026-18152	https://osv.dev/vulnerability/MAL-2026-18152
 acpi-tables	1.0.9	MAL-2026-876	https://osv.dev/vulnerability/MAL-2026-876
 adad	*	MAL-2023-2476	https://osv.dev/vulnerability/MAL-2023-2476
 adafruit-display-text	1.0.0	MAL-2024-12187	https://osv.dev/vulnerability/MAL-2024-12187
@@ -5474,6 +5475,7 @@ hoes	0.0.3	MAL-2024-5205	https://osv.dev/vulnerability/MAL-2024-5205
 home-robot	0.0.0	MAL-2026-979	https://osv.dev/vulnerability/MAL-2026-979
 home-robot	1.0.0	MAL-2026-979	https://osv.dev/vulnerability/MAL-2026-979
 honestjson	0.1.3	MAL-2024-12288	https://osv.dev/vulnerability/MAL-2024-12288
+hookgantry	0.1.0	MAL-2026-18153	https://osv.dev/vulnerability/MAL-2026-18153
 hooktest-fin	0.1.1	MAL-2025-192685	https://osv.dev/vulnerability/MAL-2025-192685
 hooktest1	0.1.0	MAL-2025-191760	https://osv.dev/vulnerability/MAL-2025-191760
 hooktest1	0.1.1	MAL-2025-191760	https://osv.dev/vulnerability/MAL-2025-191760
@@ -9087,6 +9089,7 @@ pipcryptomodsv2	1.2.0	MAL-2024-5517	https://osv.dev/vulnerability/MAL-2024-5517
 pipcryptov2	1.0.0	MAL-2024-5518	https://osv.dev/vulnerability/MAL-2024-5518
 pipcryptov4	1.0.0	MAL-2024-5519	https://osv.dev/vulnerability/MAL-2024-5519
 pipcv	*	MAL-2023-4860	https://osv.dev/vulnerability/MAL-2023-4860
+pipegrip	0.1.0	MAL-2026-18154	https://osv.dev/vulnerability/MAL-2026-18154
 pipeline-poision-test	1.0.0	MAL-2026-655	https://osv.dev/vulnerability/MAL-2026-655
 pipeline-poision-test	1.1.0	MAL-2026-655	https://osv.dev/vulnerability/MAL-2026-655
 pipeline-poision-test	1.2.0	MAL-2026-655	https://osv.dev/vulnerability/MAL-2026-655
