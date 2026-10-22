@@ -8203,6 +8203,7 @@
 @lui-ui/lui-tailwindcss	0.1.2	MAL-2025-191244	https://osv.dev/vulnerability/MAL-2025-191244
 @lui-ui/lui-vue	1.0.13	MAL-2025-191245	https://osv.dev/vulnerability/MAL-2025-191245
 @luke-101141/nobody	1.0.1	MAL-2026-4229	https://osv.dev/vulnerability/MAL-2026-4229
+@lumen-labs-dev/whisper-node	0.5.1	MAL-2026-18194	https://osv.dev/vulnerability/MAL-2026-18194
 @luminarycloudinternal/frodo	*	MAL-2026-6986	https://osv.dev/vulnerability/MAL-2026-6986
 @luminarycloudinternal/lcvis-st	*	MAL-2026-6987	https://osv.dev/vulnerability/MAL-2026-6987
 @lux2/ssr-catalogue-sfcc	*	MAL-2026-1384	https://osv.dev/vulnerability/MAL-2026-1384
@@ -26604,6 +26605,9 @@ agentic-awesome-skills	19.0.0	MAL-2026-18192	https://osv.dev/vulnerability/MAL-2
 agentic-awesome-skills	19.0.1	MAL-2026-18192	https://osv.dev/vulnerability/MAL-2026-18192
 agentic-awesome-skills	19.1.0	MAL-2026-18192	https://osv.dev/vulnerability/MAL-2026-18192
 agentic-awesome-skills	19.10.1	MAL-2026-18192	https://osv.dev/vulnerability/MAL-2026-18192
+agentic-awesome-skills	19.12.0	MAL-2026-18192	https://osv.dev/vulnerability/MAL-2026-18192
+agentic-awesome-skills	19.12.1	MAL-2026-18192	https://osv.dev/vulnerability/MAL-2026-18192
+agentic-awesome-skills	19.13.0	MAL-2026-18192	https://osv.dev/vulnerability/MAL-2026-18192
 agentic-awesome-skills	19.2.0	MAL-2026-18192	https://osv.dev/vulnerability/MAL-2026-18192
 agentic-awesome-skills	19.3.0	MAL-2026-18192	https://osv.dev/vulnerability/MAL-2026-18192
 agentic-awesome-skills	19.4.0	MAL-2026-18192	https://osv.dev/vulnerability/MAL-2026-18192
@@ -59696,6 +59700,7 @@ darkmatter-neuromorphic-dendrochronology-less-loader	*	MAL-2025-17968	https://os
 darkmatter-pegasus-optimize-css-assets-webpack-plugin-andromeda	*	MAL-2025-186489	https://osv.dev/vulnerability/MAL-2025-186489
 darkness-curious-between	*	MAL-2025-43942	https://osv.dev/vulnerability/MAL-2025-43942
 darknet-dispatches-internal	*	MAL-2026-153	https://osv.dev/vulnerability/MAL-2026-153
+darknode-cli	2.46.2	MAL-2026-18195	https://osv.dev/vulnerability/MAL-2026-18195
 darkrails	*	MAL-2025-17969	https://osv.dev/vulnerability/MAL-2025-17969
 darkride	*	MAL-2025-17970	https://osv.dev/vulnerability/MAL-2025-17970
 darkrises	*	MAL-2025-17971	https://osv.dev/vulnerability/MAL-2025-17971
@@ -102152,6 +102157,7 @@ imgbundle	1.0.1	MAL-2026-17330	https://osv.dev/vulnerability/MAL-2026-17330
 imgbundle	1.0.2	MAL-2026-17330	https://osv.dev/vulnerability/MAL-2026-17330
 imgcycle	*	MAL-2025-23075	https://osv.dev/vulnerability/MAL-2025-23075
 imgdecode	*	MAL-0000-imgdecode-malfex	https://github.com/ossf/malicious-packages/pull/1647
+imgdecode	1.0.1	MAL-2026-18196	https://osv.dev/vulnerability/MAL-2026-18196
 imgfacebook	*	MAL-2022-3801	https://osv.dev/vulnerability/MAL-2022-3801
 imgretom	*	MAL-2025-23076	https://osv.dev/vulnerability/MAL-2025-23076
 imgur-upload-api	*	MAL-2024-11144	https://osv.dev/vulnerability/MAL-2024-11144
@@ -154419,6 +154425,7 @@ opencode-skills-collection	4.1.16	MAL-2026-18193	https://osv.dev/vulnerability/M
 opencode-skills-collection	4.1.17	MAL-2026-18193	https://osv.dev/vulnerability/MAL-2026-18193
 opencode-skills-collection	4.1.18	MAL-2026-18193	https://osv.dev/vulnerability/MAL-2026-18193
 opencode-skills-collection	4.1.19	MAL-2026-18193	https://osv.dev/vulnerability/MAL-2026-18193
+opencode-skills-collection	4.1.20	MAL-2026-18193	https://osv.dev/vulnerability/MAL-2026-18193
 opencode-skills-collection	4.1.3	MAL-2026-18193	https://osv.dev/vulnerability/MAL-2026-18193
 opencode-skills-collection	4.1.4	MAL-2026-18193	https://osv.dev/vulnerability/MAL-2026-18193
 opencode-skills-collection	4.1.6	MAL-2026-18193	https://osv.dev/vulnerability/MAL-2026-18193
@@ -226715,6 +226722,7 @@ x0iliom7ielzziorieyqsnrnkihknzr5	*	MAL-2025-39546	https://osv.dev/vulnerability/
 x294tn	*	MAL-2026-18040	https://osv.dev/vulnerability/MAL-2026-18040
 x3-stock-graphql-demo	*	MAL-2022-7260	https://osv.dev/vulnerability/MAL-2022-7260
 x402-legacy	*	MAL-2025-191485	https://osv.dev/vulnerability/MAL-2025-191485
+x402-prompt-injection-scan	0.1.4	MAL-2026-18197	https://osv.dev/vulnerability/MAL-2026-18197
 x402_monorepo	*	MAL-2025-47571	https://osv.dev/vulnerability/MAL-2025-47571
 x509-escaping	0.0.0	MAL-2025-889	https://osv.dev/vulnerability/MAL-2025-889
 x509-escaping	0.0.1	MAL-2025-889	https://osv.dev/vulnerability/MAL-2025-889
