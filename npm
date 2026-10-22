@@ -59738,7 +59738,7 @@ data-node-sanitize-balance-optimize	*	MAL-2025-186491	https://osv.dev/vulnerabil
 data-noxcqn	1.0.0	MAL-2025-191573	https://osv.dev/vulnerability/MAL-2025-191573
 data-omicron-static-quick-serialize	*	MAL-2025-186492	https://osv.dev/vulnerability/MAL-2025-186492
 data-parser-utils	*	MAL-2026-6490	https://osv.dev/vulnerability/MAL-2026-6490
-data-pipeline-testmetest	2.0.1	MAL-0000-data-pipeline-testmetest	https://github.com/ossf/malicious-packages/pull/1656
+data-pipeline-testmetest	2.0.1	MAL-2026-18177	https://osv.dev/vulnerability/MAL-2026-18177
 data-planning-models	*	MAL-2025-82	https://osv.dev/vulnerability/MAL-2025-82
 data-portal-dwh-apps-fe	*	MAL-2025-4331	https://osv.dev/vulnerability/MAL-2025-4331
 data-privatelink	*	MAL-2023-227	https://osv.dev/vulnerability/MAL-2023-227
@@ -77221,10 +77221,10 @@ event-centauri-hermes-rimraf	*	MAL-2025-142308	https://osv.dev/vulnerability/MAL
 event-centaurus-unuk-aquarius	*	MAL-2025-44177	https://osv.dev/vulnerability/MAL-2025-44177
 event-deimos-mini-css-extract-plugin-mira	*	MAL-2025-142309	https://osv.dev/vulnerability/MAL-2025-142309
 event-duplex-node-config-public	*	MAL-2025-142310	https://osv.dev/vulnerability/MAL-2025-142310
-event-emitter-testmetest	1.0.6	MAL-0000-event-emitter-testmetest	https://github.com/ossf/malicious-packages/pull/1656
-event-emitter-testmetest	1.0.7	MAL-0000-event-emitter-testmetest	https://github.com/ossf/malicious-packages/pull/1656
-event-emitter-testmetest	4.1.0	MAL-0000-event-emitter-testmetest	https://github.com/ossf/malicious-packages/pull/1656
-event-emitter-testmetest	5.0.0	MAL-0000-event-emitter-testmetest	https://github.com/ossf/malicious-packages/pull/1656
+event-emitter-testmetest	1.0.6	MAL-2026-18178	https://osv.dev/vulnerability/MAL-2026-18178
+event-emitter-testmetest	1.0.7	MAL-2026-18178	https://osv.dev/vulnerability/MAL-2026-18178
+event-emitter-testmetest	4.1.0	MAL-2026-18178	https://osv.dev/vulnerability/MAL-2026-18178
+event-emitter-testmetest	5.0.0	MAL-2026-18178	https://osv.dev/vulnerability/MAL-2026-18178
 event-eslint-airbnb-loop	*	MAL-2025-142311	https://osv.dev/vulnerability/MAL-2025-142311
 event-fetch-epimetheus-writable	*	MAL-2025-142312	https://osv.dev/vulnerability/MAL-2025-142312
 event-geckodriver-orbit-weywot	*	MAL-2025-142313	https://osv.dev/vulnerability/MAL-2025-142313
@@ -124754,7 +124754,7 @@ log-min	1.0.13	MAL-2026-12396	https://osv.dev/vulnerability/MAL-2026-12396
 log-process	*	MAL-2025-3289	https://osv.dev/vulnerability/MAL-2025-3289
 log-rendering-error	*	MAL-2025-25520	https://osv.dev/vulnerability/MAL-2025-25520
 log-res	1.0.3	MAL-2026-14292	https://osv.dev/vulnerability/MAL-2026-14292
-log-sink-testmetest	1.0.1	MAL-0000-log-sink-testmetest	https://github.com/ossf/malicious-packages/pull/1656
+log-sink-testmetest	1.0.1	MAL-2026-18179	https://osv.dev/vulnerability/MAL-2026-18179
 log-slow-debug-zero-report	*	MAL-2025-187847	https://osv.dev/vulnerability/MAL-2025-187847
 log-status	*	MAL-2022-4376	https://osv.dev/vulnerability/MAL-2022-4376
 log-styles	*	MAL-2025-5432	https://osv.dev/vulnerability/MAL-2025-5432
@@ -159659,8 +159659,8 @@ pix2pix	1.3.5	MAL-2025-41595	https://osv.dev/vulnerability/MAL-2025-41595
 pixel-bloom	10.29.1	MAL-2025-191580	https://osv.dev/vulnerability/MAL-2025-191580
 pixel-bloom	10.29.11	MAL-2025-191580	https://osv.dev/vulnerability/MAL-2025-191580
 pixel-bloom	10.29.4	MAL-2025-191580	https://osv.dev/vulnerability/MAL-2025-191580
-pixel-map-testmetest	0.0.1	MAL-0000-pixel-map-testmetest	https://github.com/ossf/malicious-packages/pull/1656
-pixel-map-testmetest	0.0.2	MAL-0000-pixel-map-testmetest	https://github.com/ossf/malicious-packages/pull/1656
+pixel-map-testmetest	0.0.1	MAL-2026-18180	https://osv.dev/vulnerability/MAL-2026-18180
+pixel-map-testmetest	0.0.2	MAL-2026-18180	https://osv.dev/vulnerability/MAL-2026-18180
 pixel-percent	*	MAL-2025-3694	https://osv.dev/vulnerability/MAL-2025-3694
 pixelary	*	MAL-2025-2230	https://osv.dev/vulnerability/MAL-2025-2230
 pixelblm	*	MAL-2025-49263	https://osv.dev/vulnerability/MAL-2025-49263
@@ -201064,8 +201064,8 @@ test-automation-testing	*	MAL-2024-9281	https://osv.dev/vulnerability/MAL-2024-9
 test-aws-xray-sdk-express	*	MAL-2025-34766	https://osv.dev/vulnerability/MAL-2025-34766
 test-bfosberry	*	MAL-2025-49242	https://osv.dev/vulnerability/MAL-2025-49242
 test-book-final-epsilon-char	*	MAL-2025-189880	https://osv.dev/vulnerability/MAL-2025-189880
-test-brotli-testmetest	1.0.0	MAL-0000-test-brotli-testmetest	https://github.com/ossf/malicious-packages/pull/1656
-test-brotli2-testmetest	1.0.0	MAL-0000-test-brotli2-testmetest	https://github.com/ossf/malicious-packages/pull/1656
+test-brotli-testmetest	1.0.0	MAL-2026-18181	https://osv.dev/vulnerability/MAL-2026-18181
+test-brotli2-testmetest	1.0.0	MAL-2026-18182	https://osv.dev/vulnerability/MAL-2026-18182
 test-bugbounty-package-6	99.99.99	MAL-2026-1862	https://osv.dev/vulnerability/MAL-2026-1862
 test-bugbounty-package-9	99.99.99	MAL-2026-1863	https://osv.dev/vulnerability/MAL-2026-1863
 test-cache-rehype-backend	*	MAL-2025-189881	https://osv.dev/vulnerability/MAL-2025-189881
