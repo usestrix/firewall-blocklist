@@ -212431,7 +212431,6 @@ unico-android	9.9.9	MAL-2026-5829	https://osv.dev/vulnerability/MAL-2026-5829
 unico-check	9.9.9	MAL-2026-5830	https://osv.dev/vulnerability/MAL-2026-5830
 unicocheck-ios	9.9.9	MAL-2026-5831	https://osv.dev/vulnerability/MAL-2026-5831
 unicode-title-normalizer	*	MAL-2026-18100	https://osv.dev/vulnerability/MAL-2026-18100
-unicode-title-normalizer	1.0.0	MAL-0000-unicode-title-normalizer	https://github.com/ossf/malicious-packages/pull/1653
 unicorefx	*	MAL-2025-37745	https://osv.dev/vulnerability/MAL-2025-37745
 unicorn-5exuw-uq4h2-serenity-project	*	MAL-2025-37746	https://osv.dev/vulnerability/MAL-2025-37746
 unicorn-5o0wt-dbtzy-terra-project	*	MAL-2025-37747	https://osv.dev/vulnerability/MAL-2025-37747
