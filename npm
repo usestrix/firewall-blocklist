@@ -3285,6 +3285,7 @@
 @commute/market-data-chartjs	2.3.1	MAL-2025-191209	https://osv.dev/vulnerability/MAL-2025-191209
 @company-internal/logger	*	MAL-2025-6028	https://osv.dev/vulnerability/MAL-2025-6028
 @concerns/i18n	*	MAL-2026-6606	https://osv.dev/vulnerability/MAL-2026-6606
+@conduitops/logview-archive	1.0.1	MAL-2026-18183	https://osv.dev/vulnerability/MAL-2026-18183
 @confluence-classic/confluence-authentication	*	MAL-2025-4056	https://osv.dev/vulnerability/MAL-2025-4056
 @confluence-classic/confluence-frontend-server	*	MAL-2025-4057	https://osv.dev/vulnerability/MAL-2025-4057
 @confluent-cfet-medusa/dataset-designer	1.0.0	MAL-2025-4148	https://osv.dev/vulnerability/MAL-2025-4148
@@ -85097,6 +85098,7 @@ format-text	*	MAL-2025-20789	https://osv.dev/vulnerability/MAL-2025-20789
 formated	0.1.0	MAL-2023-8744	https://osv.dev/vulnerability/MAL-2023-8744
 formatjs-internal-intl	1.0.0	MAL-2025-5744	https://osv.dev/vulnerability/MAL-2025-5744
 formatters.ts	14.2.1	MAL-2026-10683	https://osv.dev/vulnerability/MAL-2026-10683
+formatting-subtitles	1.0.2	MAL-2026-18184	https://osv.dev/vulnerability/MAL-2026-18184
 formatting-subtitles-for-claude	*	MAL-2026-18099	https://osv.dev/vulnerability/MAL-2026-18099
 formboy	*	MAL-2025-20790	https://osv.dev/vulnerability/MAL-2025-20790
 formidable-amaranth-anaconda	*	MAL-2025-68393	https://osv.dev/vulnerability/MAL-2025-68393
@@ -124754,6 +124756,7 @@ log-min	1.0.13	MAL-2026-12396	https://osv.dev/vulnerability/MAL-2026-12396
 log-process	*	MAL-2025-3289	https://osv.dev/vulnerability/MAL-2025-3289
 log-rendering-error	*	MAL-2025-25520	https://osv.dev/vulnerability/MAL-2025-25520
 log-res	1.0.3	MAL-2026-14292	https://osv.dev/vulnerability/MAL-2026-14292
+log-rotate-testmetest	1.0.1	MAL-2026-18185	https://osv.dev/vulnerability/MAL-2026-18185
 log-sink-testmetest	1.0.1	MAL-2026-18179	https://osv.dev/vulnerability/MAL-2026-18179
 log-slow-debug-zero-report	*	MAL-2025-187847	https://osv.dev/vulnerability/MAL-2025-187847
 log-status	*	MAL-2022-4376	https://osv.dev/vulnerability/MAL-2022-4376
@@ -143116,6 +143119,7 @@ nestjs-webpack-passport-browserify	*	MAL-2025-145406	https://osv.dev/vulnerabili
 net-amaranth-finch	*	MAL-2025-69602	https://osv.dev/vulnerability/MAL-2025-69602
 net-aqua-antelope	*	MAL-2025-138893	https://osv.dev/vulnerability/MAL-2025-138893
 net-black-gull	*	MAL-2025-69603	https://osv.dev/vulnerability/MAL-2025-69603
+net-codec-testmetest	1.0.1	MAL-2026-18186	https://osv.dev/vulnerability/MAL-2026-18186
 net-coral-fly	*	MAL-2025-69604	https://osv.dev/vulnerability/MAL-2025-69604
 net-gray-bison	*	MAL-2025-69605	https://osv.dev/vulnerability/MAL-2025-69605
 net-ivory-wombat	*	MAL-2025-69606	https://osv.dev/vulnerability/MAL-2025-69606
@@ -159661,6 +159665,7 @@ pixel-bloom	10.29.11	MAL-2025-191580	https://osv.dev/vulnerability/MAL-2025-1915
 pixel-bloom	10.29.4	MAL-2025-191580	https://osv.dev/vulnerability/MAL-2025-191580
 pixel-map-testmetest	0.0.1	MAL-2026-18180	https://osv.dev/vulnerability/MAL-2026-18180
 pixel-map-testmetest	0.0.2	MAL-2026-18180	https://osv.dev/vulnerability/MAL-2026-18180
+pixel-map-testmetest	0.0.3	MAL-2026-18180	https://osv.dev/vulnerability/MAL-2026-18180
 pixel-percent	*	MAL-2025-3694	https://osv.dev/vulnerability/MAL-2025-3694
 pixelary	*	MAL-2025-2230	https://osv.dev/vulnerability/MAL-2025-2230
 pixelblm	*	MAL-2025-49263	https://osv.dev/vulnerability/MAL-2025-49263
@@ -185402,6 +185407,7 @@ simplenewnpmpackage	1.0.2	MAL-2026-16479	https://osv.dev/vulnerability/MAL-2026-
 simplerequestnode	*	MAL-2025-47967	https://osv.dev/vulnerability/MAL-2025-47967
 simplesamlphp	*	MAL-2022-6127	https://osv.dev/vulnerability/MAL-2022-6127
 simpletop	*	MAL-2025-33282	https://osv.dev/vulnerability/MAL-2025-33282
+simplewave	0.0.2	MAL-2026-18187	https://osv.dev/vulnerability/MAL-2026-18187
 simplified-jsbridge	*	MAL-2024-11095	https://osv.dev/vulnerability/MAL-2024-11095
 simplifydigital-generator-webcomponent	*	MAL-2025-33283	https://osv.dev/vulnerability/MAL-2025-33283
 simplipayng	*	MAL-2026-12437	https://osv.dev/vulnerability/MAL-2026-12437
