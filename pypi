@@ -955,6 +955,7 @@ backtradingbot	0.1.5	MAL-2025-191689	https://osv.dev/vulnerability/MAL-2025-1916
 backwwi	0.1.0	MAL-2024-11534	https://osv.dev/vulnerability/MAL-2024-11534
 backwwii	0.1.0	MAL-2024-12212	https://osv.dev/vulnerability/MAL-2024-12212
 badgerdoc-storage	0.0.1	MAL-2025-3740	https://osv.dev/vulnerability/MAL-2025-3740
+badgertask	0.1.0	MAL-2026-18222	https://osv.dev/vulnerability/MAL-2026-18222
 baeutifulsoup	*	MAL-2023-1587	https://osv.dev/vulnerability/MAL-2023-1587
 baibitmf	99.7	MAL-2024-10365	https://osv.dev/vulnerability/MAL-2024-10365
 baidubsrc	0.0.1	MAL-2026-4809	https://osv.dev/vulnerability/MAL-2026-4809
@@ -1328,12 +1329,14 @@ bprintoor	0.2.9	MAL-2025-191694	https://osv.dev/vulnerability/MAL-2025-191694
 bpsm	99.0.0	MAL-2026-1296	https://osv.dev/vulnerability/MAL-2026-1296
 bq-build-probe-vrp-2026	0.2.0	MAL-2026-16098	https://osv.dev/vulnerability/MAL-2026-16098
 bq-sdist-probe-vrp	0.0.1	MAL-2026-16099	https://osv.dev/vulnerability/MAL-2026-16099
+brambletask	0.1.0	MAL-2026-18223	https://osv.dev/vulnerability/MAL-2026-18223
 bramin	0.0.2	MAL-2026-5280	https://osv.dev/vulnerability/MAL-2026-5280
 bramin	0.0.3	MAL-2026-5280	https://osv.dev/vulnerability/MAL-2026-5280
 bramin	0.0.4	MAL-2026-5280	https://osv.dev/vulnerability/MAL-2026-5280
 breqest	2.32.3	MAL-2025-903	https://osv.dev/vulnerability/MAL-2025-903
 broccoli-server	0.0.1	MAL-2025-6468	https://osv.dev/vulnerability/MAL-2025-6468
 brolool4141412	1.0.0	MAL-2025-192989	https://osv.dev/vulnerability/MAL-2025-192989
+brookworker	0.1.0	MAL-2026-18224	https://osv.dev/vulnerability/MAL-2026-18224
 broooxddd1414	1.0.0	MAL-2025-192990	https://osv.dev/vulnerability/MAL-2025-192990
 brotli-python	1.0.9	MAL-2025-47749	https://osv.dev/vulnerability/MAL-2025-47749
 brotli-python	1.1.9	MAL-2025-47749	https://osv.dev/vulnerability/MAL-2025-47749
@@ -1919,6 +1922,7 @@ cmd2func	0.2.2	MAL-2026-5290	https://osv.dev/vulnerability/MAL-2026-5290
 cmd2func	0.2.3	MAL-2026-5290	https://osv.dev/vulnerability/MAL-2026-5290
 cmdb-worker-pckg	1.0.0	MAL-2024-11558	https://osv.dev/vulnerability/MAL-2024-11558
 cnnct-eaas-corre	1322.0.0	MAL-2026-1003	https://osv.dev/vulnerability/MAL-2026-1003
+cobbleload	0.1.0	MAL-2026-18225	https://osv.dev/vulnerability/MAL-2026-18225
 cobo-custdoy	0.1	MAL-2024-12237	https://osv.dev/vulnerability/MAL-2024-12237
 cobo-custdy	0.1	MAL-2024-12238	https://osv.dev/vulnerability/MAL-2024-12238
 cobo-python	0.1	MAL-2024-12239	https://osv.dev/vulnerability/MAL-2024-12239
@@ -4574,6 +4578,7 @@ fernetpy	0.0.1	MAL-2025-5113	https://osv.dev/vulnerability/MAL-2025-5113
 fernets	0.0.1	MAL-2025-191728	https://osv.dev/vulnerability/MAL-2025-191728
 ferns	1.0	MAL-2024-5137	https://osv.dev/vulnerability/MAL-2024-5137
 ferqtrade	*	MAL-2023-1830	https://osv.dev/vulnerability/MAL-2023-1830
+ferretqueue	0.1.0	MAL-2026-18226	https://osv.dev/vulnerability/MAL-2026-18226
 fet	2.0.1	MAL-2025-41671	https://osv.dev/vulnerability/MAL-2025-41671
 fetch-data-api-syncapi	0.1.0	MAL-2026-3100	https://osv.dev/vulnerability/MAL-2026-3100
 fetch-data-api-syncapi	0.1.1	MAL-2026-3100	https://osv.dev/vulnerability/MAL-2026-3100
@@ -4697,6 +4702,7 @@ flexiconf	0.0.1	MAL-2025-6507	https://osv.dev/vulnerability/MAL-2025-6507
 flexitest	2.2160.0	MAL-2026-5702	https://osv.dev/vulnerability/MAL-2026-5702
 flexponlib	0.0.1	MAL-2024-5145	https://osv.dev/vulnerability/MAL-2024-5145
 flexssl	2.0.0	MAL-2024-12274	https://osv.dev/vulnerability/MAL-2024-12274
+flintqueue	0.1.0	MAL-2026-18227	https://osv.dev/vulnerability/MAL-2026-18227
 floogle	0.7	MAL-2025-41676	https://osv.dev/vulnerability/MAL-2025-41676
 flophttp	2.3.5	MAL-2024-10028	https://osv.dev/vulnerability/MAL-2024-10028
 flowfix	0.1.0	MAL-2026-1276	https://osv.dev/vulnerability/MAL-2026-1276
@@ -6026,6 +6032,7 @@ jksandbox	99.0	MAL-2024-5280	https://osv.dev/vulnerability/MAL-2024-5280
 jmdrs	1.0.4	MAL-2025-6530	https://osv.dev/vulnerability/MAL-2025-6530
 jmdrs	1.0.5	MAL-2025-6530	https://osv.dev/vulnerability/MAL-2025-6530
 jmdrs	1.0.6	MAL-2025-6530	https://osv.dev/vulnerability/MAL-2025-6530
+jobwharf	0.1.0	MAL-2026-18228	https://osv.dev/vulnerability/MAL-2026-18228
 johnhammondfanpackage124	1.0.0	MAL-2024-5281	https://osv.dev/vulnerability/MAL-2024-5281
 johnhammondontop183	1.0.0	MAL-2024-5282	https://osv.dev/vulnerability/MAL-2024-5282
 joule-btp-extension	0.1.0	MAL-2026-13732	https://osv.dev/vulnerability/MAL-2026-13732
@@ -6066,6 +6073,7 @@ jsonschemex	0.1.5	MAL-2025-191769	https://osv.dev/vulnerability/MAL-2025-191769
 judyb-advanced	0.1.0	MAL-2024-5284	https://osv.dev/vulnerability/MAL-2024-5284
 juk	0.1	MAL-2024-5285	https://osv.dev/vulnerability/MAL-2024-5285
 jules-test-utils	0.1.0	MAL-2026-5167	https://osv.dev/vulnerability/MAL-2026-5167
+juniperrun	0.1.0	MAL-2026-18229	https://osv.dev/vulnerability/MAL-2026-18229
 juphelp	0.1.0	MAL-2024-12293	https://osv.dev/vulnerability/MAL-2024-12293
 juphelper	0.1.6	MAL-2024-12294	https://osv.dev/vulnerability/MAL-2024-12294
 jupihelp	0.1.0	MAL-2024-12295	https://osv.dev/vulnerability/MAL-2024-12295
@@ -6299,6 +6307,7 @@ langraph	0.0.0	MAL-2024-12375	https://osv.dev/vulnerability/MAL-2024-12375
 langraph	1.0.0	MAL-2024-12375	https://osv.dev/vulnerability/MAL-2024-12375
 lanm-neo	95.6	MAL-2024-10729	https://osv.dev/vulnerability/MAL-2024-10729
 lapnet	99.6	MAL-2024-10825	https://osv.dev/vulnerability/MAL-2024-10825
+larchworker	0.1.0	MAL-2026-18230	https://osv.dev/vulnerability/MAL-2026-18230
 largebatchctr	94.6	MAL-2024-10635	https://osv.dev/vulnerability/MAL-2024-10635
 larger-batch-ctr	94.6	MAL-2024-10636	https://osv.dev/vulnerability/MAL-2024-10636
 larpexodus	0.1	MAL-2024-11622	https://osv.dev/vulnerability/MAL-2024-11622
@@ -7294,6 +7303,7 @@ loadcoremwassistant	99.99.4	MAL-2026-2834	https://osv.dev/vulnerability/MAL-2026
 loadcpu	*	MAL-2023-4671	https://osv.dev/vulnerability/MAL-2023-4671
 loadcraft	*	MAL-2023-4672	https://osv.dev/vulnerability/MAL-2023-4672
 loadcv	*	MAL-2023-4673	https://osv.dev/vulnerability/MAL-2023-4673
+loadferry	0.1.0	MAL-2026-18231	https://osv.dev/vulnerability/MAL-2026-18231
 loadget	*	MAL-2023-4674	https://osv.dev/vulnerability/MAL-2023-4674
 loadgrand	*	MAL-2023-4675	https://osv.dev/vulnerability/MAL-2023-4675
 loadhttp	*	MAL-2023-4676	https://osv.dev/vulnerability/MAL-2023-4676
@@ -7578,6 +7588,7 @@ marshl	0.3	MAL-2026-623	https://osv.dev/vulnerability/MAL-2026-623
 marshmellow	1.0.0	MAL-2026-864	https://osv.dev/vulnerability/MAL-2026-864
 marshmellow	1.1.0	MAL-2026-864	https://osv.dev/vulnerability/MAL-2026-864
 marshmellows	1.0.0	MAL-2026-905	https://osv.dev/vulnerability/MAL-2026-905
+marshrunner	0.1.0	MAL-2026-18232	https://osv.dev/vulnerability/MAL-2026-18232
 mashetz	1.0	MAL-2024-5351	https://osv.dev/vulnerability/MAL-2024-5351
 masirkhan	0.1.9	MAL-2025-944	https://osv.dev/vulnerability/MAL-2025-944
 maskad	*	MAL-2023-4700	https://osv.dev/vulnerability/MAL-2023-4700
@@ -8796,6 +8807,7 @@ otc-metadata	0.0.1	MAL-2025-2983	https://osv.dev/vulnerability/MAL-2025-2983
 otc-metadata	0.0.2	MAL-2025-2983	https://osv.dev/vulnerability/MAL-2025-2983
 otc-metadata	0.0.3	MAL-2025-2983	https://osv.dev/vulnerability/MAL-2025-2983
 otci-openthread	9.9.9	MAL-2024-11652	https://osv.dev/vulnerability/MAL-2024-11652
+otterload	0.1.0	MAL-2026-18233	https://osv.dev/vulnerability/MAL-2026-18233
 ouc-api	0.0.1	MAL-2025-6561	https://osv.dev/vulnerability/MAL-2025-6561
 ovcdtwfcak	0.0.1	MAL-2024-5439	https://osv.dev/vulnerability/MAL-2024-5439
 oxntime	0.0.1	MAL-2026-6975	https://osv.dev/vulnerability/MAL-2026-6975
@@ -12006,6 +12018,7 @@ recraft	*	MAL-2023-5902	https://osv.dev/vulnerability/MAL-2023-5902
 rectutils	1.1	MAL-2024-10151	https://osv.dev/vulnerability/MAL-2024-10151
 redis-di-processor	0.1.8	MAL-2024-10152	https://osv.dev/vulnerability/MAL-2024-10152
 redteam-qxz7-utils	1.0.0	MAL-2026-5120	https://osv.dev/vulnerability/MAL-2026-5120
+reedworker	0.1.0	MAL-2026-18234	https://osv.dev/vulnerability/MAL-2026-18234
 reencode	*	MAL-2023-5903	https://osv.dev/vulnerability/MAL-2023-5903
 reequests	*	MAL-2022-7434	https://osv.dev/vulnerability/MAL-2022-7434
 reequests-toolbelt	*	MAL-2023-2147	https://osv.dev/vulnerability/MAL-2023-2147
@@ -12582,6 +12595,7 @@ ruequest3	2.19.0	MAL-2024-5960	https://osv.dev/vulnerability/MAL-2024-5960
 ruequest3	2.19.1	MAL-2024-5960	https://osv.dev/vulnerability/MAL-2024-5960
 rullib3	*	MAL-2023-2195	https://osv.dev/vulnerability/MAL-2023-2195
 runningwifi	1	MAL-2025-3467	https://osv.dev/vulnerability/MAL-2025-3467
+runpier	0.1.0	MAL-2026-18235	https://osv.dev/vulnerability/MAL-2026-18235
 runtime-probe	0.3.0	MAL-2026-3341	https://osv.dev/vulnerability/MAL-2026-3341
 runtime-readout	0.3.0	MAL-2026-3342	https://osv.dev/vulnerability/MAL-2026-3342
 runtime-vitals	0.3.0	MAL-2026-3366	https://osv.dev/vulnerability/MAL-2026-3366
@@ -12765,6 +12779,7 @@ security-automation-job	99.99.99	MAL-2024-11703	https://osv.dev/vulnerability/MA
 security-research-startup-snapshot-810764b303	0.1.0	MAL-2026-18098	https://osv.dev/vulnerability/MAL-2026-18098
 security-util-py	0.0.5	MAL-2023-10	https://osv.dev/vulnerability/MAL-2023-10
 security-util-py	0.0.6	MAL-2023-10	https://osv.dev/vulnerability/MAL-2023-10
+sedgehaul	0.1.0	MAL-2026-18236	https://osv.dev/vulnerability/MAL-2026-18236
 seelenium	*	MAL-2023-2230	https://osv.dev/vulnerability/MAL-2023-2230
 seelnium	*	MAL-2023-2231	https://osv.dev/vulnerability/MAL-2023-2231
 seleenium	*	MAL-2023-2232	https://osv.dev/vulnerability/MAL-2023-2232
@@ -13891,6 +13906,7 @@ sklern	0.0.9	MAL-2026-4768	https://osv.dev/vulnerability/MAL-2026-4768
 skydeo	1.0.0	MAL-2026-815	https://osv.dev/vulnerability/MAL-2026-815
 sl-pgp	2.2160.0	MAL-2026-5823	https://osv.dev/vulnerability/MAL-2026-5823
 slana	*	MAL-2023-2270	https://osv.dev/vulnerability/MAL-2023-2270
+slatejob	0.1.0	MAL-2026-18237	https://osv.dev/vulnerability/MAL-2026-18237
 sleenium	*	MAL-2023-2271	https://osv.dev/vulnerability/MAL-2023-2271
 slide-tc	0.0.0.1	MAL-2025-2998	https://osv.dev/vulnerability/MAL-2025-2998
 slintscreen	0.1.0	MAL-2024-6016	https://osv.dev/vulnerability/MAL-2024-6016
@@ -14638,6 +14654,7 @@ tarpackage	1.0.0	MAL-2026-4166	https://osv.dev/vulnerability/MAL-2026-4166
 tarseir	912.6	MAL-2024-10462	https://osv.dev/vulnerability/MAL-2024-10462
 tarsie	912.6	MAL-2024-10463	https://osv.dev/vulnerability/MAL-2024-10463
 tarsire	912.6	MAL-2024-10464	https://osv.dev/vulnerability/MAL-2024-10464
+taskquay	0.1.0	MAL-2026-18238	https://osv.dev/vulnerability/MAL-2026-18238
 tasksaio	0.0.1	MAL-2024-6097	https://osv.dev/vulnerability/MAL-2024-6097
 taxi-etl	11.11.3	MAL-2023-1418	https://osv.dev/vulnerability/MAL-2023-1418
 tcalendar	*	MAL-2023-2291	https://osv.dev/vulnerability/MAL-2023-2291
@@ -14991,6 +15008,8 @@ thisismytestnouser	1.0.0	MAL-2026-2293	https://osv.dev/vulnerability/MAL-2026-22
 thisismytestnouser	2.0.0	MAL-2026-2293	https://osv.dev/vulnerability/MAL-2026-2293
 thisisthedaventest	99.99.99	MAL-2025-41780	https://osv.dev/vulnerability/MAL-2025-41780
 thisisthedaventestz	99.99.99	MAL-2025-41781	https://osv.dev/vulnerability/MAL-2025-41781
+thistlerun	0.1.0	MAL-2026-18239	https://osv.dev/vulnerability/MAL-2026-18239
+thornqueue	0.1.0	MAL-2026-18240	https://osv.dev/vulnerability/MAL-2026-18240
 thoughtspot-rest-api-sdk	0.0.1	MAL-2025-6601	https://osv.dev/vulnerability/MAL-2025-6601
 thread-pipeline-test	1.0.0	MAL-2026-810	https://osv.dev/vulnerability/MAL-2026-810
 threadfluent	0.1	MAL-2025-994	https://osv.dev/vulnerability/MAL-2025-994
@@ -17017,6 +17036,7 @@ workalender	17.1.0.dev0	MAL-2026-18096	https://osv.dev/vulnerability/MAL-2026-18
 workcalender	17.1.0.dev0	MAL-2026-18093	https://osv.dev/vulnerability/MAL-2026-18093
 workingitme	1.0.0	MAL-2026-2308	https://osv.dev/vulnerability/MAL-2026-2308
 workingitmehelpit	1.0.0	MAL-2026-3664	https://osv.dev/vulnerability/MAL-2026-3664
+workslip	0.1.0	MAL-2026-18241	https://osv.dev/vulnerability/MAL-2026-18241
 worldhello	1.0.0	MAL-2025-5174	https://osv.dev/vulnerability/MAL-2025-5174
 worldnex	1.0.2	MAL-2025-47813	https://osv.dev/vulnerability/MAL-2025-47813
 worldnex	1.0.3	MAL-2025-47813	https://osv.dev/vulnerability/MAL-2025-47813
