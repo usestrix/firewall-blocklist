@@ -15935,6 +15935,7 @@
 @tekion/gamma	*	MAL-2022-629	https://osv.dev/vulnerability/MAL-2022-629
 @tekion/kxt	*	MAL-2022-630	https://osv.dev/vulnerability/MAL-2022-630
 @tekion/test	*	MAL-2022-631	https://osv.dev/vulnerability/MAL-2022-631
+@tekmidian/pai	1.0.8	MAL-2026-18205	https://osv.dev/vulnerability/MAL-2026-18205
 @tekmidian/pai	1.0.9	MAL-2026-18205	https://osv.dev/vulnerability/MAL-2026-18205
 @tel-avive/fetlife-assets	*	MAL-2022-632	https://osv.dev/vulnerability/MAL-2022-632
 @telavive/fetlife-assets	*	MAL-2022-633	https://osv.dev/vulnerability/MAL-2022-633
