@@ -191860,6 +191860,7 @@ striped_spider_z3n	*	MAL-2025-90772	https://osv.dev/vulnerability/MAL-2025-90772
 striped_tahr_z3n	*	MAL-2025-58788	https://osv.dev/vulnerability/MAL-2025-58788
 striped_takin_z3n	*	MAL-2025-61389	https://osv.dev/vulnerability/MAL-2025-61389
 stripedev	1.0.0	MAL-2026-10592	https://osv.dev/vulnerability/MAL-2026-10592
+strix-e2e-dummy-pkg	0.0.1	STRIX-MAL-npm-strix-e2e-dummy-pkg-0.0.1	https://github.com/usestrix/malicious-packages/blob/main/advisories/npm/strix-e2e-dummy-pkg/STRIX-MAL-npm-strix-e2e-dummy-pkg-0.0.1.json
 strmaster-pro	*	MAL-2025-47208	https://osv.dev/vulnerability/MAL-2025-47208
 strong-coffee-firefly	*	MAL-2025-70890	https://osv.dev/vulnerability/MAL-2025-70890
 strong-moccasin-canidae	*	MAL-2025-139050	https://osv.dev/vulnerability/MAL-2025-139050
