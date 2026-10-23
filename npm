@@ -171240,6 +171240,7 @@ react-native-atob	*	MAL-2025-4873	https://osv.dev/vulnerability/MAL-2025-4873
 react-native-audio-recorder-android	*	MAL-2025-31808	https://osv.dev/vulnerability/MAL-2025-31808
 react-native-background-geolocation-android	*	MAL-2025-31809	https://osv.dev/vulnerability/MAL-2025-31809
 react-native-blue-crypto	*	MAL-2024-10277	https://osv.dev/vulnerability/MAL-2024-10277
+react-native-bright-sdk	9000.0.0	MAL-0000-react-native-bright-sdk	https://github.com/ossf/malicious-packages/pull/1658
 react-native-camera-kit-example	*	MAL-2022-5656	https://osv.dev/vulnerability/MAL-2022-5656
 react-native-chorus-player	*	MAL-2025-31810	https://osv.dev/vulnerability/MAL-2025-31810
 react-native-cmoponents	*	MAL-2025-31811	https://osv.dev/vulnerability/MAL-2025-31811
