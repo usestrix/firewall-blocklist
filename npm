@@ -8082,6 +8082,7 @@
 @lg-private/mongo-nav	*	MAL-2023-1509	https://osv.dev/vulnerability/MAL-2023-1509
 @li-test/foo	1.0.0	MAL-2024-2387	https://osv.dev/vulnerability/MAL-2024-2387
 @liauto/darwin-x64	0.1.1-b3	MAL-2026-18190	https://osv.dev/vulnerability/MAL-2026-18190
+@liauto/win32-x64	0.1.2-b2	MAL-2026-18247	https://osv.dev/vulnerability/MAL-2026-18247
 @library-dev-team/data-sanitizer	1.3.0	MAL-2026-14160	https://osv.dev/vulnerability/MAL-2026-14160
 @library-wide/library-shell	*	MAL-2026-17754	https://osv.dev/vulnerability/MAL-2026-17754
 @libtommy/shiny-octo-giggle	*	MAL-2025-8425	https://osv.dev/vulnerability/MAL-2025-8425
