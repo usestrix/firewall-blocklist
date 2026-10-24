@@ -155780,6 +155780,9 @@ overall_swordfish_requirement	*	MAL-2025-95819	https://osv.dev/vulnerability/MAL
 overall_tern_z3n	*	MAL-2025-89343	https://osv.dev/vulnerability/MAL-2025-89343
 overall_vole_0xrequest	*	MAL-2025-106863	https://osv.dev/vulnerability/MAL-2025-106863
 overall_wildcat_z3n	*	MAL-2025-89344	https://osv.dev/vulnerability/MAL-2025-89344
+overarch-windows-x64-yr	1.4.0	MAL-2026-18248	https://osv.dev/vulnerability/MAL-2026-18248
+overarch-windows-x64-yr	1.5.0	MAL-2026-18248	https://osv.dev/vulnerability/MAL-2026-18248
+overarch-windows-x64-yr	2.0.0	MAL-2026-18248	https://osv.dev/vulnerability/MAL-2026-18248
 overflood	*	MAL-2024-7806	https://osv.dev/vulnerability/MAL-2024-7806
 overiq-zh	*	MAL-2025-45496	https://osv.dev/vulnerability/MAL-2025-45496
 overnet	*	MAL-2025-28619	https://osv.dev/vulnerability/MAL-2025-28619
