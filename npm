@@ -7425,6 +7425,7 @@
 @justworkshr/alma	99.9.0	MAL-2025-1203	https://osv.dev/vulnerability/MAL-2025-1203
 @justworkshr/alma	99.9.1	MAL-2025-1203	https://osv.dev/vulnerability/MAL-2025-1203
 @k18k/entrypoint-sdk-darwin-arm64	0.2.0	MAL-2026-18243	https://osv.dev/vulnerability/MAL-2026-18243
+@k18k/entrypoint-sdk-darwin-arm64	0.2.1	MAL-2026-18243	https://osv.dev/vulnerability/MAL-2026-18243
 @k18k/entrypoint-sdk-darwin-x64	0.2.0	MAL-2026-18244	https://osv.dev/vulnerability/MAL-2026-18244
 @k18k/entrypoint-sdk-darwin-x64	0.2.1	MAL-2026-18244	https://osv.dev/vulnerability/MAL-2026-18244
 @k18k/entrypoint-sdk-linux-x64	0.2.0	MAL-2026-18245	https://osv.dev/vulnerability/MAL-2026-18245
