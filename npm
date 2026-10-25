@@ -2847,6 +2847,7 @@
 @capdesk/camo	99.0.4	MAL-2024-1859	https://osv.dev/vulnerability/MAL-2024-1859
 @capibar.chat/ui-kit	*	MAL-2026-5031	https://osv.dev/vulnerability/MAL-2026-5031
 @capsense/ccx-welcome-page	99.99.100	MAL-2026-18294	https://osv.dev/vulnerability/MAL-2026-18294
+@capsense/core-ui	99.99.100	MAL-2026-18295	https://osv.dev/vulnerability/MAL-2026-18295
 @captivateiq/events	1.0.0	MAL-2024-10310	https://osv.dev/vulnerability/MAL-2024-10310
 @captivateiq/events	19.3.9	MAL-2024-10310	https://osv.dev/vulnerability/MAL-2024-10310
 @captivateiq/events	20.3.9	MAL-2024-10310	https://osv.dev/vulnerability/MAL-2024-10310
