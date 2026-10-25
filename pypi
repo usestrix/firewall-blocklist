@@ -17255,6 +17255,10 @@ yyfinance	*	MAL-2023-2473	https://osv.dev/vulnerability/MAL-2023-2473
 yzip	0.1.0	MAL-2025-192468	https://osv.dev/vulnerability/MAL-2025-192468
 zabitog	9.0.1	MAL-2026-654	https://osv.dev/vulnerability/MAL-2026-654
 zafira	0.1	MAL-2024-6252	https://osv.dev/vulnerability/MAL-2024-6252
+zagents-message-bus	1.0.10	MAL-2026-18296	https://osv.dev/vulnerability/MAL-2026-18296
+zagents-message-bus	1.0.5	MAL-2026-18296	https://osv.dev/vulnerability/MAL-2026-18296
+zagents-message-bus	99.99.100	MAL-2026-18296	https://osv.dev/vulnerability/MAL-2026-18296
+zagents-message-bus	99.99.99	MAL-2026-18296	https://osv.dev/vulnerability/MAL-2026-18296
 zakuchienne	0.0.1	MAL-2025-191940	https://osv.dev/vulnerability/MAL-2025-191940
 zakuraweb	0.0.1	MAL-2025-191941	https://osv.dev/vulnerability/MAL-2025-191941
 zamino	1.0.0	MAL-2025-191942	https://osv.dev/vulnerability/MAL-2025-191942
