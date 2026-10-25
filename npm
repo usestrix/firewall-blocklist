@@ -145777,6 +145777,7 @@ nodus-quickstart	*	MAL-2025-27700	https://osv.dev/vulnerability/MAL-2025-27700
 nodyn	*	MAL-2025-5511	https://osv.dev/vulnerability/MAL-2025-5511
 nodyne	*	MAL-2025-4649	https://osv.dev/vulnerability/MAL-2025-4649
 noe77e	*	MAL-2026-18033	https://osv.dev/vulnerability/MAL-2026-18033
+noelc-css-blender	*	MAL-2026-18249	https://osv.dev/vulnerability/MAL-2026-18249
 nofyxtwcmpqrikae	*	MAL-2022-4911	https://osv.dev/vulnerability/MAL-2022-4911
 nogaptile	*	MAL-2025-27701	https://osv.dev/vulnerability/MAL-2025-27701
 nohack-erlinglingba-extra-part1	*	MAL-2025-45339	https://osv.dev/vulnerability/MAL-2025-45339
@@ -195056,6 +195057,7 @@ tailwind-anime	*	MAL-2026-12027	https://osv.dev/vulnerability/MAL-2026-12027
 tailwind-aspect	0.4.2	MAL-2026-15912	https://osv.dev/vulnerability/MAL-2026-15912
 tailwind-aspect-styles	0.4.2	MAL-2026-16056	https://osv.dev/vulnerability/MAL-2026-16056
 tailwind-autoanimation	*	MAL-2026-148	https://osv.dev/vulnerability/MAL-2026-148
+tailwind-base-buttons	*	MAL-2026-18250	https://osv.dev/vulnerability/MAL-2026-18250
 tailwind-base-theme	*	MAL-2025-5959	https://osv.dev/vulnerability/MAL-2025-5959
 tailwind-book-icon	*	MAL-2025-47498	https://osv.dev/vulnerability/MAL-2025-47498
 tailwind-chart	*	MAL-2025-48778	https://osv.dev/vulnerability/MAL-2025-48778
@@ -195290,6 +195292,7 @@ tailwindcss-svg-helper	1.17.9	MAL-2026-6892	https://osv.dev/vulnerability/MAL-20
 tailwindcss-svg-helper	1.18.0	MAL-2026-6892	https://osv.dev/vulnerability/MAL-2026-6892
 tailwindcss-tailwindcss-dotenv-safe-less-loader	*	MAL-2025-46192	https://osv.dev/vulnerability/MAL-2025-46192
 tailwindcss-theme-custom	*	MAL-2026-4225	https://osv.dev/vulnerability/MAL-2026-4225
+tailwindcss-theme-kit	*	MAL-2026-18251	https://osv.dev/vulnerability/MAL-2026-18251
 tailwindcss-themers	*	MAL-2026-4226	https://osv.dev/vulnerability/MAL-2026-4226
 tailwindcss-twflare	*	MAL-2025-49386	https://osv.dev/vulnerability/MAL-2025-49386
 tailwindcss-typeface-inter	*	MAL-2026-2312	https://osv.dev/vulnerability/MAL-2026-2312
