@@ -5335,6 +5335,7 @@
 @edgecommons/edgecommons	*	MAL-2026-10762	https://osv.dev/vulnerability/MAL-2026-10762
 @edgecommons/streamlog-node	*	MAL-2026-10763	https://osv.dev/vulnerability/MAL-2026-10763
 @edwardjones/fetlife-assets	*	MAL-2022-226	https://osv.dev/vulnerability/MAL-2022-226
+@eforms/forms-api	2.0.0-SNAPSHOT	MAL-2026-18252	https://osv.dev/vulnerability/MAL-2026-18252
 @eg-maps/commons	*	MAL-2022-227	https://osv.dev/vulnerability/MAL-2022-227
 @egds-tools/types	*	MAL-2024-7914	https://osv.dev/vulnerability/MAL-2024-7914
 @egds/lodging	1.0.1	MAL-2024-2636	https://osv.dev/vulnerability/MAL-2024-2636
