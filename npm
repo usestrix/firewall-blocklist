@@ -32411,6 +32411,8 @@ appeler	*	MAL-2025-14672	https://osv.dev/vulnerability/MAL-2025-14672
 appetize-cli	*	MAL-2024-11235	https://osv.dev/vulnerability/MAL-2024-11235
 appf-react-router-dom	*	MAL-2025-5667	https://osv.dev/vulnerability/MAL-2025-5667
 appinsightsnew	>=1.0.0	MAL-2025-41370	https://osv.dev/vulnerability/MAL-2025-41370
+appit-cordova-admob	*	MAL-2026-18253	https://osv.dev/vulnerability/MAL-2026-18253
+appit-cordova-plugin-ionic	*	MAL-2026-18254	https://osv.dev/vulnerability/MAL-2026-18254
 appium-rn-id	*	MAL-2025-4300	https://osv.dev/vulnerability/MAL-2025-4300
 appkeys	*	MAL-2025-14673	https://osv.dev/vulnerability/MAL-2025-14673
 appkit-react-utils	*	MAL-2026-5057	https://osv.dev/vulnerability/MAL-2026-5057
@@ -48461,6 +48463,7 @@ ceres-taurus-quasar-mui	*	MAL-2025-140578	https://osv.dev/vulnerability/MAL-2025
 ceres-telesto-bootstrap-optimize-css-assets-webpack-plugin	*	MAL-2025-140579	https://osv.dev/vulnerability/MAL-2025-140579
 ceres-vega-update-jovian	*	MAL-2025-140580	https://osv.dev/vulnerability/MAL-2025-140580
 ceres-yonder-global-adonis	*	MAL-2025-140581	https://osv.dev/vulnerability/MAL-2025-140581
+cert-infos	*	MAL-2026-18255	https://osv.dev/vulnerability/MAL-2026-18255
 certain-apricot-chipmunk	*	MAL-2025-93491	https://osv.dev/vulnerability/MAL-2025-93491
 certain-common-library	*	MAL-2024-10894	https://osv.dev/vulnerability/MAL-2024-10894
 certain-plum-gamefowl	*	MAL-2025-67137	https://osv.dev/vulnerability/MAL-2025-67137
@@ -56998,6 +57001,7 @@ cordova-plugin-canvas	*	MAL-2024-71	https://osv.dev/vulnerability/MAL-2024-71
 cordova-plugin-devextremeaddon	*	MAL-2025-17564	https://osv.dev/vulnerability/MAL-2025-17564
 cordova-plugin-devextremeaddon1	*	MAL-2025-17565	https://osv.dev/vulnerability/MAL-2025-17565
 cordova-plugin-firebase-lovespace	*	MAL-2025-17566	https://osv.dev/vulnerability/MAL-2025-17566
+cordova-plugin-geofence-appit	*	MAL-2026-18256	https://osv.dev/vulnerability/MAL-2026-18256
 cordova-plugin-globalization.moment	*	MAL-2025-49253	https://osv.dev/vulnerability/MAL-2025-49253
 cordova-plugin-ios-no-export-compliance	*	MAL-2025-17567	https://osv.dev/vulnerability/MAL-2025-17567
 cordova-plugin-onyxbeacon	*	MAL-2025-17568	https://osv.dev/vulnerability/MAL-2025-17568
@@ -105021,6 +105025,8 @@ inspector-server	*	MAL-2025-92	https://osv.dev/vulnerability/MAL-2025-92
 inspector-spacetime	*	MAL-2022-3851	https://osv.dev/vulnerability/MAL-2022-3851
 inspectstack	*	MAL-2026-14560	https://osv.dev/vulnerability/MAL-2026-14560
 inspired	*	MAL-2025-23243	https://osv.dev/vulnerability/MAL-2025-23243
+insta-api-wrapper	*	MAL-2026-18257	https://osv.dev/vulnerability/MAL-2026-18257
+insta-reel-search	*	MAL-2026-18258	https://osv.dev/vulnerability/MAL-2026-18258
 instacarro-sellers-appointments-api	*	MAL-2025-23244	https://osv.dev/vulnerability/MAL-2025-23244
 instacart-admin	999.9.9	MAL-2025-1851	https://osv.dev/vulnerability/MAL-2025-1851
 instacart-analytics	999.9.9	MAL-2025-1852	https://osv.dev/vulnerability/MAL-2025-1852
@@ -106379,8 +106385,12 @@ ion-lsp-server	*	MAL-2025-23310	https://osv.dev/vulnerability/MAL-2025-23310
 ion-package	*	MAL-2022-3928	https://osv.dev/vulnerability/MAL-2022-3928
 ion-schema-sandbox	*	MAL-2022-3929	https://osv.dev/vulnerability/MAL-2022-3929
 ionic-icon	*	MAL-2022-3930	https://osv.dev/vulnerability/MAL-2022-3930
-ionic-insta-api-wrapper	1.1.2	MAL-2026-4588	https://osv.dev/vulnerability/MAL-2026-4588
-ionic-insta-api-wrapper	1.1.3	MAL-2026-4588	https://osv.dev/vulnerability/MAL-2026-4588
+ionic-insta-api-wrapper	*	MAL-2026-4588	https://osv.dev/vulnerability/MAL-2026-4588
+ionic-insta-search	*	MAL-2026-18259	https://osv.dev/vulnerability/MAL-2026-18259
+ionic-sound-cloud-loader-api	*	MAL-2026-18260	https://osv.dev/vulnerability/MAL-2026-18260
+ionic-tiktok-scraper	*	MAL-2026-18261	https://osv.dev/vulnerability/MAL-2026-18261
+ionic-youtube-search	*	MAL-2026-18262	https://osv.dev/vulnerability/MAL-2026-18262
+ionic-youtube-streams	*	MAL-2026-18263	https://osv.dev/vulnerability/MAL-2026-18263
 ionicaiosampleapp	*	MAL-2025-2442	https://osv.dev/vulnerability/MAL-2025-2442
 ioniccrd	*	MAL-2025-23311	https://osv.dev/vulnerability/MAL-2025-23311
 ionicfb	*	MAL-2025-23312	https://osv.dev/vulnerability/MAL-2025-23312
@@ -151536,6 +151546,7 @@ ociney	*	MAL-2025-28123	https://osv.dev/vulnerability/MAL-2025-28123
 oclif-dev	*	MAL-2025-42049	https://osv.dev/vulnerability/MAL-2025-42049
 oclif-typescript	*	MAL-2025-42050	https://osv.dev/vulnerability/MAL-2025-42050
 ocp-package	*	MAL-2025-47931	https://osv.dev/vulnerability/MAL-2025-47931
+ocsp-hashes	*	MAL-2026-18264	https://osv.dev/vulnerability/MAL-2026-18264
 ocsportal	*	MAL-2025-28124	https://osv.dev/vulnerability/MAL-2025-28124
 octans-antares-ursa-inquirer	*	MAL-2025-145760	https://osv.dev/vulnerability/MAL-2025-145760
 octans-apollo-google-parcel	*	MAL-2025-145761	https://osv.dev/vulnerability/MAL-2025-145761
@@ -155958,6 +155969,7 @@ p-http	*	MAL-2024-10707	https://osv.dev/vulnerability/MAL-2024-10707
 p-oauth2	*	MAL-2024-10708	https://osv.dev/vulnerability/MAL-2024-10708
 p-traffic	*	MAL-2025-28635	https://osv.dev/vulnerability/MAL-2025-28635
 p0wn	*	MAL-2025-28636	https://osv.dev/vulnerability/MAL-2025-28636
+p12-pem	*	MAL-2026-18265	https://osv.dev/vulnerability/MAL-2026-18265
 p12_front-end-with-react	*	MAL-2025-28637	https://osv.dev/vulnerability/MAL-2025-28637
 p224	*	MAL-2022-5171	https://osv.dev/vulnerability/MAL-2022-5171
 p2p-amount-field	*	MAL-2022-5172	https://osv.dev/vulnerability/MAL-2022-5172
@@ -172226,6 +172238,7 @@ redis-corvus-transform-dependencies	*	MAL-2025-189108	https://osv.dev/vulnerabil
 redis-cosmogenic-foundation-xanthus	*	MAL-2025-31933	https://osv.dev/vulnerability/MAL-2025-31933
 redis-darkenergy-brane-polaris	*	MAL-2025-31934	https://osv.dev/vulnerability/MAL-2025-31934
 redis-despina-process-aquarius	*	MAL-2025-147097	https://osv.dev/vulnerability/MAL-2025-147097
+redis-dumper	*	MAL-2026-18266	https://osv.dev/vulnerability/MAL-2026-18266
 redis-eleventy-eslint-plugin-typeorm	*	MAL-2025-147098	https://osv.dev/vulnerability/MAL-2025-147098
 redis-epimetheus-jabbah-apex	*	MAL-2025-189109	https://osv.dev/vulnerability/MAL-2025-189109
 redis-europa-nodejs-rate-limiter	*	MAL-2025-147099	https://osv.dev/vulnerability/MAL-2025-147099
@@ -189219,6 +189232,7 @@ soudl	*	MAL-2022-6218	https://osv.dev/vulnerability/MAL-2022-6218
 soufianewldnass	1.0.1	MAL-2025-4951	https://osv.dev/vulnerability/MAL-2025-4951
 sound-apricot-mammal	*	MAL-2025-70727	https://osv.dev/vulnerability/MAL-2025-70727
 sound-black-damselfly	*	MAL-2025-70728	https://osv.dev/vulnerability/MAL-2025-70728
+sound-cloud-loader-api	*	MAL-2026-18267	https://osv.dev/vulnerability/MAL-2026-18267
 sound-crimson-aardvark	*	MAL-2025-70729	https://osv.dev/vulnerability/MAL-2025-70729
 sound-maroon-scallop	*	MAL-2025-70730	https://osv.dev/vulnerability/MAL-2025-70730
 sound-tomato-hare	*	MAL-2025-70731	https://osv.dev/vulnerability/MAL-2025-70731
@@ -205306,6 +205320,7 @@ tiktok-internal	>=16.0.0	MAL-2025-6860	https://osv.dev/vulnerability/MAL-2025-68
 tiktok-likes-fans	*	MAL-2022-6570	https://osv.dev/vulnerability/MAL-2022-6570
 tiktok-prod	>=1337.0.0	MAL-2025-6964	https://osv.dev/vulnerability/MAL-2025-6964
 tiktok-ui	*	MAL-2024-12045	https://osv.dev/vulnerability/MAL-2024-12045
+tiktok-video-scraper	*	MAL-2026-18268	https://osv.dev/vulnerability/MAL-2026-18268
 tiktok_4d_webapp	*	MAL-2025-3122	https://osv.dev/vulnerability/MAL-2025-3122
 tiktok_embed	*	MAL-2022-6571	https://osv.dev/vulnerability/MAL-2022-6571
 tiktok_embed_v2	*	MAL-2024-12046	https://osv.dev/vulnerability/MAL-2024-12046
@@ -231367,6 +231382,8 @@ youtrack-issues-list-widget	*	MAL-2022-7364	https://osv.dev/vulnerability/MAL-20
 youtrack-personal-timetracking	*	MAL-2022-7365	https://osv.dev/vulnerability/MAL-2022-7365
 youtrack-personal-timetracking-widget	*	MAL-2022-7366	https://osv.dev/vulnerability/MAL-2022-7366
 youtrack-reports-widgets	*	MAL-2022-7367	https://osv.dev/vulnerability/MAL-2022-7367
+youtube-info-streams	*	MAL-2026-18269	https://osv.dev/vulnerability/MAL-2026-18269
+youtube-search-without-api-key	*	MAL-2026-18270	https://osv.dev/vulnerability/MAL-2026-18270
 youvider	*	MAL-2025-40621	https://osv.dev/vulnerability/MAL-2025-40621
 ypfgtuajqirmzndb	*	MAL-2025-40622	https://osv.dev/vulnerability/MAL-2025-40622
 yplijosmvagwfcku	*	MAL-2022-7368	https://osv.dev/vulnerability/MAL-2022-7368
