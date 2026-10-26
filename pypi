@@ -2940,7 +2940,6 @@ dicord-webhook	*	MAL-2023-1763	https://osv.dev/vulnerability/MAL-2023-1763
 dicsord-py	*	MAL-2023-1764	https://osv.dev/vulnerability/MAL-2023-1764
 dicsord-webhook	*	MAL-2023-1765	https://osv.dev/vulnerability/MAL-2023-1765
 dictanovaasr	0.1.0	MAL-2026-18139	https://osv.dev/vulnerability/MAL-2026-18139
-dictmerge-lite	1.0.0	MAL-0000-dictmerge-lite	https://github.com/ossf/malicious-packages/pull/1661
 dictmerge-lite	1.0.0	MAL-2026-18301	https://osv.dev/vulnerability/MAL-2026-18301
 dicuser	0.0.1	MAL-2024-5049	https://osv.dev/vulnerability/MAL-2024-5049
 dicuser	0.0.2	MAL-2024-5049	https://osv.dev/vulnerability/MAL-2024-5049
