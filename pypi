@@ -1778,6 +1778,8 @@ chalk-fancy	1.0.8	MAL-2026-3212	https://osv.dev/vulnerability/MAL-2026-3212
 chalk-fancy	1.0.9	MAL-2026-3212	https://osv.dev/vulnerability/MAL-2026-3212
 chalk-harness	0.0.1	MAL-2025-6476	https://osv.dev/vulnerability/MAL-2025-6476
 change-user-agent	5.31.6	MAL-2025-41638	https://osv.dev/vulnerability/MAL-2025-41638
+changes-lxc-wrapper	0.0.0	MAL-2026-18326	https://osv.dev/vulnerability/MAL-2026-18326
+changes-lxc-wrapper	0.1.0	MAL-2026-18326	https://osv.dev/vulnerability/MAL-2026-18326
 chaostoolkit-turbulence	0.2.1	MAL-2026-2239	https://osv.dev/vulnerability/MAL-2026-2239
 chartkit-core	1.0	MAL-2026-15932	https://osv.dev/vulnerability/MAL-2026-15932
 chat-prompt-logger	1.0.10	MAL-2025-191699	https://osv.dev/vulnerability/MAL-2025-191699
@@ -17262,6 +17264,8 @@ yyfinance	*	MAL-2023-2473	https://osv.dev/vulnerability/MAL-2023-2473
 yzip	0.1.0	MAL-2025-192468	https://osv.dev/vulnerability/MAL-2025-192468
 zabitog	9.0.1	MAL-2026-654	https://osv.dev/vulnerability/MAL-2026-654
 zafira	0.1	MAL-2024-6252	https://osv.dev/vulnerability/MAL-2024-6252
+zagents-framework	6.25.30.10b5	MAL-2026-18327	https://osv.dev/vulnerability/MAL-2026-18327
+zagents-framework	99.25.30.10b5	MAL-2026-18327	https://osv.dev/vulnerability/MAL-2026-18327
 zagents-message-bus	1.0.10	MAL-2026-18296	https://osv.dev/vulnerability/MAL-2026-18296
 zagents-message-bus	1.0.5	MAL-2026-18296	https://osv.dev/vulnerability/MAL-2026-18296
 zagents-message-bus	99.99.100	MAL-2026-18296	https://osv.dev/vulnerability/MAL-2026-18296
