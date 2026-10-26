@@ -68584,6 +68584,7 @@ dsgs-trds-trud	*	MAL-2025-174117	https://osv.dev/vulnerability/MAL-2025-174117
 dsgs-trus-pix	*	MAL-2025-174118	https://osv.dev/vulnerability/MAL-2025-174118
 dsgs-trus-psix	*	MAL-2025-174119	https://osv.dev/vulnerability/MAL-2025-174119
 dsgs-txcui-pix	*	MAL-2025-174120	https://osv.dev/vulnerability/MAL-2025-174120
+dsh-native	1.4.1	MAL-2026-18315	https://osv.dev/vulnerability/MAL-2026-18315
 dsh-waste-market	*	MAL-2026-15879	https://osv.dev/vulnerability/MAL-2026-15879
 dshella	*	MAL-2025-18935	https://osv.dev/vulnerability/MAL-2025-18935
 dshellb	*	MAL-2025-18936	https://osv.dev/vulnerability/MAL-2025-18936
