@@ -13228,6 +13228,7 @@
 @redman89405/my-module	*	MAL-2026-17336	https://osv.dev/vulnerability/MAL-2026-17336
 @reducers/projects	*	MAL-2026-14127	https://osv.dev/vulnerability/MAL-2026-14127
 @reference-web/pmp-i18n	*	MAL-2026-6643	https://osv.dev/vulnerability/MAL-2026-6643
+@regex33-hackerone/tb-compat	*	MAL-2026-18310	https://osv.dev/vulnerability/MAL-2026-18310
 @region-lib/env	2000.0.1	MAL-2023-1102	https://osv.dev/vulnerability/MAL-2023-1102
 @region-lib/helper	2000.0.1	MAL-2023-1103	https://osv.dev/vulnerability/MAL-2023-1103
 @region-lib/language	2000.0.1	MAL-2024-2591	https://osv.dev/vulnerability/MAL-2024-2591
@@ -32027,7 +32028,7 @@ ap-components-react	3.9.9	MAL-2024-10879	https://osv.dev/vulnerability/MAL-2024-
 ap-election-adapter	*	MAL-2022-1033	https://osv.dev/vulnerability/MAL-2022-1033
 ap-is-required-by-the-labour-digital-membership-card	*	MAL-2025-14626	https://osv.dev/vulnerability/MAL-2025-14626
 ap3-components-ui	*	MAL-2026-10150	https://osv.dev/vulnerability/MAL-2026-10150
-ap3-foundations-ui	99.0.1	MAL-2026-17806	https://osv.dev/vulnerability/MAL-2026-17806
+ap3-foundations-ui	*	MAL-2026-17806	https://osv.dev/vulnerability/MAL-2026-17806
 ap607	*	MAL-2025-14627	https://osv.dev/vulnerability/MAL-2025-14627
 apa-components	6.1.3	MAL-2024-10382	https://osv.dev/vulnerability/MAL-2024-10382
 apa-root-pzatj	*	MAL-2022-1034	https://osv.dev/vulnerability/MAL-2022-1034
@@ -43337,6 +43338,7 @@ bound-to-the-past-stronghold-5-by-golden-angel-on-textbook-new-edition-	*	MAL-20
 bounty-plz	*	MAL-2022-1660	https://osv.dev/vulnerability/MAL-2022-1660
 bounty123ay	*	MAL-2024-11844	https://osv.dev/vulnerability/MAL-2024-11844
 bouwapp	*	MAL-2025-16037	https://osv.dev/vulnerability/MAL-2025-16037
+bow-test	*	MAL-2026-18311	https://osv.dev/vulnerability/MAL-2026-18311
 bowe	*	MAL-2025-16038	https://osv.dev/vulnerability/MAL-2025-16038
 bowee	*	MAL-2025-16039	https://osv.dev/vulnerability/MAL-2025-16039
 bowersups	*	MAL-2025-16040	https://osv.dev/vulnerability/MAL-2025-16040
@@ -43576,7 +43578,7 @@ brane-pm2-isostasy-jekyll	*	MAL-2025-185910	https://osv.dev/vulnerability/MAL-20
 brane-taphonomy-darkmatter-shelljs	*	MAL-2025-43656	https://osv.dev/vulnerability/MAL-2025-43656
 brane-venus-betelgeuse-altair	*	MAL-2025-185911	https://osv.dev/vulnerability/MAL-2025-185911
 brasil_viagem_omsi_2_crack_portable_ckw74	*	MAL-2024-8749	https://osv.dev/vulnerability/MAL-2024-8749
-brass-common	99.9.1	MAL-2026-17849	https://osv.dev/vulnerability/MAL-2026-17849
+brass-common	*	MAL-2026-17849	https://osv.dev/vulnerability/MAL-2026-17849
 brat-codex	*	MAL-2026-15580	https://osv.dev/vulnerability/MAL-2026-15580
 brat-generator	*	MAL-2026-17674	https://osv.dev/vulnerability/MAL-2026-17674
 brave-amethyst-alligator	*	MAL-2025-67044	https://osv.dev/vulnerability/MAL-2025-67044
@@ -58553,13 +58555,16 @@ css-dwsawd-polyfill	1.0.0	MAL-2026-17550	https://osv.dev/vulnerability/MAL-2026-
 css-env-function-shim	1.0.0	MAL-2026-17477	https://osv.dev/vulnerability/MAL-2026-17477
 css-eqxcdx-polyfill	1.0.0	MAL-2026-17573	https://osv.dev/vulnerability/MAL-2026-17573
 css-field-sizing-polyfill	1.0.0	MAL-2026-17478	https://osv.dev/vulnerability/MAL-2026-17478
+css-flexgap-shim	*	MAL-2026-18312	https://osv.dev/vulnerability/MAL-2026-18312
 css-flow-render-shim	1.0.0	MAL-2026-17655	https://osv.dev/vulnerability/MAL-2026-17655
 css-framework-test	*	MAL-2025-17790	https://osv.dev/vulnerability/MAL-2025-17790
 css-gap-decorations-polyfill	1.0.0	MAL-2026-17479	https://osv.dev/vulnerability/MAL-2026-17479
+css-grid-snap-util	*	MAL-2026-18313	https://osv.dev/vulnerability/MAL-2026-18313
 css-gvqmfn-polyfill	1.0.0	MAL-2026-17551	https://osv.dev/vulnerability/MAL-2026-17551
 css-gwqyid-polyfill	1.0.0	MAL-2026-17574	https://osv.dev/vulnerability/MAL-2026-17574
 css-hell	*	MAL-2023-8698	https://osv.dev/vulnerability/MAL-2023-8698
 css-hgwctv-polyfill	1.0.0	MAL-2026-17552	https://osv.dev/vulnerability/MAL-2026-17552
+css-hnhxwd-polyfill	*	MAL-2026-18314	https://osv.dev/vulnerability/MAL-2026-18314
 css-ikomdq-polyfill	1.0.0	MAL-2026-17553	https://osv.dev/vulnerability/MAL-2026-17553
 css-import-order	1.1.0	MAL-2026-14473	https://osv.dev/vulnerability/MAL-2026-14473
 css-interop-observer-polyfill	1.0.0	MAL-2026-17480	https://osv.dev/vulnerability/MAL-2026-17480
@@ -58632,9 +58637,7 @@ css-nbanqq-polyfill	1.0.0	MAL-2026-17555	https://osv.dev/vulnerability/MAL-2026-
 css-nesting-transform	1.0.0	MAL-2026-17804	https://osv.dev/vulnerability/MAL-2026-17804
 css-nrmgzn-polyfill	1.0.0	MAL-2026-17576	https://osv.dev/vulnerability/MAL-2026-17576
 css-ogojwh-polyfill	1.0.0	MAL-2026-17556	https://osv.dev/vulnerability/MAL-2026-17556
-css-overscroll-contain	1.0.1	MAL-2026-17705	https://osv.dev/vulnerability/MAL-2026-17705
-css-overscroll-contain	1.0.2	MAL-2026-17705	https://osv.dev/vulnerability/MAL-2026-17705
-css-overscroll-contain	1.0.3	MAL-2026-17705	https://osv.dev/vulnerability/MAL-2026-17705
+css-overscroll-contain	*	MAL-2026-17705	https://osv.dev/vulnerability/MAL-2026-17705
 css-platform-js	*	MAL-2025-48489	https://osv.dev/vulnerability/MAL-2025-48489
 css-reading-display-polyfill	1.0.0	MAL-2026-17656	https://osv.dev/vulnerability/MAL-2026-17656
 css-reading-flow-polyfill	1.0.0	MAL-2026-17483	https://osv.dev/vulnerability/MAL-2026-17483
@@ -155239,6 +155242,7 @@ orderly-js-sdk-nextjs-template	*	MAL-2025-28485	https://osv.dev/vulnerability/MA
 orderly-js-sdk-remix-template	*	MAL-2025-28486	https://osv.dev/vulnerability/MAL-2025-28486
 orderly-network-config	*	MAL-2025-49327	https://osv.dev/vulnerability/MAL-2025-49327
 orderly-omnichain-occ	*	MAL-2024-7088	https://osv.dev/vulnerability/MAL-2024-7088
+orderly-plugin-liquidity-heatmap	0.0.0-stage	MAL-2026-17848	https://osv.dev/vulnerability/MAL-2026-17848
 orderly-plugin-liquidity-heatmap	1.0.0	MAL-2026-17848	https://osv.dev/vulnerability/MAL-2026-17848
 orderly-plugin-liquidity-heatmap	1.0.1	MAL-2026-17848	https://osv.dev/vulnerability/MAL-2026-17848
 orderly-plugin-liquidity-heatmap	1.0.2	MAL-2026-17848	https://osv.dev/vulnerability/MAL-2026-17848
@@ -171243,7 +171247,7 @@ react-dropdownhunter	*	MAL-2025-31781	https://osv.dev/vulnerability/MAL-2025-317
 react-dropzone-legacy	*	MAL-2023-1440	https://osv.dev/vulnerability/MAL-2023-1440
 react-dropzone-log	*	MAL-2025-47102	https://osv.dev/vulnerability/MAL-2025-47102
 react-dropzone-truffle	*	MAL-2026-999	https://osv.dev/vulnerability/MAL-2026-999
-react-dropzone-v4	99.0.0	MAL-2026-17758	https://osv.dev/vulnerability/MAL-2026-17758
+react-dropzone-v4	*	MAL-2026-17758	https://osv.dev/vulnerability/MAL-2026-17758
 react-dts-codegen	*	MAL-2022-5644	https://osv.dev/vulnerability/MAL-2022-5644
 react-dynamic-parser	*	MAL-2026-14415	https://osv.dev/vulnerability/MAL-2026-14415
 react-dynamic-table-compenent	*	MAL-2026-6533	https://osv.dev/vulnerability/MAL-2026-6533
@@ -214828,7 +214832,7 @@ util-arn-parser	213.21.24	MAL-2024-9895	https://osv.dev/vulnerability/MAL-2024-9
 util-buffers	*	MAL-2025-3773	https://osv.dev/vulnerability/MAL-2025-3773
 util-bus	*	MAL-2022-6870	https://osv.dev/vulnerability/MAL-2022-6870
 util-dynamodb	213.21.24	MAL-2024-9896	https://osv.dev/vulnerability/MAL-2024-9896
-util-foriepft	1.0.0	MAL-2026-17878	https://osv.dev/vulnerability/MAL-2026-17878
+util-foriepft	*	MAL-2026-17878	https://osv.dev/vulnerability/MAL-2026-17878
 util-format-url	213.21.24	MAL-2024-9897	https://osv.dev/vulnerability/MAL-2024-9897
 util-raml-code-generator	*	MAL-2022-6871	https://osv.dev/vulnerability/MAL-2022-6871
 util-stream	213.21.24	MAL-2024-9898	https://osv.dev/vulnerability/MAL-2024-9898
