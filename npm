@@ -58666,6 +58666,7 @@ ctct-theme	*	MAL-2022-2271	https://osv.dev/vulnerability/MAL-2022-2271
 ctech-nizblah-component	*	MAL-2025-17810	https://osv.dev/vulnerability/MAL-2025-17810
 ctech-orders-component	*	MAL-2025-17811	https://osv.dev/vulnerability/MAL-2025-17811
 ctech-shared	*	MAL-2025-17812	https://osv.dev/vulnerability/MAL-2025-17812
+ctf-agent	0.1.0	MAL-2026-18335	https://osv.dev/vulnerability/MAL-2026-18335
 ctf-flare	1.0.0	MAL-2026-3836	https://osv.dev/vulnerability/MAL-2026-3836
 ctf-package-onetimeuseforctf	99.99.99	MAL-2026-2347	https://osv.dev/vulnerability/MAL-2026-2347
 ctf-package-onetimeuseforctf	99.99.999	MAL-2026-2347	https://osv.dev/vulnerability/MAL-2026-2347
