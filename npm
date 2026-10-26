@@ -17783,6 +17783,7 @@
 @woody-mrs-potato/utils-banking	1.0.8	MAL-2024-10227	https://osv.dev/vulnerability/MAL-2024-10227
 @woody-mrs-potato/utils-banking	1.0.9	MAL-2024-10227	https://osv.dev/vulnerability/MAL-2024-10227
 @worca/app	1.14.0-rc.2	MAL-2026-18325	https://osv.dev/vulnerability/MAL-2026-18325
+@worca/app	1.14.0-rc.4	MAL-2026-18325	https://osv.dev/vulnerability/MAL-2026-18325
 @workbench-stack/core	3.9.8	MAL-2026-11961	https://osv.dev/vulnerability/MAL-2026-11961
 @worki/lib-candidate-common	*	MAL-2022-732	https://osv.dev/vulnerability/MAL-2022-732
 @worki/lib-web-common	*	MAL-2022-733	https://osv.dev/vulnerability/MAL-2022-733
