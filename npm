@@ -149302,6 +149302,7 @@ num-format-helper	1.0.0	MAL-2026-11107	https://osv.dev/vulnerability/MAL-2026-11
 numba-doc-zh	*	MAL-2025-45378	https://osv.dev/vulnerability/MAL-2025-45378
 number_of_input_data_dependencies	*	MAL-2023-644	https://osv.dev/vulnerability/MAL-2023-644
 numberphonegen	1.0.0	MAL-2024-2776	https://osv.dev/vulnerability/MAL-2024-2776
+numbors	1.6.1	MAL-2026-18322	https://osv.dev/vulnerability/MAL-2026-18322
 numdifftools	*	MAL-2026-5844	https://osv.dev/vulnerability/MAL-2026-5844
 numeral-light	*	MAL-2024-9243	https://osv.dev/vulnerability/MAL-2024-9243
 numeral-metal-someone	*	MAL-2025-45379	https://osv.dev/vulnerability/MAL-2025-45379
