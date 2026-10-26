@@ -8314,6 +8314,9 @@ netping	0.2.0	MAL-2026-3805	https://osv.dev/vulnerability/MAL-2026-3805
 netping	1.1.0	MAL-2026-3805	https://osv.dev/vulnerability/MAL-2026-3805
 netsec-monitor	0.1.5	MAL-2024-12311	https://osv.dev/vulnerability/MAL-2024-12311
 netspear	1.0.7	MAL-2025-5121	https://osv.dev/vulnerability/MAL-2025-5121
+netweavex	1.1.0	MAL-2026-18328	https://osv.dev/vulnerability/MAL-2026-18328
+netweavex	1.1.1	MAL-2026-18328	https://osv.dev/vulnerability/MAL-2026-18328
+netweavex	1.1.2	MAL-2026-18328	https://osv.dev/vulnerability/MAL-2026-18328
 network-utils-simple	1.0.0	MAL-2025-191803	https://osv.dev/vulnerability/MAL-2025-191803
 network-utils-simple	1.1.0	MAL-2025-191803	https://osv.dev/vulnerability/MAL-2025-191803
 network-utils-simple	1.2.1	MAL-2025-191803	https://osv.dev/vulnerability/MAL-2025-191803
