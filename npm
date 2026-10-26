@@ -23352,6 +23352,7 @@
 @zynkit/jwtbytes	*	MAL-2026-6313	https://osv.dev/vulnerability/MAL-2026-6313
 @zynkit/probe	*	MAL-2026-6314	https://osv.dev/vulnerability/MAL-2026-6314
 @zyp3_/api-ecom-errors	*	MAL-2025-5333	https://osv.dev/vulnerability/MAL-2025-5333
+@zyrennofficiall/baileys	*	MAL-0000-zyrennofficiall-baileys	https://github.com/ossf/malicious-packages/pull/1666
 @zyro-inc/eslint-config-zyro	*	MAL-2025-13902	https://osv.dev/vulnerability/MAL-2025-13902
 @zzzcrypto/bitcoin-lib	6.1.7	MAL-2026-13211	https://osv.dev/vulnerability/MAL-2026-13211
 @zzzcrypto/etherjs	6.15.4	MAL-2026-13212	https://osv.dev/vulnerability/MAL-2026-13212
