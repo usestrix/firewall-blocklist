@@ -58649,6 +58649,7 @@ csv-test-subscription-nebula	*	MAL-2025-141360	https://osv.dev/vulnerability/MAL
 csv-tool-cli	1.2.1	MAL-2025-191084	https://osv.dev/vulnerability/MAL-2025-191084
 csv-uglify-js-protractor-grus	*	MAL-2025-17806	https://osv.dev/vulnerability/MAL-2025-17806
 csv-ultra-wezen-astro	*	MAL-2025-141361	https://osv.dev/vulnerability/MAL-2025-141361
+csvflow-schema	1.0.0	MAL-0000-invisirisk-csvflow-schema	https://github.com/ossf/malicious-packages/pull/1669
 csvproj	*	MAL-2025-17807	https://osv.dev/vulnerability/MAL-2025-17807
 csvsub	*	MAL-2025-17808	https://osv.dev/vulnerability/MAL-2025-17808
 csvtarse	*	MAL-2022-2268	https://osv.dev/vulnerability/MAL-2022-2268
