@@ -2421,6 +2421,9 @@
 @azl-react-components/molecules	*	MAL-2025-7107	https://osv.dev/vulnerability/MAL-2025-7107
 @azl-react-components/svgs	*	MAL-2025-7108	https://osv.dev/vulnerability/MAL-2025-7108
 @aznb/extension-gather	*	MAL-2022-93	https://osv.dev/vulnerability/MAL-2022-93
+@azure-growth/signup-ux-components	1.2.2	MAL-0000-azure-growth-signup-ux-components	https://github.com/ossf/malicious-packages/pull/1671
+@azure-growth/signup-ux-components	1.2.2	MAL-2026-18338	https://osv.dev/vulnerability/MAL-2026-18338
+@azure-growth/signup-ux-components	1.2.3	MAL-0000-azure-growth-signup-ux-components	https://github.com/ossf/malicious-packages/pull/1671
 @azure-lab-services/ml-ts	99.0.0	MAL-2026-10871	https://osv.dev/vulnerability/MAL-2026-10871
 @azure-test2/test2	*	MAL-2022-94	https://osv.dev/vulnerability/MAL-2022-94
 @azure-tests/perf-ai-form-recognizer	*	MAL-2022-95	https://osv.dev/vulnerability/MAL-2022-95
@@ -223677,7 +223680,6 @@ whale-zodiac-rig382-project	*	MAL-2025-39129	https://osv.dev/vulnerability/MAL-2
 whaleco-assets-json	100.0.5	MAL-2026-7438	https://osv.dev/vulnerability/MAL-2026-7438
 whaleco-assets-json	99.9.9	MAL-2026-7438	https://osv.dev/vulnerability/MAL-2026-7438
 whaletail	1.0.0	MAL-2025-700	https://osv.dev/vulnerability/MAL-2025-700
-whalibmob	*	MAL-2026-17408	https://osv.dev/vulnerability/MAL-2026-17408
 whamrckyvpnbeliq	*	MAL-2025-39130	https://osv.dev/vulnerability/MAL-2025-39130
 what_type_of_self_indulgent_sub-par_challenge_is_this	*	MAL-2025-5975	https://osv.dev/vulnerability/MAL-2025-5975
 whatclick	*	MAL-2025-39131	https://osv.dev/vulnerability/MAL-2025-39131
