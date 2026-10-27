@@ -27159,6 +27159,7 @@ agent-starter-pack	*	MAL-2026-6679	https://osv.dev/vulnerability/MAL-2026-6679
 agentbas	*	MAL-2024-10688	https://osv.dev/vulnerability/MAL-2024-10688
 agentbox	*	MAL-2025-14156	https://osv.dev/vulnerability/MAL-2025-14156
 agentbse	*	MAL-2025-2746	https://osv.dev/vulnerability/MAL-2025-2746
+agentenact	0.2.0	MAL-2026-18346	https://osv.dev/vulnerability/MAL-2026-18346
 agentgui	1.0.1127	MAL-2026-14402	https://osv.dev/vulnerability/MAL-2026-14402
 agenthub-ai	0.20.1	MAL-2026-13615	https://osv.dev/vulnerability/MAL-2026-13615
 agenthub-ai	0.20.2	MAL-2026-13615	https://osv.dev/vulnerability/MAL-2026-13615
