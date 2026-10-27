@@ -48206,7 +48206,7 @@ cchome-shared	*	MAL-2024-8021	https://osv.dev/vulnerability/MAL-2024-8021
 ccip-resolver	>=0.2.10	MAL-2025-5026	https://osv.dev/vulnerability/MAL-2025-5026
 ccip-starter-kit-hardhat	99.0.1	MAL-2026-2739	https://osv.dev/vulnerability/MAL-2026-2739
 ccl-component-resources	*	MAL-2024-1959	https://osv.dev/vulnerability/MAL-2024-1959
-ccl-global-shopping	99.9.1	MAL-2026-18061	https://osv.dev/vulnerability/MAL-2026-18061
+ccl-global-shopping	*	MAL-2026-18061	https://osv.dev/vulnerability/MAL-2026-18061
 ccl-modal	2.3.0	MAL-2024-957	https://osv.dev/vulnerability/MAL-2024-957
 ccl-product-carousel	*	MAL-2024-1081	https://osv.dev/vulnerability/MAL-2024-1081
 ccl-styles-2016	1.7.0	MAL-2024-1960	https://osv.dev/vulnerability/MAL-2024-1960
@@ -157977,7 +157977,7 @@ paychex-framework-approvals	*	MAL-2025-28935	https://osv.dev/vulnerability/MAL-2
 paychex-framework-core-ui	*	MAL-2025-28936	https://osv.dev/vulnerability/MAL-2025-28936
 paychex-framework-forms	*	MAL-2025-28937	https://osv.dev/vulnerability/MAL-2025-28937
 paychex-grunt-configs	*	MAL-2025-28938	https://osv.dev/vulnerability/MAL-2025-28938
-paychex-pdftron	99.9.1	MAL-2026-18289	https://osv.dev/vulnerability/MAL-2026-18289
+paychex-pdftron	*	MAL-2026-18289	https://osv.dev/vulnerability/MAL-2026-18289
 paychex-tracking	*	MAL-2025-28939	https://osv.dev/vulnerability/MAL-2025-28939
 paychex_app_company_legacy_dtos	*	MAL-2025-28940	https://osv.dev/vulnerability/MAL-2025-28940
 paycom-cross-platform	*	MAL-2022-5235	https://osv.dev/vulnerability/MAL-2022-5235
@@ -181938,7 +181938,7 @@ sbx-mask	1.0.0	MAL-2026-2132	https://osv.dev/vulnerability/MAL-2026-2132
 sbx-mask	1.0.1	MAL-2026-2132	https://osv.dev/vulnerability/MAL-2026-2132
 sbx-mask	1.0.2	MAL-2026-2132	https://osv.dev/vulnerability/MAL-2026-2132
 sc-add-to-cart	*	MAL-2022-5948	https://osv.dev/vulnerability/MAL-2022-5948
-sc-announcer	99.9.1	MAL-2026-18064	https://osv.dev/vulnerability/MAL-2026-18064
+sc-announcer	*	MAL-2026-18064	https://osv.dev/vulnerability/MAL-2026-18064
 sc-appreg	*	MAL-2025-32759	https://osv.dev/vulnerability/MAL-2025-32759
 sc-bing	*	MAL-2022-5949	https://osv.dev/vulnerability/MAL-2022-5949
 sc-bunyan-logstash-amqp	*	MAL-2025-32760	https://osv.dev/vulnerability/MAL-2025-32760
@@ -181951,7 +181951,7 @@ sc-font-icons	99.9.1	MAL-2026-12800	https://osv.dev/vulnerability/MAL-2026-12800
 sc-font-icons	9999.0.0	MAL-2026-12800	https://osv.dev/vulnerability/MAL-2026-12800
 sc-geeksquad-core	99.9.1	MAL-2026-12435	https://osv.dev/vulnerability/MAL-2026-12435
 sc-geeksquad-core	9999.0.0	MAL-2026-12435	https://osv.dev/vulnerability/MAL-2026-12435
-sc-hydrate-carousel-price	99.9.1	MAL-2026-18291	https://osv.dev/vulnerability/MAL-2026-18291
+sc-hydrate-carousel-price	*	MAL-2026-18291	https://osv.dev/vulnerability/MAL-2026-18291
 sc-hydrate-sku	*	MAL-2022-5951	https://osv.dev/vulnerability/MAL-2022-5951
 sc-libraries	*	MAL-2024-10327	https://osv.dev/vulnerability/MAL-2024-10327
 sc-location	*	MAL-2022-5952	https://osv.dev/vulnerability/MAL-2022-5952
