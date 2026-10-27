@@ -2424,6 +2424,7 @@
 @azure-growth/signup-ux-components	1.2.2	MAL-0000-azure-growth-signup-ux-components	https://github.com/ossf/malicious-packages/pull/1671
 @azure-growth/signup-ux-components	1.2.2	MAL-2026-18338	https://osv.dev/vulnerability/MAL-2026-18338
 @azure-growth/signup-ux-components	1.2.3	MAL-0000-azure-growth-signup-ux-components	https://github.com/ossf/malicious-packages/pull/1671
+@azure-growth/signup-ux-components	1.2.3	MAL-2026-18338	https://osv.dev/vulnerability/MAL-2026-18338
 @azure-growth/signup-ux-components	2.9.9	MAL-0000-azure-growth-signup-ux-components	https://github.com/ossf/malicious-packages/pull/1671
 @azure-lab-services/ml-ts	99.0.0	MAL-2026-10871	https://osv.dev/vulnerability/MAL-2026-10871
 @azure-test2/test2	*	MAL-2022-94	https://osv.dev/vulnerability/MAL-2022-94
@@ -206877,9 +206878,6 @@ totaralms	*	MAL-2022-6616	https://osv.dev/vulnerability/MAL-2022-6616
 totem-project-website	*	MAL-2025-2197	https://osv.dev/vulnerability/MAL-2025-2197
 totododo	*	MAL-2025-37105	https://osv.dev/vulnerability/MAL-2025-37105
 totp-utils	*	MAL-2026-14379	https://osv.dev/vulnerability/MAL-2026-14379
-totp-utils	1.4.2	MAL-0000-totp-utils	https://github.com/ossf/malicious-packages/pull/1461
-totp-utils	1.4.3	MAL-0000-totp-utils	https://github.com/ossf/malicious-packages/pull/1461
-totp-utils	1.4.4	MAL-0000-totp-utils	https://github.com/ossf/malicious-packages/pull/1461
 touch-move	*	MAL-2025-37106	https://osv.dev/vulnerability/MAL-2025-37106
 touchid-images	*	MAL-2026-6179	https://osv.dev/vulnerability/MAL-2026-6179
 touchmaster3000	*	MAL-2025-37107	https://osv.dev/vulnerability/MAL-2025-37107
