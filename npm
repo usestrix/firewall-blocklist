@@ -48821,6 +48821,10 @@ ccpawa	*	MAL-2025-16686	https://osv.dev/vulnerability/MAL-2025-16686
 ccs-platform	*	MAL-2025-48484	https://osv.dev/vulnerability/MAL-2025-48484
 ccs-platform-js	*	MAL-2025-48485	https://osv.dev/vulnerability/MAL-2025-48485
 ccs-react-lib	*	MAL-2024-11326	https://osv.dev/vulnerability/MAL-2024-11326
+ccsec-crypto-toolkit	*	MAL-2026-18347	https://osv.dev/vulnerability/MAL-2026-18347
+ccsec-form-validator	*	MAL-2026-18348	https://osv.dev/vulnerability/MAL-2026-18348
+ccsseecc-crypto-toolkit	*	MAL-2026-18349	https://osv.dev/vulnerability/MAL-2026-18349
+ccsseecc-form-validator	*	MAL-2026-18350	https://osv.dev/vulnerability/MAL-2026-18350
 ccsyqj-devapptea	*	MAL-2025-100298	https://osv.dev/vulnerability/MAL-2025-100298
 ccuuli	*	MAL-2025-16687	https://osv.dev/vulnerability/MAL-2025-16687
 ccv-token-manager	*	MAL-2025-4552	https://osv.dev/vulnerability/MAL-2025-4552
@@ -59031,8 +59035,11 @@ cscrubber	*	MAL-2025-17776	https://osv.dev/vulnerability/MAL-2025-17776
 cscvue-unplugin	*	MAL-2025-1099	https://osv.dev/vulnerability/MAL-2025-1099
 csdn-tree	*	MAL-2022-2264	https://osv.dev/vulnerability/MAL-2022-2264
 cse-common-arch--long-running-app--create-vm-cf	*	MAL-2025-1531	https://osv.dev/vulnerability/MAL-2025-1531
+csec-crypto-toolkit	*	MAL-2026-18351	https://osv.dev/vulnerability/MAL-2026-18351
 csec-crypto-utils	4.2.1	MAL-2026-7248	https://osv.dev/vulnerability/MAL-2026-7248
 csec-form-helpers	1.0.0	MAL-2026-7249	https://osv.dev/vulnerability/MAL-2026-7249
+csec-form-validator	*	MAL-2026-18352	https://osv.dev/vulnerability/MAL-2026-18352
+csec-form-validatorr	*	MAL-2026-18353	https://osv.dev/vulnerability/MAL-2026-18353
 csf-web-common	*	MAL-2025-17777	https://osv.dev/vulnerability/MAL-2025-17777
 csh	*	MAL-2025-17778	https://osv.dev/vulnerability/MAL-2025-17778
 csino-slots	2.999.0	MAL-2024-2034	https://osv.dev/vulnerability/MAL-2024-2034
