@@ -137900,6 +137900,8 @@ mui-vuepress-blitz-weywot	*	MAL-2025-145215	https://osv.dev/vulnerability/MAL-20
 mui-wrapper-core	*	MAL-2025-192696	https://osv.dev/vulnerability/MAL-2025-192696
 mui-wrapper-icons	*	MAL-2025-192541	https://osv.dev/vulnerability/MAL-2025-192541
 mui-wrapper-styles	*	MAL-2025-192542	https://osv.dev/vulnerability/MAL-2025-192542
+mui-wrapper-x-date-pickers	1.0.0	MAL-0000-mui-wrapper-x-date-pickers	https://github.com/ossf/malicious-packages/pull/1673
+mui-wrapper-x-date-pickers	10.0.0	MAL-0000-mui-wrapper-x-date-pickers	https://github.com/ossf/malicious-packages/pull/1673
 mui-xerxes-proxima-cassini	*	MAL-2025-188144	https://osv.dev/vulnerability/MAL-2025-188144
 mui-yildun-javascript-mongodb	*	MAL-2025-26873	https://osv.dev/vulnerability/MAL-2025-26873
 mui7	*	MAL-2026-194	https://osv.dev/vulnerability/MAL-2026-194
@@ -139289,6 +139291,8 @@ mvulekokjsyznarb	*	MAL-2025-26931	https://osv.dev/vulnerability/MAL-2025-26931
 mvvmkit	*	MAL-2025-26932	https://osv.dev/vulnerability/MAL-2025-26932
 mvvmrx	*	MAL-2025-26933	https://osv.dev/vulnerability/MAL-2025-26933
 mw-common-components	*	MAL-2024-27	https://osv.dev/vulnerability/MAL-2024-27
+mw-communication-client	1.0.1	MAL-0000-mw-communication-client	https://github.com/ossf/malicious-packages/pull/1673
+mw-communication-client	10.0.0	MAL-0000-mw-communication-client	https://github.com/ossf/malicious-packages/pull/1673
 mw-eslint-rules	*	MAL-2025-26934	https://osv.dev/vulnerability/MAL-2025-26934
 mw-filesystem-events-nodream	0.0.32	MAL-2026-3409	https://osv.dev/vulnerability/MAL-2026-3409
 mw-filesystem-events-nodream-es6	0.0.32	MAL-2026-14087	https://osv.dev/vulnerability/MAL-2026-14087
@@ -139300,6 +139304,9 @@ mw-remote	*	MAL-2025-4986	https://osv.dev/vulnerability/MAL-2025-4986
 mw-server-util	2.0.0	MAL-2026-10739	https://osv.dev/vulnerability/MAL-2026-10739
 mw-server-util	2.0.1	MAL-2026-10739	https://osv.dev/vulnerability/MAL-2026-10739
 mw-shared-utils	*	MAL-2026-369	https://osv.dev/vulnerability/MAL-2026-369
+mw-test-utils	1.0.0	MAL-0000-mw-test-utils	https://github.com/ossf/malicious-packages/pull/1673
+mw-test-utils	10.0.0	MAL-0000-mw-test-utils	https://github.com/ossf/malicious-packages/pull/1673
+mw-test-utils	10.0.1	MAL-0000-mw-test-utils	https://github.com/ossf/malicious-packages/pull/1673
 mw4qnb	*	MAL-2025-26936	https://osv.dev/vulnerability/MAL-2025-26936
 mwater-expressions-ui	*	MAL-2025-26937	https://osv.dev/vulnerability/MAL-2025-26937
 mwembed-dash-everywhere	*	MAL-2022-4742	https://osv.dev/vulnerability/MAL-2022-4742
