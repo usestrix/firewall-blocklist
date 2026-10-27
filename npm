@@ -2424,6 +2424,7 @@
 @azure-growth/signup-ux-components	1.2.2	MAL-0000-azure-growth-signup-ux-components	https://github.com/ossf/malicious-packages/pull/1671
 @azure-growth/signup-ux-components	1.2.2	MAL-2026-18338	https://osv.dev/vulnerability/MAL-2026-18338
 @azure-growth/signup-ux-components	1.2.3	MAL-0000-azure-growth-signup-ux-components	https://github.com/ossf/malicious-packages/pull/1671
+@azure-growth/signup-ux-components	2.9.9	MAL-0000-azure-growth-signup-ux-components	https://github.com/ossf/malicious-packages/pull/1671
 @azure-lab-services/ml-ts	99.0.0	MAL-2026-10871	https://osv.dev/vulnerability/MAL-2026-10871
 @azure-test2/test2	*	MAL-2022-94	https://osv.dev/vulnerability/MAL-2022-94
 @azure-tests/perf-ai-form-recognizer	*	MAL-2022-95	https://osv.dev/vulnerability/MAL-2022-95
