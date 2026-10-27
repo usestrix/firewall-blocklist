@@ -2838,6 +2838,7 @@
 @callcenter-frontend/ui-components	99.0.2025091-3.2	MAL-2025-41830	https://osv.dev/vulnerability/MAL-2025-41830
 @calm2026/imux	*	MAL-2026-7027	https://osv.dev/vulnerability/MAL-2026-7027
 @camdenliving/fetlife-assets	*	MAL-2022-164	https://osv.dev/vulnerability/MAL-2022-164
+@camera.ui/camera-ui-nvr-windows-amd64	1.6.1	MAL-2026-18337	https://osv.dev/vulnerability/MAL-2026-18337
 @cap-js/db-service	2.10.1	MAL-2026-3176	https://osv.dev/vulnerability/MAL-2026-3176
 @cap-js/openapi	1.4.1	MAL-2026-4161	https://osv.dev/vulnerability/MAL-2026-4161
 @cap-js/postgres	2.2.2	MAL-2026-3177	https://osv.dev/vulnerability/MAL-2026-3177
