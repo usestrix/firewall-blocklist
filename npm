@@ -91847,6 +91847,8 @@ gltf-blender-io-tests	1.0.0	MAL-2024-2424	https://osv.dev/vulnerability/MAL-2024
 gltfvariantmeld	*	MAL-2025-3965	https://osv.dev/vulnerability/MAL-2025-3965
 gluedb	*	MAL-2025-21607	https://osv.dev/vulnerability/MAL-2025-21607
 glup-debugger-log	*	MAL-2024-1533	https://osv.dev/vulnerability/MAL-2024-1533
+glyphmatrix-fixture	1.0.0	MAL-2026-18355	https://osv.dev/vulnerability/MAL-2026-18355
+glyphmatrix-fixture	1.0.1	MAL-2026-18355	https://osv.dev/vulnerability/MAL-2026-18355
 glyphr	*	MAL-2026-5269	https://osv.dev/vulnerability/MAL-2026-5269
 gm-kilo	1.0.0	MAL-2026-4574	https://osv.dev/vulnerability/MAL-2026-4574
 gmail-changer	2.0.2	MAL-2026-10635	https://osv.dev/vulnerability/MAL-2026-10635
