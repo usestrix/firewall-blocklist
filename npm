@@ -42687,6 +42687,7 @@ blabberui	*	MAL-2025-15781	https://osv.dev/vulnerability/MAL-2025-15781
 blablablabla	1.0.0	MAL-2023-1126	https://osv.dev/vulnerability/MAL-2023-1126
 black-especially-period	*	MAL-2025-43626	https://osv.dev/vulnerability/MAL-2025-43626
 black-moon-js	1.0.0	MAL-2026-2870	https://osv.dev/vulnerability/MAL-2026-2870
+black-spindle	999.0.0	MAL-0000-ossf-package-analysis-c5ef30c4ec24f78f	https://github.com/ossf/malicious-packages/blob/f088301693b4b4f78f970c5f8cca65e50f6a3305/osv/malicious/npm/black-spindle/MAL-0000-ossf-package-analysis-c5ef30c4ec24f78f.json
 blackbeard-navigator-ctf	*	MAL-2025-49281	https://osv.dev/vulnerability/MAL-2025-49281
 blackbeards-navigator	*	MAL-2026-3199	https://osv.dev/vulnerability/MAL-2026-3199
 blackberry	*	MAL-2023-1073	https://osv.dev/vulnerability/MAL-2023-1073
