@@ -17767,6 +17767,7 @@
 @waitfortea2024/veniam-architecto-aperiam	*	MAL-2025-9657	https://osv.dev/vulnerability/MAL-2025-9657
 @walkme-ng/shared-ui	9.9.10	MAL-2026-7102	https://osv.dev/vulnerability/MAL-2026-7102
 @walkme-ng/shared-ui	9.9.9	MAL-2026-7102	https://osv.dev/vulnerability/MAL-2026-7102
+@walknpm/todo-cli	2.0.1	MAL-0000-ghsa-malware-4b1b865efcc7d2ea	https://github.com/ossf/malicious-packages/blob/7e2d6539ffd955f218189fce3219e7fe5b309ad8/osv/malicious/npm/@walknpm/todo-cli/MAL-0000-ghsa-malware-4b1b865efcc7d2ea.json
 @walknpm/todo-cli	2.0.1	MAL-2026-18320	https://osv.dev/vulnerability/MAL-2026-18320
 @walletify/backend	*	MAL-2025-185350	https://osv.dev/vulnerability/MAL-2025-185350
 @walletify/core	*	MAL-2025-185351	https://osv.dev/vulnerability/MAL-2025-185351
@@ -69181,6 +69182,7 @@ dsgs-trus-pix	*	MAL-2025-174118	https://osv.dev/vulnerability/MAL-2025-174118
 dsgs-trus-psix	*	MAL-2025-174119	https://osv.dev/vulnerability/MAL-2025-174119
 dsgs-txcui-pix	*	MAL-2025-174120	https://osv.dev/vulnerability/MAL-2025-174120
 dsh-native	1.4.1	MAL-2026-18315	https://osv.dev/vulnerability/MAL-2026-18315
+dsh-plugin-blender-3d	0.2.1	MAL-0000-ghsa-malware-de8aa280aeabc3f7	https://github.com/ossf/malicious-packages/blob/7e2d6539ffd955f218189fce3219e7fe5b309ad8/osv/malicious/npm/dsh-plugin-blender-3d/MAL-0000-ghsa-malware-de8aa280aeabc3f7.json
 dsh-plugin-blender-3d	0.2.1	MAL-2026-18321	https://osv.dev/vulnerability/MAL-2026-18321
 dsh-vm-tester	0.1.2	MAL-2026-18345	https://osv.dev/vulnerability/MAL-2026-18345
 dsh-vm-tester	0.1.3	MAL-2026-18345	https://osv.dev/vulnerability/MAL-2026-18345
@@ -108916,6 +108918,7 @@ itobuz-angular-button	8.0.11	MAL-2025-190973	https://osv.dev/vulnerability/MAL-2
 itop	*	MAL-2022-3982	https://osv.dev/vulnerability/MAL-2022-3982
 itprod	*	MAL-2025-23466	https://osv.dev/vulnerability/MAL-2025-23466
 its_for_testing	*	MAL-2022-3983	https://osv.dev/vulnerability/MAL-2022-3983
+itsa-react-checkbox	16.0.5	MAL-0000-ghsa-malware-64de48442d38106c	https://github.com/ossf/malicious-packages/blob/7e2d6539ffd955f218189fce3219e7fe5b309ad8/osv/malicious/npm/itsa-react-checkbox/MAL-0000-ghsa-malware-64de48442d38106c.json
 itsa-react-focuscontainer	16.0.10	MAL-2026-17910	https://osv.dev/vulnerability/MAL-2026-17910
 itsa-react-maskedinput	16.1.2	MAL-2026-17911	https://osv.dev/vulnerability/MAL-2026-17911
 itself-country-orange	*	MAL-2025-44724	https://osv.dev/vulnerability/MAL-2025-44724
@@ -136774,6 +136777,7 @@ mock-sandbox-private-stub-view	*	MAL-2025-188093	https://osv.dev/vulnerability/M
 mock-simulate-moon-sudo-export	*	MAL-2025-26583	https://osv.dev/vulnerability/MAL-2025-26583
 mock-solc-0.6	*	MAL-2022-4659	https://osv.dev/vulnerability/MAL-2022-4659
 mock-string-simple-final-data	*	MAL-2025-188094	https://osv.dev/vulnerability/MAL-2025-188094
+mock-transactions-sdk	*	MAL-0000-ghsa-malware-ea0afdca00ff4ca4	https://github.com/ossf/malicious-packages/blob/7e2d6539ffd955f218189fce3219e7fe5b309ad8/osv/malicious/npm/mock-transactions-sdk/MAL-0000-ghsa-malware-ea0afdca00ff4ca4.json
 mock-uglify-short-char-catch	*	MAL-2025-26584	https://osv.dev/vulnerability/MAL-2025-26584
 mock-xml-omicron-protected-class	*	MAL-2025-188095	https://osv.dev/vulnerability/MAL-2025-188095
 mock_simple_module	*	MAL-2024-7763	https://osv.dev/vulnerability/MAL-2024-7763
@@ -140068,6 +140072,7 @@ my-css-package	*	MAL-2024-8787	https://osv.dev/vulnerability/MAL-2024-8787
 my-ctf-helper-script-9921	*	MAL-2026-16365	https://osv.dev/vulnerability/MAL-2026-16365
 my-ctf-package	*	MAL-2025-192613	https://osv.dev/vulnerability/MAL-2025-192613
 my-custom-vue-widget	*	MAL-2025-2117	https://osv.dev/vulnerability/MAL-2025-2117
+my-empty-package	1.0.0	MAL-0000-ghsa-malware-d60c0adebec788c6	https://github.com/ossf/malicious-packages/blob/7e2d6539ffd955f218189fce3219e7fe5b309ad8/osv/malicious/npm/my-empty-package/MAL-0000-ghsa-malware-d60c0adebec788c6.json
 my-empty-package	1.0.0	MAL-2026-10535	https://osv.dev/vulnerability/MAL-2026-10535
 my-fallen-fallen-web	*	MAL-2023-1059	https://osv.dev/vulnerability/MAL-2023-1059
 my-fallen-web	*	MAL-2023-1052	https://osv.dev/vulnerability/MAL-2023-1052
@@ -207955,6 +207960,7 @@ transaction-data-generation	*	MAL-2025-4897	https://osv.dev/vulnerability/MAL-20
 transaction-decoder	*	MAL-2023-8417	https://osv.dev/vulnerability/MAL-2023-8417
 transaction-generations	*	MAL-2025-4411	https://osv.dev/vulnerability/MAL-2025-4411
 transaction-generator	*	MAL-2025-2425	https://osv.dev/vulnerability/MAL-2025-2425
+transaction-info-generate-sdk	*	MAL-0000-ghsa-malware-d5fe42bc0080cd0f	https://github.com/ossf/malicious-packages/blob/7e2d6539ffd955f218189fce3219e7fe5b309ad8/osv/malicious/npm/transaction-info-generate-sdk/MAL-0000-ghsa-malware-d5fe42bc0080cd0f.json
 transaction-report	*	MAL-2025-693	https://osv.dev/vulnerability/MAL-2025-693
 transactions-generation	*	MAL-2025-3265	https://osv.dev/vulnerability/MAL-2025-3265
 transactions-generator	*	MAL-2025-2791	https://osv.dev/vulnerability/MAL-2025-2791
