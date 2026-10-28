@@ -38184,6 +38184,7 @@ azurevmtest	*	MAL-2022-1398	https://osv.dev/vulnerability/MAL-2022-1398
 azurewebserverlogstosql	*	MAL-2025-15274	https://osv.dev/vulnerability/MAL-2025-15274
 azuvnsermibkylhx	*	MAL-2022-1399	https://osv.dev/vulnerability/MAL-2022-1399
 b04y1b	*	MAL-2025-15275	https://osv.dev/vulnerability/MAL-2025-15275
+b20miner	0.3.1	MAL-0000-ghsa-malware-6d1526b3a34c5de3	https://github.com/ossf/malicious-packages/blob/ece0a422f8e2b3f7168ab29d9221bd40598e6fef/osv/malicious/npm/b20miner/MAL-0000-ghsa-malware-6d1526b3a34c5de3.json
 b2b-buyer-portal	*	MAL-2024-8964	https://osv.dev/vulnerability/MAL-2024-8964
 b2b-canaisdigitais	*	MAL-2023-8012	https://osv.dev/vulnerability/MAL-2023-8012
 b2b-common-cb-lib	*	MAL-2026-1356	https://osv.dev/vulnerability/MAL-2026-1356
