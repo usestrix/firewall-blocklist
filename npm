@@ -108919,7 +108919,7 @@ its_for_testing	*	MAL-2022-3983	https://osv.dev/vulnerability/MAL-2022-3983
 itsa-react-checkbox	16.0.5	MAL-2026-18360	https://osv.dev/vulnerability/MAL-2026-18360
 itsa-react-focuscontainer	16.0.10	MAL-2026-17910	https://osv.dev/vulnerability/MAL-2026-17910
 itsa-react-maskedinput	16.1.2	MAL-2026-17911	https://osv.dev/vulnerability/MAL-2026-17911
-itsa-utils	1.4.2	MAL-0000-ghsa-malware-efba97f94ff89238	https://github.com/ossf/malicious-packages/blob/0e650bab84ce343e2a640a0be4cce550b312d0ed/osv/malicious/npm/itsa-utils/MAL-0000-ghsa-malware-efba97f94ff89238.json
+itsa-utils	1.4.2	MAL-2026-18363	https://osv.dev/vulnerability/MAL-2026-18363
 itself-country-orange	*	MAL-2025-44724	https://osv.dev/vulnerability/MAL-2025-44724
 itsmeeaizat-bailey	*	MAL-2026-17311	https://osv.dev/vulnerability/MAL-2026-17311
 itsmerobottt	*	MAL-2022-3984	https://osv.dev/vulnerability/MAL-2022-3984
