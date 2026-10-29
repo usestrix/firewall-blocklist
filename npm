@@ -69204,6 +69204,8 @@ dsh-redteam-mode	0.15.2	MAL-2026-18366	https://osv.dev/vulnerability/MAL-2026-18
 dsh-vm-tester	0.1.2	MAL-2026-18345	https://osv.dev/vulnerability/MAL-2026-18345
 dsh-vm-tester	0.1.3	MAL-2026-18345	https://osv.dev/vulnerability/MAL-2026-18345
 dsh-vm-tester	0.1.4	MAL-2026-18345	https://osv.dev/vulnerability/MAL-2026-18345
+dsh-volcengine-provider	0.2.5	MAL-0000-ghsa-malware-4397974f8ab42cc7	https://github.com/ossf/malicious-packages/blob/5a3719dcad98f985657f80acd822b7080d29efc3/osv/malicious/npm/dsh-volcengine-provider/MAL-0000-ghsa-malware-4397974f8ab42cc7.json
+dsh-volcengine-provider	0.2.8	MAL-0000-ghsa-malware-4397974f8ab42cc7	https://github.com/ossf/malicious-packages/blob/5a3719dcad98f985657f80acd822b7080d29efc3/osv/malicious/npm/dsh-volcengine-provider/MAL-0000-ghsa-malware-4397974f8ab42cc7.json
 dsh-waste-market	*	MAL-2026-15879	https://osv.dev/vulnerability/MAL-2026-15879
 dshella	*	MAL-2025-18935	https://osv.dev/vulnerability/MAL-2025-18935
 dshellb	*	MAL-2025-18936	https://osv.dev/vulnerability/MAL-2025-18936
