@@ -1328,6 +1328,9 @@ bprintoor	0.2.8	MAL-2025-191694	https://osv.dev/vulnerability/MAL-2025-191694
 bprintoor	0.2.9	MAL-2025-191694	https://osv.dev/vulnerability/MAL-2025-191694
 bpsm	99.0.0	MAL-2026-1296	https://osv.dev/vulnerability/MAL-2026-1296
 bq-build-probe-vrp-2026	0.2.0	MAL-2026-16098	https://osv.dev/vulnerability/MAL-2026-16098
+bq-helix-build-hook-6ade983e	0.1.0	MAL-0000-kam193-ee26602dfa25f574	https://github.com/ossf/malicious-packages/blob/5529e5e44322d31b217f9455b357582a2eb23e75/osv/malicious/pypi/bq-helix-build-hook-6ade983e/MAL-0000-kam193-ee26602dfa25f574.json
+bq-helix-recon-6ade983e	0.1.0	MAL-0000-kam193-9663aaa7e713f47d	https://github.com/ossf/malicious-packages/blob/5529e5e44322d31b217f9455b357582a2eb23e75/osv/malicious/pypi/bq-helix-recon-6ade983e/MAL-0000-kam193-9663aaa7e713f47d.json
+bq-helix-recon-6ade983e	0.1.2	MAL-0000-kam193-9663aaa7e713f47d	https://github.com/ossf/malicious-packages/blob/5529e5e44322d31b217f9455b357582a2eb23e75/osv/malicious/pypi/bq-helix-recon-6ade983e/MAL-0000-kam193-9663aaa7e713f47d.json
 bq-sdist-probe-vrp	0.0.1	MAL-2026-16099	https://osv.dev/vulnerability/MAL-2026-16099
 brambletask	0.1.0	MAL-2026-18223	https://osv.dev/vulnerability/MAL-2026-18223
 bramin	0.0.2	MAL-2026-5280	https://osv.dev/vulnerability/MAL-2026-5280
