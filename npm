@@ -7407,6 +7407,7 @@
 @jameson777/mytest8	*	MAL-2025-48922	https://osv.dev/vulnerability/MAL-2025-48922
 @japofc/baileys	*	MAL-2026-17359	https://osv.dev/vulnerability/MAL-2026-17359
 @jarxmarkett/baileysnew	2.0.3	MAL-0000-jarxmarkett-baileysnew	https://github.com/ossf/malicious-packages/pull/1674
+@jasperquinn/postcss-motion-helpers	*	MAL-0000-ghsa-malware-781da369bb3fa6b1	https://github.com/ossf/malicious-packages/blob/2b483e6482b882a524a7cb2b8b1f4e75312ad3d0/osv/malicious/npm/@jasperquinn/postcss-motion-helpers/MAL-0000-ghsa-malware-781da369bb3fa6b1.json
 @jaswanthlanka/mcp-proxy	*	MAL-2025-6139	https://osv.dev/vulnerability/MAL-2025-6139
 @jayeshsadhwani/telemetry-sdk	1.0.14	MAL-2025-191238	https://osv.dev/vulnerability/MAL-2025-191238
 @jaymara/jsononifier	1.0.0	MAL-2026-10177	https://osv.dev/vulnerability/MAL-2026-10177
@@ -40552,6 +40553,7 @@ bcs-compact	*	MAL-2026-13925	https://osv.dev/vulnerability/MAL-2026-13925
 bcs-core	*	MAL-2026-14105	https://osv.dev/vulnerability/MAL-2026-14105
 bcs-mini	*	MAL-2026-14076	https://osv.dev/vulnerability/MAL-2026-14076
 bcsgb0	*	MAL-2024-9130	https://osv.dev/vulnerability/MAL-2024-9130
+bcxhdh1kjlopsde	*	MAL-0000-ghsa-malware-6debfbf7a8a0e250	https://github.com/ossf/malicious-packages/blob/2b483e6482b882a524a7cb2b8b1f4e75312ad3d0/osv/malicious/npm/bcxhdh1kjlopsde/MAL-0000-ghsa-malware-6debfbf7a8a0e250.json
 bcztpuiojndlhmvx	*	MAL-2022-1485	https://osv.dev/vulnerability/MAL-2022-1485
 bd-header-component	*	MAL-2025-15546	https://osv.dev/vulnerability/MAL-2025-15546
 bdc-materials	*	MAL-2024-10554	https://osv.dev/vulnerability/MAL-2024-10554
@@ -53175,6 +53177,7 @@ cj-tests-2fa	*	MAL-2025-17078	https://osv.dev/vulnerability/MAL-2025-17078
 cjblog	*	MAL-2025-17079	https://osv.dev/vulnerability/MAL-2025-17079
 cjdfswifuem3	*	MAL-2026-13793	https://osv.dev/vulnerability/MAL-2026-13793
 cjkbrzfawhsudito	*	MAL-2025-17080	https://osv.dev/vulnerability/MAL-2025-17080
+cjlowuxbnexkhgpzq	*	MAL-0000-ghsa-malware-fef0f5035f48d317	https://github.com/ossf/malicious-packages/blob/2b483e6482b882a524a7cb2b8b1f4e75312ad3d0/osv/malicious/npm/cjlowuxbnexkhgpzq/MAL-0000-ghsa-malware-fef0f5035f48d317.json
 cjs-biginteger	*	MAL-2026-2882	https://osv.dev/vulnerability/MAL-2026-2882
 cjvdel	*	MAL-2025-17081	https://osv.dev/vulnerability/MAL-2025-17081
 cjvifzdwptumhqra	*	MAL-2025-17082	https://osv.dev/vulnerability/MAL-2025-17082
@@ -196006,6 +196009,7 @@ tailwin	*	MAL-2026-332	https://osv.dev/vulnerability/MAL-2026-332
 tailwind-anim	*	MAL-2026-11500	https://osv.dev/vulnerability/MAL-2026-11500
 tailwind-animaflow-kit	2.0.6	MAL-2026-18077	https://osv.dev/vulnerability/MAL-2026-18077
 tailwind-animate-css-plugin	*	MAL-2026-14352	https://osv.dev/vulnerability/MAL-2026-14352
+tailwind-animate-kit	*	MAL-0000-ghsa-malware-43fd5db411082c4d	https://github.com/ossf/malicious-packages/blob/2b483e6482b882a524a7cb2b8b1f4e75312ad3d0/osv/malicious/npm/tailwind-animate-kit/MAL-0000-ghsa-malware-43fd5db411082c4d.json
 tailwind-animate-kit	2.0.6	MAL-2026-18078	https://osv.dev/vulnerability/MAL-2026-18078
 tailwind-animate-kit	2.0.7	MAL-2026-18078	https://osv.dev/vulnerability/MAL-2026-18078
 tailwind-animate-kit	2.0.8	MAL-2026-18078	https://osv.dev/vulnerability/MAL-2026-18078
@@ -196019,6 +196023,7 @@ tailwind-animation-founder	2.5.7	MAL-2026-12218	https://osv.dev/vulnerability/MA
 tailwind-animationbased	*	MAL-2025-192640	https://osv.dev/vulnerability/MAL-2025-192640
 tailwind-animationbasis	*	MAL-2026-2156	https://osv.dev/vulnerability/MAL-2026-2156
 tailwind-animationgroup	*	MAL-2026-12219	https://osv.dev/vulnerability/MAL-2026-12219
+tailwind-animationlab	*	MAL-0000-ghsa-malware-48c5fa02bdc55ba5	https://github.com/ossf/malicious-packages/blob/2b483e6482b882a524a7cb2b8b1f4e75312ad3d0/osv/malicious/npm/tailwind-animationlab/MAL-0000-ghsa-malware-48c5fa02bdc55ba5.json
 tailwind-animationlab	2.0.6	MAL-2026-18080	https://osv.dev/vulnerability/MAL-2026-18080
 tailwind-animationpack	*	MAL-2026-12220	https://osv.dev/vulnerability/MAL-2026-12220
 tailwind-animator	*	MAL-2026-5516	https://osv.dev/vulnerability/MAL-2026-5516
@@ -196082,7 +196087,9 @@ tailwind-glass-icon	*	MAL-2025-47503	https://osv.dev/vulnerability/MAL-2025-4750
 tailwind-gutenberg-block-zero	1.0.0	MAL-2026-11044	https://osv.dev/vulnerability/MAL-2026-11044
 tailwind-hide-scrollbar	*	MAL-2026-12116	https://osv.dev/vulnerability/MAL-2026-12116
 tailwind-inquirer	*	MAL-2025-190631	https://osv.dev/vulnerability/MAL-2025-190631
+tailwind-keyframes	*	MAL-0000-ghsa-malware-25ced25497fa5da6	https://github.com/ossf/malicious-packages/blob/2b483e6482b882a524a7cb2b8b1f4e75312ad3d0/osv/malicious/npm/tailwind-keyframes/MAL-0000-ghsa-malware-25ced25497fa5da6.json
 tailwind-keyframes	2.0.6	MAL-2026-18083	https://osv.dev/vulnerability/MAL-2026-18083
+tailwind-kinetic	*	MAL-0000-ghsa-malware-360ef31c3dc256d8	https://github.com/ossf/malicious-packages/blob/2b483e6482b882a524a7cb2b8b1f4e75312ad3d0/osv/malicious/npm/tailwind-kinetic/MAL-0000-ghsa-malware-360ef31c3dc256d8.json
 tailwind-kinetic	2.0.6	MAL-2026-18084	https://osv.dev/vulnerability/MAL-2026-18084
 tailwind-kinetic	2.0.8	MAL-2026-18084	https://osv.dev/vulnerability/MAL-2026-18084
 tailwind-lines-clamp	*	MAL-2026-2655	https://osv.dev/vulnerability/MAL-2026-2655
@@ -196141,6 +196148,7 @@ tailwindcss-3d-styles	1.2.4	MAL-2026-15905	https://osv.dev/vulnerability/MAL-202
 tailwindcss-aerowind	*	MAL-2025-49384	https://osv.dev/vulnerability/MAL-2025-49384
 tailwindcss-altair-pavo-jekyll	*	MAL-2025-148438	https://osv.dev/vulnerability/MAL-2025-148438
 tailwindcss-anim	*	MAL-2026-11487	https://osv.dev/vulnerability/MAL-2026-11487
+tailwindcss-animate-catalog	*	MAL-0000-ghsa-malware-60eab09ec42001eb	https://github.com/ossf/malicious-packages/blob/2b483e6482b882a524a7cb2b8b1f4e75312ad3d0/osv/malicious/npm/tailwindcss-animate-catalog/MAL-0000-ghsa-malware-60eab09ec42001eb.json
 tailwindcss-animate-catalog	2.0.6	MAL-2026-18085	https://osv.dev/vulnerability/MAL-2026-18085
 tailwindcss-animate-catalog	2.0.7	MAL-2026-18085	https://osv.dev/vulnerability/MAL-2026-18085
 tailwindcss-animate-expand	1.0.0	MAL-2025-5090	https://osv.dev/vulnerability/MAL-2025-5090
@@ -196224,6 +196232,7 @@ tailwindcss-hide-scrollbar	2.5.3	MAL-2026-13424	https://osv.dev/vulnerability/MA
 tailwindcss-hide-scrollbar	2.5.4	MAL-2026-13424	https://osv.dev/vulnerability/MAL-2026-13424
 tailwindcss-iota-materialize-spica	*	MAL-2025-148444	https://osv.dev/vulnerability/MAL-2025-148444
 tailwindcss-janus-docusaurus-eslint	*	MAL-2025-148445	https://osv.dev/vulnerability/MAL-2025-148445
+tailwindcss-keyframe-kit	*	MAL-0000-ghsa-malware-8365ddbac510a90a	https://github.com/ossf/malicious-packages/blob/2b483e6482b882a524a7cb2b8b1f4e75312ad3d0/osv/malicious/npm/tailwindcss-keyframe-kit/MAL-0000-ghsa-malware-8365ddbac510a90a.json
 tailwindcss-keyframe-kit	3.0.0	MAL-2026-18088	https://osv.dev/vulnerability/MAL-2026-18088
 tailwindcss-keyframe-kit	3.0.1	MAL-2026-18088	https://osv.dev/vulnerability/MAL-2026-18088
 tailwindcss-keyframe-kit	3.0.2	MAL-2026-18088	https://osv.dev/vulnerability/MAL-2026-18088
