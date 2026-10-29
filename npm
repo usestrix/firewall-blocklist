@@ -7441,6 +7441,7 @@
 @johndeere-tech/helios-mat-styles	*	MAL-2025-2732	https://osv.dev/vulnerability/MAL-2025-2732
 @johndeere-tech/helios-ng-components	*	MAL-2025-3673	https://osv.dev/vulnerability/MAL-2025-3673
 @johndeere-tech/helios-styles	*	MAL-2025-2733	https://osv.dev/vulnerability/MAL-2025-2733
+@johnruff215-dev/solana-wallet-tracker	*	MAL-0000-solana-wallet-tracker	https://github.com/ossf/malicious-packages/pull/1685
 @johntaohunter/forge-jsx	*	MAL-2026-5674	https://osv.dev/vulnerability/MAL-2026-5674
 @jojoxyz/condemnedforce-baileys	*	MAL-2026-17360	https://osv.dev/vulnerability/MAL-2026-17360
 @joshcyber123/frontend-logger	*	MAL-2025-3674	https://osv.dev/vulnerability/MAL-2025-3674

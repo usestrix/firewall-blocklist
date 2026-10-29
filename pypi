@@ -16742,6 +16742,7 @@ w722-poc	0.1	MAL-2025-1003	https://osv.dev/vulnerability/MAL-2025-1003
 wacve-utils	1.0.7	MAL-2026-11428	https://osv.dev/vulnerability/MAL-2026-11428
 wallet-rpc	0.1.1	MAL-2025-4258	https://osv.dev/vulnerability/MAL-2025-4258
 wallet-scanner-pro	1.0.0	MAL-2026-3392	https://osv.dev/vulnerability/MAL-2026-3392
+wallet-tracking	*	MAL-0000-wallet-tracking	https://github.com/ossf/malicious-packages/pull/1684
 wallet-utils	0.1.0	MAL-2025-6615	https://osv.dev/vulnerability/MAL-2025-6615
 wallet-utils-pro	1.0.0	MAL-2026-3383	https://osv.dev/vulnerability/MAL-2026-3383
 wallet-utils-pro	1.0.1	MAL-2026-3383	https://osv.dev/vulnerability/MAL-2026-3383
