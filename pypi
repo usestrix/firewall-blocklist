@@ -5316,6 +5316,7 @@ gztensor-cli	0.0.3	MAL-2026-53	https://osv.dev/vulnerability/MAL-2026-53
 gztensor-cli	0.0.4	MAL-2026-53	https://osv.dev/vulnerability/MAL-2026-53
 gztensor-cli	0.1.1	MAL-2026-53	https://osv.dev/vulnerability/MAL-2026-53
 gztensor-cli	0.1.2	MAL-2026-53	https://osv.dev/vulnerability/MAL-2026-53
+h13t0ry-hello-demo	0.1.0	MAL-0000-amazon-inspector-34a52ed4e00f54dc	https://github.com/ossf/malicious-packages/blob/2d0ba34a45bca84a4367b0fc9ea27c99b618c33e/osv/malicious/pypi/h13t0ry-hello-demo/MAL-0000-amazon-inspector-34a52ed4e00f54dc.json
 h13t0ry-hello-demo	0.1.0	MAL-2026-18336	https://osv.dev/vulnerability/MAL-2026-18336
 h4xupdate	0.0.1	MAL-2026-5093	https://osv.dev/vulnerability/MAL-2026-5093
 h99ai	0.1.0	MAL-2024-10033	https://osv.dev/vulnerability/MAL-2024-10033
@@ -16099,6 +16100,7 @@ tq95	0.5	MAL-2025-6604	https://osv.dev/vulnerability/MAL-2025-6604
 tq95	0.6	MAL-2025-6604	https://osv.dev/vulnerability/MAL-2025-6604
 trainers-cooks	0.0.1	MAL-2024-6166	https://osv.dev/vulnerability/MAL-2024-6166
 trainers-cooks	0.0.2	MAL-2024-6166	https://osv.dev/vulnerability/MAL-2024-6166
+trajmetrics	0.5.3	MAL-0000-amazon-inspector-f024efebedf9b6fd	https://github.com/ossf/malicious-packages/blob/2d0ba34a45bca84a4367b0fc9ea27c99b618c33e/osv/malicious/pypi/trajmetrics/MAL-0000-amazon-inspector-f024efebedf9b6fd.json
 trajmetrics	0.5.3	MAL-2026-18354	https://osv.dev/vulnerability/MAL-2026-18354
 transaction-analysis	0.1.0	MAL-2025-3010	https://osv.dev/vulnerability/MAL-2025-3010
 transaction-analysis	1.0.1	MAL-2025-3010	https://osv.dev/vulnerability/MAL-2025-3010
