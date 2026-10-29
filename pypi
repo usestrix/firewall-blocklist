@@ -9315,7 +9315,7 @@ pnuske	1.3	MAL-2025-3455	https://osv.dev/vulnerability/MAL-2025-3455
 pnuske	1.4	MAL-2025-3455	https://osv.dev/vulnerability/MAL-2025-3455
 pnuske	1.5	MAL-2025-3455	https://osv.dev/vulnerability/MAL-2025-3455
 poc-nvk	0.1.2	MAL-2023-8290	https://osv.dev/vulnerability/MAL-2023-8290
-poc-revshell	0.1.0	MAL-0000-amazon-inspector-08edc162927c80cd	https://github.com/ossf/malicious-packages/blob/c538e8b69206c5eb2599a1e81bc211b0be0f113e/osv/malicious/pypi/poc-revshell/MAL-0000-amazon-inspector-08edc162927c80cd.json
+poc-revshell	0.1.0	MAL-2026-18378	https://osv.dev/vulnerability/MAL-2026-18378
 poc-suppentest	1.0.0	MAL-2025-191652	https://osv.dev/vulnerability/MAL-2025-191652
 pocpackage1234	0.10	MAL-2024-5557	https://osv.dev/vulnerability/MAL-2024-5557
 poenpyxl	*	MAL-2023-1951	https://osv.dev/vulnerability/MAL-2023-1951
