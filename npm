@@ -190597,9 +190597,9 @@ spectral-corsair-navigator	*	MAL-2026-1244	https://osv.dev/vulnerability/MAL-202
 spectral-engine	2.14.801	MAL-2026-2388	https://osv.dev/vulnerability/MAL-2026-2388
 spectral-macro-score-adapter	*	MAL-2022-6231	https://osv.dev/vulnerability/MAL-2022-6231
 spectral-module	99.0.0	MAL-2026-2389	https://osv.dev/vulnerability/MAL-2026-2389
-spectral-net-probe	1.0.1	MAL-0000-invisirisk-spectral-net-probe	https://github.com/ossf/malicious-packages/blob/9a99dbe3b19c825cbce0d0f8deef71ac32d79d32/osv/malicious/npm/spectral-net-probe/MAL-0000-invisirisk-spectral-net-probe.json
-spectral-net-probe	1.0.10	MAL-0000-invisirisk-spectral-net-probe	https://github.com/ossf/malicious-packages/blob/9a99dbe3b19c825cbce0d0f8deef71ac32d79d32/osv/malicious/npm/spectral-net-probe/MAL-0000-invisirisk-spectral-net-probe.json
-spectral-net-probe	1.0.4	MAL-0000-invisirisk-spectral-net-probe	https://github.com/ossf/malicious-packages/blob/9a99dbe3b19c825cbce0d0f8deef71ac32d79d32/osv/malicious/npm/spectral-net-probe/MAL-0000-invisirisk-spectral-net-probe.json
+spectral-net-probe	1.0.1	MAL-2026-18368	https://osv.dev/vulnerability/MAL-2026-18368
+spectral-net-probe	1.0.10	MAL-2026-18368	https://osv.dev/vulnerability/MAL-2026-18368
+spectral-net-probe	1.0.4	MAL-2026-18368	https://osv.dev/vulnerability/MAL-2026-18368
 spectral-utils	*	MAL-2025-49301	https://osv.dev/vulnerability/MAL-2025-49301
 spectral-wraith	*	MAL-2026-11385	https://osv.dev/vulnerability/MAL-2026-11385
 spectro-cloud-docs	*	MAL-2023-8700	https://osv.dev/vulnerability/MAL-2023-8700
