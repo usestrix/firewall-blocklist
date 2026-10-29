@@ -62233,7 +62233,6 @@ dependencyconfusion9	*	MAL-2025-2371	https://osv.dev/vulnerability/MAL-2025-2371
 dependencyconfusioncve	*	MAL-2022-2441	https://osv.dev/vulnerability/MAL-2022-2441
 dependencyconfusioncve2	*	MAL-2022-2442	https://osv.dev/vulnerability/MAL-2022-2442
 dependencyfsdsfdsfg	*	MAL-2026-13754	https://osv.dev/vulnerability/MAL-2026-13754
-dependencykfeg	2.1.3	MAL-0000-dependencykfeg	https://github.com/ossf/malicious-packages/pull/1689
 dependencykfeg	25.0.3	MAL-0000-dependencykfeg	https://github.com/ossf/malicious-packages/pull/1689
 dependencykfeg	25.1.3	MAL-0000-dependencykfeg	https://github.com/ossf/malicious-packages/pull/1689
 dependencykfeg	25.1.9	MAL-0000-dependencykfeg	https://github.com/ossf/malicious-packages/pull/1689
