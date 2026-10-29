@@ -236368,6 +236368,7 @@ zyncmap	0.0.1	MAL-2026-6708	https://osv.dev/vulnerability/MAL-2026-6708
 zyonite	*	MAL-2025-41241	https://osv.dev/vulnerability/MAL-2025-41241
 zyr-agent	1.5.7	MAL-2026-13471	https://osv.dev/vulnerability/MAL-2026-13471
 zyr-agent	1.6.2	MAL-2026-13471	https://osv.dev/vulnerability/MAL-2026-13471
+zystcdemo	1.0.0	MAL-0000-invisirisk-zystcdemo	https://github.com/ossf/malicious-packages/pull/1688
 zyymag-devapp	*	MAL-2025-111630	https://osv.dev/vulnerability/MAL-2025-111630
 zz-aipage-widget	*	MAL-2025-2199	https://osv.dev/vulnerability/MAL-2025-2199
 zz-react-custom-widget	*	MAL-2025-2200	https://osv.dev/vulnerability/MAL-2025-2200
