@@ -184061,6 +184061,7 @@ self-service-flex	9.9.9	MAL-2024-2998	https://osv.dev/vulnerability/MAL-2024-299
 self-service-portal-prod	*	MAL-2025-192288	https://osv.dev/vulnerability/MAL-2025-192288
 self-service-sigma-account	9.9.9	MAL-2024-2999	https://osv.dev/vulnerability/MAL-2024-2999
 self-sign	*	MAL-2026-14544	https://osv.dev/vulnerability/MAL-2026-14544
+self-v8	*	MAL-0000-self-v8	https://github.com/ossf/malicious-packages/pull/1686
 selfbot-developer	*	MAL-2022-5999	https://osv.dev/vulnerability/MAL-2022-5999
 selfbot-lofy	*	MAL-2026-1207	https://osv.dev/vulnerability/MAL-2026-1207
 selfbot-rpc	*	MAL-2025-4126	https://osv.dev/vulnerability/MAL-2025-4126
