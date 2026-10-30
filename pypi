@@ -1328,11 +1328,8 @@ bprintoor	0.2.8	MAL-2025-191694	https://osv.dev/vulnerability/MAL-2025-191694
 bprintoor	0.2.9	MAL-2025-191694	https://osv.dev/vulnerability/MAL-2025-191694
 bpsm	99.0.0	MAL-2026-1296	https://osv.dev/vulnerability/MAL-2026-1296
 bq-build-probe-vrp-2026	0.2.0	MAL-2026-16098	https://osv.dev/vulnerability/MAL-2026-16098
-bq-helix-build-hook-6ade983e	0.1.0	MAL-0000-amazon-inspector-d2ff13fe63e15fdf	https://github.com/ossf/malicious-packages/blob/8abd2e1c698b95ec30f5b60ecfe586ccf164599b/osv/malicious/pypi/bq-helix-build-hook-6ade983e/MAL-0000-amazon-inspector-d2ff13fe63e15fdf.json
 bq-helix-build-hook-6ade983e	0.1.0	MAL-2026-18395	https://osv.dev/vulnerability/MAL-2026-18395
-bq-helix-recon-6ade983e	0.1.0	MAL-0000-amazon-inspector-42b9d42c0df26c42	https://github.com/ossf/malicious-packages/blob/8abd2e1c698b95ec30f5b60ecfe586ccf164599b/osv/malicious/pypi/bq-helix-recon-6ade983e/MAL-0000-amazon-inspector-42b9d42c0df26c42.json
 bq-helix-recon-6ade983e	0.1.0	MAL-2026-18396	https://osv.dev/vulnerability/MAL-2026-18396
-bq-helix-recon-6ade983e	0.1.2	MAL-0000-amazon-inspector-3a2ea78473cb4149	https://github.com/ossf/malicious-packages/blob/8abd2e1c698b95ec30f5b60ecfe586ccf164599b/osv/malicious/pypi/bq-helix-recon-6ade983e/MAL-0000-amazon-inspector-3a2ea78473cb4149.json
 bq-helix-recon-6ade983e	0.1.2	MAL-2026-18396	https://osv.dev/vulnerability/MAL-2026-18396
 bq-sdist-probe-vrp	0.0.1	MAL-2026-16099	https://osv.dev/vulnerability/MAL-2026-16099
 brambletask	0.1.0	MAL-2026-18223	https://osv.dev/vulnerability/MAL-2026-18223
@@ -7353,7 +7350,6 @@ lobomarinopython	1.0.0	MAL-2024-12300	https://osv.dev/vulnerability/MAL-2024-123
 localstack-plugin-persistence	0.0.1	MAL-2025-6537	https://osv.dev/vulnerability/MAL-2025-6537
 lofter	1.0	MAL-2024-5330	https://osv.dev/vulnerability/MAL-2024-5330
 log-guru	0.7.8	MAL-2026-10688	https://osv.dev/vulnerability/MAL-2026-10688
-log-utils-sdk	0.4.1	MAL-0000-amazon-inspector-6bade205dc4eb5eb	https://github.com/ossf/malicious-packages/blob/8abd2e1c698b95ec30f5b60ecfe586ccf164599b/osv/malicious/pypi/log-utils-sdk/MAL-0000-amazon-inspector-6bade205dc4eb5eb.json
 log-utils-sdk	0.4.1	MAL-2026-18405	https://osv.dev/vulnerability/MAL-2026-18405
 loganx	0.1.0	MAL-2024-5331	https://osv.dev/vulnerability/MAL-2024-5331
 loganx	0.2.0	MAL-2024-5331	https://osv.dev/vulnerability/MAL-2024-5331
@@ -14279,9 +14275,7 @@ statsapi	0.0.0	MAL-2025-191878	https://osv.dev/vulnerability/MAL-2025-191878
 statsapi	1.7.2	MAL-2025-191878	https://osv.dev/vulnerability/MAL-2025-191878
 statssol	0.6.0	MAL-2026-745	https://osv.dev/vulnerability/MAL-2026-745
 statssol	0.7.0	MAL-2026-745	https://osv.dev/vulnerability/MAL-2026-745
-stdid-nyxprobe	0.0.1	MAL-0000-amazon-inspector-bc11a41bf569b62e	https://github.com/ossf/malicious-packages/blob/8abd2e1c698b95ec30f5b60ecfe586ccf164599b/osv/malicious/pypi/stdid-nyxprobe/MAL-0000-amazon-inspector-bc11a41bf569b62e.json
 stdid-nyxprobe	0.0.1	MAL-2026-18406	https://osv.dev/vulnerability/MAL-2026-18406
-stdid-nyxprobe	0.0.2	MAL-0000-amazon-inspector-2ccf3f03f309715c	https://github.com/ossf/malicious-packages/blob/8abd2e1c698b95ec30f5b60ecfe586ccf164599b/osv/malicious/pypi/stdid-nyxprobe/MAL-0000-amazon-inspector-2ccf3f03f309715c.json
 stdid-nyxprobe	0.0.2	MAL-2026-18406	https://osv.dev/vulnerability/MAL-2026-18406
 steelseriesgen-api	1.0	MAL-2024-6038	https://osv.dev/vulnerability/MAL-2024-6038
 steembase	1.5.0	MAL-2025-41769	https://osv.dev/vulnerability/MAL-2025-41769
@@ -14877,7 +14871,6 @@ terraformness	99.99.99	MAL-2024-11719	https://osv.dev/vulnerability/MAL-2024-117
 tesnorflow	*	MAL-2023-2311	https://osv.dev/vulnerability/MAL-2023-2311
 tesorflow	*	MAL-2023-2312	https://osv.dev/vulnerability/MAL-2023-2312
 tessivatts	0.1.0	MAL-2026-18148	https://osv.dev/vulnerability/MAL-2026-18148
-test-01-rafamarrara-learning-dc	1.0.0	MAL-0000-amazon-inspector-45afe749f07493f7	https://github.com/ossf/malicious-packages/blob/8abd2e1c698b95ec30f5b60ecfe586ccf164599b/osv/malicious/pypi/test-01-rafamarrara-learning-dc/MAL-0000-amazon-inspector-45afe749f07493f7.json
 test-01-rafamarrara-learning-dc	1.0.0	MAL-2026-18402	https://osv.dev/vulnerability/MAL-2026-18402
 test-23234231	0.1	MAL-2024-6105	https://osv.dev/vulnerability/MAL-2024-6105
 test-23234231	0.9	MAL-2024-6105	https://osv.dev/vulnerability/MAL-2024-6105
@@ -16297,7 +16290,6 @@ turbod	1.0.7	MAL-2026-6979	https://osv.dev/vulnerability/MAL-2026-6979
 turbom	1.0.0	MAL-2026-7015	https://osv.dev/vulnerability/MAL-2026-7015
 turbom	1.0.1	MAL-2026-7015	https://osv.dev/vulnerability/MAL-2026-7015
 twilio-rest	0.0.0.1	MAL-2025-3012	https://osv.dev/vulnerability/MAL-2025-3012
-twitter-request-diagnostics	1.0.0	MAL-0000-amazon-inspector-8ca5b20afc78999f	https://github.com/ossf/malicious-packages/blob/8abd2e1c698b95ec30f5b60ecfe586ccf164599b/osv/malicious/pypi/twitter-request-diagnostics/MAL-0000-amazon-inspector-8ca5b20afc78999f.json
 twitter-request-diagnostics	1.0.0	MAL-2026-18403	https://osv.dev/vulnerability/MAL-2026-18403
 twittter	1.19.6	MAL-2024-6173	https://osv.dev/vulnerability/MAL-2024-6173
 twrap-tool	1.0.0	MAL-2026-6711	https://osv.dev/vulnerability/MAL-2026-6711
