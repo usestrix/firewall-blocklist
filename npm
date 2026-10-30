@@ -93714,7 +93714,7 @@ grion-tyustu-nutr	*	MAL-2025-155355	https://osv.dev/vulnerability/MAL-2025-15535
 grion-tyutu-nutr	*	MAL-2025-155356	https://osv.dev/vulnerability/MAL-2025-155356
 griosn-tyustu-nutr	*	MAL-2025-155357	https://osv.dev/vulnerability/MAL-2025-155357
 griossn-tyustu-nutr	*	MAL-2025-155358	https://osv.dev/vulnerability/MAL-2025-155358
-grizzly-baileys	*	MAL-0000-ghsa-malware-6c286b1b2c91a034	https://github.com/ossf/malicious-packages/blob/f4b212862c33bce5fa819a8f587cbfd6a5624ddf/osv/malicious/npm/grizzly-baileys/MAL-0000-ghsa-malware-6c286b1b2c91a034.json
+grizzly-baileys	*	MAL-2026-18408	https://osv.dev/vulnerability/MAL-2026-18408
 grizzly_sql_graph_visualization	0.2.3	MAL-2023-1192	https://osv.dev/vulnerability/MAL-2023-1192
 grmakers	*	MAL-2025-21936	https://osv.dev/vulnerability/MAL-2025-21936
 grnhse	*	MAL-2022-3464	https://osv.dev/vulnerability/MAL-2022-3464
@@ -195947,7 +195947,7 @@ taap-context	*	MAL-2024-7990	https://osv.dev/vulnerability/MAL-2024-7990
 taap-package-rates	*	MAL-2024-7991	https://osv.dev/vulnerability/MAL-2024-7991
 taapi-adapter	*	MAL-2022-6405	https://osv.dev/vulnerability/MAL-2022-6405
 tabbables	*	MAL-2026-15524	https://osv.dev/vulnerability/MAL-2026-15524
-tabby-fknat	0.1.2	MAL-0000-ghsa-malware-a884dedd8a80f96b	https://github.com/ossf/malicious-packages/blob/f4b212862c33bce5fa819a8f587cbfd6a5624ddf/osv/malicious/npm/tabby-fknat/MAL-0000-ghsa-malware-a884dedd8a80f96b.json
+tabby-fknat	0.1.2	MAL-2026-18409	https://osv.dev/vulnerability/MAL-2026-18409
 tabcmd	*	MAL-2025-34360	https://osv.dev/vulnerability/MAL-2025-34360
 tabisapo	*	MAL-2025-34361	https://osv.dev/vulnerability/MAL-2025-34361
 tablator	*	MAL-2025-34362	https://osv.dev/vulnerability/MAL-2025-34362
