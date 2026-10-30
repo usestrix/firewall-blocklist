@@ -14275,8 +14275,8 @@ statsapi	0.0.0	MAL-2025-191878	https://osv.dev/vulnerability/MAL-2025-191878
 statsapi	1.7.2	MAL-2025-191878	https://osv.dev/vulnerability/MAL-2025-191878
 statssol	0.6.0	MAL-2026-745	https://osv.dev/vulnerability/MAL-2026-745
 statssol	0.7.0	MAL-2026-745	https://osv.dev/vulnerability/MAL-2026-745
-stdid-nyxprobe	0.0.1	MAL-0000-kam193-0178d6c7a642f903	https://github.com/ossf/malicious-packages/blob/7d3a5ef1b0aafb3b8fd596bee6d3fdd3ace8e9dc/osv/malicious/pypi/stdid-nyxprobe/MAL-0000-kam193-0178d6c7a642f903.json
-stdid-nyxprobe	0.0.2	MAL-0000-kam193-0178d6c7a642f903	https://github.com/ossf/malicious-packages/blob/7d3a5ef1b0aafb3b8fd596bee6d3fdd3ace8e9dc/osv/malicious/pypi/stdid-nyxprobe/MAL-0000-kam193-0178d6c7a642f903.json
+stdid-nyxprobe	0.0.1	MAL-2026-18406	https://osv.dev/vulnerability/MAL-2026-18406
+stdid-nyxprobe	0.0.2	MAL-2026-18406	https://osv.dev/vulnerability/MAL-2026-18406
 steelseriesgen-api	1.0	MAL-2024-6038	https://osv.dev/vulnerability/MAL-2024-6038
 steembase	1.5.0	MAL-2025-41769	https://osv.dev/vulnerability/MAL-2025-41769
 stillrequestsa	0.0.1	MAL-2024-6039	https://osv.dev/vulnerability/MAL-2024-6039
