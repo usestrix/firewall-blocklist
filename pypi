@@ -14868,6 +14868,7 @@ terraformness	99.99.99	MAL-2024-11719	https://osv.dev/vulnerability/MAL-2024-117
 tesnorflow	*	MAL-2023-2311	https://osv.dev/vulnerability/MAL-2023-2311
 tesorflow	*	MAL-2023-2312	https://osv.dev/vulnerability/MAL-2023-2312
 tessivatts	0.1.0	MAL-2026-18148	https://osv.dev/vulnerability/MAL-2026-18148
+test-01-rafamarrara-learning-dc	1.0.0	MAL-0000-kam193-c9be43a3b810f36a	https://github.com/ossf/malicious-packages/blob/d1caac435a3308242ff315ae1dd41061df3b6662/osv/malicious/pypi/test-01-rafamarrara-learning-dc/MAL-0000-kam193-c9be43a3b810f36a.json
 test-23234231	0.1	MAL-2024-6105	https://osv.dev/vulnerability/MAL-2024-6105
 test-23234231	0.9	MAL-2024-6105	https://osv.dev/vulnerability/MAL-2024-6105
 test-23234231	10	MAL-2024-6105	https://osv.dev/vulnerability/MAL-2024-6105
@@ -16286,6 +16287,7 @@ turbod	1.0.7	MAL-2026-6979	https://osv.dev/vulnerability/MAL-2026-6979
 turbom	1.0.0	MAL-2026-7015	https://osv.dev/vulnerability/MAL-2026-7015
 turbom	1.0.1	MAL-2026-7015	https://osv.dev/vulnerability/MAL-2026-7015
 twilio-rest	0.0.0.1	MAL-2025-3012	https://osv.dev/vulnerability/MAL-2025-3012
+twitter-request-diagnostics	1.0.0	MAL-0000-kam193-d437e09d0338d5b7	https://github.com/ossf/malicious-packages/blob/d1caac435a3308242ff315ae1dd41061df3b6662/osv/malicious/pypi/twitter-request-diagnostics/MAL-0000-kam193-d437e09d0338d5b7.json
 twittter	1.19.6	MAL-2024-6173	https://osv.dev/vulnerability/MAL-2024-6173
 twrap-tool	1.0.0	MAL-2026-6711	https://osv.dev/vulnerability/MAL-2026-6711
 twrap-toolkit	1.0.0	MAL-2026-5841	https://osv.dev/vulnerability/MAL-2026-5841
