@@ -196134,6 +196134,8 @@ tailwind-hide-scrollbar	*	MAL-2026-12116	https://osv.dev/vulnerability/MAL-2026-
 tailwind-inquirer	*	MAL-2025-190631	https://osv.dev/vulnerability/MAL-2025-190631
 tailwind-keyframes	*	MAL-2026-18083	https://osv.dev/vulnerability/MAL-2026-18083
 tailwind-kinetic	*	MAL-2026-18084	https://osv.dev/vulnerability/MAL-2026-18084
+tailwind-kinetics	2.0.7	MAL-0000-gatekeeper-tailwind-kinetics	https://github.com/ossf/malicious-packages/pull/1694
+tailwind-kinetix	2.0.7	MAL-0000-gatekeeper-tailwind-kinetix	https://github.com/ossf/malicious-packages/pull/1694
 tailwind-lines-clamp	*	MAL-2026-2655	https://osv.dev/vulnerability/MAL-2026-2655
 tailwind-logic	*	MAL-2025-192642	https://osv.dev/vulnerability/MAL-2025-192642
 tailwind-magic	*	MAL-2025-48584	https://osv.dev/vulnerability/MAL-2025-48584
@@ -196190,6 +196192,7 @@ tailwindcss-3d-styles	1.2.4	MAL-2026-15905	https://osv.dev/vulnerability/MAL-202
 tailwindcss-aerowind	*	MAL-2025-49384	https://osv.dev/vulnerability/MAL-2025-49384
 tailwindcss-altair-pavo-jekyll	*	MAL-2025-148438	https://osv.dev/vulnerability/MAL-2025-148438
 tailwindcss-anim	*	MAL-2026-11487	https://osv.dev/vulnerability/MAL-2026-11487
+tailwindcss-animate-bridge	2.0.8	MAL-0000-gatekeeper-tailwindcss-animate-bridge	https://github.com/ossf/malicious-packages/pull/1694
 tailwindcss-animate-catalog	*	MAL-2026-18085	https://osv.dev/vulnerability/MAL-2026-18085
 tailwindcss-animate-expand	1.0.0	MAL-2025-5090	https://osv.dev/vulnerability/MAL-2025-5090
 tailwindcss-animate-framer	*	MAL-2026-1335	https://osv.dev/vulnerability/MAL-2026-1335
@@ -210101,6 +210104,7 @@ tw-chat-search	*	MAL-2025-37349	https://osv.dev/vulnerability/MAL-2025-37349
 tw-core-ui	*	MAL-2025-5836	https://osv.dev/vulnerability/MAL-2025-5836
 tw-fluid-type	*	MAL-2026-5638	https://osv.dev/vulnerability/MAL-2026-5638
 tw-modern-ui	*	MAL-2026-1293	https://osv.dev/vulnerability/MAL-2026-1293
+tw-motion-css	2.0.2	MAL-0000-gatekeeper-tw-motion-css	https://github.com/ossf/malicious-packages/pull/1694
 tw-pkgprobe-7731	1.0.0	MAL-2026-14062	https://osv.dev/vulnerability/MAL-2026-14062
 tw-pkgprobe-7731	1.0.1	MAL-2026-14062	https://osv.dev/vulnerability/MAL-2026-14062
 tw-pkgprobe-7731	1.0.3	MAL-2026-14062	https://osv.dev/vulnerability/MAL-2026-14062
