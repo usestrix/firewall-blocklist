@@ -32695,6 +32695,7 @@ apex-chart-react	*	MAL-2022-1035	https://osv.dev/vulnerability/MAL-2022-1035
 apex-connector	1.0.4	MAL-2026-3816	https://osv.dev/vulnerability/MAL-2026-3816
 apex-dotenv-parse-variables-wezen-ora	*	MAL-2025-139476	https://osv.dev/vulnerability/MAL-2025-139476
 apex-electron-protractor-mini-css-extract-plugin	*	MAL-2025-185489	https://osv.dev/vulnerability/MAL-2025-185489
+apex-fetch	*	MAL-0000-ghsa-malware-a6e333b1835e39c7	https://github.com/ossf/malicious-packages/blob/8992051aeb89cfdf34793f88646ae269345c90ee/osv/malicious/npm/apex-fetch/MAL-0000-ghsa-malware-a6e333b1835e39c7.json
 apex-fork-jupiter-winston	*	MAL-2025-185490	https://osv.dev/vulnerability/MAL-2025-185490
 apex-frontend-bootstrap-dynamo	*	MAL-2025-139477	https://osv.dev/vulnerability/MAL-2025-139477
 apex-frontend-jasmine-bellatrix	*	MAL-2025-139478	https://osv.dev/vulnerability/MAL-2025-139478
@@ -144172,6 +144173,7 @@ neural-network-scan	1.0.1	MAL-2026-5794	https://osv.dev/vulnerability/MAL-2026-5
 neural-network-scan	1.0.2	MAL-2026-5794	https://osv.dev/vulnerability/MAL-2026-5794
 neural-network-scan	1.0.8	MAL-2026-5794	https://osv.dev/vulnerability/MAL-2026-5794
 neural-network-scan	1.0.9	MAL-2026-5794	https://osv.dev/vulnerability/MAL-2026-5794
+neuralwhatsapp	*	MAL-0000-ghsa-malware-a341f13b84ee9c87	https://github.com/ossf/malicious-packages/blob/8992051aeb89cfdf34793f88646ae269345c90ee/osv/malicious/npm/neuralwhatsapp/MAL-0000-ghsa-malware-a341f13b84ee9c87.json
 neurodiff	*	MAL-2025-27327	https://osv.dev/vulnerability/MAL-2025-27327
 neuroglancer-rspack-project-source	*	MAL-2025-4977	https://osv.dev/vulnerability/MAL-2025-4977
 neuromorphic-arcturus-darkenergy-quark	*	MAL-2025-27328	https://osv.dev/vulnerability/MAL-2025-27328
@@ -156524,6 +156526,7 @@ ouklida	*	MAL-2025-28609	https://osv.dev/vulnerability/MAL-2025-28609
 ounziw	*	MAL-2025-28610	https://osv.dev/vulnerability/MAL-2025-28610
 our-status	1.0.0	MAL-2024-2813	https://osv.dev/vulnerability/MAL-2024-2813
 ouramerica-constants	1.0.0	MAL-2024-1100	https://osv.dev/vulnerability/MAL-2024-1100
+ourin-baileys	*	MAL-0000-ghsa-malware-c4045a1463ae4951	https://github.com/ossf/malicious-packages/blob/8992051aeb89cfdf34793f88646ae269345c90ee/osv/malicious/npm/ourin-baileys/MAL-0000-ghsa-malware-c4045a1463ae4951.json
 ourin-baileys	*	MAL-0000-ourin-baileys-phantomsub	https://github.com/ossf/malicious-packages/pull/1645
 ourtunes	*	MAL-2025-28611	https://osv.dev/vulnerability/MAL-2025-28611
 outage-form	*	MAL-2025-28612	https://osv.dev/vulnerability/MAL-2025-28612
@@ -227574,6 +227577,7 @@ wqajsn-devapp	*	MAL-2025-111034	https://osv.dev/vulnerability/MAL-2025-111034
 wqertyu	*	MAL-2025-39489	https://osv.dev/vulnerability/MAL-2025-39489
 wqhkjmnfyegalzdp	*	MAL-2022-7237	https://osv.dev/vulnerability/MAL-2022-7237
 wraith-module	99.0.0	MAL-2026-2397	https://osv.dev/vulnerability/MAL-2026-2397
+wrangler-deploy	1.5.5	MAL-0000-ghsa-malware-94e04300a988d25b	https://github.com/ossf/malicious-packages/blob/8992051aeb89cfdf34793f88646ae269345c90ee/osv/malicious/npm/wrangler-deploy/MAL-0000-ghsa-malware-94e04300a988d25b.json
 wrangler-deploy	1.5.5	MAL-2026-5267	https://osv.dev/vulnerability/MAL-2026-5267
 wrangler-dev-api-app	24.12.47	MAL-2023-1347	https://osv.dev/vulnerability/MAL-2023-1347
 wrankas-notthedevs	*	MAL-2025-111035	https://osv.dev/vulnerability/MAL-2025-111035
