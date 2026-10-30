@@ -171351,6 +171351,8 @@ random-string-64	1.0.0	MAL-2026-6484	https://osv.dev/vulnerability/MAL-2026-6484
 random-string-64	1.0.1	MAL-2026-6484	https://osv.dev/vulnerability/MAL-2026-6484
 random-teal-pig	*	MAL-2025-70176	https://osv.dev/vulnerability/MAL-2025-70176
 random-testing-npm	*	MAL-2022-5581	https://osv.dev/vulnerability/MAL-2022-5581
+random-transactions-sdk	1.0.1	MAL-0000-gatekeeper-random-transactions-sdk	https://github.com/ossf/malicious-packages/pull/1694
+random-transactions-sdk	1.0.4	MAL-0000-gatekeeper-random-transactions-sdk	https://github.com/ossf/malicious-packages/pull/1694
 random-vouchercode-generator	*	MAL-2022-5582	https://osv.dev/vulnerability/MAL-2022-5582
 random_anaconda_z3n	*	MAL-2025-107705	https://osv.dev/vulnerability/MAL-2025-107705
 random_antelope_z3n	*	MAL-2025-129683	https://osv.dev/vulnerability/MAL-2025-129683
