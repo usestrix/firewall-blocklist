@@ -100245,6 +100245,8 @@ hrxtable	91.90.0	MAL-2025-6096	https://osv.dev/vulnerability/MAL-2025-6096
 hrxtable	92.0.0	MAL-2025-6096	https://osv.dev/vulnerability/MAL-2025-6096
 hrxtable	93.0.0	MAL-2025-6096	https://osv.dev/vulnerability/MAL-2025-6096
 hs-api-next-gen	*	MAL-2025-22741	https://osv.dev/vulnerability/MAL-2025-22741
+hs-framework	999.9.1	MAL-0000-gatekeeper-hs-framework	https://github.com/ossf/malicious-packages/pull/1694
+hs-framework	999.9.2	MAL-0000-gatekeeper-hs-framework	https://github.com/ossf/malicious-packages/pull/1694
 hs-inflamable-too	*	MAL-2022-3685	https://osv.dev/vulnerability/MAL-2022-3685
 hs-loadsh	*	MAL-2022-3686	https://osv.dev/vulnerability/MAL-2022-3686
 hs-locale-management	*	MAL-2026-6394	https://osv.dev/vulnerability/MAL-2026-6394
