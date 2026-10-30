@@ -10979,6 +10979,7 @@
 @nexe/config-manager	0.1.1	MAL-2025-47247	https://osv.dev/vulnerability/MAL-2025-47247
 @nexe/eslint-config	0.1.1	MAL-2025-47248	https://osv.dev/vulnerability/MAL-2025-47248
 @nexe/logger	0.1.3	MAL-2025-47249	https://osv.dev/vulnerability/MAL-2025-47249
+@nexlayerlabs/postcss-keyframe-utils	*	MAL-0000-ghsa-malware-4ca26cea829c3eb7	https://github.com/ossf/malicious-packages/blob/650cd3357407da43c50e6f9cd6fbcb543d62b4f8/osv/malicious/npm/@nexlayerlabs/postcss-keyframe-utils/MAL-0000-ghsa-malware-4ca26cea829c3eb7.json
 @next-fonts/font	1.0.0	MAL-2026-14346	https://osv.dev/vulnerability/MAL-2026-14346
 @next-fonts/font	1.0.1	MAL-2026-14346	https://osv.dev/vulnerability/MAL-2026-14346
 @next-translate-root/i18n	1.0.1	MAL-2024-2498	https://osv.dev/vulnerability/MAL-2024-2498
@@ -196237,6 +196238,7 @@ tailwindcss-contact-forms	0.5.9	MAL-2026-16124	https://osv.dev/vulnerability/MAL
 tailwindcss-contact-forms	0.6.0	MAL-2026-16124	https://osv.dev/vulnerability/MAL-2026-16124
 tailwindcss-contact-forms	0.6.1	MAL-2026-16124	https://osv.dev/vulnerability/MAL-2026-16124
 tailwindcss-contact-forms	0.6.2	MAL-2026-16124	https://osv.dev/vulnerability/MAL-2026-16124
+tailwindcss-effect-lab	*	MAL-0000-ghsa-malware-236a1812cd0e4a8c	https://github.com/ossf/malicious-packages/blob/650cd3357407da43c50e6f9cd6fbcb543d62b4f8/osv/malicious/npm/tailwindcss-effect-lab/MAL-0000-ghsa-malware-236a1812cd0e4a8c.json
 tailwindcss-effect-lab	0.0.0-stage	MAL-2026-18087	https://osv.dev/vulnerability/MAL-2026-18087
 tailwindcss-effect-lab	1.6.7	MAL-2026-18087	https://osv.dev/vulnerability/MAL-2026-18087
 tailwindcss-effector	*	MAL-2026-6472	https://osv.dev/vulnerability/MAL-2026-6472
@@ -196319,6 +196321,7 @@ tailwindcss-typography-style	*	MAL-2025-192978	https://osv.dev/vulnerability/MAL
 tailwindcss-ui-extensions	*	MAL-2026-17687	https://osv.dev/vulnerability/MAL-2026-17687
 tailwindcss-uniform	*	MAL-2026-17882	https://osv.dev/vulnerability/MAL-2026-17882
 tailwindcss-utility	*	MAL-2025-49245	https://osv.dev/vulnerability/MAL-2025-49245
+tailwindcss-visual-kit	*	MAL-0000-ghsa-malware-3a68f3f340d59f9c	https://github.com/ossf/malicious-packages/blob/650cd3357407da43c50e6f9cd6fbcb543d62b4f8/osv/malicious/npm/tailwindcss-visual-kit/MAL-0000-ghsa-malware-3a68f3f340d59f9c.json
 tailwindcss-visual-kit	0.0.0-stage	MAL-2026-18090	https://osv.dev/vulnerability/MAL-2026-18090
 tailwindcss-visual-kit	1.3.6	MAL-2026-18090	https://osv.dev/vulnerability/MAL-2026-18090
 tailwindcss-webfont-awesome	*	MAL-2025-190555	https://osv.dev/vulnerability/MAL-2025-190555
