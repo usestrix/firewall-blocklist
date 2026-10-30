@@ -53237,6 +53237,7 @@ cladistics-tardigrade-blueshift-primatology	*	MAL-2025-17088	https://osv.dev/vul
 cladistics-virgo-transform-query	*	MAL-2025-186157	https://osv.dev/vulnerability/MAL-2025-186157
 claimora	1.0.4	MAL-2026-5608	https://osv.dev/vulnerability/MAL-2026-5608
 claims-accounts-lib	35.6.6	MAL-2026-12604	https://osv.dev/vulnerability/MAL-2026-12604
+claims-acct-unlock	25.2.1	MAL-0000-ossf-package-analysis-49e97601227bdd6c	https://github.com/ossf/malicious-packages/blob/bf5b82149b0c22a409fe064a7cf5e92319441107/osv/malicious/npm/claims-acct-unlock/MAL-0000-ossf-package-analysis-49e97601227bdd6c.json
 claims-api-adapters	35.7.8	MAL-2026-12605	https://osv.dev/vulnerability/MAL-2026-12605
 claims-api-clients-shared	35.1.9	MAL-2026-12606	https://osv.dev/vulnerability/MAL-2026-12606
 claims-auth-api-adapters	35.3.3	MAL-2026-12607	https://osv.dev/vulnerability/MAL-2026-12607
