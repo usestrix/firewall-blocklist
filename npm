@@ -41712,6 +41712,8 @@ bfruitmaliciousxmlparser	*	MAL-2025-192545	https://osv.dev/vulnerability/MAL-202
 bfs-hello-world	*	MAL-2022-1511	https://osv.dev/vulnerability/MAL-2022-1511
 bftry4	*	MAL-2025-15643	https://osv.dev/vulnerability/MAL-2025-15643
 bfvcjmwgayetoizd	*	MAL-2022-1512	https://osv.dev/vulnerability/MAL-2022-1512
+bfvkjmeikpwhqxc	1.0.0	MAL-0000-gatekeeper-bfvkjmeikpwhqxc	https://github.com/ossf/malicious-packages/pull/1694
+bfvkjmeikpwhqxc	1.0.1	MAL-0000-gatekeeper-bfvkjmeikpwhqxc	https://github.com/ossf/malicious-packages/pull/1694
 bfx-ext-js	*	MAL-2022-1513	https://osv.dev/vulnerability/MAL-2022-1513
 bfx-facs-api	*	MAL-2022-1514	https://osv.dev/vulnerability/MAL-2022-1514
 bfx-facs-auth-google	*	MAL-2022-1515	https://osv.dev/vulnerability/MAL-2022-1515
