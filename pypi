@@ -3180,8 +3180,8 @@ do-not-install-this-package-002	0.1.1	MAL-2026-163	https://osv.dev/vulnerability
 do-not-install-this-package-003	0.1.0	MAL-2026-1018	https://osv.dev/vulnerability/MAL-2026-1018
 do-not-install-this-package-004	0.1.0	MAL-2026-1436	https://osv.dev/vulnerability/MAL-2026-1436
 docontrol-mcp	999.0.0	MAL-2026-4811	https://osv.dev/vulnerability/MAL-2026-4811
-doctreelstm	1.0.0	MAL-0000-kam193-9609b278449fb9d1	https://github.com/ossf/malicious-packages/blob/6437b9746ea749b1816956832ccc53e61f9880ea/osv/malicious/pypi/doctreelstm/MAL-0000-kam193-9609b278449fb9d1.json
-doctreelstm	10.0.0	MAL-0000-kam193-9609b278449fb9d1	https://github.com/ossf/malicious-packages/blob/6437b9746ea749b1816956832ccc53e61f9880ea/osv/malicious/pypi/doctreelstm/MAL-0000-kam193-9609b278449fb9d1.json
+doctreelstm	1.0.0	MAL-2026-18430	https://osv.dev/vulnerability/MAL-2026-18430
+doctreelstm	10.0.0	MAL-2026-18430	https://osv.dev/vulnerability/MAL-2026-18430
 document-inference	0.0.0	MAL-2025-3742	https://osv.dev/vulnerability/MAL-2025-3742
 document-inference	0.0.1	MAL-2025-3742	https://osv.dev/vulnerability/MAL-2025-3742
 document-inference	0.0.2	MAL-2025-3742	https://osv.dev/vulnerability/MAL-2025-3742
