@@ -5983,6 +5983,9 @@ ipg	0.0	MAL-2024-5274	https://osv.dev/vulnerability/MAL-2024-5274
 ipllow	*	MAL-2023-1883	https://osv.dev/vulnerability/MAL-2023-1883
 irasim	99.6	MAL-2024-10824	https://osv.dev/vulnerability/MAL-2024-10824
 ironic-secureboot-driver	31463.0.0	MAL-2025-41692	https://osv.dev/vulnerability/MAL-2025-41692
+is-it-ai	0.1.0	MAL-0000-kam193-6a8580750a7d490d	https://github.com/ossf/malicious-packages/blob/d457b6a2327f14ea4c9457e3e62adcb848703735/osv/malicious/pypi/is-it-ai/MAL-0000-kam193-6a8580750a7d490d.json
+is-it-ai	0.1.1	MAL-0000-kam193-6a8580750a7d490d	https://github.com/ossf/malicious-packages/blob/d457b6a2327f14ea4c9457e3e62adcb848703735/osv/malicious/pypi/is-it-ai/MAL-0000-kam193-6a8580750a7d490d.json
+is-it-ai	0.1.3	MAL-0000-kam193-6a8580750a7d490d	https://github.com/ossf/malicious-packages/blob/d457b6a2327f14ea4c9457e3e62adcb848703735/osv/malicious/pypi/is-it-ai/MAL-0000-kam193-6a8580750a7d490d.json
 is-number-object	1.0.8	MAL-2025-6526	https://osv.dev/vulnerability/MAL-2025-6526
 isb	1.0.0	MAL-2026-1090	https://osv.dev/vulnerability/MAL-2026-1090
 isb	1.2.1	MAL-2026-1090	https://osv.dev/vulnerability/MAL-2026-1090
@@ -13923,6 +13926,9 @@ ska-low-cbf-fpga	0.0.0.1	MAL-2025-2997	https://osv.dev/vulnerability/MAL-2025-29
 sketchfab-spinner	99.9.10	MAL-2025-192380	https://osv.dev/vulnerability/MAL-2025-192380
 sketchfab-spinner	99.9.11	MAL-2025-192380	https://osv.dev/vulnerability/MAL-2025-192380
 sketchfab-spinner	99.9.9	MAL-2025-192380	https://osv.dev/vulnerability/MAL-2025-192380
+skills-analyzer	0.1.0	MAL-0000-kam193-415c95c384a9901b	https://github.com/ossf/malicious-packages/blob/d457b6a2327f14ea4c9457e3e62adcb848703735/osv/malicious/pypi/skills-analyzer/MAL-0000-kam193-415c95c384a9901b.json
+skills-analyzer	0.1.1	MAL-0000-kam193-415c95c384a9901b	https://github.com/ossf/malicious-packages/blob/d457b6a2327f14ea4c9457e3e62adcb848703735/osv/malicious/pypi/skills-analyzer/MAL-0000-kam193-415c95c384a9901b.json
+skills-analyzer	0.1.2	MAL-0000-kam193-415c95c384a9901b	https://github.com/ossf/malicious-packages/blob/d457b6a2327f14ea4c9457e3e62adcb848703735/osv/malicious/pypi/skills-analyzer/MAL-0000-kam193-415c95c384a9901b.json
 skillspector	0.0.1	MAL-2026-6561	https://osv.dev/vulnerability/MAL-2026-6561
 skillspector	0.0.2	MAL-2026-6561	https://osv.dev/vulnerability/MAL-2026-6561
 skillspector	0.0.3	MAL-2026-6561	https://osv.dev/vulnerability/MAL-2026-6561
