@@ -106530,6 +106530,8 @@ internal-plugin-lifecycle-card	99.9.10	MAL-2025-48434	https://osv.dev/vulnerabil
 internal-plugin-lifecycle-card	99.9.9	MAL-2025-48434	https://osv.dev/vulnerability/MAL-2025-48434
 internal-plugin-telemetry-backend	*	MAL-2025-6166	https://osv.dev/vulnerability/MAL-2025-6166
 internal-random	>=16.0.0	MAL-2025-6732	https://osv.dev/vulnerability/MAL-2025-6732
+internal-renderers	1.0.0	MAL-0000-gatekeeper-internal-renderers	https://github.com/ossf/malicious-packages/pull/1694
+internal-renderers	10.0.0	MAL-0000-gatekeeper-internal-renderers	https://github.com/ossf/malicious-packages/pull/1694
 internal-runtime	10.0.1	MAL-2025-48846	https://osv.dev/vulnerability/MAL-2025-48846
 internal-runtime-test	10.0.1	MAL-2025-48847	https://osv.dev/vulnerability/MAL-2025-48847
 internal-scripts	*	MAL-2022-3868	https://osv.dev/vulnerability/MAL-2022-3868
@@ -157208,6 +157210,8 @@ pancakepool	*	MAL-2025-48000	https://osv.dev/vulnerability/MAL-2025-48000
 pancakeswap-oracle-prediction	*	MAL-2025-4589	https://osv.dev/vulnerability/MAL-2025-4589
 pancakeswap-v2-subgraph	*	MAL-2022-5206	https://osv.dev/vulnerability/MAL-2022-5206
 pancakeswap.com	*	MAL-2023-667	https://osv.dev/vulnerability/MAL-2023-667
+pandafortunerush	1.0.0	MAL-0000-gatekeeper-pandafortunerush	https://github.com/ossf/malicious-packages/pull/1694
+pandafortunerush	10.0.0	MAL-0000-gatekeeper-pandafortunerush	https://github.com/ossf/malicious-packages/pull/1694
 pandas-cookbook-code-notes	*	MAL-2025-45503	https://osv.dev/vulnerability/MAL-2025-45503
 pandeco	*	MAL-2025-28698	https://osv.dev/vulnerability/MAL-2025-28698
 pandis	*	MAL-2025-28699	https://osv.dev/vulnerability/MAL-2025-28699
