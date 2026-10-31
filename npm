@@ -138424,6 +138424,8 @@ mryayaa	*	MAL-2024-12006	https://osv.dev/vulnerability/MAL-2024-12006
 ms-2.0.0	*	MAL-2022-4719	https://osv.dev/vulnerability/MAL-2022-4719
 ms-affiliate-links	*	MAL-2026-2643	https://osv.dev/vulnerability/MAL-2026-2643
 ms-azuretools.vscode-azureresourcegroups	*	MAL-2025-26830	https://osv.dev/vulnerability/MAL-2025-26830
+ms-client-portal	1.0.0	MAL-0000-invisirisk-ms-client-portal	https://github.com/ossf/malicious-packages/pull/1696
+ms-client-portal	10.0.0	MAL-0000-invisirisk-ms-client-portal	https://github.com/ossf/malicious-packages/pull/1696
 ms-faber-logicservice	*	MAL-2025-26831	https://osv.dev/vulnerability/MAL-2025-26831
 ms-graph-types	*	MAL-2026-3651	https://osv.dev/vulnerability/MAL-2026-3651
 ms-gsl	*	MAL-2025-45239	https://osv.dev/vulnerability/MAL-2025-45239
