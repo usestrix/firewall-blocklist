@@ -125511,7 +125511,7 @@ local-beige-dolphin	*	MAL-2025-69198	https://osv.dev/vulnerability/MAL-2025-6919
 local-brown-jackal	*	MAL-2025-69199	https://osv.dev/vulnerability/MAL-2025-69199
 local-callback-miranda-venus	*	MAL-2025-144483	https://osv.dev/vulnerability/MAL-2025-144483
 local-child-process-supervisor-miranda	*	MAL-2025-144484	https://osv.dev/vulnerability/MAL-2025-144484
-local-commander-agent	0.3.52	MAL-0000-ghsa-malware-bddef1c4c8e802c4	https://github.com/ossf/malicious-packages/blob/e9999b8943e12e0b0ec408ed0124f705bfaaa963/osv/malicious/npm/local-commander-agent/MAL-0000-ghsa-malware-bddef1c4c8e802c4.json
+local-commander-agent	0.3.52	MAL-2026-18425	https://osv.dev/vulnerability/MAL-2026-18425
 local-config-parser	*	MAL-2026-11167	https://osv.dev/vulnerability/MAL-2026-11167
 local-css-loader-ursa-venus	*	MAL-2025-144485	https://osv.dev/vulnerability/MAL-2025-144485
 local-cz-conventional-changelog-cosmos-quark	*	MAL-2025-187836	https://osv.dev/vulnerability/MAL-2025-187836
