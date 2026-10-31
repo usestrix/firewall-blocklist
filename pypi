@@ -7770,6 +7770,10 @@ mcurl	*	MAL-2023-4750	https://osv.dev/vulnerability/MAL-2023-4750
 mcvirtual	*	MAL-2023-4751	https://osv.dev/vulnerability/MAL-2023-4751
 mcvisa	*	MAL-2023-4752	https://osv.dev/vulnerability/MAL-2023-4752
 mcvm	*	MAL-2023-4753	https://osv.dev/vulnerability/MAL-2023-4753
+md-to-slides	0.1.0	MAL-0000-kam193-b11c84f48dc5185c	https://github.com/ossf/malicious-packages/blob/c8ca30e4e66f5c6e78fd7cf099406ffab244cc5c/osv/malicious/pypi/md-to-slides/MAL-0000-kam193-b11c84f48dc5185c.json
+md-to-slides	0.1.1	MAL-0000-kam193-b11c84f48dc5185c	https://github.com/ossf/malicious-packages/blob/c8ca30e4e66f5c6e78fd7cf099406ffab244cc5c/osv/malicious/pypi/md-to-slides/MAL-0000-kam193-b11c84f48dc5185c.json
+md-to-slides	0.1.2	MAL-0000-kam193-b11c84f48dc5185c	https://github.com/ossf/malicious-packages/blob/c8ca30e4e66f5c6e78fd7cf099406ffab244cc5c/osv/malicious/pypi/md-to-slides/MAL-0000-kam193-b11c84f48dc5185c.json
+md-to-slides	0.1.3	MAL-0000-kam193-b11c84f48dc5185c	https://github.com/ossf/malicious-packages/blob/c8ca30e4e66f5c6e78fd7cf099406ffab244cc5c/osv/malicious/pypi/md-to-slides/MAL-0000-kam193-b11c84f48dc5185c.json
 md5-en	0.1.0	MAL-2025-191649	https://osv.dev/vulnerability/MAL-2025-191649
 md5-en	0.2.0	MAL-2025-191649	https://osv.dev/vulnerability/MAL-2025-191649
 mdkjrkjelz	0.0.1	MAL-2024-5356	https://osv.dev/vulnerability/MAL-2024-5356
@@ -8025,6 +8029,12 @@ mult-flow	1.0.0	MAL-2024-5381	https://osv.dev/vulnerability/MAL-2024-5381
 mult-flow	1.0.1	MAL-2024-5381	https://osv.dev/vulnerability/MAL-2024-5381
 mult-flow	1.0.1.1	MAL-2024-5381	https://osv.dev/vulnerability/MAL-2024-5381
 mult-flow	1.0.2	MAL-2024-5381	https://osv.dev/vulnerability/MAL-2024-5381
+multi-convert	0.1.0	MAL-0000-kam193-63d1834ac6733034	https://github.com/ossf/malicious-packages/blob/c8ca30e4e66f5c6e78fd7cf099406ffab244cc5c/osv/malicious/pypi/multi-convert/MAL-0000-kam193-63d1834ac6733034.json
+multi-convert	0.1.1	MAL-0000-kam193-63d1834ac6733034	https://github.com/ossf/malicious-packages/blob/c8ca30e4e66f5c6e78fd7cf099406ffab244cc5c/osv/malicious/pypi/multi-convert/MAL-0000-kam193-63d1834ac6733034.json
+multi-convert	0.1.2	MAL-0000-kam193-63d1834ac6733034	https://github.com/ossf/malicious-packages/blob/c8ca30e4e66f5c6e78fd7cf099406ffab244cc5c/osv/malicious/pypi/multi-convert/MAL-0000-kam193-63d1834ac6733034.json
+multi-convert	0.1.3	MAL-0000-kam193-63d1834ac6733034	https://github.com/ossf/malicious-packages/blob/c8ca30e4e66f5c6e78fd7cf099406ffab244cc5c/osv/malicious/pypi/multi-convert/MAL-0000-kam193-63d1834ac6733034.json
+multi-convert	0.1.4	MAL-0000-kam193-63d1834ac6733034	https://github.com/ossf/malicious-packages/blob/c8ca30e4e66f5c6e78fd7cf099406ffab244cc5c/osv/malicious/pypi/multi-convert/MAL-0000-kam193-63d1834ac6733034.json
+multi-convert	0.1.5	MAL-0000-kam193-63d1834ac6733034	https://github.com/ossf/malicious-packages/blob/c8ca30e4e66f5c6e78fd7cf099406ffab244cc5c/osv/malicious/pypi/multi-convert/MAL-0000-kam193-63d1834ac6733034.json
 multicolored	1.0.0	MAL-2023-8765	https://osv.dev/vulnerability/MAL-2023-8765
 multiconnect	2.33.18	MAL-2024-5382	https://osv.dev/vulnerability/MAL-2024-5382
 multiconnect	2.33.19	MAL-2024-5382	https://osv.dev/vulnerability/MAL-2024-5382
@@ -13926,8 +13936,11 @@ ska-low-cbf-fpga	0.0.0.1	MAL-2025-2997	https://osv.dev/vulnerability/MAL-2025-29
 sketchfab-spinner	99.9.10	MAL-2025-192380	https://osv.dev/vulnerability/MAL-2025-192380
 sketchfab-spinner	99.9.11	MAL-2025-192380	https://osv.dev/vulnerability/MAL-2025-192380
 sketchfab-spinner	99.9.9	MAL-2025-192380	https://osv.dev/vulnerability/MAL-2025-192380
+skills-analyzer	0.1.0	MAL-0000-kam193-ad55bf608a0d98ad	https://github.com/ossf/malicious-packages/blob/c8ca30e4e66f5c6e78fd7cf099406ffab244cc5c/osv/malicious/pypi/skills-analyzer/MAL-0000-kam193-ad55bf608a0d98ad.json
 skills-analyzer	0.1.0	MAL-2026-18427	https://osv.dev/vulnerability/MAL-2026-18427
+skills-analyzer	0.1.1	MAL-0000-kam193-ad55bf608a0d98ad	https://github.com/ossf/malicious-packages/blob/c8ca30e4e66f5c6e78fd7cf099406ffab244cc5c/osv/malicious/pypi/skills-analyzer/MAL-0000-kam193-ad55bf608a0d98ad.json
 skills-analyzer	0.1.1	MAL-2026-18427	https://osv.dev/vulnerability/MAL-2026-18427
+skills-analyzer	0.1.2	MAL-0000-kam193-ad55bf608a0d98ad	https://github.com/ossf/malicious-packages/blob/c8ca30e4e66f5c6e78fd7cf099406ffab244cc5c/osv/malicious/pypi/skills-analyzer/MAL-0000-kam193-ad55bf608a0d98ad.json
 skills-analyzer	0.1.2	MAL-2026-18427	https://osv.dev/vulnerability/MAL-2026-18427
 skillspector	0.0.1	MAL-2026-6561	https://osv.dev/vulnerability/MAL-2026-6561
 skillspector	0.0.2	MAL-2026-6561	https://osv.dev/vulnerability/MAL-2026-6561
