@@ -2649,6 +2649,7 @@ m8405v3bjn	0.0.1	MAL-2026-8081	https://osv.dev/vulnerability/MAL-2026-8081
 m8405v4bpo	0.0.1	MAL-2026-8082	https://osv.dev/vulnerability/MAL-2026-8082
 m8405v5lmc	0.0.1	MAL-2026-8083	https://osv.dev/vulnerability/MAL-2026-8083
 macklemore	1.0.1	MAL-2025-192910	https://osv.dev/vulnerability/MAL-2025-192910
+macs-shoaibs-pro17	90002.1	MAL-0000-ossf-package-analysis-b839ba696947a26e	https://github.com/ossf/malicious-packages/blob/272016e9ee45f27841fddda33e582a056cf6b4c5/osv/malicious/rubygems/macs-shoaibs-pro17/MAL-0000-ossf-package-analysis-b839ba696947a26e.json
 mandrill-api-ruby	6.0.1	MAL-2023-1428	https://osv.dev/vulnerability/MAL-2023-1428
 mars-rover_alvin	0.0.1	MAL-2024-6988	https://osv.dev/vulnerability/MAL-2024-6988
 maventa_common	3.0.0	MAL-2025-6627	https://osv.dev/vulnerability/MAL-2025-6627
