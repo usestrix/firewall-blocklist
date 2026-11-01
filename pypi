@@ -11434,9 +11434,9 @@ pystiyle	2.8	MAL-2024-5780	https://osv.dev/vulnerability/MAL-2024-5780
 pystiyle	2.9	MAL-2024-5780	https://osv.dev/vulnerability/MAL-2024-5780
 pystlete	2.9	MAL-2024-10125	https://osv.dev/vulnerability/MAL-2024-10125
 pystob	*	MAL-2023-8586	https://osv.dev/vulnerability/MAL-2023-8586
-pystr-codec	0.1.0	MAL-0000-kam193-9f8b8630f88afc0b	https://github.com/ossf/malicious-packages/blob/c11600b99267804995f7d05e06b7f81e5a5c258d/osv/malicious/pypi/pystr-codec/MAL-0000-kam193-9f8b8630f88afc0b.json
-pystr-codec	0.1.1	MAL-0000-kam193-9f8b8630f88afc0b	https://github.com/ossf/malicious-packages/blob/c11600b99267804995f7d05e06b7f81e5a5c258d/osv/malicious/pypi/pystr-codec/MAL-0000-kam193-9f8b8630f88afc0b.json
-pystr-codec	0.1.2	MAL-0000-kam193-9f8b8630f88afc0b	https://github.com/ossf/malicious-packages/blob/c11600b99267804995f7d05e06b7f81e5a5c258d/osv/malicious/pypi/pystr-codec/MAL-0000-kam193-9f8b8630f88afc0b.json
+pystr-codec	0.1.0	MAL-2026-18432	https://osv.dev/vulnerability/MAL-2026-18432
+pystr-codec	0.1.1	MAL-2026-18432	https://osv.dev/vulnerability/MAL-2026-18432
+pystr-codec	0.1.2	MAL-2026-18432	https://osv.dev/vulnerability/MAL-2026-18432
 pystyl	0.8	MAL-2024-5781	https://osv.dev/vulnerability/MAL-2024-5781
 pystylerio	1.0	MAL-2024-5782	https://osv.dev/vulnerability/MAL-2024-5782
 pystylish	2.9	MAL-2026-6076	https://osv.dev/vulnerability/MAL-2026-6076
