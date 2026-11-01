@@ -69255,7 +69255,7 @@ dsgs-txcui-pix	*	MAL-2025-174120	https://osv.dev/vulnerability/MAL-2025-174120
 dsh-native	1.4.1	MAL-2026-18315	https://osv.dev/vulnerability/MAL-2026-18315
 dsh-plugin-blender-3d	0.2.1	MAL-2026-18321	https://osv.dev/vulnerability/MAL-2026-18321
 dsh-redteam-mode	0.15.2	MAL-2026-18366	https://osv.dev/vulnerability/MAL-2026-18366
-dsh-screenshot-native	1.0.0	MAL-0000-ghsa-malware-d9b2c3c72e63a884	https://github.com/ossf/malicious-packages/blob/fe08bbcfc97a430b43b56c31769f4782bb2f678c/osv/malicious/npm/dsh-screenshot-native/MAL-0000-ghsa-malware-d9b2c3c72e63a884.json
+dsh-screenshot-native	1.0.0	MAL-2026-18438	https://osv.dev/vulnerability/MAL-2026-18438
 dsh-vm-tester	0.1.2	MAL-2026-18345	https://osv.dev/vulnerability/MAL-2026-18345
 dsh-vm-tester	0.1.3	MAL-2026-18345	https://osv.dev/vulnerability/MAL-2026-18345
 dsh-vm-tester	0.1.4	MAL-2026-18345	https://osv.dev/vulnerability/MAL-2026-18345
