@@ -2445,6 +2445,7 @@
 @axinom/mosaic-cli	0.52.0-rc.2	MAL-2025-191450	https://osv.dev/vulnerability/MAL-2025-191450
 @axo_cuy/baileyss	1.0.0	MAL-0000-axo_cuy-baileyss	https://github.com/ossf/malicious-packages/pull/1666
 @axo_cuy/baileyss	1.0.1	MAL-0000-axo_cuy-baileyss	https://github.com/ossf/malicious-packages/pull/1666
+@axon-web/icons	99.0.0	MAL-0000-amazon-inspector-579025dc4de76ecd	https://github.com/ossf/malicious-packages/blob/c8bef7e98c924cd3469a667acd327d9edd31bf29/osv/malicious/npm/@axon-web/icons/MAL-0000-amazon-inspector-579025dc4de76ecd.json
 @ayunlove/bails	*	MAL-2026-10596	https://osv.dev/vulnerability/MAL-2026-10596
 @azet/api	1.0.0	MAL-2025-6685	https://osv.dev/vulnerability/MAL-2025-6685
 @azimo/fetlife-assets	*	MAL-2022-92	https://osv.dev/vulnerability/MAL-2022-92
@@ -100262,7 +100263,9 @@ hrxtable	91.90.0	MAL-2025-6096	https://osv.dev/vulnerability/MAL-2025-6096
 hrxtable	92.0.0	MAL-2025-6096	https://osv.dev/vulnerability/MAL-2025-6096
 hrxtable	93.0.0	MAL-2025-6096	https://osv.dev/vulnerability/MAL-2025-6096
 hs-api-next-gen	*	MAL-2025-22741	https://osv.dev/vulnerability/MAL-2025-22741
+hs-framework	999.9.1	MAL-0000-amazon-inspector-2950f0dff0145db4	https://github.com/ossf/malicious-packages/blob/c8bef7e98c924cd3469a667acd327d9edd31bf29/osv/malicious/npm/hs-framework/MAL-0000-amazon-inspector-2950f0dff0145db4.json
 hs-framework	999.9.1	MAL-0000-gatekeeper-hs-framework	https://github.com/ossf/malicious-packages/pull/1694
+hs-framework	999.9.2	MAL-0000-amazon-inspector-e5b7694b77d2d36e	https://github.com/ossf/malicious-packages/blob/c8bef7e98c924cd3469a667acd327d9edd31bf29/osv/malicious/npm/hs-framework/MAL-0000-amazon-inspector-e5b7694b77d2d36e.json
 hs-framework	999.9.2	MAL-0000-gatekeeper-hs-framework	https://github.com/ossf/malicious-packages/pull/1694
 hs-inflamable-too	*	MAL-2022-3685	https://osv.dev/vulnerability/MAL-2022-3685
 hs-loadsh	*	MAL-2022-3686	https://osv.dev/vulnerability/MAL-2022-3686
