@@ -35579,6 +35579,7 @@ atlassian-plugins-jquery	0.0.0-dev	MAL-2024-7732	https://osv.dev/vulnerability/M
 atlassian-sketch-plugin	*	MAL-2022-1160	https://osv.dev/vulnerability/MAL-2022-1160
 atlassian-static-assets-url-plugin	1.0.91	MAL-2024-9510	https://osv.dev/vulnerability/MAL-2024-9510
 atlassian-static-assets-url-plugin	1.9.8	MAL-2024-9510	https://osv.dev/vulnerability/MAL-2024-9510
+atlassian-wallboard-plugin	10.0.0	MAL-0000-ossf-package-analysis-65fa335403aab4ce	https://github.com/ossf/malicious-packages/blob/4aaa17b18e825f75736e809425fdec2f715d0ac8/osv/malicious/npm/atlassian-wallboard-plugin/MAL-0000-ossf-package-analysis-65fa335403aab4ce.json
 atlatljs	*	MAL-2025-15016	https://osv.dev/vulnerability/MAL-2025-15016
 atm-event-app	*	MAL-2025-2240	https://osv.dev/vulnerability/MAL-2025-2240
 atm_bmw	*	MAL-2026-34	https://osv.dev/vulnerability/MAL-2026-34
