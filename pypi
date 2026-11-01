@@ -9513,10 +9513,9 @@ prime-math	1.0.0	MAL-2025-952	https://osv.dev/vulnerability/MAL-2025-952
 print-django	3.9.10	MAL-2023-1387	https://osv.dev/vulnerability/MAL-2023-1387
 print-pip	13.9.3	MAL-2023-1388	https://osv.dev/vulnerability/MAL-2023-1388
 printrables	1.0.1	MAL-2026-951	https://osv.dev/vulnerability/MAL-2026-951
-privacypass-py	0.1.100	MAL-0000-kam193-1c4699b191565636	https://github.com/ossf/malicious-packages/blob/bf30d648b84c4428d0dd1dc623f2fd7f06c225f3/osv/malicious/pypi/privacypass-py/MAL-0000-kam193-1c4699b191565636.json
-privacypass-py	0.1.101	MAL-0000-kam193-1c4699b191565636	https://github.com/ossf/malicious-packages/blob/bf30d648b84c4428d0dd1dc623f2fd7f06c225f3/osv/malicious/pypi/privacypass-py/MAL-0000-kam193-1c4699b191565636.json
+privacypass-py	0.1.100	MAL-2026-18435	https://osv.dev/vulnerability/MAL-2026-18435
 privacypass-py	0.1.101	MAL-2026-18435	https://osv.dev/vulnerability/MAL-2026-18435
-privacypass-py	0.1.99	MAL-0000-kam193-1c4699b191565636	https://github.com/ossf/malicious-packages/blob/bf30d648b84c4428d0dd1dc623f2fd7f06c225f3/osv/malicious/pypi/privacypass-py/MAL-0000-kam193-1c4699b191565636.json
+privacypass-py	0.1.99	MAL-2026-18435	https://osv.dev/vulnerability/MAL-2026-18435
 private-evolution	1.0.0	MAL-2025-191817	https://osv.dev/vulnerability/MAL-2025-191817
 private-test-1	1.0.0	MAL-2025-953	https://osv.dev/vulnerability/MAL-2025-953
 private-test-2	1.0.0	MAL-2025-954	https://osv.dev/vulnerability/MAL-2025-954
