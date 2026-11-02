@@ -1,3 +1,4 @@
+github.com/AbuTrikaa/hypert	*	MAL-0000-abutrikaa-hypert	https://github.com/ossf/malicious-packages/pull/1715
 github.com/BufferZoneCorp/config-loader	*	MAL-2026-3620	https://osv.dev/vulnerability/MAL-2026-3620
 github.com/BufferZoneCorp/go-envconfig	*	MAL-2026-3621	https://osv.dev/vulnerability/MAL-2026-3621
 github.com/BufferZoneCorp/go-metrics-sdk	*	MAL-2026-3622	https://osv.dev/vulnerability/MAL-2026-3622
