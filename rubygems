@@ -2255,7 +2255,7 @@ ike-artifactory-ruby	90002.0	MAL-2026-10913	https://osv.dev/vulnerability/MAL-20
 indonesian-province	0.0.2	MAL-2024-6946	https://osv.dev/vulnerability/MAL-2024-6946
 injecthack1778550335	0.0.1	MAL-2026-7778	https://osv.dev/vulnerability/MAL-2026-7778
 injectwanfoo	0.0.2	MAL-2026-7779	https://osv.dev/vulnerability/MAL-2026-7779
-intercom-react-native-example-e2e-tests	1.0.1	MAL-0000-ossf-package-analysis-f17f130fc5b4fa91	https://github.com/ossf/malicious-packages/blob/7ca716d1747a3edc3044d9e69a73102325f583e6/osv/malicious/rubygems/intercom-react-native-example-e2e-tests/MAL-0000-ossf-package-analysis-f17f130fc5b4fa91.json
+intercom-react-native-example-e2e-tests	1.0.1	MAL-2026-18462	https://osv.dev/vulnerability/MAL-2026-18462
 investing_parameters	1.2.1	MAL-2023-8322	https://osv.dev/vulnerability/MAL-2023-8322
 irs_data	9.9.9	MAL-2024-6947	https://osv.dev/vulnerability/MAL-2024-6947
 irs_data	9.9.99	MAL-2024-6947	https://osv.dev/vulnerability/MAL-2024-6947
