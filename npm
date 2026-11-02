@@ -125066,7 +125066,7 @@ litebs64	*	MAL-2024-7970	https://osv.dev/vulnerability/MAL-2024-7970
 litechat	*	MAL-2025-25441	https://osv.dev/vulnerability/MAL-2025-25441
 litecoin-address-validator	*	MAL-2024-8782	https://osv.dev/vulnerability/MAL-2024-8782
 litecor-lib	*	MAL-2024-10680	https://osv.dev/vulnerability/MAL-2024-10680
-litecore-lib-ltc	*	MAL-0000-litecore-lib-ltc	https://github.com/ossf/malicious-packages/blob/d58573f19f19526e505eb28bdca91479e844c427/osv/malicious/npm/litecore-lib-ltc/MAL-0000-litecore-lib-ltc.json
+litecore-lib-ltc	*	MAL-2026-18442	https://osv.dev/vulnerability/MAL-2026-18442
 litecpool	*	MAL-2025-25442	https://osv.dev/vulnerability/MAL-2025-25442
 litelemdent	*	MAL-2022-4324	https://osv.dev/vulnerability/MAL-2022-4324
 litemodal	*	MAL-2025-25443	https://osv.dev/vulnerability/MAL-2025-25443
