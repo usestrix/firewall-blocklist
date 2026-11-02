@@ -999,7 +999,7 @@
 @adminproxy/module-utils-common	*	MAL-2025-2158	https://osv.dev/vulnerability/MAL-2025-2158
 @adminproxy/module-utils-server	*	MAL-2025-2159	https://osv.dev/vulnerability/MAL-2025-2159
 @adnovum-eslint/eslint-plugin	*	MAL-2022-62	https://osv.dev/vulnerability/MAL-2022-62
-@adobedjangir/commerce-admin-audit-log	1.0.11	MAL-0000-adobedjangir-commerce-admin-audit-log	https://github.com/ossf/malicious-packages/pull/1713
+@adobedjangir/commerce-admin-audit-log	1.0.11	MAL-0000-adobedjangir-commerce-admin-audit-log	https://github.com/ossf/malicious-packages/pull/1714
 @adobesign/as-dev-tools	99.9.10	MAL-2026-6760	https://osv.dev/vulnerability/MAL-2026-6760
 @adobesign/as-dev-tools	99.9.9	MAL-2026-6760	https://osv.dev/vulnerability/MAL-2026-6760
 @adominadmininstr/date-util-helper	1.0.0	MAL-2026-16490	https://osv.dev/vulnerability/MAL-2026-16490
@@ -15010,7 +15010,7 @@
 @sie-ppr-web-checkout/app	*	MAL-2026-2865	https://osv.dev/vulnerability/MAL-2026-2865
 @sie-ppr-web-store/app	*	MAL-2025-2027	https://osv.dev/vulnerability/MAL-2025-2027
 @siemens-ag/twodc-fonts	*	MAL-2025-2082	https://osv.dev/vulnerability/MAL-2025-2082
-@signals-notebook/annotation-editor	2.2.60-630109c	MAL-0000-signals-notebook-annotation-editor	https://github.com/ossf/malicious-packages/pull/1713
+@signals-notebook/annotation-editor	2.2.60-630109c	MAL-0000-signals-notebook-annotation-editor	https://github.com/ossf/malicious-packages/pull/1714
 @signals-notebook/utils	0.0.1	MAL-2026-2520	https://osv.dev/vulnerability/MAL-2026-2520
 @signify/vue-components	*	MAL-2026-45	https://osv.dev/vulnerability/MAL-2026-45
 @siigo-arquitectura/button-atom	5.0.2	MAL-2023-8302	https://osv.dev/vulnerability/MAL-2023-8302
@@ -38442,7 +38442,7 @@ baby-electron	*	MAL-2025-3820	https://osv.dev/vulnerability/MAL-2025-3820
 baby-electrona	*	MAL-2025-3821	https://osv.dev/vulnerability/MAL-2025-3821
 baby-loris	1.0.2	MAL-2024-11911	https://osv.dev/vulnerability/MAL-2024-11911
 baby-loris	1.0.4	MAL-2024-11911	https://osv.dev/vulnerability/MAL-2024-11911
-babyyodaa	1.1.0	MAL-0000-babyyodaa	https://github.com/ossf/malicious-packages/pull/1713
+babyyodaa	1.1.0	MAL-0000-babyyodaa	https://github.com/ossf/malicious-packages/pull/1714
 back-alley	1.1.0	MAL-2023-1120	https://osv.dev/vulnerability/MAL-2023-1120
 back-coffee-reptile	*	MAL-2025-66915	https://osv.dev/vulnerability/MAL-2025-66915
 back-harlequin-swan	*	MAL-2025-66916	https://osv.dev/vulnerability/MAL-2025-66916
@@ -55092,7 +55092,7 @@ colossal_quelea_0xrequest	*	MAL-2025-100681	https://osv.dev/vulnerability/MAL-20
 colossal_rhinoceros_z3n	*	MAL-2025-93630	https://osv.dev/vulnerability/MAL-2025-93630
 colossal_roadrunner-appteadev	*	MAL-2025-100682	https://osv.dev/vulnerability/MAL-2025-100682
 colossal_squid_z3n	*	MAL-2025-60120	https://osv.dev/vulnerability/MAL-2025-60120
-colossal_wallaby_pink-87	1.2.1	MAL-0000-colossal_wallaby_pink-87	https://github.com/ossf/malicious-packages/pull/1713
+colossal_wallaby_pink-87	1.2.1	MAL-0000-colossal_wallaby_pink-87	https://github.com/ossf/malicious-packages/pull/1714
 colour-name	*	MAL-2025-17300	https://osv.dev/vulnerability/MAL-2025-17300
 colour-string	*	MAL-2025-17301	https://osv.dev/vulnerability/MAL-2025-17301
 coloured-jade-heron	*	MAL-2025-67298	https://osv.dev/vulnerability/MAL-2025-67298
@@ -77648,7 +77648,7 @@ estwatchtypaehead	*	MAL-2022-2856	https://osv.dev/vulnerability/MAL-2022-2856
 eswyoivnamrkuftd	*	MAL-2025-19881	https://osv.dev/vulnerability/MAL-2025-19881
 esy-m4	*	MAL-2025-3185	https://osv.dev/vulnerability/MAL-2025-3185
 esyncvalidator	*	MAL-2022-2857	https://osv.dev/vulnerability/MAL-2022-2857
-et_phone_home	0.0.5	MAL-0000-et_phone_home	https://github.com/ossf/malicious-packages/pull/1713
+et_phone_home	0.0.5	MAL-0000-et_phone_home	https://github.com/ossf/malicious-packages/pull/1714
 eta-chi-socket-easy-module	*	MAL-2025-19882	https://osv.dev/vulnerability/MAL-2025-19882
 eta-proxy-omicron-theta-sanitize	*	MAL-2025-186854	https://osv.dev/vulnerability/MAL-2025-186854
 eta-psi-await-sun-upsilon	*	MAL-2025-186855	https://osv.dev/vulnerability/MAL-2025-186855
@@ -94167,7 +94167,7 @@ guestbook	*	MAL-2025-22038	https://osv.dev/vulnerability/MAL-2025-22038
 guestia	*	MAL-2025-22039	https://osv.dev/vulnerability/MAL-2025-22039
 guests	*	MAL-2025-1037	https://osv.dev/vulnerability/MAL-2025-1037
 gufferjs	*	MAL-2025-2509	https://osv.dev/vulnerability/MAL-2025-2509
-gugodapis	1.0.0	MAL-0000-gugodapis	https://github.com/ossf/malicious-packages/pull/1713
+gugodapis	1.0.0	MAL-0000-gugodapis	https://github.com/ossf/malicious-packages/pull/1714
 gugpconilict	*	MAL-2022-3496	https://osv.dev/vulnerability/MAL-2022-3496
 gugpmshell	*	MAL-2022-3497	https://osv.dev/vulnerability/MAL-2022-3497
 gui-timbuctoo-emlo	1.0.0	MAL-2024-9026	https://osv.dev/vulnerability/MAL-2024-9026
@@ -99564,7 +99564,7 @@ hollow_sturgeon_dumbs	*	MAL-2025-103747	https://osv.dev/vulnerability/MAL-2025-1
 hollow_toucan_z3n	*	MAL-2025-103748	https://osv.dev/vulnerability/MAL-2025-103748
 hollow_trout_0xrequest	*	MAL-2025-103749	https://osv.dev/vulnerability/MAL-2025-103749
 hollow_viper_z3n	*	MAL-2025-78825	https://osv.dev/vulnerability/MAL-2025-78825
-hollow_wildebeest_silver-94	1.1.2	MAL-0000-hollow_wildebeest_silver-94	https://github.com/ossf/malicious-packages/pull/1713
+hollow_wildebeest_silver-94	1.1.2	MAL-0000-hollow_wildebeest_silver-94	https://github.com/ossf/malicious-packages/pull/1714
 hollywood-hdtv-shield-server	*	MAL-2025-22499	https://osv.dev/vulnerability/MAL-2025-22499
 hologram-cors-quito-string	*	MAL-2025-22500	https://osv.dev/vulnerability/MAL-2025-22500
 hologram-ini-elara-dysonswarm	*	MAL-2025-22501	https://osv.dev/vulnerability/MAL-2025-22501
@@ -100891,7 +100891,7 @@ hushed_skunk_z3n	*	MAL-2025-103861	https://osv.dev/vulnerability/MAL-2025-103861
 hushed_smelt_red-2	*	MAL-2025-111995	https://osv.dev/vulnerability/MAL-2025-111995
 hushed_tiglon_0xrequest	*	MAL-2025-103862	https://osv.dev/vulnerability/MAL-2025-103862
 hushed_wildebeest_z3n	*	MAL-2025-94894	https://osv.dev/vulnerability/MAL-2025-94894
-hushed_zebra_green-81	2.4.2	MAL-0000-hushed_zebra_green-81	https://github.com/ossf/malicious-packages/pull/1713
+hushed_zebra_green-81	2.4.2	MAL-0000-hushed_zebra_green-81	https://github.com/ossf/malicious-packages/pull/1714
 husheor	9.19.69	MAL-2024-9655	https://osv.dev/vulnerability/MAL-2024-9655
 hushlockler	13.39.2	MAL-2025-6423	https://osv.dev/vulnerability/MAL-2025-6423
 husky-amber-cod	*	MAL-2025-68747	https://osv.dev/vulnerability/MAL-2025-68747
@@ -103806,7 +103806,7 @@ inadequate_basilisk_z3n	*	MAL-2025-94969	https://osv.dev/vulnerability/MAL-2025-
 inadequate_chipmunk_z3n	*	MAL-2025-86602	https://osv.dev/vulnerability/MAL-2025-86602
 inadequate_cod_z3n	*	MAL-2025-114734	https://osv.dev/vulnerability/MAL-2025-114734
 inadequate_dinosaur_z3n	*	MAL-2025-104037	https://osv.dev/vulnerability/MAL-2025-104037
-inadequate_earwig_magenta-66	3.4.3	MAL-0000-inadequate_earwig_magenta-66	https://github.com/ossf/malicious-packages/pull/1713
+inadequate_earwig_magenta-66	3.4.3	MAL-0000-inadequate_earwig_magenta-66	https://github.com/ossf/malicious-packages/pull/1714
 inadequate_emu-silentdev	*	MAL-2025-104038	https://osv.dev/vulnerability/MAL-2025-104038
 inadequate_grasshopper_dumbs	*	MAL-2025-104039	https://osv.dev/vulnerability/MAL-2025-104039
 inadequate_jay-appteadev	*	MAL-2025-104040	https://osv.dev/vulnerability/MAL-2025-104040
@@ -106838,7 +106838,7 @@ intimate_kangaroo_0xrequest	*	MAL-2025-104365	https://osv.dev/vulnerability/MAL-
 intimate_lynx_dumbs	*	MAL-2025-104366	https://osv.dev/vulnerability/MAL-2025-104366
 intimate_marsupial_z3n	*	MAL-2025-63521	https://osv.dev/vulnerability/MAL-2025-63521
 intimate_mole_z3n	*	MAL-2025-127445	https://osv.dev/vulnerability/MAL-2025-127445
-intimate_ostrich_amethyst-45	3.1.4	MAL-0000-intimate_ostrich_amethyst-45	https://github.com/ossf/malicious-packages/pull/1713
+intimate_ostrich_amethyst-45	3.1.4	MAL-0000-intimate_ostrich_amethyst-45	https://github.com/ossf/malicious-packages/pull/1714
 intimate_prawn_z3n	*	MAL-2025-127446	https://osv.dev/vulnerability/MAL-2025-127446
 intimate_shark_z3n	*	MAL-2025-120834	https://osv.dev/vulnerability/MAL-2025-120834
 intimate_skink_z3n	*	MAL-2025-95110	https://osv.dev/vulnerability/MAL-2025-95110
@@ -108859,7 +108859,7 @@ itchy_canid_z3n	*	MAL-2025-56907	https://osv.dev/vulnerability/MAL-2025-56907
 itchy_cockroach_z3n	*	MAL-2025-114902	https://osv.dev/vulnerability/MAL-2025-114902
 itchy_crocodile_z3n	*	MAL-2025-86845	https://osv.dev/vulnerability/MAL-2025-86845
 itchy_dove_z3n	*	MAL-2025-86846	https://osv.dev/vulnerability/MAL-2025-86846
-itchy_gecko_magenta-98	2.3.4	MAL-0000-itchy_gecko_magenta-98	https://github.com/ossf/malicious-packages/pull/1713
+itchy_gecko_magenta-98	2.3.4	MAL-0000-itchy_gecko_magenta-98	https://github.com/ossf/malicious-packages/pull/1714
 itchy_gorilla_z3n	*	MAL-2025-120892	https://osv.dev/vulnerability/MAL-2025-120892
 itchy_guanaco_z3n	*	MAL-2025-120893	https://osv.dev/vulnerability/MAL-2025-120893
 itchy_heron_z3n	*	MAL-2025-86847	https://osv.dev/vulnerability/MAL-2025-86847
@@ -138269,7 +138269,7 @@ motionless_haddock_z3n	*	MAL-2025-95543	https://osv.dev/vulnerability/MAL-2025-9
 motionless_lobster_z3n	*	MAL-2025-98820	https://osv.dev/vulnerability/MAL-2025-98820
 motionless_lungfish_z3n	*	MAL-2025-95544	https://osv.dev/vulnerability/MAL-2025-95544
 motionless_mammal_dumbs	*	MAL-2025-105983	https://osv.dev/vulnerability/MAL-2025-105983
-motionless_mandrill_blush-51	2.2.3	MAL-0000-motionless_mandrill_blush-51	https://github.com/ossf/malicious-packages/pull/1713
+motionless_mandrill_blush-51	2.2.3	MAL-0000-motionless_mandrill_blush-51	https://github.com/ossf/malicious-packages/pull/1714
 motionless_marlin_z3n	*	MAL-2025-135591	https://osv.dev/vulnerability/MAL-2025-135591
 motionless_parakeet_z3n	*	MAL-2025-95545	https://osv.dev/vulnerability/MAL-2025-95545
 motionless_sailfish_0xrequest	*	MAL-2025-105984	https://osv.dev/vulnerability/MAL-2025-105984
@@ -167024,7 +167024,7 @@ pure_louse-strongdev	*	MAL-2025-107432	https://osv.dev/vulnerability/MAL-2025-10
 pure_lungfish_z3n	*	MAL-2025-89544	https://osv.dev/vulnerability/MAL-2025-89544
 pure_marmot_0xrequest	*	MAL-2025-107433	https://osv.dev/vulnerability/MAL-2025-107433
 pure_newt_z3n	*	MAL-2025-96120	https://osv.dev/vulnerability/MAL-2025-96120
-pure_opossum_amaranth-54	2.3.2	MAL-0000-pure_opossum_amaranth-54	https://github.com/ossf/malicious-packages/pull/1713
+pure_opossum_amaranth-54	2.3.2	MAL-0000-pure_opossum_amaranth-54	https://github.com/ossf/malicious-packages/pull/1714
 pure_partridge_z3n	*	MAL-2025-58194	https://osv.dev/vulnerability/MAL-2025-58194
 pure_rook_z3n	*	MAL-2025-89545	https://osv.dev/vulnerability/MAL-2025-89545
 pure_silkworm_z3n	*	MAL-2025-107434	https://osv.dev/vulnerability/MAL-2025-107434
@@ -188925,7 +188925,7 @@ smoooth-merchant	*	MAL-2022-6182	https://osv.dev/vulnerability/MAL-2022-6182
 smooth-amber-porcupine	*	MAL-2025-70698	https://osv.dev/vulnerability/MAL-2025-70698
 smooth-coffee-wallaby	*	MAL-2025-70699	https://osv.dev/vulnerability/MAL-2025-70699
 smooth_albatross_z3n	*	MAL-2025-130266	https://osv.dev/vulnerability/MAL-2025-130266
-smooth_angelfish_emerald-54	2.2.2	MAL-0000-smooth_angelfish_emerald-54	https://github.com/ossf/malicious-packages/pull/1713
+smooth_angelfish_emerald-54	2.2.2	MAL-0000-smooth_angelfish_emerald-54	https://github.com/ossf/malicious-packages/pull/1714
 smooth_bison_z3n	*	MAL-2025-96643	https://osv.dev/vulnerability/MAL-2025-96643
 smooth_chickadee_copper-63	*	MAL-2025-112322	https://osv.dev/vulnerability/MAL-2025-112322
 smooth_ermine_0xrequest	*	MAL-2025-108878	https://osv.dev/vulnerability/MAL-2025-108878
@@ -190280,7 +190280,7 @@ sound_cat_z3n	*	MAL-2025-61320	https://osv.dev/vulnerability/MAL-2025-61320
 sound_condor_z3n	*	MAL-2025-123340	https://osv.dev/vulnerability/MAL-2025-123340
 sound_crab_0xrequest	*	MAL-2025-108934	https://osv.dev/vulnerability/MAL-2025-108934
 sound_crow_z3n	*	MAL-2025-137055	https://osv.dev/vulnerability/MAL-2025-137055
-sound_deer_apricot-15	2.1.4	MAL-0000-sound_deer_apricot-15	https://github.com/ossf/malicious-packages/pull/1713
+sound_deer_apricot-15	2.1.4	MAL-0000-sound_deer_apricot-15	https://github.com/ossf/malicious-packages/pull/1714
 sound_ladybug_z3n	*	MAL-2025-96677	https://osv.dev/vulnerability/MAL-2025-96677
 sound_lark_z3n	*	MAL-2025-96678	https://osv.dev/vulnerability/MAL-2025-96678
 sound_macaw_0xrequest	*	MAL-2025-108935	https://osv.dev/vulnerability/MAL-2025-108935
@@ -190352,7 +190352,7 @@ southern_catfish-appteadev	*	MAL-2025-108947	https://osv.dev/vulnerability/MAL-2
 southern_catshark-notthedevs	*	MAL-2025-108948	https://osv.dev/vulnerability/MAL-2025-108948
 southern_cheetah_harlequin-58	*	MAL-2025-112333	https://osv.dev/vulnerability/MAL-2025-112333
 southern_chickadee_z3n	*	MAL-2025-123343	https://osv.dev/vulnerability/MAL-2025-123343
-southern_duck_tan-16	2.4.3	MAL-0000-southern_duck_tan-16	https://github.com/ossf/malicious-packages/pull/1713
+southern_duck_tan-16	2.4.3	MAL-0000-southern_duck_tan-16	https://github.com/ossf/malicious-packages/pull/1714
 southern_flea_z3n	*	MAL-2025-65412	https://osv.dev/vulnerability/MAL-2025-65412
 southern_hedgehog_z3n	*	MAL-2025-81438	https://osv.dev/vulnerability/MAL-2025-81438
 southern_impala_z3n	*	MAL-2025-61322	https://osv.dev/vulnerability/MAL-2025-61322
@@ -190651,7 +190651,7 @@ specific_lizard_z3n	*	MAL-2025-137065	https://osv.dev/vulnerability/MAL-2025-137
 specific_lynx_z3n	*	MAL-2025-123354	https://osv.dev/vulnerability/MAL-2025-123354
 specific_mammal_z3n	*	MAL-2025-108991	https://osv.dev/vulnerability/MAL-2025-108991
 specific_rhinoceros_z3n	*	MAL-2025-130292	https://osv.dev/vulnerability/MAL-2025-130292
-specific_sheep_violet-22	2.4.1	MAL-0000-specific_sheep_violet-22	https://github.com/ossf/malicious-packages/pull/1713
+specific_sheep_violet-22	2.4.1	MAL-0000-specific_sheep_violet-22	https://github.com/ossf/malicious-packages/pull/1714
 specific_squirrel_z3n	*	MAL-2025-117189	https://osv.dev/vulnerability/MAL-2025-117189
 specific_starfish_z3n	*	MAL-2025-58764	https://osv.dev/vulnerability/MAL-2025-58764
 specific_tarsier_z3n	*	MAL-2025-130293	https://osv.dev/vulnerability/MAL-2025-130293
@@ -201874,7 +201874,7 @@ temporary_panda_z3n	*	MAL-2025-96950	https://osv.dev/vulnerability/MAL-2025-9695
 temporary_rattlesnake_z3n	*	MAL-2025-96951	https://osv.dev/vulnerability/MAL-2025-96951
 temporary_sawfish_z3n	*	MAL-2025-91002	https://osv.dev/vulnerability/MAL-2025-91002
 temporary_shrimp_z3n	*	MAL-2025-137253	https://osv.dev/vulnerability/MAL-2025-137253
-temporary_smelt_lavender-81	3.3.1	MAL-0000-temporary_smelt_lavender-81	https://github.com/ossf/malicious-packages/pull/1713
+temporary_smelt_lavender-81	3.3.1	MAL-0000-temporary_smelt_lavender-81	https://github.com/ossf/malicious-packages/pull/1714
 temporary_tern_0xrequest	*	MAL-2025-109535	https://osv.dev/vulnerability/MAL-2025-109535
 temporary_wallaby_z3n	*	MAL-2025-109536	https://osv.dev/vulnerability/MAL-2025-109536
 temporary_weasel_z3n	*	MAL-2025-109537	https://osv.dev/vulnerability/MAL-2025-109537
@@ -213568,7 +213568,7 @@ unfortunate-orange-gecko	*	MAL-2025-71282	https://osv.dev/vulnerability/MAL-2025
 unfortunate-scarlet-thrush	*	MAL-2025-71283	https://osv.dev/vulnerability/MAL-2025-71283
 unfortunate-teal-trout	*	MAL-2025-71284	https://osv.dev/vulnerability/MAL-2025-71284
 unfortunate-yellow-ape	*	MAL-2025-71285	https://osv.dev/vulnerability/MAL-2025-71285
-unfortunate_crawdad_emerald-79	3.3.1	MAL-0000-unfortunate_crawdad_emerald-79	https://github.com/ossf/malicious-packages/pull/1713
+unfortunate_crawdad_emerald-79	3.3.1	MAL-0000-unfortunate_crawdad_emerald-79	https://github.com/ossf/malicious-packages/pull/1714
 unfortunate_crayfish_z3n	*	MAL-2025-97130	https://osv.dev/vulnerability/MAL-2025-97130
 unfortunate_dinosaur_0xrequest	*	MAL-2025-110104	https://osv.dev/vulnerability/MAL-2025-110104
 unfortunate_gecko-notthedev	*	MAL-2025-110105	https://osv.dev/vulnerability/MAL-2025-110105
@@ -216744,7 +216744,7 @@ valid-scope	*	MAL-2026-10570	https://osv.dev/vulnerability/MAL-2026-10570
 valid-sha256	*	MAL-2025-42107	https://osv.dev/vulnerability/MAL-2025-42107
 valid-south-african-id	1.0.3	MAL-2025-190942	https://osv.dev/vulnerability/MAL-2025-190942
 valid-turquoise-emu	*	MAL-2025-71394	https://osv.dev/vulnerability/MAL-2025-71394
-valid_antlion_amber-50	4.1.3	MAL-0000-valid_antlion_amber-50	https://github.com/ossf/malicious-packages/pull/1713
+valid_antlion_amber-50	4.1.3	MAL-0000-valid_antlion_amber-50	https://github.com/ossf/malicious-packages/pull/1714
 valid_barnacle_z3n	*	MAL-2025-110319	https://osv.dev/vulnerability/MAL-2025-110319
 valid_canidae_z3n	*	MAL-2025-117759	https://osv.dev/vulnerability/MAL-2025-117759
 valid_catfish_z3n	*	MAL-2025-110320	https://osv.dev/vulnerability/MAL-2025-110320
@@ -228740,7 +228740,7 @@ xenacious_buzzard_z3n	*	MAL-2025-97433	https://osv.dev/vulnerability/MAL-2025-97
 xenacious_cuckoo_z3n	*	MAL-2025-131465	https://osv.dev/vulnerability/MAL-2025-131465
 xenacious_elephant_z3n	*	MAL-2025-111102	https://osv.dev/vulnerability/MAL-2025-111102
 xenacious_flyingfish_z3n	*	MAL-2025-138165	https://osv.dev/vulnerability/MAL-2025-138165
-xenacious_kangaroo_blush-47	4.3.3	MAL-0000-xenacious_kangaroo_blush-47	https://github.com/ossf/malicious-packages/pull/1713
+xenacious_kangaroo_blush-47	4.3.3	MAL-0000-xenacious_kangaroo_blush-47	https://github.com/ossf/malicious-packages/pull/1714
 xenacious_marmoset_z3n	*	MAL-2025-97434	https://osv.dev/vulnerability/MAL-2025-97434
 xenacious_marten_z3n	*	MAL-2025-97435	https://osv.dev/vulnerability/MAL-2025-97435
 xenacious_ostrich_z3n	*	MAL-2025-92433	https://osv.dev/vulnerability/MAL-2025-92433
