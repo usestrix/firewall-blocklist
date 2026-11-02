@@ -53262,7 +53262,7 @@ cladistics-markdown-pdf-loop-transform	*	MAL-2025-17087	https://osv.dev/vulnerab
 cladistics-tardigrade-blueshift-primatology	*	MAL-2025-17088	https://osv.dev/vulnerability/MAL-2025-17088
 cladistics-virgo-transform-query	*	MAL-2025-186157	https://osv.dev/vulnerability/MAL-2025-186157
 claimora	1.0.4	MAL-2026-5608	https://osv.dev/vulnerability/MAL-2026-5608
-claims-ac1	1.0.0	MAL-0000-claims-ac1	https://github.com/ossf/malicious-packages/blob/11fa7445ad585f615a3eadc3d0d99cf470f5211d/osv/malicious/npm/claims-ac1/MAL-0000-claims-ac1.json
+claims-ac1	1.0.0	MAL-2026-18450	https://osv.dev/vulnerability/MAL-2026-18450
 claims-accounts-lib	35.6.6	MAL-2026-12604	https://osv.dev/vulnerability/MAL-2026-12604
 claims-acct-unlock	*	MAL-2026-18404	https://osv.dev/vulnerability/MAL-2026-18404
 claims-api-adapters	35.7.8	MAL-2026-12605	https://osv.dev/vulnerability/MAL-2026-12605
