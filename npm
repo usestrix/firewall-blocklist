@@ -17138,6 +17138,7 @@
 @types-beta/sdk	0.1.3	MAL-2026-11499	https://osv.dev/vulnerability/MAL-2026-11499
 @typescript_eslinter/eslint	*	MAL-2025-9583	https://osv.dev/vulnerability/MAL-2025-9583
 @typescript_eslinter/prettier	*	MAL-2025-9584	https://osv.dev/vulnerability/MAL-2025-9584
+@ubedsockets/baileys	*	MAL-0000-ubedsockets-baileys	https://github.com/ossf/malicious-packages/pull/1718
 @ubedsockets/baileys	1.7.0	MAL-0000-ubedsockets-baileys	https://github.com/ossf/malicious-packages/pull/1674
 @ubedsockets/baileys	1.7.1	MAL-0000-ubedsockets-baileys	https://github.com/ossf/malicious-packages/pull/1674
 @ubedsockets/baileys	1.7.2	MAL-0000-ubedsockets-baileys	https://github.com/ossf/malicious-packages/pull/1674
@@ -155066,7 +155067,6 @@ oms-js-utils	*	MAL-2022-5069	https://osv.dev/vulnerability/MAL-2022-5069
 oms-sentry	*	MAL-2022-5070	https://osv.dev/vulnerability/MAL-2022-5070
 omulamuzi	>=1.0.0	MAL-2025-6112	https://osv.dev/vulnerability/MAL-2025-6112
 on-cladistics-exosphere-stream	*	MAL-2025-188424	https://osv.dev/vulnerability/MAL-2025-188424
-on-direct-click	*	MAL-0000-on-direct-click	https://github.com/ossf/malicious-packages/pull/1707
 on-duplex-perseus-quasar	*	MAL-2025-28226	https://osv.dev/vulnerability/MAL-2025-28226
 on-eigenstate-eslint-plugin-axios	*	MAL-2025-188425	https://osv.dev/vulnerability/MAL-2025-188425
 on-graviton-async-antares	*	MAL-2025-188426	https://osv.dev/vulnerability/MAL-2025-188426
