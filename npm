@@ -17337,6 +17337,7 @@
 @vallensofficial/baileys	*	MAL-2026-16067	https://osv.dev/vulnerability/MAL-2026-16067
 @vampirchik147/libxmljs2	0.19.7	MAL-2026-1643	https://osv.dev/vulnerability/MAL-2026-1643
 @vantuz/sdk-core	*	MAL-2026-5886	https://osv.dev/vulnerability/MAL-2026-5886
+@vanzky/baileys	*	MAL-0000-vanzky-baileys	https://github.com/ossf/malicious-packages/pull/1719
 @vanzxy/baileys	*	MAL-0000-vanzxy-baileys-phantomsub	https://github.com/ossf/malicious-packages/pull/1645
 @vanzzo/priject	1.0.2	MAL-0000-vanzzo-priject	https://github.com/ossf/malicious-packages/pull/1674
 @vanzzooffc/baileys	1.0.0	MAL-0000-vanzzooffc-baileys	https://github.com/ossf/malicious-packages/pull/1674
@@ -133674,7 +133675,6 @@ mdx-zenobia-altair-colors	*	MAL-2025-187956	https://osv.dev/vulnerability/MAL-20
 mdx2-csf	213.21.24	MAL-2024-9704	https://osv.dev/vulnerability/MAL-2024-9704
 mdz5-ile	*	MAL-2022-4527	https://osv.dev/vulnerability/MAL-2022-4527
 me4ealsmith	*	MAL-2022-4528	https://osv.dev/vulnerability/MAL-2022-4528
-me5123	*	MAL-0000-me5123	https://github.com/ossf/malicious-packages/pull/1708
 meaaasured	*	MAL-2022-4529	https://osv.dev/vulnerability/MAL-2022-4529
 meadow-37xo2-a20lw-dew-project	*	MAL-2025-26076	https://osv.dev/vulnerability/MAL-2025-26076
 meadow-4kknh-dnx05-unity-project	*	MAL-2025-26077	https://osv.dev/vulnerability/MAL-2025-26077
@@ -211817,7 +211817,6 @@ ui-test-playwright	*	MAL-2022-6758	https://osv.dev/vulnerability/MAL-2022-6758
 ui-testing	*	MAL-2025-37599	https://osv.dev/vulnerability/MAL-2025-37599
 ui-tooltip	1.1.1	MAL-2024-10282	https://osv.dev/vulnerability/MAL-2024-10282
 ui-tooltip	1.1.2	MAL-2024-10282	https://osv.dev/vulnerability/MAL-2024-10282
-ui-universal-auth	*	MAL-0000-ui-universal-auth	https://github.com/ossf/malicious-packages/pull/1709
 ui-utils-udhay-alerts	*	MAL-2026-2659	https://osv.dev/vulnerability/MAL-2026-2659
 ui-weave	*	MAL-2026-5406	https://osv.dev/vulnerability/MAL-2026-5406
 ui-zephyr	19.20.0	MAL-2023-8628	https://osv.dev/vulnerability/MAL-2023-8628
