@@ -184811,6 +184811,7 @@ service-gateway	*	MAL-2026-3313	https://osv.dev/vulnerability/MAL-2026-3313
 service-home	*	MAL-2026-16039	https://osv.dev/vulnerability/MAL-2026-16039
 service-module-api	*	MAL-2022-6031	https://osv.dev/vulnerability/MAL-2022-6031
 service-module-utils	*	MAL-2022-6032	https://osv.dev/vulnerability/MAL-2022-6032
+service-roles-registry	99.0.2	MAL-0000-gatekeeper-service-roles-registry	https://github.com/ossf/malicious-packages/pull/1721
 service-stack	*	MAL-2025-33012	https://osv.dev/vulnerability/MAL-2025-33012
 service-workbench-on-aws	*	MAL-2022-6033	https://osv.dev/vulnerability/MAL-2022-6033
 service-worker-detector	*	MAL-2022-6034	https://osv.dev/vulnerability/MAL-2022-6034
