@@ -182993,7 +182993,7 @@ scatterpie	*	MAL-2025-3197	https://osv.dev/vulnerability/MAL-2025-3197
 scbe	1.0.0	MAL-2023-1287	https://osv.dev/vulnerability/MAL-2023-1287
 scc-quack	1.0.0	MAL-2024-9827	https://osv.dev/vulnerability/MAL-2024-9827
 scdevs	*	MAL-2025-32779	https://osv.dev/vulnerability/MAL-2025-32779
-scdn-jquery	0.1.6	MAL-0000-scdn-jquery	https://github.com/ossf/malicious-packages/pull/1700
+scdn-jquery	0.1.6	MAL-0000-scdn-jquery	https://github.com/ossf/malicious-packages/blob/fd92d443cf013d448bf3313695806d130574e12e/osv/malicious/npm/scdn-jquery/MAL-0000-scdn-jquery.json
 scenepic	1.1.0	MAL-2024-2987	https://osv.dev/vulnerability/MAL-2024-2987
 scenes-core	*	MAL-2025-6194	https://osv.dev/vulnerability/MAL-2025-6194
 scenes-devtools	*	MAL-2025-6195	https://osv.dev/vulnerability/MAL-2025-6195
