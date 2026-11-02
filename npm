@@ -3350,6 +3350,7 @@
 @commute/market-data-chartjs	2.3.1	MAL-2025-191209	https://osv.dev/vulnerability/MAL-2025-191209
 @company-internal/logger	*	MAL-2025-6028	https://osv.dev/vulnerability/MAL-2025-6028
 @concerns/i18n	*	MAL-2026-6606	https://osv.dev/vulnerability/MAL-2026-6606
+@conduitops/logview-archive	1.0.0	MAL-0000-amazon-inspector-28d0b0e9770a9db5	https://github.com/ossf/malicious-packages/blob/bf01ce63015d88ff4a893454592261c21bcfd62e/osv/malicious/npm/@conduitops/logview-archive/MAL-0000-amazon-inspector-28d0b0e9770a9db5.json
 @conduitops/logview-archive	1.0.1	MAL-2026-18183	https://osv.dev/vulnerability/MAL-2026-18183
 @confluence-classic/confluence-authentication	*	MAL-2025-4056	https://osv.dev/vulnerability/MAL-2025-4056
 @confluence-classic/confluence-frontend-server	*	MAL-2025-4057	https://osv.dev/vulnerability/MAL-2025-4057
