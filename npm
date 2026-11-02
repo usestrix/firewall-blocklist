@@ -62270,6 +62270,7 @@ dependencyconfusioncve	*	MAL-2022-2441	https://osv.dev/vulnerability/MAL-2022-24
 dependencyconfusioncve2	*	MAL-2022-2442	https://osv.dev/vulnerability/MAL-2022-2442
 dependencyfsdsfdsfg	*	MAL-2026-13754	https://osv.dev/vulnerability/MAL-2026-13754
 dependencykfeg	*	MAL-2026-18416	https://osv.dev/vulnerability/MAL-2026-18416
+dependencykfeg	2.1.3	MAL-0000-invisirisk-dependencykfeg	https://github.com/ossf/malicious-packages/pull/1711
 dependent-amethyst-reptile	*	MAL-2025-67715	https://osv.dev/vulnerability/MAL-2025-67715
 dependent-black-booby	*	MAL-2025-67716	https://osv.dev/vulnerability/MAL-2025-67716
 dependent-blue-sparrow	*	MAL-2025-67717	https://osv.dev/vulnerability/MAL-2025-67717
@@ -138442,8 +138443,8 @@ mryayaa	*	MAL-2024-12006	https://osv.dev/vulnerability/MAL-2024-12006
 ms-2.0.0	*	MAL-2022-4719	https://osv.dev/vulnerability/MAL-2022-4719
 ms-affiliate-links	*	MAL-2026-2643	https://osv.dev/vulnerability/MAL-2026-2643
 ms-azuretools.vscode-azureresourcegroups	*	MAL-2025-26830	https://osv.dev/vulnerability/MAL-2025-26830
-ms-client-portal	1.0.0	MAL-0000-invisirisk-ms-client-portal	https://github.com/ossf/malicious-packages/pull/1696
-ms-client-portal	10.0.0	MAL-0000-invisirisk-ms-client-portal	https://github.com/ossf/malicious-packages/pull/1696
+ms-client-portal	1.0.0	MAL-0000-invisirisk-ms-client-portal	https://github.com/ossf/malicious-packages/blob/b158431e2414ed9e8a02cbd70a378f9620a7d9ff/osv/malicious/npm/ms-client-portal/MAL-0000-invisirisk-ms-client-portal.json
+ms-client-portal	10.0.0	MAL-0000-invisirisk-ms-client-portal	https://github.com/ossf/malicious-packages/blob/b158431e2414ed9e8a02cbd70a378f9620a7d9ff/osv/malicious/npm/ms-client-portal/MAL-0000-invisirisk-ms-client-portal.json
 ms-faber-logicservice	*	MAL-2025-26831	https://osv.dev/vulnerability/MAL-2025-26831
 ms-graph-types	*	MAL-2026-3651	https://osv.dev/vulnerability/MAL-2026-3651
 ms-gsl	*	MAL-2025-45239	https://osv.dev/vulnerability/MAL-2025-45239
