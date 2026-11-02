@@ -159177,6 +159177,7 @@ pearpass-lib-vault	*	MAL-2026-1238	https://osv.dev/vulnerability/MAL-2026-1238
 pearpass-lib-vault-core	*	MAL-2026-1239	https://osv.dev/vulnerability/MAL-2026-1239
 pearpass-utils-password-check	*	MAL-2026-1246	https://osv.dev/vulnerability/MAL-2026-1246
 pearson-quarks	*	MAL-2025-28995	https://osv.dev/vulnerability/MAL-2025-28995
+pearx93qja-notthedevs	1.1.8	MAL-0000-pearx93qja-notthedevs	https://github.com/ossf/malicious-packages/pull/1724
 peas-tea-curut	3.2.2	MAL-0000-peas-tea-curut	https://github.com/ossf/malicious-packages/pull/1724
 peasy.js	*	MAL-2025-28996	https://osv.dev/vulnerability/MAL-2025-28996
 peasyjs	*	MAL-2025-28997	https://osv.dev/vulnerability/MAL-2025-28997
@@ -173836,6 +173837,7 @@ related-turquoise-dragonfly	*	MAL-2025-70271	https://osv.dev/vulnerability/MAL-2
 related-yellow-stork	*	MAL-2025-70272	https://osv.dev/vulnerability/MAL-2025-70272
 related-yellow-wildebeest	*	MAL-2025-70273	https://osv.dev/vulnerability/MAL-2025-70273
 related_bass_z3n	*	MAL-2025-96257	https://osv.dev/vulnerability/MAL-2025-96257
+related_blackbird-toolteadev	2.1.1	MAL-0000-related_blackbird-toolteadev	https://github.com/ossf/malicious-packages/pull/1724
 related_crocodile_dumbs	*	MAL-2025-107835	https://osv.dev/vulnerability/MAL-2025-107835
 related_dormouse-apptea	*	MAL-2025-107836	https://osv.dev/vulnerability/MAL-2025-107836
 related_dove_z3n	*	MAL-2025-129715	https://osv.dev/vulnerability/MAL-2025-129715
@@ -213532,6 +213534,7 @@ unemployed_silverfish-biggestdev	*	MAL-2025-110081	https://osv.dev/vulnerability
 unemployed_stingray_z3n	*	MAL-2025-117675	https://osv.dev/vulnerability/MAL-2025-117675
 unemployed_tyrannosaurus_z3n	*	MAL-2025-98980	https://osv.dev/vulnerability/MAL-2025-98980
 unemployed_vicuna_z3n	*	MAL-2025-61526	https://osv.dev/vulnerability/MAL-2025-61526
+unemployed_xerinae-toolteadev	1.4.4	MAL-0000-unemployed_xerinae-toolteadev	https://github.com/ossf/malicious-packages/pull/1724
 unescaped	*	MAL-2025-41447	https://osv.dev/vulnerability/MAL-2025-41447
 uneven-amethyst-bug	*	MAL-2025-71264	https://osv.dev/vulnerability/MAL-2025-71264
 uneven-azure-egret	*	MAL-2025-71265	https://osv.dev/vulnerability/MAL-2025-71265
