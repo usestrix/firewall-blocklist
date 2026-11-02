@@ -57288,7 +57288,7 @@ contosoapp	*	MAL-2026-881	https://osv.dev/vulnerability/MAL-2026-881
 contract-contract-builder	35.5.2	MAL-2026-12665	https://osv.dev/vulnerability/MAL-2026-12665
 contract-metadata	*	MAL-2022-2172	https://osv.dev/vulnerability/MAL-2022-2172
 contracts-plugins	*	MAL-2025-17520	https://osv.dev/vulnerability/MAL-2025-17520
-contracts-upgradeable	1.0.0	MAL-0000-invisirisk-contracts-upgradeable	https://github.com/ossf/malicious-packages/blob/665b92bab849fd5da306776738dc131cfdc3fb94/osv/malicious/npm/contracts-upgradeable/MAL-0000-invisirisk-contracts-upgradeable.json
+contracts-upgradeable	1.0.0	MAL-2026-18451	https://osv.dev/vulnerability/MAL-2026-18451
 contrast-local-scan-action	*	MAL-2025-175	https://osv.dev/vulnerability/MAL-2025-175
 contributor-site	*	MAL-2022-2173	https://osv.dev/vulnerability/MAL-2022-2173
 control-cdu	1.0.1	MAL-2024-2022	https://osv.dev/vulnerability/MAL-2024-2022
@@ -189370,9 +189370,9 @@ sol-coverage	*	MAL-2026-3734	https://osv.dev/vulnerability/MAL-2026-3734
 sol-sdk	2.3.18	MAL-2026-6879	https://osv.dev/vulnerability/MAL-2026-6879
 sol-spltoken	0.1.2	MAL-2024-3032	https://osv.dev/vulnerability/MAL-2024-3032
 sol-validator	*	MAL-2025-6003	https://osv.dev/vulnerability/MAL-2025-6003
-sol-wallet-adapter	1.0.0	MAL-0000-invisirisk-sol-wallet-adapter	https://github.com/ossf/malicious-packages/blob/665b92bab849fd5da306776738dc131cfdc3fb94/osv/malicious/npm/sol-wallet-adapter/MAL-0000-invisirisk-sol-wallet-adapter.json
-sol-wallet-adapter	1.0.1	MAL-0000-invisirisk-sol-wallet-adapter	https://github.com/ossf/malicious-packages/blob/665b92bab849fd5da306776738dc131cfdc3fb94/osv/malicious/npm/sol-wallet-adapter/MAL-0000-invisirisk-sol-wallet-adapter.json
-sol-wallet-adapter	1.0.7	MAL-0000-invisirisk-sol-wallet-adapter	https://github.com/ossf/malicious-packages/blob/665b92bab849fd5da306776738dc131cfdc3fb94/osv/malicious/npm/sol-wallet-adapter/MAL-0000-invisirisk-sol-wallet-adapter.json
+sol-wallet-adapter	1.0.0	MAL-2026-18452	https://osv.dev/vulnerability/MAL-2026-18452
+sol-wallet-adapter	1.0.1	MAL-2026-18452	https://osv.dev/vulnerability/MAL-2026-18452
+sol-wallet-adapter	1.0.7	MAL-2026-18452	https://osv.dev/vulnerability/MAL-2026-18452
 sol-wallet-adapter-example	*	MAL-2025-1177	https://osv.dev/vulnerability/MAL-2025-1177
 sol-web3-1.45	*	MAL-2024-7056	https://osv.dev/vulnerability/MAL-2024-7056
 sol-web3-bundler	*	MAL-2025-2129	https://osv.dev/vulnerability/MAL-2025-2129
