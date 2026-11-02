@@ -37782,7 +37782,7 @@ axcors	*	MAL-2025-47517	https://osv.dev/vulnerability/MAL-2025-47517
 axe-core-scanner	99.0.9	MAL-2025-41281	https://osv.dev/vulnerability/MAL-2025-41281
 axelar-presets	*	MAL-2025-1065	https://osv.dev/vulnerability/MAL-2025-1065
 axelar-signing-relayer	*	MAL-2022-1206	https://osv.dev/vulnerability/MAL-2022-1206
-axelarjs-sdk	1.0.1	MAL-0000-invisirisk-axelarjs-sdk	https://github.com/ossf/malicious-packages/pull/1704
+axelarjs-sdk	1.0.1	MAL-0000-invisirisk-axelarjs-sdk	https://github.com/ossf/malicious-packages/blob/69ae479cca9f78e2c450ef6a54e186ba7b4eb2b9/osv/malicious/npm/axelarjs-sdk/MAL-0000-invisirisk-axelarjs-sdk.json
 axelhowe	0.0.0-5VtLmtixx6V5PkcW	MAL-2024-30	https://osv.dev/vulnerability/MAL-2024-30
 axevqmjtkunplhir	*	MAL-2022-1207	https://osv.dev/vulnerability/MAL-2022-1207
 axgponrjtfdlkwbz	*	MAL-2022-1208	https://osv.dev/vulnerability/MAL-2022-1208
@@ -41899,7 +41899,7 @@ big_starfish_z3n	*	MAL-2025-62104	https://osv.dev/vulnerability/MAL-2025-62104
 big_swift_z3n	*	MAL-2025-118948	https://osv.dev/vulnerability/MAL-2025-118948
 big_wildcat-appteadev	*	MAL-2025-99972	https://osv.dev/vulnerability/MAL-2025-99972
 bigbank-ui-lab	*	MAL-2025-15671	https://osv.dev/vulnerability/MAL-2025-15671
-bigbob22-test	1.0.0	MAL-0000-invisirisk-bigbob22-test	https://github.com/ossf/malicious-packages/pull/1704
+bigbob22-test	1.0.0	MAL-0000-invisirisk-bigbob22-test	https://github.com/ossf/malicious-packages/blob/69ae479cca9f78e2c450ef6a54e186ba7b4eb2b9/osv/malicious/npm/bigbob22-test/MAL-0000-invisirisk-bigbob22-test.json
 bigcom	*	MAL-2022-1568	https://osv.dev/vulnerability/MAL-2022-1568
 bigcommerce-cornerstone	*	MAL-2025-122	https://osv.dev/vulnerability/MAL-2025-122
 bigcommerce-monit	55.55.56	MAL-2024-11312	https://osv.dev/vulnerability/MAL-2024-11312
@@ -59745,7 +59745,7 @@ cute_urial_coral-3	*	MAL-2025-111780	https://osv.dev/vulnerability/MAL-2025-1117
 cute_vole_dumbs	*	MAL-2025-101179	https://osv.dev/vulnerability/MAL-2025-101179
 cutefp	*	MAL-2025-17844	https://osv.dev/vulnerability/MAL-2025-17844
 cutejig	*	MAL-2025-17845	https://osv.dev/vulnerability/MAL-2025-17845
-cutekitten-test	1.0.1	MAL-0000-invisirisk-cutekitten-test	https://github.com/ossf/malicious-packages/pull/1704
+cutekitten-test	1.0.1	MAL-0000-invisirisk-cutekitten-test	https://github.com/ossf/malicious-packages/blob/69ae479cca9f78e2c450ef6a54e186ba7b4eb2b9/osv/malicious/npm/cutekitten-test/MAL-0000-invisirisk-cutekitten-test.json
 cutesy	*	MAL-2025-17846	https://osv.dev/vulnerability/MAL-2025-17846
 cutmap	*	MAL-2025-17847	https://osv.dev/vulnerability/MAL-2025-17847
 cutoffurmind-ui-kit	*	MAL-2022-2289	https://osv.dev/vulnerability/MAL-2022-2289
@@ -221694,7 +221694,7 @@ walkme-killer	1.0.0	MAL-2024-3851	https://osv.dev/vulnerability/MAL-2024-3851
 walkme-ui-template	*	MAL-2025-38740	https://osv.dev/vulnerability/MAL-2025-38740
 wall-e.api	*	MAL-2023-959	https://osv.dev/vulnerability/MAL-2023-959
 wallarm-design-system	1.1.0	MAL-2026-7434	https://osv.dev/vulnerability/MAL-2026-7434
-wallet-adapter-base	1.0.0	MAL-0000-invisirisk-wallet-adapter-base	https://github.com/ossf/malicious-packages/pull/1704
+wallet-adapter-base	1.0.0	MAL-0000-invisirisk-wallet-adapter-base	https://github.com/ossf/malicious-packages/blob/69ae479cca9f78e2c450ef6a54e186ba7b4eb2b9/osv/malicious/npm/wallet-adapter-base/MAL-0000-invisirisk-wallet-adapter-base.json
 wallet-adapter-demo	*	MAL-2025-718	https://osv.dev/vulnerability/MAL-2025-718
 wallet-adapter-react	*	MAL-2026-433	https://osv.dev/vulnerability/MAL-2026-433
 wallet-add-chain	*	MAL-2023-7959	https://osv.dev/vulnerability/MAL-2023-7959
