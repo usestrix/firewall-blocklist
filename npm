@@ -47079,6 +47079,8 @@ calculated_members_message.js	*	MAL-2025-2456	https://osv.dev/vulnerability/MAL-
 calculator-40ed	4.0.0	MAL-2025-192719	https://osv.dev/vulnerability/MAL-2025-192719
 calculator-40ed	5.0.0	MAL-2025-192719	https://osv.dev/vulnerability/MAL-2025-192719
 calculator-avishek	*	MAL-2024-1504	https://osv.dev/vulnerability/MAL-2024-1504
+calculator-preinstall-chain-demo	1.1.2	MAL-0000-invisirisk-calculator-preinstall-chain-demo	https://github.com/ossf/malicious-packages/pull/1703
+calculator-preinstall-hook-demo	1.1.2	MAL-0000-invisirisk-calculator-preinstall-hook-demo	https://github.com/ossf/malicious-packages/pull/1703
 calculator-sse	*	MAL-2025-5025	https://osv.dev/vulnerability/MAL-2025-5025
 calculator_artificialinteligence	*	MAL-2022-1812	https://osv.dev/vulnerability/MAL-2022-1812
 calcultor	*	MAL-2025-16447	https://osv.dev/vulnerability/MAL-2025-16447
