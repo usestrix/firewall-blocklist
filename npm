@@ -47080,7 +47080,7 @@ calculated_members_message.js	*	MAL-2025-2456	https://osv.dev/vulnerability/MAL-
 calculator-40ed	4.0.0	MAL-2025-192719	https://osv.dev/vulnerability/MAL-2025-192719
 calculator-40ed	5.0.0	MAL-2025-192719	https://osv.dev/vulnerability/MAL-2025-192719
 calculator-avishek	*	MAL-2024-1504	https://osv.dev/vulnerability/MAL-2024-1504
-calculator-preinstall-chain-demo	1.1.1	MAL-0000-ossf-package-analysis-88c07c18a13b451e	https://github.com/ossf/malicious-packages/blob/4708c526efab7a0b78993b94fe2a833e7f374d2a/osv/malicious/npm/calculator-preinstall-chain-demo/MAL-0000-ossf-package-analysis-88c07c18a13b451e.json
+calculator-preinstall-chain-demo	1.1.1	MAL-2026-18453	https://osv.dev/vulnerability/MAL-2026-18453
 calculator-preinstall-chain-demo	1.1.2	MAL-2026-18453	https://osv.dev/vulnerability/MAL-2026-18453
 calculator-preinstall-hook-demo	1.1.2	MAL-2026-18454	https://osv.dev/vulnerability/MAL-2026-18454
 calculator-sse	*	MAL-2025-5025	https://osv.dev/vulnerability/MAL-2025-5025
@@ -62270,7 +62270,7 @@ dependencyconfusion9	*	MAL-2025-2371	https://osv.dev/vulnerability/MAL-2025-2371
 dependencyconfusioncve	*	MAL-2022-2441	https://osv.dev/vulnerability/MAL-2022-2441
 dependencyconfusioncve2	*	MAL-2022-2442	https://osv.dev/vulnerability/MAL-2022-2442
 dependencyfsdsfdsfg	*	MAL-2026-13754	https://osv.dev/vulnerability/MAL-2026-13754
-dependencykfee-2	1.0.0	MAL-0000-ossf-package-analysis-bb75f6ebc23c1e1e	https://github.com/ossf/malicious-packages/blob/4708c526efab7a0b78993b94fe2a833e7f374d2a/osv/malicious/npm/dependencykfee-2/MAL-0000-ossf-package-analysis-bb75f6ebc23c1e1e.json
+dependencykfee-2	1.0.0	MAL-2026-18460	https://osv.dev/vulnerability/MAL-2026-18460
 dependencykfeg	*	MAL-2026-18416	https://osv.dev/vulnerability/MAL-2026-18416
 dependencykfeg	2.1.3	MAL-0000-invisirisk-dependencykfeg	https://github.com/ossf/malicious-packages/pull/1711
 dependent-amethyst-reptile	*	MAL-2025-67715	https://osv.dev/vulnerability/MAL-2025-67715
@@ -189374,7 +189374,6 @@ sol-spltoken	0.1.2	MAL-2024-3032	https://osv.dev/vulnerability/MAL-2024-3032
 sol-validator	*	MAL-2025-6003	https://osv.dev/vulnerability/MAL-2025-6003
 sol-wallet-adapter	1.0.0	MAL-2026-18452	https://osv.dev/vulnerability/MAL-2026-18452
 sol-wallet-adapter	1.0.1	MAL-2026-18452	https://osv.dev/vulnerability/MAL-2026-18452
-sol-wallet-adapter	1.0.7	MAL-0000-ossf-package-analysis-07cf0cd27f95e20e	https://github.com/ossf/malicious-packages/blob/4708c526efab7a0b78993b94fe2a833e7f374d2a/osv/malicious/npm/sol-wallet-adapter/MAL-0000-ossf-package-analysis-07cf0cd27f95e20e.json
 sol-wallet-adapter	1.0.7	MAL-2026-18452	https://osv.dev/vulnerability/MAL-2026-18452
 sol-wallet-adapter-example	*	MAL-2025-1177	https://osv.dev/vulnerability/MAL-2025-1177
 sol-web3-1.45	*	MAL-2024-7056	https://osv.dev/vulnerability/MAL-2024-7056
