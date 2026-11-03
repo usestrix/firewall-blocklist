@@ -5427,6 +5427,7 @@
 @dxcl/user-js	99.99.99	MAL-2026-10879	https://osv.dev/vulnerability/MAL-2026-10879
 @dydxprotocol/perpetual	>=1.2.2	MAL-2022-219	https://osv.dev/vulnerability/MAL-2022-219
 @dydxprotocol/solo	>=0.41.1	MAL-2022-220	https://osv.dev/vulnerability/MAL-2022-220
+@dyllxnn/baileys	*	MAL-0000-dyllxnn-baileys	https://github.com/ossf/malicious-packages/pull/1727
 @dyllxnn/baileys	1.0.0	MAL-0000-dyllxnn-baileys	https://github.com/ossf/malicious-packages/pull/1666
 @dz-lib/dz-cli	*	MAL-2024-12178	https://osv.dev/vulnerability/MAL-2024-12178
 @dz-lib/icon	*	MAL-2024-12179	https://osv.dev/vulnerability/MAL-2024-12179
