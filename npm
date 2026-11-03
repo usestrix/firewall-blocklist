@@ -2460,6 +2460,7 @@
 @axaclient-socle-front/webmodule	>=1.0.0	MAL-2025-41824	https://osv.dev/vulnerability/MAL-2025-41824
 @axinom/mosaic-cli	0.52.0-rc.2	MAL-2025-191450	https://osv.dev/vulnerability/MAL-2025-191450
 @axo_cuy/baileys	1.0.0	MAL-2026-18440	https://osv.dev/vulnerability/MAL-2026-18440
+@axo_cuy/baileyss	*	MAL-0000-axo_cuy-baileyss	https://github.com/ossf/malicious-packages/pull/1726
 @axo_cuy/baileyss	1.0.0	MAL-0000-axo_cuy-baileyss	https://github.com/ossf/malicious-packages/pull/1666
 @axo_cuy/baileyss	1.0.1	MAL-0000-axo_cuy-baileyss	https://github.com/ossf/malicious-packages/pull/1666
 @axo_cuy/baileyss	3.0.1	MAL-0000-axo_cuy-baileyss	https://github.com/ossf/malicious-packages/pull/1666
