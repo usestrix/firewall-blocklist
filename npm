@@ -69328,6 +69328,7 @@ dsgs-trds-trud	*	MAL-2025-174117	https://osv.dev/vulnerability/MAL-2025-174117
 dsgs-trus-pix	*	MAL-2025-174118	https://osv.dev/vulnerability/MAL-2025-174118
 dsgs-trus-psix	*	MAL-2025-174119	https://osv.dev/vulnerability/MAL-2025-174119
 dsgs-txcui-pix	*	MAL-2025-174120	https://osv.dev/vulnerability/MAL-2025-174120
+dsh-moss-console	3.3.0	MAL-0000-ghsa-malware-2ef95aa7f77da1d4	https://github.com/ossf/malicious-packages/blob/8fb108ae6940702f03546ffad40e2fac050cb3c4/osv/malicious/npm/dsh-moss-console/MAL-0000-ghsa-malware-2ef95aa7f77da1d4.json
 dsh-native	1.4.1	MAL-2026-18315	https://osv.dev/vulnerability/MAL-2026-18315
 dsh-plugin-blender-3d	0.2.1	MAL-2026-18321	https://osv.dev/vulnerability/MAL-2026-18321
 dsh-redteam-mode	0.15.2	MAL-2026-18366	https://osv.dev/vulnerability/MAL-2026-18366
