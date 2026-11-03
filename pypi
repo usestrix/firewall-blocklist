@@ -4635,11 +4635,17 @@ filename	0.0.6	MAL-2024-5141	https://osv.dev/vulnerability/MAL-2024-5141
 filename	1.3	MAL-2024-5141	https://osv.dev/vulnerability/MAL-2024-5141
 filespath	1.0.0	MAL-2026-701	https://osv.dev/vulnerability/MAL-2026-701
 filesystem-python	0.0.1	MAL-2025-6506	https://osv.dev/vulnerability/MAL-2025-6506
+filipt	0.1.0	MAL-0000-kam193-7127485034339100	https://github.com/ossf/malicious-packages/blob/98d29fec2e4d22b66038667c0c8fda751867ef93/osv/malicious/pypi/filipt/MAL-0000-kam193-7127485034339100.json
 filipt	0.1.0	MAL-2026-18580	https://osv.dev/vulnerability/MAL-2026-18580
+filipt	0.1.1	MAL-0000-kam193-7127485034339100	https://github.com/ossf/malicious-packages/blob/98d29fec2e4d22b66038667c0c8fda751867ef93/osv/malicious/pypi/filipt/MAL-0000-kam193-7127485034339100.json
 filipt	0.1.1	MAL-2026-18580	https://osv.dev/vulnerability/MAL-2026-18580
+filipt	0.1.2	MAL-0000-kam193-7127485034339100	https://github.com/ossf/malicious-packages/blob/98d29fec2e4d22b66038667c0c8fda751867ef93/osv/malicious/pypi/filipt/MAL-0000-kam193-7127485034339100.json
 filipt	0.1.2	MAL-2026-18580	https://osv.dev/vulnerability/MAL-2026-18580
+filipt	0.1.3	MAL-0000-kam193-7127485034339100	https://github.com/ossf/malicious-packages/blob/98d29fec2e4d22b66038667c0c8fda751867ef93/osv/malicious/pypi/filipt/MAL-0000-kam193-7127485034339100.json
 filipt	0.1.3	MAL-2026-18580	https://osv.dev/vulnerability/MAL-2026-18580
+filipt	0.1.4	MAL-0000-kam193-7127485034339100	https://github.com/ossf/malicious-packages/blob/98d29fec2e4d22b66038667c0c8fda751867ef93/osv/malicious/pypi/filipt/MAL-0000-kam193-7127485034339100.json
 filipt	0.1.4	MAL-2026-18580	https://osv.dev/vulnerability/MAL-2026-18580
+filipt	0.1.5	MAL-0000-kam193-7127485034339100	https://github.com/ossf/malicious-packages/blob/98d29fec2e4d22b66038667c0c8fda751867ef93/osv/malicious/pypi/filipt/MAL-0000-kam193-7127485034339100.json
 filipt	0.1.5	MAL-2026-18580	https://osv.dev/vulnerability/MAL-2026-18580
 final-osint	2.0.0	MAL-2025-48891	https://osv.dev/vulnerability/MAL-2025-48891
 financial-crimes-general-utils	3.9.12	MAL-2026-2107	https://osv.dev/vulnerability/MAL-2026-2107
@@ -17363,4 +17369,8 @@ zsender	1.2.7	MAL-2025-191945	https://osv.dev/vulnerability/MAL-2025-191945
 ztasimb	1.0.0	MAL-2024-6262	https://osv.dev/vulnerability/MAL-2024-6262
 zydnitro	1.0	MAL-2024-6263	https://osv.dev/vulnerability/MAL-2024-6263
 zyqnuutupjerllnbxaeq	0.0.1	MAL-2024-6264	https://osv.dev/vulnerability/MAL-2024-6264
+zyto	0.2.0	MAL-0000-kam193-817f92245d406e76	https://github.com/ossf/malicious-packages/blob/98d29fec2e4d22b66038667c0c8fda751867ef93/osv/malicious/pypi/zyto/MAL-0000-kam193-817f92245d406e76.json
+zyto	0.2.1	MAL-0000-kam193-817f92245d406e76	https://github.com/ossf/malicious-packages/blob/98d29fec2e4d22b66038667c0c8fda751867ef93/osv/malicious/pypi/zyto/MAL-0000-kam193-817f92245d406e76.json
+zyto	0.2.2	MAL-0000-kam193-817f92245d406e76	https://github.com/ossf/malicious-packages/blob/98d29fec2e4d22b66038667c0c8fda751867ef93/osv/malicious/pypi/zyto/MAL-0000-kam193-817f92245d406e76.json
+zyto	0.2.3	MAL-0000-kam193-817f92245d406e76	https://github.com/ossf/malicious-packages/blob/98d29fec2e4d22b66038667c0c8fda751867ef93/osv/malicious/pypi/zyto/MAL-0000-kam193-817f92245d406e76.json
 zzzzthisisitwantsafecheckitzzzz	1.0.0	MAL-2026-2309	https://osv.dev/vulnerability/MAL-2026-2309
