@@ -184873,6 +184873,7 @@ service-home	*	MAL-2026-16039	https://osv.dev/vulnerability/MAL-2026-16039
 service-module-api	*	MAL-2022-6031	https://osv.dev/vulnerability/MAL-2022-6031
 service-module-utils	*	MAL-2022-6032	https://osv.dev/vulnerability/MAL-2022-6032
 service-roles-registry	99.0.1	MAL-0000-invisirisk-service-roles-registry	https://github.com/ossf/malicious-packages/pull/1725
+service-roles-registry	99.0.2	MAL-0000-amazon-inspector-4b228283b1cc1ad4	https://github.com/ossf/malicious-packages/blob/1db43e4a9ff05555c3e8a4907dac74a4f421df34/osv/malicious/npm/service-roles-registry/MAL-0000-amazon-inspector-4b228283b1cc1ad4.json
 service-roles-registry	99.0.2	MAL-0000-gatekeeper-service-roles-registry	https://github.com/ossf/malicious-packages/pull/1721
 service-roles-registry	99.0.2	MAL-0000-invisirisk-service-roles-registry	https://github.com/ossf/malicious-packages/pull/1725
 service-stack	*	MAL-2025-33012	https://osv.dev/vulnerability/MAL-2025-33012
