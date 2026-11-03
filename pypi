@@ -4489,7 +4489,6 @@ fabtoolkit	0.1.2	MAL-2026-17927	https://osv.dev/vulnerability/MAL-2026-17927
 fabtoolkit	0.2.1	MAL-2026-17927	https://osv.dev/vulnerability/MAL-2026-17927
 facebook-scrapper	0.0.1.dev0	MAL-2024-5127	https://osv.dev/vulnerability/MAL-2024-5127
 facebookresearch	99.0.0	MAL-2026-2175	https://osv.dev/vulnerability/MAL-2026-2175
-facewareretargeter	9.9.9	MAL-0000-kam193-621af984093bb07f	https://github.com/ossf/malicious-packages/blob/0754b0274ee6744040c00fb7c2281a61f8df58ec/osv/malicious/pypi/facewareretargeter/MAL-0000-kam193-621af984093bb07f.json
 facewareretargeter	9.9.9	MAL-2026-18110	https://osv.dev/vulnerability/MAL-2026-18110
 fadlearner	912.6	MAL-2024-11588	https://osv.dev/vulnerability/MAL-2024-11588
 faest	0.14.6	MAL-2024-12269	https://osv.dev/vulnerability/MAL-2024-12269
@@ -5491,11 +5490,9 @@ hhxy	0.2.3	MAL-2025-932	https://osv.dev/vulnerability/MAL-2025-932
 hhxy	0.2.4	MAL-2025-932	https://osv.dev/vulnerability/MAL-2025-932
 hidden-powershell-runner-ax7	0.1.0	MAL-2025-192659	https://osv.dev/vulnerability/MAL-2025-192659
 hidden-powershell-runner-ax7	0.1.1	MAL-2025-192659	https://osv.dev/vulnerability/MAL-2025-192659
-hijiko-pilaka	1.0.0	MAL-0000-kam193-7e67ec09bd5789dd	https://github.com/ossf/malicious-packages/blob/0754b0274ee6744040c00fb7c2281a61f8df58ec/osv/malicious/pypi/hijiko-pilaka/MAL-0000-kam193-7e67ec09bd5789dd.json
 hijiko-pilaka	1.0.0	MAL-2026-18111	https://osv.dev/vulnerability/MAL-2026-18111
-hijok-lampam	1.0.0	MAL-0000-kam193-20310ad15ee6e38b	https://github.com/ossf/malicious-packages/blob/0754b0274ee6744040c00fb7c2281a61f8df58ec/osv/malicious/pypi/hijok-lampam/MAL-0000-kam193-20310ad15ee6e38b.json
 hijok-lampam	1.0.0	MAL-2026-18112	https://osv.dev/vulnerability/MAL-2026-18112
-hijuko-pilara	1.0.0	MAL-0000-kam193-3e03de70d14b6b6e	https://github.com/ossf/malicious-packages/blob/0754b0274ee6744040c00fb7c2281a61f8df58ec/osv/malicious/pypi/hijuko-pilara/MAL-0000-kam193-3e03de70d14b6b6e.json
+hijuko-pilara	1.0.0	MAL-2026-18581	https://osv.dev/vulnerability/MAL-2026-18581
 hironobunigo	1.0	MAL-2025-41684	https://osv.dev/vulnerability/MAL-2025-41684
 hive-os-settings	2.33.0	MAL-2026-2665	https://osv.dev/vulnerability/MAL-2026-2665
 hive-setting	2.33.0	MAL-2026-2623	https://osv.dev/vulnerability/MAL-2026-2623
@@ -6053,7 +6050,6 @@ jd-mlops	99.99.99	MAL-2025-6528	https://osv.dev/vulnerability/MAL-2025-6528
 jec	39.0.1	MAL-2026-5684	https://osv.dev/vulnerability/MAL-2026-5684
 jfqyotpnvb	0.0.1	MAL-2024-5279	https://osv.dev/vulnerability/MAL-2024-5279
 jie-utility-package	1.5.0	MAL-2026-3022	https://osv.dev/vulnerability/MAL-2026-3022
-jiklpo-tsunari-kay	1.0.0	MAL-0000-kam193-17df75a58c1d7e09	https://github.com/ossf/malicious-packages/blob/0754b0274ee6744040c00fb7c2281a61f8df58ec/osv/malicious/pypi/jiklpo-tsunari-kay/MAL-0000-kam193-17df75a58c1d7e09.json
 jiklpo-tsunari-kay	1.0.0	MAL-2026-18113	https://osv.dev/vulnerability/MAL-2026-18113
 jinja22	1.1.0	MAL-2025-41693	https://osv.dev/vulnerability/MAL-2025-41693
 jirawrapped	0.1.0	MAL-2025-6529	https://osv.dev/vulnerability/MAL-2025-6529
