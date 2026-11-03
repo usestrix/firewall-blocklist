@@ -1949,6 +1949,8 @@ doge-helper	0.1	MAL-2024-6866	https://osv.dev/vulnerability/MAL-2024-6866
 doge-linguist	0.1.0	MAL-2024-6867	https://osv.dev/vulnerability/MAL-2024-6867
 doge-woof	0.1.10	MAL-2024-6868	https://osv.dev/vulnerability/MAL-2024-6868
 doge_chef-formatter	0.0.1	MAL-2024-6869	https://osv.dev/vulnerability/MAL-2024-6869
+dopc-client	1.0.0	MAL-0000-amazon-inspector-0ecbe68fef68472d	https://github.com/ossf/malicious-packages/blob/b2a4cd1399e2d766078ababa3c31c936055bba5e/osv/malicious/rubygems/dopc-client/MAL-0000-amazon-inspector-0ecbe68fef68472d.json
+dopc-client	10.0.0	MAL-0000-amazon-inspector-7d5e44ca4d910ac8	https://github.com/ossf/malicious-packages/blob/b2a4cd1399e2d766078ababa3c31c936055bba5e/osv/malicious/rubygems/dopc-client/MAL-0000-amazon-inspector-7d5e44ca4d910ac8.json
 dot-rake_tasks_in_rails	0.0.1	MAL-2024-6870	https://osv.dev/vulnerability/MAL-2024-6870
 dradis_brakeman	3.15.0	MAL-2024-6871	https://osv.dev/vulnerability/MAL-2024-6871
 dradis_nmap	3.15.0	MAL-2024-6872	https://osv.dev/vulnerability/MAL-2024-6872
