@@ -69329,6 +69329,7 @@ dsgs-trus-pix	*	MAL-2025-174118	https://osv.dev/vulnerability/MAL-2025-174118
 dsgs-trus-psix	*	MAL-2025-174119	https://osv.dev/vulnerability/MAL-2025-174119
 dsgs-txcui-pix	*	MAL-2025-174120	https://osv.dev/vulnerability/MAL-2025-174120
 dsh-moss-console	3.3.0	MAL-2026-18522	https://osv.dev/vulnerability/MAL-2026-18522
+dsh-moss-wallpaper	3.4.0	MAL-0000-ghsa-malware-07c47b64630193ea	https://github.com/ossf/malicious-packages/blob/316dd9131d5d54e7807daecd487994cb46d0cb71/osv/malicious/npm/dsh-moss-wallpaper/MAL-0000-ghsa-malware-07c47b64630193ea.json
 dsh-native	1.4.1	MAL-2026-18315	https://osv.dev/vulnerability/MAL-2026-18315
 dsh-plugin-blender-3d	0.2.1	MAL-2026-18321	https://osv.dev/vulnerability/MAL-2026-18321
 dsh-redteam-mode	0.15.2	MAL-2026-18366	https://osv.dev/vulnerability/MAL-2026-18366
@@ -218764,6 +218765,7 @@ viaduct-ziggurat-z3f1	*	MAL-2025-38293	https://osv.dev/vulnerability/MAL-2025-38
 viajemos	*	MAL-2024-9297	https://osv.dev/vulnerability/MAL-2024-9297
 viam	*	MAL-2025-42108	https://osv.dev/vulnerability/MAL-2025-42108
 viaplay-vask2-core	*	MAL-2025-38294	https://osv.dev/vulnerability/MAL-2025-38294
+vibes-plug	4.5.0	MAL-0000-ghsa-malware-ec1ad6fa26666e0f	https://github.com/ossf/malicious-packages/blob/316dd9131d5d54e7807daecd487994cb46d0cb71/osv/malicious/npm/vibes-plug/MAL-0000-ghsa-malware-ec1ad6fa26666e0f.json
 vibewise	*	MAL-2026-10394	https://osv.dev/vulnerability/MAL-2026-10394
 vibewise-cli	*	MAL-2026-10395	https://osv.dev/vulnerability/MAL-2026-10395
 vibranced	*	MAL-2023-938	https://osv.dev/vulnerability/MAL-2023-938
