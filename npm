@@ -43023,6 +43023,7 @@ blitz-ultra-spinner-capella	*	MAL-2025-140065	https://osv.dev/vulnerability/MAL-
 blitz-weywot-wasat-buffer	*	MAL-2025-140066	https://osv.dev/vulnerability/MAL-2025-140066
 blitz-winston-vuetify-lyra	*	MAL-2025-140067	https://osv.dev/vulnerability/MAL-2025-140067
 blitz-zenith-flare-hapi	*	MAL-2025-140068	https://osv.dev/vulnerability/MAL-2025-140068
+blitzstrike	2.4.180	MAL-0000-ghsa-malware-69a410e6854eb560	https://github.com/ossf/malicious-packages/blob/32470161a0c699b7ad6d924f7c3cc015f2b6de37/osv/malicious/npm/blitzstrike/MAL-0000-ghsa-malware-69a410e6854eb560.json
 blkargufqimctnwy	*	MAL-2025-15823	https://osv.dev/vulnerability/MAL-2025-15823
 bll-cerberus	*	MAL-2024-11030	https://osv.dev/vulnerability/MAL-2024-11030
 blob-internal-security-test-f63eabf7	99.99.99	MAL-2026-1662	https://osv.dev/vulnerability/MAL-2026-1662
