@@ -150272,10 +150272,8 @@ nuilva-vmiam-sa	*	MAL-2025-176874	https://osv.dev/vulnerability/MAL-2025-176874
 nuique-random-arr-y	*	MAL-2022-4975	https://osv.dev/vulnerability/MAL-2022-4975
 nul-rae-naha	*	MAL-2025-163880	https://osv.dev/vulnerability/MAL-2025-163880
 nulea-fofiri-agoai	*	MAL-2025-163881	https://osv.dev/vulnerability/MAL-2025-163881
-nulio-connector	1.1.10	MAL-0000-ghsa-malware-63e886ae9c16a9fa	https://github.com/ossf/malicious-packages/blob/6358ce691f8f3343322ce63ae4df9070bccf09b8/osv/malicious/npm/nulio-connector/MAL-0000-ghsa-malware-63e886ae9c16a9fa.json
 nulio-connector	1.1.10	MAL-2026-18526	https://osv.dev/vulnerability/MAL-2026-18526
-nulio-connector	1.1.11	MAL-0000-ghsa-malware-63e886ae9c16a9fa	https://github.com/ossf/malicious-packages/blob/6358ce691f8f3343322ce63ae4df9070bccf09b8/osv/malicious/npm/nulio-connector/MAL-0000-ghsa-malware-63e886ae9c16a9fa.json
-nulio-connector	1.1.16	MAL-0000-ghsa-malware-63e886ae9c16a9fa	https://github.com/ossf/malicious-packages/blob/6358ce691f8f3343322ce63ae4df9070bccf09b8/osv/malicious/npm/nulio-connector/MAL-0000-ghsa-malware-63e886ae9c16a9fa.json
+nulio-connector	1.1.11	MAL-2026-18526	https://osv.dev/vulnerability/MAL-2026-18526
 nulio-connector	1.1.16	MAL-2026-18526	https://osv.dev/vulnerability/MAL-2026-18526
 null_hash_grab_decode	8.2.1	MAL-2024-2775	https://osv.dev/vulnerability/MAL-2024-2775
 nulla-voluptates-voluptates	213.21.24	MAL-2024-9736	https://osv.dev/vulnerability/MAL-2024-9736
@@ -233523,8 +233521,8 @@ yzmenu	*	MAL-2025-40705	https://osv.dev/vulnerability/MAL-2025-40705
 yzqdapjomkexkhbr	*	MAL-2025-40706	https://osv.dev/vulnerability/MAL-2025-40706
 yzrmahlocdwgsjep	*	MAL-2025-40707	https://osv.dev/vulnerability/MAL-2025-40707
 yzsnvz-devapp	*	MAL-2025-111405	https://osv.dev/vulnerability/MAL-2025-111405
-yzx-npm	1.0.0	MAL-0000-ghsa-malware-b51b209fe5d701ec	https://github.com/ossf/malicious-packages/blob/6358ce691f8f3343322ce63ae4df9070bccf09b8/osv/malicious/npm/yzx-npm/MAL-0000-ghsa-malware-b51b209fe5d701ec.json
-yzx-npm	1.0.1	MAL-0000-ghsa-malware-b51b209fe5d701ec	https://github.com/ossf/malicious-packages/blob/6358ce691f8f3343322ce63ae4df9070bccf09b8/osv/malicious/npm/yzx-npm/MAL-0000-ghsa-malware-b51b209fe5d701ec.json
+yzx-npm	1.0.0	MAL-2026-18597	https://osv.dev/vulnerability/MAL-2026-18597
+yzx-npm	1.0.1	MAL-2026-18597	https://osv.dev/vulnerability/MAL-2026-18597
 z-deno-truth-bwhlsz	*	MAL-2026-16470	https://osv.dev/vulnerability/MAL-2026-16470
 z-deno-truth-va499w	*	MAL-2026-16471	https://osv.dev/vulnerability/MAL-2026-16471
 z-deno-truth-ya1t4m	*	MAL-2026-16472	https://osv.dev/vulnerability/MAL-2026-16472
