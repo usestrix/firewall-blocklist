@@ -69381,8 +69381,12 @@ dsh-screenshot-native	1.0.0	MAL-2026-18438	https://osv.dev/vulnerability/MAL-202
 dsh-vm-tester	0.1.2	MAL-2026-18345	https://osv.dev/vulnerability/MAL-2026-18345
 dsh-vm-tester	0.1.3	MAL-2026-18345	https://osv.dev/vulnerability/MAL-2026-18345
 dsh-vm-tester	0.1.4	MAL-2026-18345	https://osv.dev/vulnerability/MAL-2026-18345
+dsh-volcengine-provider	0.2.11	MAL-0000-ghsa-malware-eedf16311df8ff87	https://github.com/ossf/malicious-packages/blob/cd957a96d167fcf6b965755c55bae335a103fcca/osv/malicious/npm/dsh-volcengine-provider/MAL-0000-ghsa-malware-eedf16311df8ff87.json
+dsh-volcengine-provider	0.2.3	MAL-0000-ghsa-malware-eedf16311df8ff87	https://github.com/ossf/malicious-packages/blob/cd957a96d167fcf6b965755c55bae335a103fcca/osv/malicious/npm/dsh-volcengine-provider/MAL-0000-ghsa-malware-eedf16311df8ff87.json
 dsh-volcengine-provider	0.2.3	MAL-2026-18374	https://osv.dev/vulnerability/MAL-2026-18374
+dsh-volcengine-provider	0.2.5	MAL-0000-ghsa-malware-eedf16311df8ff87	https://github.com/ossf/malicious-packages/blob/cd957a96d167fcf6b965755c55bae335a103fcca/osv/malicious/npm/dsh-volcengine-provider/MAL-0000-ghsa-malware-eedf16311df8ff87.json
 dsh-volcengine-provider	0.2.5	MAL-2026-18374	https://osv.dev/vulnerability/MAL-2026-18374
+dsh-volcengine-provider	0.2.8	MAL-0000-ghsa-malware-eedf16311df8ff87	https://github.com/ossf/malicious-packages/blob/cd957a96d167fcf6b965755c55bae335a103fcca/osv/malicious/npm/dsh-volcengine-provider/MAL-0000-ghsa-malware-eedf16311df8ff87.json
 dsh-volcengine-provider	0.2.8	MAL-2026-18374	https://osv.dev/vulnerability/MAL-2026-18374
 dsh-waste-market	*	MAL-2026-15879	https://osv.dev/vulnerability/MAL-2026-15879
 dshella	*	MAL-2025-18935	https://osv.dev/vulnerability/MAL-2025-18935
@@ -146082,6 +146086,7 @@ nmapchecker	*	MAL-2025-192669	https://osv.dev/vulnerability/MAL-2025-192669
 nmbjqeshkdxzvoup	*	MAL-2022-4865	https://osv.dev/vulnerability/MAL-2022-4865
 nmgpvbyzeufscxjh	*	MAL-2022-4866	https://osv.dev/vulnerability/MAL-2022-4866
 nmig	*	MAL-2025-5789	https://osv.dev/vulnerability/MAL-2025-5789
+nminer	3.0.0	MAL-0000-ghsa-malware-c898b43dd1ee0f1e	https://github.com/ossf/malicious-packages/blob/cd957a96d167fcf6b965755c55bae335a103fcca/osv/malicious/npm/nminer/MAL-0000-ghsa-malware-c898b43dd1ee0f1e.json
 nmos-js	*	MAL-2025-27582	https://osv.dev/vulnerability/MAL-2025-27582
 nmp-frontend-libraries	*	MAL-2025-2149	https://osv.dev/vulnerability/MAL-2025-2149
 nmqnuh-devapptea	*	MAL-2025-106355	https://osv.dev/vulnerability/MAL-2025-106355
