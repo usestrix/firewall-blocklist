@@ -60676,6 +60676,7 @@ data-portal-dwh-apps-fe	*	MAL-2025-4331	https://osv.dev/vulnerability/MAL-2025-4
 data-privatelink	*	MAL-2023-227	https://osv.dev/vulnerability/MAL-2023-227
 data-solutions-framework-on-aws	*	MAL-2025-17992	https://osv.dev/vulnerability/MAL-2025-17992
 data-strategy	*	MAL-2024-12143	https://osv.dev/vulnerability/MAL-2024-12143
+data-sync-utils	*	MAL-0000-ghsa-malware-49fd943e46e5ed64	https://github.com/ossf/malicious-packages/blob/04f22cb2f918958c88b90504a0d9d5502a0d2c13/osv/malicious/npm/data-sync-utils/MAL-0000-ghsa-malware-49fd943e46e5ed64.json
 data-transaction-generates	*	MAL-2025-47551	https://osv.dev/vulnerability/MAL-2025-47551
 data-type-public	0.0.0	MAL-2023-8472	https://osv.dev/vulnerability/MAL-2023-8472
 data-ui-v	*	MAL-2025-2370	https://osv.dev/vulnerability/MAL-2025-2370
@@ -83725,6 +83726,7 @@ filigrean-icon	*	MAL-2025-47484	https://osv.dev/vulnerability/MAL-2025-47484
 filigren-icon	*	MAL-2025-47016	https://osv.dev/vulnerability/MAL-2025-47016
 filigron-icon	*	MAL-2025-44265	https://osv.dev/vulnerability/MAL-2025-44265
 filiogrean-icon	*	MAL-2025-47977	https://osv.dev/vulnerability/MAL-2025-47977
+filipt	*	MAL-0000-ghsa-malware-53f6b94af70b225e	https://github.com/ossf/malicious-packages/blob/04f22cb2f918958c88b90504a0d9d5502a0d2c13/osv/malicious/npm/filipt/MAL-0000-ghsa-malware-53f6b94af70b225e.json
 fill-kind-require	*	MAL-2025-44266	https://osv.dev/vulnerability/MAL-2025-44266
 filmark	*	MAL-2025-20554	https://osv.dev/vulnerability/MAL-2025-20554
 filmoteca	*	MAL-2025-20555	https://osv.dev/vulnerability/MAL-2025-20555
@@ -120561,6 +120563,7 @@ kuvp-less	*	MAL-2022-4241	https://osv.dev/vulnerability/MAL-2022-4241
 kuvvet_poc	1.0.2	MAL-2025-592	https://osv.dev/vulnerability/MAL-2025-592
 kuvvet_poc	1.0.3	MAL-2025-592	https://osv.dev/vulnerability/MAL-2025-592
 kvanity	*	MAL-2025-24841	https://osv.dev/vulnerability/MAL-2025-24841
+kvarzo-8f3a2-testmetest	*	MAL-0000-ghsa-malware-585289d80a705650	https://github.com/ossf/malicious-packages/blob/04f22cb2f918958c88b90504a0d9d5502a0d2c13/osv/malicious/npm/kvarzo-8f3a2-testmetest/MAL-0000-ghsa-malware-585289d80a705650.json
 kvarzo8f3atestmetest	*	MAL-2026-18201	https://osv.dev/vulnerability/MAL-2026-18201
 kvasirapi	*	MAL-2025-24842	https://osv.dev/vulnerability/MAL-2025-24842
 kvgnvn-devapptea	*	MAL-2025-104961	https://osv.dev/vulnerability/MAL-2025-104961
@@ -137008,6 +137011,7 @@ mochq	*	MAL-2025-26580	https://osv.dev/vulnerability/MAL-2025-26580
 mochs	*	MAL-2025-26581	https://osv.dev/vulnerability/MAL-2025-26581
 mock-arduino	*	MAL-2025-3637	https://osv.dev/vulnerability/MAL-2025-3637
 mock-cloud-encrypt-gamma-dog	*	MAL-2025-26582	https://osv.dev/vulnerability/MAL-2025-26582
+mock-datas-lib	*	MAL-0000-ghsa-malware-7795c5ecb71c77fc	https://github.com/ossf/malicious-packages/blob/04f22cb2f918958c88b90504a0d9d5502a0d2c13/osv/malicious/npm/mock-datas-lib/MAL-0000-ghsa-malware-7795c5ecb71c77fc.json
 mock-dependency	*	MAL-2022-4656	https://osv.dev/vulnerability/MAL-2022-4656
 mock-ea-adapter	*	MAL-2022-4657	https://osv.dev/vulnerability/MAL-2022-4657
 mock-easy-tree-long-cloud	*	MAL-2025-188091	https://osv.dev/vulnerability/MAL-2025-188091
@@ -205170,6 +205174,7 @@ thangved-react-grid	1.0.3	MAL-2025-47353	https://osv.dev/vulnerability/MAL-2025-
 thank-you-for-being-late-an-optimists-guide-to-thriving-in-the-age-of-accelerations-by-thomas-l-frie	*	MAL-2023-863	https://osv.dev/vulnerability/MAL-2023-863
 tharkunad	*	MAL-2025-139070	https://osv.dev/vulnerability/MAL-2025-139070
 tharsis	*	MAL-2025-36772	https://osv.dev/vulnerability/MAL-2025-36772
+that-fetch	*	MAL-0000-ghsa-malware-28d56828b44836f8	https://github.com/ossf/malicious-packages/blob/04f22cb2f918958c88b90504a0d9d5502a0d2c13/osv/malicious/npm/that-fetch/MAL-0000-ghsa-malware-28d56828b44836f8.json
 thavwuieyxbjdrmc	*	MAL-2025-36773	https://osv.dev/vulnerability/MAL-2025-36773
 thd-localizer	9.4.0	MAL-2024-11472	https://osv.dev/vulnerability/MAL-2024-11472
 thd-localizer	9.4.1	MAL-2024-11472	https://osv.dev/vulnerability/MAL-2024-11472
