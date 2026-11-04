@@ -183407,7 +183407,7 @@ screeching_tern_z3n	*	MAL-2025-90446	https://osv.dev/vulnerability/MAL-2025-9044
 screeching_turkey_z3n	*	MAL-2025-96472	https://osv.dev/vulnerability/MAL-2025-96472
 screenly	*	MAL-2025-32822	https://osv.dev/vulnerability/MAL-2025-32822
 screenpipe-mcp-http	9999.99.99	MAL-2026-5402	https://osv.dev/vulnerability/MAL-2026-5402
-screenshot-desktop	1.16.0	MAL-0000-ghsa-malware-64a8bf18bfc6aa72	https://github.com/ossf/malicious-packages/blob/3a2fee8d21c536e4ea90820e7de0a0612b74639c/osv/malicious/npm/screenshot-desktop/MAL-0000-ghsa-malware-64a8bf18bfc6aa72.json
+screenshot-desktop	1.16.0	MAL-2026-18624	https://osv.dev/vulnerability/MAL-2026-18624
 screepsmod-client	*	MAL-2025-32823	https://osv.dev/vulnerability/MAL-2025-32823
 screwdriver-data-model	*	MAL-2025-32824	https://osv.dev/vulnerability/MAL-2025-32824
 screwdriver-plugin-builds	*	MAL-2025-32825	https://osv.dev/vulnerability/MAL-2025-32825
