@@ -136993,7 +136993,7 @@ mocha-tectonic-pyxis-bellatrix	*	MAL-2025-45210	https://osv.dev/vulnerability/MA
 mocha-thuban-miranda-juno	*	MAL-2025-145093	https://osv.dev/vulnerability/MAL-2025-145093
 mocha-transport-indus-miranda	*	MAL-2025-145094	https://osv.dev/vulnerability/MAL-2025-145094
 mocha-typeorm-regulus-proxima	*	MAL-2025-145095	https://osv.dev/vulnerability/MAL-2025-145095
-mocha-ui-themes	*	MAL-0000-ghsa-malware-cc4da3bdc2106960	https://github.com/ossf/malicious-packages/blob/b2c24982105defacc3e5695e68672935a34d6386/osv/malicious/npm/mocha-ui-themes/MAL-0000-ghsa-malware-cc4da3bdc2106960.json
+mocha-ui-themes	*	MAL-2026-18596	https://osv.dev/vulnerability/MAL-2026-18596
 mocha-zenobia-prettier-stylelint-style-loader	*	MAL-2025-145096	https://osv.dev/vulnerability/MAL-2025-145096
 mochan-test	*	MAL-2025-55033	https://osv.dev/vulnerability/MAL-2025-55033
 mochikun	*	MAL-2025-26579	https://osv.dev/vulnerability/MAL-2025-26579
@@ -150272,8 +150272,7 @@ nuilva-vmiam-sa	*	MAL-2025-176874	https://osv.dev/vulnerability/MAL-2025-176874
 nuique-random-arr-y	*	MAL-2022-4975	https://osv.dev/vulnerability/MAL-2022-4975
 nul-rae-naha	*	MAL-2025-163880	https://osv.dev/vulnerability/MAL-2025-163880
 nulea-fofiri-agoai	*	MAL-2025-163881	https://osv.dev/vulnerability/MAL-2025-163881
-nulio-connector	1.1.10	MAL-0000-ghsa-malware-b4e016967903f2ac	https://github.com/ossf/malicious-packages/blob/b2c24982105defacc3e5695e68672935a34d6386/osv/malicious/npm/nulio-connector/MAL-0000-ghsa-malware-b4e016967903f2ac.json
-nulio-connector	1.1.16	MAL-0000-ghsa-malware-b4e016967903f2ac	https://github.com/ossf/malicious-packages/blob/b2c24982105defacc3e5695e68672935a34d6386/osv/malicious/npm/nulio-connector/MAL-0000-ghsa-malware-b4e016967903f2ac.json
+nulio-connector	1.1.10	MAL-2026-18526	https://osv.dev/vulnerability/MAL-2026-18526
 nulio-connector	1.1.16	MAL-2026-18526	https://osv.dev/vulnerability/MAL-2026-18526
 null_hash_grab_decode	8.2.1	MAL-2024-2775	https://osv.dev/vulnerability/MAL-2024-2775
 nulla-voluptates-voluptates	213.21.24	MAL-2024-9736	https://osv.dev/vulnerability/MAL-2024-9736
