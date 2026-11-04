@@ -172205,7 +172205,6 @@ react-component-usage	*	MAL-2025-1649	https://osv.dev/vulnerability/MAL-2025-164
 react-confetti-enhanced	2.0.1	MAL-2025-192854	https://osv.dev/vulnerability/MAL-2025-192854
 react-confetti-modern	*	MAL-2025-190509	https://osv.dev/vulnerability/MAL-2025-190509
 react-contact-forms	*	MAL-2026-18593	https://osv.dev/vulnerability/MAL-2026-18593
-react-contact-forms	0.5.2	MAL-0000-amazon-inspector-c9d186bd6a8ec4a6	https://github.com/ossf/malicious-packages/blob/8f6ebd5be0614494a70dda7a01caaee12e0aa02c/osv/malicious/npm/react-contact-forms/MAL-0000-amazon-inspector-c9d186bd6a8ec4a6.json
 react-content-loader-fork	*	MAL-2025-1623	https://osv.dev/vulnerability/MAL-2025-1623
 react-content-parser	*	MAL-2025-47832	https://osv.dev/vulnerability/MAL-2025-47832
 react-context-form-tdsss	*	MAL-2026-6512	https://osv.dev/vulnerability/MAL-2026-6512
@@ -196343,18 +196342,15 @@ tailwind-font-inter	*	MAL-2026-2111	https://osv.dev/vulnerability/MAL-2026-2111
 tailwind-fonttype-inter	2.3.2	MAL-2026-6886	https://osv.dev/vulnerability/MAL-2026-6886
 tailwind-form	*	MAL-2026-5487	https://osv.dev/vulnerability/MAL-2026-5487
 tailwind-form-core	*	MAL-2026-18594	https://osv.dev/vulnerability/MAL-2026-18594
-tailwind-form-core	0.5.5	MAL-0000-amazon-inspector-982a885e35238eeb	https://github.com/ossf/malicious-packages/blob/8f6ebd5be0614494a70dda7a01caaee12e0aa02c/osv/malicious/npm/tailwind-form-core/MAL-0000-amazon-inspector-982a885e35238eeb.json
 tailwind-form-kit	*	MAL-2026-16139	https://osv.dev/vulnerability/MAL-2026-16139
 tailwind-form-styles	*	MAL-2026-16405	https://osv.dev/vulnerability/MAL-2026-16405
 tailwind-form-templates	0.7.4	MAL-2026-13923	https://osv.dev/vulnerability/MAL-2026-13923
 tailwind-forms-kit	*	MAL-2026-17310	https://osv.dev/vulnerability/MAL-2026-17310
-tailwind-forms-kit	0.5.5	MAL-0000-amazon-inspector-4ee4c4034a7383c2	https://github.com/ossf/malicious-packages/blob/8f6ebd5be0614494a70dda7a01caaee12e0aa02c/osv/malicious/npm/tailwind-forms-kit/MAL-0000-amazon-inspector-4ee4c4034a7383c2.json
 tailwind-forms-styles	*	MAL-2026-16195	https://osv.dev/vulnerability/MAL-2026-16195
 tailwind-glass-icon	*	MAL-2025-47503	https://osv.dev/vulnerability/MAL-2025-47503
 tailwind-gutenberg-block-zero	1.0.0	MAL-2026-11044	https://osv.dev/vulnerability/MAL-2026-11044
 tailwind-hide-scrollbar	*	MAL-2026-12116	https://osv.dev/vulnerability/MAL-2026-12116
 tailwind-input-kit	*	MAL-2026-18595	https://osv.dev/vulnerability/MAL-2026-18595
-tailwind-input-kit	0.5.5	MAL-0000-amazon-inspector-630101a331666e0b	https://github.com/ossf/malicious-packages/blob/8f6ebd5be0614494a70dda7a01caaee12e0aa02c/osv/malicious/npm/tailwind-input-kit/MAL-0000-amazon-inspector-630101a331666e0b.json
 tailwind-inquirer	*	MAL-2025-190631	https://osv.dev/vulnerability/MAL-2025-190631
 tailwind-keyframes	*	MAL-2026-18083	https://osv.dev/vulnerability/MAL-2026-18083
 tailwind-kinetic	*	MAL-2026-18084	https://osv.dev/vulnerability/MAL-2026-18084
@@ -196478,7 +196474,6 @@ tailwindcss-form-kit	*	MAL-2026-17221	https://osv.dev/vulnerability/MAL-2026-172
 tailwindcss-form-styles	0.5.15	MAL-2026-14568	https://osv.dev/vulnerability/MAL-2026-14568
 tailwindcss-form-ui	0.5.1	MAL-2026-16262	https://osv.dev/vulnerability/MAL-2026-16262
 tailwindcss-form-utils	*	MAL-2026-16263	https://osv.dev/vulnerability/MAL-2026-16263
-tailwindcss-form-utils	0.5.9	MAL-0000-amazon-inspector-127923f44ba21328	https://github.com/ossf/malicious-packages/blob/8f6ebd5be0614494a70dda7a01caaee12e0aa02c/osv/malicious/npm/tailwindcss-form-utils/MAL-0000-amazon-inspector-127923f44ba21328.json
 tailwindcss-forms	1.0.3	MAL-2025-191595	https://osv.dev/vulnerability/MAL-2025-191595
 tailwindcss-forms-animation	*	MAL-2026-1210	https://osv.dev/vulnerability/MAL-2026-1210
 tailwindcss-forms-bundler	*	MAL-2026-1336	https://osv.dev/vulnerability/MAL-2026-1336
