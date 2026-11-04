@@ -1113,6 +1113,7 @@
 @ai-agent-node/createnode	*	MAL-2026-11172	https://osv.dev/vulnerability/MAL-2026-11172
 @ai-agent-node/nodesql	*	MAL-2026-11173	https://osv.dev/vulnerability/MAL-2026-11173
 @ai-document-translation/ui-core	*	MAL-2025-3664	https://osv.dev/vulnerability/MAL-2025-3664
+@ai-ecoverse/slicc-windows-amd64	1.46.4	MAL-2026-18626	https://osv.dev/vulnerability/MAL-2026-18626
 @ai-plus/de-agent	*	MAL-2026-11174	https://osv.dev/vulnerability/MAL-2026-11174
 @ai-plus/de-agent-sdk	*	MAL-2026-11175	https://osv.dev/vulnerability/MAL-2026-11175
 @ai-studio-web/app	*	MAL-2026-1020	https://osv.dev/vulnerability/MAL-2026-1020
@@ -148847,7 +148848,7 @@ nonsensetest	*	MAL-2025-5638	https://osv.dev/vulnerability/MAL-2025-5638
 nonsenso	*	MAL-2025-27719	https://osv.dev/vulnerability/MAL-2025-27719
 nonzero	*	MAL-2025-27720	https://osv.dev/vulnerability/MAL-2025-27720
 nooble	*	MAL-2025-27721	https://osv.dev/vulnerability/MAL-2025-27721
-noon-contracts	1.0.0	MAL-2026-3420	https://osv.dev/vulnerability/MAL-2026-3420
+noon-contracts	*	MAL-2026-3420	https://osv.dev/vulnerability/MAL-2026-3420
 noopenpaint	*	MAL-2022-4917	https://osv.dev/vulnerability/MAL-2022-4917
 noor_ul_iman_tarjuma_quran_pdf_free_free__kv	*	MAL-2023-639	https://osv.dev/vulnerability/MAL-2023-639
 norbert_malik_circuitos_electronicos_pdf_2d	*	MAL-2023-640	https://osv.dev/vulnerability/MAL-2023-640
