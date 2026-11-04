@@ -8028,8 +8028,8 @@ mrfeastpip	0.5	MAL-2024-5379	https://osv.dev/vulnerability/MAL-2024-5379
 mrfeastpip	0.6	MAL-2024-5379	https://osv.dev/vulnerability/MAL-2024-5379
 mrfeastpip	0.7	MAL-2024-5379	https://osv.dev/vulnerability/MAL-2024-5379
 mrmustard	0.7.4	MAL-2026-11049	https://osv.dev/vulnerability/MAL-2026-11049
-msgpackrpc	0.0.0	MAL-0000-kam193-9747a902bd61a745	https://github.com/ossf/malicious-packages/blob/299fa158b7e18ac417bfa0a589fd5d0aa15fb65b/osv/malicious/pypi/msgpackrpc/MAL-0000-kam193-9747a902bd61a745.json
-msgpackrpc	0.1.0	MAL-0000-kam193-9747a902bd61a745	https://github.com/ossf/malicious-packages/blob/299fa158b7e18ac417bfa0a589fd5d0aa15fb65b/osv/malicious/pypi/msgpackrpc/MAL-0000-kam193-9747a902bd61a745.json
+msgpackrpc	0.0.0	MAL-2026-18627	https://osv.dev/vulnerability/MAL-2026-18627
+msgpackrpc	0.1.0	MAL-2026-18627	https://osv.dev/vulnerability/MAL-2026-18627
 msgspec-python313-pre	0.0.0.1	MAL-2025-2977	https://osv.dev/vulnerability/MAL-2025-2977
 msrcpoc	99.1.9	MAL-2026-14444	https://osv.dev/vulnerability/MAL-2026-14444
 mstplotlib	3.10.2	MAL-2025-2345	https://osv.dev/vulnerability/MAL-2025-2345
