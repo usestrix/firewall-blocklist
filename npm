@@ -1005,7 +1005,6 @@
 @adminproxy/module-utils-common	*	MAL-2025-2158	https://osv.dev/vulnerability/MAL-2025-2158
 @adminproxy/module-utils-server	*	MAL-2025-2159	https://osv.dev/vulnerability/MAL-2025-2159
 @adnovum-eslint/eslint-plugin	*	MAL-2022-62	https://osv.dev/vulnerability/MAL-2022-62
-@adobedjangir/commerce-admin-audit-log	1.0.11	MAL-0000-adobedjangir-commerce-admin-audit-log	https://github.com/ossf/malicious-packages/pull/1714
 @adobesign/as-dev-tools	99.9.10	MAL-2026-6760	https://osv.dev/vulnerability/MAL-2026-6760
 @adobesign/as-dev-tools	99.9.9	MAL-2026-6760	https://osv.dev/vulnerability/MAL-2026-6760
 @adominadmininstr/date-util-helper	1.0.0	MAL-2026-16490	https://osv.dev/vulnerability/MAL-2026-16490
