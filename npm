@@ -62388,7 +62388,7 @@ dependent-amethyst-reptile	*	MAL-2025-67715	https://osv.dev/vulnerability/MAL-20
 dependent-black-booby	*	MAL-2025-67716	https://osv.dev/vulnerability/MAL-2025-67716
 dependent-blue-sparrow	*	MAL-2025-67717	https://osv.dev/vulnerability/MAL-2025-67717
 dependent-emerald-bird	*	MAL-2025-67718	https://osv.dev/vulnerability/MAL-2025-67718
-dependent-final	1.0.3	MAL-0000-dependent-final	https://github.com/ossf/malicious-packages/pull/1724
+dependent-final	1.0.3	MAL-0000-dependent-final	https://github.com/ossf/malicious-packages/blob/70a920c0a39522f15db7f5b9080e4f9d52121afe/osv/malicious/npm/dependent-final/MAL-0000-dependent-final.json
 dependent-harlequin-wren	*	MAL-2025-67719	https://osv.dev/vulnerability/MAL-2025-67719
 dependent-indigo-platypus	*	MAL-2025-67720	https://osv.dev/vulnerability/MAL-2025-67720
 dependent-maroon-bovid	7.9.9	MAL-2024-9582	https://osv.dev/vulnerability/MAL-2024-9582
@@ -65224,7 +65224,7 @@ dian-pecel36-ruro	*	MAL-2025-51569	https://osv.dev/vulnerability/MAL-2025-51569
 dian-pecel60-breki	*	MAL-2025-72557	https://osv.dev/vulnerability/MAL-2025-72557
 dian-pecel83-tititugel	*	MAL-2025-97709	https://osv.dev/vulnerability/MAL-2025-97709
 dian-pecel96-sluey	*	MAL-2025-51570	https://osv.dev/vulnerability/MAL-2025-51570
-dian-peyek23-miaww	1.1.3	MAL-0000-dian-peyek23-miaww	https://github.com/ossf/malicious-packages/pull/1724
+dian-peyek23-miaww	1.1.3	MAL-0000-dian-peyek23-miaww	https://github.com/ossf/malicious-packages/blob/70a920c0a39522f15db7f5b9080e4f9d52121afe/osv/malicious/npm/dian-peyek23-miaww/MAL-0000-dian-peyek23-miaww.json
 dian-peyek36-breki	*	MAL-2025-72558	https://osv.dev/vulnerability/MAL-2025-72558
 dian-peyek43-sukiwir	*	MAL-2025-55875	https://osv.dev/vulnerability/MAL-2025-55875
 dian-peyek69-sukiwir	*	MAL-2025-77619	https://osv.dev/vulnerability/MAL-2025-77619
@@ -127398,7 +127398,7 @@ low_fowl_z3n	*	MAL-2025-60791	https://osv.dev/vulnerability/MAL-2025-60791
 low_gibbon_0xrequest	*	MAL-2025-105350	https://osv.dev/vulnerability/MAL-2025-105350
 low_gopher_z3n	*	MAL-2025-95328	https://osv.dev/vulnerability/MAL-2025-95328
 low_haddock_z3n	*	MAL-2025-121598	https://osv.dev/vulnerability/MAL-2025-121598
-low_hummingbird_replicate_automation	2.2.1	MAL-0000-low_hummingbird_replicate_automation	https://github.com/ossf/malicious-packages/pull/1724
+low_hummingbird_replicate_automation	2.2.1	MAL-0000-low_hummingbird_replicate_automation	https://github.com/ossf/malicious-packages/blob/70a920c0a39522f15db7f5b9080e4f9d52121afe/osv/malicious/npm/low_hummingbird_replicate_automation/MAL-0000-low_hummingbird_replicate_automation.json
 low_iguana_z3n	*	MAL-2025-95329	https://osv.dev/vulnerability/MAL-2025-95329
 low_impala_z3n	*	MAL-2025-64110	https://osv.dev/vulnerability/MAL-2025-64110
 low_krill_z3n	*	MAL-2025-115571	https://osv.dev/vulnerability/MAL-2025-115571
@@ -129812,7 +129812,7 @@ maibgcqtednokush	*	MAL-2025-25789	https://osv.dev/vulnerability/MAL-2025-25789
 maigu-zhifu	*	MAL-2025-45104	https://osv.dev/vulnerability/MAL-2025-45104
 mail-core-git	*	MAL-2022-4452	https://osv.dev/vulnerability/MAL-2022-4452
 mail-lesson-tank	*	MAL-2025-45105	https://osv.dev/vulnerability/MAL-2025-45105
-maila-talijah-alpha-128	1.1.11	MAL-0000-maila-talijah-alpha-128	https://github.com/ossf/malicious-packages/pull/1724
+maila-talijah-alpha-128	1.1.11	MAL-0000-maila-talijah-alpha-128	https://github.com/ossf/malicious-packages/blob/70a920c0a39522f15db7f5b9080e4f9d52121afe/osv/malicious/npm/maila-talijah-alpha-128/MAL-0000-maila-talijah-alpha-128.json
 mailchimp-marketing	*	MAL-2022-4453	https://osv.dev/vulnerability/MAL-2022-4453
 mailchimp_transactional	*	MAL-2022-4454	https://osv.dev/vulnerability/MAL-2022-4454
 mailconfirmer	*	MAL-2026-5750	https://osv.dev/vulnerability/MAL-2026-5750
@@ -159296,8 +159296,8 @@ pearpass-lib-vault	*	MAL-2026-1238	https://osv.dev/vulnerability/MAL-2026-1238
 pearpass-lib-vault-core	*	MAL-2026-1239	https://osv.dev/vulnerability/MAL-2026-1239
 pearpass-utils-password-check	*	MAL-2026-1246	https://osv.dev/vulnerability/MAL-2026-1246
 pearson-quarks	*	MAL-2025-28995	https://osv.dev/vulnerability/MAL-2025-28995
-pearx93qja-notthedevs	1.1.8	MAL-0000-pearx93qja-notthedevs	https://github.com/ossf/malicious-packages/pull/1724
-peas-tea-curut	3.2.2	MAL-0000-peas-tea-curut	https://github.com/ossf/malicious-packages/pull/1724
+pearx93qja-notthedevs	1.1.8	MAL-0000-pearx93qja-notthedevs	https://github.com/ossf/malicious-packages/blob/70a920c0a39522f15db7f5b9080e4f9d52121afe/osv/malicious/npm/pearx93qja-notthedevs/MAL-0000-pearx93qja-notthedevs.json
+peas-tea-curut	3.2.2	MAL-0000-peas-tea-curut	https://github.com/ossf/malicious-packages/blob/70a920c0a39522f15db7f5b9080e4f9d52121afe/osv/malicious/npm/peas-tea-curut/MAL-0000-peas-tea-curut.json
 peasy.js	*	MAL-2025-28996	https://osv.dev/vulnerability/MAL-2025-28996
 peasyjs	*	MAL-2025-28997	https://osv.dev/vulnerability/MAL-2025-28997
 peb_portal	*	MAL-2024-9040	https://osv.dev/vulnerability/MAL-2024-9040
@@ -170739,7 +170739,7 @@ queue-firebase	*	MAL-2025-31291	https://osv.dev/vulnerability/MAL-2025-31291
 quewynstring	*	MAL-2022-5564	https://osv.dev/vulnerability/MAL-2022-5564
 qui-theme-builder	*	MAL-2025-31292	https://osv.dev/vulnerability/MAL-2025-31292
 quicbooks	*	MAL-2025-31293	https://osv.dev/vulnerability/MAL-2025-31293
-quiche-tea-curut	4.3.4	MAL-0000-quiche-tea-curut	https://github.com/ossf/malicious-packages/pull/1724
+quiche-tea-curut	4.3.4	MAL-0000-quiche-tea-curut	https://github.com/ossf/malicious-packages/blob/70a920c0a39522f15db7f5b9080e4f9d52121afe/osv/malicious/npm/quiche-tea-curut/MAL-0000-quiche-tea-curut.json
 quick-app-guide	*	MAL-2022-5565	https://osv.dev/vulnerability/MAL-2022-5565
 quick-code-balance-spy-java	*	MAL-2025-31294	https://osv.dev/vulnerability/MAL-2025-31294
 quick-coral-pig	*	MAL-2025-70133	https://osv.dev/vulnerability/MAL-2025-70133
@@ -173961,7 +173961,7 @@ related-turquoise-dragonfly	*	MAL-2025-70271	https://osv.dev/vulnerability/MAL-2
 related-yellow-stork	*	MAL-2025-70272	https://osv.dev/vulnerability/MAL-2025-70272
 related-yellow-wildebeest	*	MAL-2025-70273	https://osv.dev/vulnerability/MAL-2025-70273
 related_bass_z3n	*	MAL-2025-96257	https://osv.dev/vulnerability/MAL-2025-96257
-related_blackbird-toolteadev	2.1.1	MAL-0000-related_blackbird-toolteadev	https://github.com/ossf/malicious-packages/pull/1724
+related_blackbird-toolteadev	2.1.1	MAL-0000-related_blackbird-toolteadev	https://github.com/ossf/malicious-packages/blob/70a920c0a39522f15db7f5b9080e4f9d52121afe/osv/malicious/npm/related_blackbird-toolteadev/MAL-0000-related_blackbird-toolteadev.json
 related_crocodile_dumbs	*	MAL-2025-107835	https://osv.dev/vulnerability/MAL-2025-107835
 related_dormouse-apptea	*	MAL-2025-107836	https://osv.dev/vulnerability/MAL-2025-107836
 related_dove_z3n	*	MAL-2025-129715	https://osv.dev/vulnerability/MAL-2025-129715
@@ -213663,7 +213663,7 @@ unemployed_silverfish-biggestdev	*	MAL-2025-110081	https://osv.dev/vulnerability
 unemployed_stingray_z3n	*	MAL-2025-117675	https://osv.dev/vulnerability/MAL-2025-117675
 unemployed_tyrannosaurus_z3n	*	MAL-2025-98980	https://osv.dev/vulnerability/MAL-2025-98980
 unemployed_vicuna_z3n	*	MAL-2025-61526	https://osv.dev/vulnerability/MAL-2025-61526
-unemployed_xerinae-toolteadev	1.4.4	MAL-0000-unemployed_xerinae-toolteadev	https://github.com/ossf/malicious-packages/pull/1724
+unemployed_xerinae-toolteadev	1.4.4	MAL-0000-unemployed_xerinae-toolteadev	https://github.com/ossf/malicious-packages/blob/70a920c0a39522f15db7f5b9080e4f9d52121afe/osv/malicious/npm/unemployed_xerinae-toolteadev/MAL-0000-unemployed_xerinae-toolteadev.json
 unescaped	*	MAL-2025-41447	https://osv.dev/vulnerability/MAL-2025-41447
 uneven-amethyst-bug	*	MAL-2025-71264	https://osv.dev/vulnerability/MAL-2025-71264
 uneven-azure-egret	*	MAL-2025-71265	https://osv.dev/vulnerability/MAL-2025-71265
@@ -224741,7 +224741,7 @@ wet_loon_z3n	*	MAL-2025-110821	https://osv.dev/vulnerability/MAL-2025-110821
 wet_macaw_z3n	*	MAL-2025-66136	https://osv.dev/vulnerability/MAL-2025-66136
 wet_mouse_z3n	*	MAL-2025-92193	https://osv.dev/vulnerability/MAL-2025-92193
 wet_otter_0xrequest	*	MAL-2025-110822	https://osv.dev/vulnerability/MAL-2025-110822
-wet_rat_replicate_automation	2.3.1	MAL-0000-wet_rat_replicate_automation	https://github.com/ossf/malicious-packages/pull/1724
+wet_rat_replicate_automation	2.3.1	MAL-0000-wet_rat_replicate_automation	https://github.com/ossf/malicious-packages/blob/70a920c0a39522f15db7f5b9080e4f9d52121afe/osv/malicious/npm/wet_rat_replicate_automation/MAL-0000-wet_rat_replicate_automation.json
 wet_shrew_z3n	*	MAL-2025-92194	https://osv.dev/vulnerability/MAL-2025-92194
 wet_tern_z3n	*	MAL-2025-61630	https://osv.dev/vulnerability/MAL-2025-61630
 wet_walrus_z3n	*	MAL-2025-118059	https://osv.dev/vulnerability/MAL-2025-118059
