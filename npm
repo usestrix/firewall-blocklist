@@ -17430,7 +17430,7 @@
 @vampirchik147/libxmljs2	0.19.7	MAL-2026-1643	https://osv.dev/vulnerability/MAL-2026-1643
 @vantuz/sdk-core	*	MAL-2026-5886	https://osv.dev/vulnerability/MAL-2026-5886
 @vanzky/baileys	*	MAL-0000-vanzky-baileys	https://github.com/ossf/malicious-packages/pull/1719
-@vanzxy/baileys	*	MAL-0000-vanzxy-baileys-phantomsub	https://github.com/ossf/malicious-packages/pull/1645
+@vanzxy/baileys	*	MAL-0000-vanzxy-baileys-phantomsub	https://github.com/ossf/malicious-packages/blob/407eb6552fe4a01aa3a63f70baa93ea19fbaa544/osv/malicious/npm/@vanzxy/baileys/MAL-0000-vanzxy-baileys-phantomsub.json
 @vanzxy/baileys	*	MAL-2026-18529	https://osv.dev/vulnerability/MAL-2026-18529
 @vanzxy/nusa	*	MAL-2026-18530	https://osv.dev/vulnerability/MAL-2026-18530
 @vanzzo/priject	1.0.2	MAL-0000-vanzzo-priject	https://github.com/ossf/malicious-packages/pull/1674
@@ -120547,7 +120547,7 @@ kurniawan-wajit22-sluey	*	MAL-2025-135051	https://osv.dev/vulnerability/MAL-2025
 kurniawan-wajit25-sukiwir	*	MAL-2025-79539	https://osv.dev/vulnerability/MAL-2025-79539
 kurniawan-wajit3-riris	*	MAL-2025-52171	https://osv.dev/vulnerability/MAL-2025-52171
 kurniawan-wajit42-riris	*	MAL-2025-87650	https://osv.dev/vulnerability/MAL-2025-87650
-kurobails	*	MAL-0000-kurobails-phantomsub	https://github.com/ossf/malicious-packages/pull/1645
+kurobails	*	MAL-0000-kurobails-phantomsub	https://github.com/ossf/malicious-packages/blob/407eb6552fe4a01aa3a63f70baa93ea19fbaa544/osv/malicious/npm/kurobails/MAL-0000-kurobails-phantomsub.json
 kuroichi12-complete-themselves	*	MAL-2025-157911	https://osv.dev/vulnerability/MAL-2025-157911
 kuroichi12-dfdhhjf-dffgh	*	MAL-2025-157912	https://osv.dev/vulnerability/MAL-2025-157912
 kuroichi12-dfdhhjf-fhjk	*	MAL-2025-157913	https://osv.dev/vulnerability/MAL-2025-157913
@@ -146006,7 +146006,7 @@ nisaputri	*	MAL-2025-171659	https://osv.dev/vulnerability/MAL-2025-171659
 nishan	*	MAL-2025-27561	https://osv.dev/vulnerability/MAL-2025-27561
 nishant-ok-angularjs	*	MAL-2022-4857	https://osv.dev/vulnerability/MAL-2022-4857
 nishasen	*	MAL-2025-171660	https://osv.dev/vulnerability/MAL-2025-171660
-nishiki-bail	*	MAL-0000-nishiki-bail-phantomsub	https://github.com/ossf/malicious-packages/pull/1645
+nishiki-bail	*	MAL-0000-nishiki-bail-phantomsub	https://github.com/ossf/malicious-packages/blob/407eb6552fe4a01aa3a63f70baa93ea19fbaa544/osv/malicious/npm/nishiki-bail/MAL-0000-nishiki-bail-phantomsub.json
 nistagram	*	MAL-2025-4495	https://osv.dev/vulnerability/MAL-2025-4495
 nit-quotation-service-core-lib	*	MAL-2025-27562	https://osv.dev/vulnerability/MAL-2025-27562
 nit-template-service-core-lib	*	MAL-2025-27563	https://osv.dev/vulnerability/MAL-2025-27563
@@ -154959,7 +154959,7 @@ oktafian-wajit5-breki	*	MAL-2025-122398	https://osv.dev/vulnerability/MAL-2025-1
 oktafian-wajit81-breki	*	MAL-2025-122399	https://osv.dev/vulnerability/MAL-2025-122399
 oktakit	*	MAL-2025-28198	https://osv.dev/vulnerability/MAL-2025-28198
 oktcpwyrzkhdsgnx	*	MAL-2022-5054	https://osv.dev/vulnerability/MAL-2022-5054
-oktz-baileys	*	MAL-0000-oktz-baileys-phantomsub	https://github.com/ossf/malicious-packages/pull/1645
+oktz-baileys	*	MAL-0000-oktz-baileys-phantomsub	https://github.com/ossf/malicious-packages/blob/407eb6552fe4a01aa3a63f70baa93ea19fbaa544/osv/malicious/npm/oktz-baileys/MAL-0000-oktz-baileys-phantomsub.json
 okusyd-devapp	*	MAL-2025-106713	https://osv.dev/vulnerability/MAL-2025-106713
 okwinclubb	*	MAL-2025-45454	https://osv.dev/vulnerability/MAL-2025-45454
 okx-data	*	MAL-2026-2647	https://osv.dev/vulnerability/MAL-2026-2647
@@ -156741,7 +156741,7 @@ ouklida	*	MAL-2025-28609	https://osv.dev/vulnerability/MAL-2025-28609
 ounziw	*	MAL-2025-28610	https://osv.dev/vulnerability/MAL-2025-28610
 our-status	1.0.0	MAL-2024-2813	https://osv.dev/vulnerability/MAL-2024-2813
 ouramerica-constants	1.0.0	MAL-2024-1100	https://osv.dev/vulnerability/MAL-2024-1100
-ourin-baileys	*	MAL-0000-ourin-baileys-phantomsub	https://github.com/ossf/malicious-packages/pull/1645
+ourin-baileys	*	MAL-0000-ourin-baileys-phantomsub	https://github.com/ossf/malicious-packages/blob/407eb6552fe4a01aa3a63f70baa93ea19fbaa544/osv/malicious/npm/ourin-baileys/MAL-0000-ourin-baileys-phantomsub.json
 ourin-baileys	*	MAL-2026-18412	https://osv.dev/vulnerability/MAL-2026-18412
 ourtunes	*	MAL-2025-28611	https://osv.dev/vulnerability/MAL-2025-28611
 outage-form	*	MAL-2025-28612	https://osv.dev/vulnerability/MAL-2025-28612
@@ -171301,7 +171301,7 @@ raedpkgup	*	MAL-2022-5575	https://osv.dev/vulnerability/MAL-2022-5575
 raekwonchronicles_2025	*	MAL-2025-45740	https://osv.dev/vulnerability/MAL-2025-45740
 raekwonchroniclesslots	*	MAL-2025-45741	https://osv.dev/vulnerability/MAL-2025-45741
 rafabraga	*	MAL-2025-171745	https://osv.dev/vulnerability/MAL-2025-171745
-rafael-bails	*	MAL-0000-rafael-bails-phantomsub	https://github.com/ossf/malicious-packages/pull/1645
+rafael-bails	*	MAL-0000-rafael-bails-phantomsub	https://github.com/ossf/malicious-packages/blob/407eb6552fe4a01aa3a63f70baa93ea19fbaa544/osv/malicious/npm/rafael-bails/MAL-0000-rafael-bails-phantomsub.json
 rafaelgg44	*	MAL-2022-5576	https://osv.dev/vulnerability/MAL-2022-5576
 rafaelrocha	*	MAL-2025-171746	https://osv.dev/vulnerability/MAL-2025-171746
 rafarafa_package	*	MAL-2024-12029	https://osv.dev/vulnerability/MAL-2024-12029
