@@ -160972,6 +160972,7 @@ plain-function	20.1.1	MAL-2023-1266	https://osv.dev/vulnerability/MAL-2023-1266
 plain-function	20.1.2	MAL-2023-1266	https://osv.dev/vulnerability/MAL-2023-1266
 plain-headless-portal	*	MAL-2024-10265	https://osv.dev/vulnerability/MAL-2024-10265
 plain-jade-leopard	*	MAL-2025-69895	https://osv.dev/vulnerability/MAL-2025-69895
+plain-lang	*	MAL-0000-ghsa-malware-df1ba24c92506cee	https://github.com/ossf/malicious-packages/blob/c59836b18501a077bd871210d373cf4cdb0a0542/osv/malicious/npm/plain-lang/MAL-0000-ghsa-malware-df1ba24c92506cee.json
 plain-red-blackbird	*	MAL-2025-69896	https://osv.dev/vulnerability/MAL-2025-69896
 plain-violet-vulture	*	MAL-2025-69897	https://osv.dev/vulnerability/MAL-2025-69897
 plain_aardwolf_z3n	*	MAL-2025-89469	https://osv.dev/vulnerability/MAL-2025-89469
@@ -196597,6 +196598,7 @@ takktile	*	MAL-2025-34400	https://osv.dev/vulnerability/MAL-2025-34400
 talecraft	*	MAL-2025-34401	https://osv.dev/vulnerability/MAL-2025-34401
 talento	*	MAL-2025-34402	https://osv.dev/vulnerability/MAL-2025-34402
 talk-desktop	1.0.0	MAL-2025-687	https://osv.dev/vulnerability/MAL-2025-687
+talk-lang	*	MAL-0000-ghsa-malware-d8e589e06b10e1f6	https://github.com/ossf/malicious-packages/blob/c59836b18501a077bd871210d373cf4cdb0a0542/osv/malicious/npm/talk-lang/MAL-0000-ghsa-malware-d8e589e06b10e1f6.json
 talkingagent	*	MAL-2025-4893	https://osv.dev/vulnerability/MAL-2025-4893
 talksaver	*	MAL-2025-34403	https://osv.dev/vulnerability/MAL-2025-34403
 talkscape	*	MAL-2025-34404	https://osv.dev/vulnerability/MAL-2025-34404
