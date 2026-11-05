@@ -7751,7 +7751,7 @@ mcp-runcommand-server2	1.0.6	MAL-2025-191648	https://osv.dev/vulnerability/MAL-2
 mcp-search-server	1.0.0	MAL-2026-11198	https://osv.dev/vulnerability/MAL-2026-11198
 mcp-search-server	2.0.0	MAL-2026-11198	https://osv.dev/vulnerability/MAL-2026-11198
 mcp-search-server	2.0.1	MAL-2026-11198	https://osv.dev/vulnerability/MAL-2026-11198
-mcp-teamviewer	0.0.1	MAL-0000-ossf-package-analysis-a5d59e94208df065	https://github.com/ossf/malicious-packages/blob/b48a4347e529d7aea43330ef35c73562c8ded8e5/osv/malicious/pypi/mcp-teamviewer/MAL-0000-ossf-package-analysis-a5d59e94208df065.json
+mcp-teamviewer	0.0.1	MAL-2026-18706	https://osv.dev/vulnerability/MAL-2026-18706
 mcp-transport-proto	9.9.9	MAL-2026-1990	https://osv.dev/vulnerability/MAL-2026-1990
 mcp-weather-full	0.8.0	MAL-2025-191789	https://osv.dev/vulnerability/MAL-2025-191789
 mcp-weather-full	0.8.1	MAL-2025-191789	https://osv.dev/vulnerability/MAL-2025-191789
