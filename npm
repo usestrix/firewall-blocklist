@@ -195943,7 +195943,10 @@ synapse-access-control	*	MAL-2022-6382	https://osv.dev/vulnerability/MAL-2022-63
 synapse-access-control-1	*	MAL-2022-6383	https://osv.dev/vulnerability/MAL-2022-6383
 synapse-artifacts	*	MAL-2022-6384	https://osv.dev/vulnerability/MAL-2022-6384
 synapse-contracts	*	MAL-2025-1564	https://osv.dev/vulnerability/MAL-2025-1564
+synapse-hub	3.1.0	MAL-0000-ghsa-malware-6c7a7614f725a17c	https://github.com/ossf/malicious-packages/blob/c0ec6839f92681b0a67bbb393fee6cd36a031057/osv/malicious/npm/synapse-hub/MAL-0000-ghsa-malware-6c7a7614f725a17c.json
 synapse-hub	3.1.0	MAL-2026-18703	https://osv.dev/vulnerability/MAL-2026-18703
+synapse-hub	3.1.1	MAL-0000-ghsa-malware-6c7a7614f725a17c	https://github.com/ossf/malicious-packages/blob/c0ec6839f92681b0a67bbb393fee6cd36a031057/osv/malicious/npm/synapse-hub/MAL-0000-ghsa-malware-6c7a7614f725a17c.json
+synapse-hub	3.1.2	MAL-0000-ghsa-malware-6c7a7614f725a17c	https://github.com/ossf/malicious-packages/blob/c0ec6839f92681b0a67bbb393fee6cd36a031057/osv/malicious/npm/synapse-hub/MAL-0000-ghsa-malware-6c7a7614f725a17c.json
 synapse-managed-private-endpoints	*	MAL-2022-6385	https://osv.dev/vulnerability/MAL-2022-6385
 synapse-monitoring	*	MAL-2022-6386	https://osv.dev/vulnerability/MAL-2022-6386
 synapse-spark	*	MAL-2022-6387	https://osv.dev/vulnerability/MAL-2022-6387
