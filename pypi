@@ -14326,7 +14326,7 @@ stillrequestsa	0.0.2	MAL-2024-6039	https://osv.dev/vulnerability/MAL-2024-6039
 story-mcp-hub	9999.0.0	MAL-2025-3471	https://osv.dev/vulnerability/MAL-2025-3471
 strands-agents-anthropic	0.0.0	MAL-2026-904	https://osv.dev/vulnerability/MAL-2026-904
 strands-agents-anthropic	1.0.0	MAL-2026-904	https://osv.dev/vulnerability/MAL-2026-904
-strands-aidr	9999.0.0	MAL-0000-kam193-5f7d32ed4f94170c	https://github.com/ossf/malicious-packages/blob/3edfe958a376d7e9a33f643a25f82a050e32851e/osv/malicious/pypi/strands-aidr/MAL-0000-kam193-5f7d32ed4f94170c.json
+strands-aidr	9999.0.0	MAL-2026-18657	https://osv.dev/vulnerability/MAL-2026-18657
 strbeautify	1.4.2	MAL-2024-6040	https://osv.dev/vulnerability/MAL-2024-6040
 strcolored	1.8	MAL-2024-6041	https://osv.dev/vulnerability/MAL-2024-6041
 strcolored	1.9	MAL-2024-6041	https://osv.dev/vulnerability/MAL-2024-6041
