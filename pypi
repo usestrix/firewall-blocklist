@@ -14751,6 +14751,7 @@ tcloud-python-sdks	1.0.0	MAL-2025-191887	https://osv.dev/vulnerability/MAL-2025-
 tcloud-python-test	1.0.0	MAL-2025-3006	https://osv.dev/vulnerability/MAL-2025-3006
 tdata-grabber	*	MAL-2026-6560	https://osv.dev/vulnerability/MAL-2026-6560
 team-bsb-bot	1.0.0	MAL-2025-2622	https://osv.dev/vulnerability/MAL-2025-2622
+teamviewer-mcp-server	0.0.1	MAL-0000-ossf-package-analysis-fbb7b3161ae2b934	https://github.com/ossf/malicious-packages/blob/feb53cddafa7cda88e4bcb5f6b945ded2067a4bb/osv/malicious/pypi/teamviewer-mcp-server/MAL-0000-ossf-package-analysis-fbb7b3161ae2b934.json
 teensorflow	*	MAL-2023-2293	https://osv.dev/vulnerability/MAL-2023-2293
 tego-managed-agents-test	0.1.0	MAL-2026-17183	https://osv.dev/vulnerability/MAL-2026-17183
 telco	1.0.1	MAL-2025-192363	https://osv.dev/vulnerability/MAL-2025-192363
