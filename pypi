@@ -2812,6 +2812,8 @@ dbindicator	0.1.1	MAL-2025-6491	https://osv.dev/vulnerability/MAL-2025-6491
 dbnodeindicator	0.1.0	MAL-2025-6492	https://osv.dev/vulnerability/MAL-2025-6492
 dbnodeindicator	0.1.1	MAL-2025-6492	https://osv.dev/vulnerability/MAL-2025-6492
 dbsxrchpro	0.1	MAL-2025-2955	https://osv.dev/vulnerability/MAL-2025-2955
+dbt-adapter	0.0.0	MAL-0000-kam193-baabd8e63cd4f6ad	https://github.com/ossf/malicious-packages/blob/aec69de82d285d30c9eccfaa767f669c000b3342/osv/malicious/pypi/dbt-adapter/MAL-0000-kam193-baabd8e63cd4f6ad.json
+dbt-adapter	0.1.0a2	MAL-0000-kam193-baabd8e63cd4f6ad	https://github.com/ossf/malicious-packages/blob/aec69de82d285d30c9eccfaa767f669c000b3342/osv/malicious/pypi/dbt-adapter/MAL-0000-kam193-baabd8e63cd4f6ad.json
 dbt-bytedhouse	99.7	MAL-2024-10413	https://osv.dev/vulnerability/MAL-2024-10413
 dbt-byteshouse	99.7	MAL-2024-10414	https://osv.dev/vulnerability/MAL-2024-10414
 dbt-sa-cli	0.0.1	MAL-2026-15934	https://osv.dev/vulnerability/MAL-2026-15934
