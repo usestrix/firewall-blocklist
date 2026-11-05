@@ -12048,6 +12048,7 @@ rbx1325382	0.1.0	MAL-2025-41735	https://osv.dev/vulnerability/MAL-2025-41735
 rc4-secure	1.0.0	MAL-2026-14306	https://osv.dev/vulnerability/MAL-2026-14306
 rce-test	0.1	MAL-2026-14523	https://osv.dev/vulnerability/MAL-2026-14523
 rcebymrx	0.0.1	MAL-2024-8946	https://osv.dev/vulnerability/MAL-2024-8946
+rcp-ndcg	9999.0.0	MAL-0000-ossf-package-analysis-fc78014eaba6dbdc	https://github.com/ossf/malicious-packages/blob/cbfdb5f508cfd96117235ed4424cf202dcfd6bfc/osv/malicious/pypi/rcp-ndcg/MAL-0000-ossf-package-analysis-fc78014eaba6dbdc.json
 rctorchprivate	0.0.1	MAL-2025-6573	https://osv.dev/vulnerability/MAL-2025-6573
 rcyptocompare	*	MAL-2023-2145	https://osv.dev/vulnerability/MAL-2023-2145
 rcyptofeed	*	MAL-2023-2146	https://osv.dev/vulnerability/MAL-2023-2146
