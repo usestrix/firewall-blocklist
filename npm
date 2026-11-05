@@ -69378,6 +69378,7 @@ dsh-moss-console	3.3.0	MAL-2026-18522	https://osv.dev/vulnerability/MAL-2026-185
 dsh-moss-wallpaper	3.4.0	MAL-2026-18523	https://osv.dev/vulnerability/MAL-2026-18523
 dsh-native	1.4.1	MAL-2026-18315	https://osv.dev/vulnerability/MAL-2026-18315
 dsh-plugin-blender-3d	0.2.1	MAL-2026-18321	https://osv.dev/vulnerability/MAL-2026-18321
+dsh-purge	1.2.1	MAL-0000-ghsa-malware-71e83de88c6bf3ad	https://github.com/ossf/malicious-packages/blob/bd4a5a245032b5716d304616ba38e3eb53361e90/osv/malicious/npm/dsh-purge/MAL-0000-ghsa-malware-71e83de88c6bf3ad.json
 dsh-redteam-mode	0.15.2	MAL-2026-18366	https://osv.dev/vulnerability/MAL-2026-18366
 dsh-screenshot-native	1.0.0	MAL-2026-18438	https://osv.dev/vulnerability/MAL-2026-18438
 dsh-vm-tester	0.1.2	MAL-2026-18345	https://osv.dev/vulnerability/MAL-2026-18345
