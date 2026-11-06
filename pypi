@@ -6311,6 +6311,8 @@ kzip	0.1.0	MAL-2025-192432	https://osv.dev/vulnerability/MAL-2025-192432
 l7	0.1	MAL-2024-5303	https://osv.dev/vulnerability/MAL-2024-5303
 lab-3-package-438d82fc	0.1.1	MAL-2024-9271	https://osv.dev/vulnerability/MAL-2024-9271
 lab-3-package-438d82fc	0.1.2	MAL-2024-9271	https://osv.dev/vulnerability/MAL-2024-9271
+labelearth-api-python-client	2.170.2	MAL-0000-labelearth-api-python-client	https://github.com/ossf/malicious-packages/pull/1747
+labelearthengine-api	0.0.5	MAL-0000-labelearthengine-api	https://github.com/ossf/malicious-packages/pull/1747
 lacucaracha	99.99	MAL-2024-12299	https://osv.dev/vulnerability/MAL-2024-12299
 laghtseq	99.7	MAL-2024-10407	https://osv.dev/vulnerability/MAL-2024-10407
 lakeflow-community-connectors	0.0.0	MAL-2026-2310	https://osv.dev/vulnerability/MAL-2026-2310
