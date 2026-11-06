@@ -108962,8 +108962,7 @@ itale-dci-yrtdtr4q	*	MAL-2025-183049	https://osv.dev/vulnerability/MAL-2025-1830
 itale-dci-ytd4q	*	MAL-2025-183050	https://osv.dev/vulnerability/MAL-2025-183050
 itam-ifut-duoa	*	MAL-2025-183051	https://osv.dev/vulnerability/MAL-2025-183051
 itbank	*	MAL-2025-23459	https://osv.dev/vulnerability/MAL-2025-23459
-itc-actors-api	*	MAL-0000-ghsa-malware-ebc90348cabd9b14	https://github.com/ossf/malicious-packages/blob/0e7b496de58ed79542b40296d81b3bb775696034/osv/malicious/npm/itc-actors-api/MAL-0000-ghsa-malware-ebc90348cabd9b14.json
-itc-actors-api	99.0.0	MAL-2026-4589	https://osv.dev/vulnerability/MAL-2026-4589
+itc-actors-api	*	MAL-2026-4589	https://osv.dev/vulnerability/MAL-2026-4589
 itchy-apricot-swallow	*	MAL-2025-68990	https://osv.dev/vulnerability/MAL-2025-68990
 itchy-coral-dolphin	*	MAL-2025-68991	https://osv.dev/vulnerability/MAL-2025-68991
 itchy-indigo-newt	*	MAL-2025-68992	https://osv.dev/vulnerability/MAL-2025-68992
