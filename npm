@@ -3125,6 +3125,7 @@
 @chegg-varafy-editor/editor-tools-common	*	MAL-2022-169	https://osv.dev/vulnerability/MAL-2022-169
 @chegg/wtai-upload-widget	*	MAL-2023-34	https://osv.dev/vulnerability/MAL-2023-34
 @cheqplease/structured-logger	*	MAL-2025-192434	https://osv.dev/vulnerability/MAL-2025-192434
+@cherrydotfun/miniapp-sdk	0.1.22	MAL-0000-ghsa-malware-f67d291f8d7fbfc3	https://github.com/ossf/malicious-packages/blob/2633f331f5c2fff0b9560409686d711e728f4ac0/osv/malicious/npm/@cherrydotfun/miniapp-sdk/MAL-0000-ghsa-malware-f67d291f8d7fbfc3.json
 @chewyy/ccl-utils-belt	999999.0.0	MAL-2024-7070	https://osv.dev/vulnerability/MAL-2024-7070
 @chia-networrk/api	1.0.10	MAL-2024-11240	https://osv.dev/vulnerability/MAL-2024-11240
 @chia-networrk/api	1.0.14	MAL-2024-11240	https://osv.dev/vulnerability/MAL-2024-11240
@@ -115079,6 +115080,7 @@ kamonetuq	*	MAL-2025-24285	https://osv.dev/vulnerability/MAL-2025-24285
 kamonetuv	*	MAL-2025-24286	https://osv.dev/vulnerability/MAL-2025-24286
 kamonetuzx	*	MAL-2025-24287	https://osv.dev/vulnerability/MAL-2025-24287
 kampas-kopling	*	MAL-2025-171440	https://osv.dev/vulnerability/MAL-2025-171440
+kampodine	0.8.0	MAL-0000-ghsa-malware-42480f59964b6128	https://github.com/ossf/malicious-packages/blob/2633f331f5c2fff0b9560409686d711e728f4ac0/osv/malicious/npm/kampodine/MAL-0000-ghsa-malware-42480f59964b6128.json
 kanaquiz	*	MAL-2025-24288	https://osv.dev/vulnerability/MAL-2025-24288
 kanban-webcomponent	*	MAL-2026-417	https://osv.dev/vulnerability/MAL-2026-417
 kanborasd	*	MAL-2025-69031	https://osv.dev/vulnerability/MAL-2025-69031
@@ -137186,6 +137188,7 @@ model-viewer-render-fidelity-tools	*	MAL-2025-1150	https://osv.dev/vulnerability
 model-viewer-space-opera	1.1.0	MAL-2025-853	https://osv.dev/vulnerability/MAL-2025-853
 modeldb-vis	1.0.0	MAL-2025-3139	https://osv.dev/vulnerability/MAL-2025-3139
 models-frontend	*	MAL-2025-26591	https://osv.dev/vulnerability/MAL-2025-26591
+modelsdesk	0.4.2	MAL-0000-ghsa-malware-245d6cf605a8824c	https://github.com/ossf/malicious-packages/blob/2633f331f5c2fff0b9560409686d711e728f4ac0/osv/malicious/npm/modelsdesk/MAL-0000-ghsa-malware-245d6cf605a8824c.json
 moderate-apricot-lark	*	MAL-2025-69453	https://osv.dev/vulnerability/MAL-2025-69453
 moderate-aqua-marlin	*	MAL-2025-69454	https://osv.dev/vulnerability/MAL-2025-69454
 moderate-azure-frog	*	MAL-2025-69455	https://osv.dev/vulnerability/MAL-2025-69455
@@ -196339,6 +196342,7 @@ tailwind-animates	*	MAL-2026-6727	https://osv.dev/vulnerability/MAL-2026-6727
 tailwind-animation-founder	2.5.7	MAL-2026-12218	https://osv.dev/vulnerability/MAL-2026-12218
 tailwind-animationbased	*	MAL-2025-192640	https://osv.dev/vulnerability/MAL-2025-192640
 tailwind-animationbasis	*	MAL-2026-2156	https://osv.dev/vulnerability/MAL-2026-2156
+tailwind-animationfound	*	MAL-0000-ghsa-malware-5725a79f072138dd	https://github.com/ossf/malicious-packages/blob/2633f331f5c2fff0b9560409686d711e728f4ac0/osv/malicious/npm/tailwind-animationfound/MAL-0000-ghsa-malware-5725a79f072138dd.json
 tailwind-animationgroup	*	MAL-2026-12219	https://osv.dev/vulnerability/MAL-2026-12219
 tailwind-animationlab	*	MAL-2026-18080	https://osv.dev/vulnerability/MAL-2026-18080
 tailwind-animationpack	*	MAL-2026-12220	https://osv.dev/vulnerability/MAL-2026-12220
