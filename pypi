@@ -358,6 +358,7 @@ aitrade	0.1.3	MAL-2026-1893	https://osv.dev/vulnerability/MAL-2026-1893
 ajenti-plugin-testing-pyld	0.0.1	MAL-2025-192392	https://osv.dev/vulnerability/MAL-2025-192392
 ajenti-plugin-testing-pyld	0.99.999	MAL-2025-192392	https://osv.dev/vulnerability/MAL-2025-192392
 ajenti-plugin-testing-pyld	1.1.1	MAL-2025-192392	https://osv.dev/vulnerability/MAL-2025-192392
+ajfhiuqhfqgwerhuqnfqh	0.1.0	MAL-0000-kam193-e1da9c2dae077cc9	https://github.com/ossf/malicious-packages/blob/0f83410649ef75fe40c56ea63dcded89e1f18721/osv/malicious/pypi/ajfhiuqhfqgwerhuqnfqh/MAL-0000-kam193-e1da9c2dae077cc9.json
 akangatu	0.0.0.1	MAL-2025-2933	https://osv.dev/vulnerability/MAL-2025-2933
 akangatu	0.20.12a0	MAL-2025-2933	https://osv.dev/vulnerability/MAL-2025-2933
 akangatu	0.3	MAL-2025-2933	https://osv.dev/vulnerability/MAL-2025-2933
@@ -4617,6 +4618,7 @@ fflask	3.1.9.dev0	MAL-2025-923	https://osv.dev/vulnerability/MAL-2025-923
 fflask	3.2.0.dev0	MAL-2025-923	https://osv.dev/vulnerability/MAL-2025-923
 ffreqtrade	*	MAL-2023-1831	https://osv.dev/vulnerability/MAL-2023-1831
 fgh	1.0.0	MAL-2025-924	https://osv.dev/vulnerability/MAL-2025-924
+fhqiouhq	0.1.0	MAL-0000-kam193-50625c43075a763e	https://github.com/ossf/malicious-packages/blob/0f83410649ef75fe40c56ea63dcded89e1f18721/osv/malicious/pypi/fhqiouhq/MAL-0000-kam193-50625c43075a763e.json
 fia-signals	0.1.0	MAL-2026-5177	https://osv.dev/vulnerability/MAL-2026-5177
 fia-signals	0.1.3	MAL-2026-5177	https://osv.dev/vulnerability/MAL-2026-5177
 fidnffvvbfhghghhhh	1	MAL-2024-11596	https://osv.dev/vulnerability/MAL-2024-11596
@@ -12208,6 +12210,9 @@ reqiest	2.32.3	MAL-2025-969	https://osv.dev/vulnerability/MAL-2025-969
 reqinstall	1.0.1	MAL-2025-4238	https://osv.dev/vulnerability/MAL-2025-4238
 reqinstall	1.1.0	MAL-2025-4238	https://osv.dev/vulnerability/MAL-2025-4238
 reqjuests	1.0.0	MAL-2024-5869	https://osv.dev/vulnerability/MAL-2024-5869
+reqnest	0.1.0	MAL-0000-kam193-819e0998a4223acf	https://github.com/ossf/malicious-packages/blob/0f83410649ef75fe40c56ea63dcded89e1f18721/osv/malicious/pypi/reqnest/MAL-0000-kam193-819e0998a4223acf.json
+reqnests	0.1.0	MAL-0000-kam193-285a91689676a016	https://github.com/ossf/malicious-packages/blob/0f83410649ef75fe40c56ea63dcded89e1f18721/osv/malicious/pypi/reqnests/MAL-0000-kam193-285a91689676a016.json
+reqnests	0.1.1	MAL-0000-kam193-285a91689676a016	https://github.com/ossf/malicious-packages/blob/0f83410649ef75fe40c56ea63dcded89e1f18721/osv/malicious/pypi/reqnests/MAL-0000-kam193-285a91689676a016.json
 reqoests	1.0.0	MAL-2024-5870	https://osv.dev/vulnerability/MAL-2024-5870
 reqpack	0.1.0	MAL-2026-2116	https://osv.dev/vulnerability/MAL-2026-2116
 reqparser	1.0.0	MAL-2026-17181	https://osv.dev/vulnerability/MAL-2026-17181
