@@ -138143,10 +138143,12 @@ mono-faucet	*	MAL-2024-12085	https://osv.dev/vulnerability/MAL-2024-12085
 mono-package	*	MAL-2025-26654	https://osv.dev/vulnerability/MAL-2025-26654
 monobing	*	MAL-2025-49367	https://osv.dev/vulnerability/MAL-2025-49367
 monoblast	*	MAL-2025-49325	https://osv.dev/vulnerability/MAL-2025-49325
+monobomber	*	MAL-0000-ghsa-malware-bb048ce530214799	https://github.com/ossf/malicious-packages/blob/1714094764d8e0d45df8659fbc31b29c730ac6fc/osv/malicious/npm/monobomber/MAL-0000-ghsa-malware-bb048ce530214799.json
 monocam	*	MAL-2025-26655	https://osv.dev/vulnerability/MAL-2025-26655
 monogrok	*	MAL-2026-10638	https://osv.dev/vulnerability/MAL-2026-10638
 monophonic	*	MAL-2025-49326	https://osv.dev/vulnerability/MAL-2025-49326
 monoping	*	MAL-2026-1299	https://osv.dev/vulnerability/MAL-2026-1299
+monopw	*	MAL-0000-ghsa-malware-b9eea2030fc78f02	https://github.com/ossf/malicious-packages/blob/1714094764d8e0d45df8659fbc31b29c730ac6fc/osv/malicious/npm/monopw/MAL-0000-ghsa-malware-b9eea2030fc78f02.json
 monorepo-cop	*	MAL-2026-1523	https://osv.dev/vulnerability/MAL-2026-1523
 monorepo-lens	*	MAL-2025-5240	https://osv.dev/vulnerability/MAL-2025-5240
 monorepo-next	13.0.1	MAL-2025-47328	https://osv.dev/vulnerability/MAL-2025-47328
@@ -210371,6 +210373,7 @@ tw-chat-search	*	MAL-2025-37349	https://osv.dev/vulnerability/MAL-2025-37349
 tw-core-ui	*	MAL-2025-5836	https://osv.dev/vulnerability/MAL-2025-5836
 tw-fluid-type	*	MAL-2026-5638	https://osv.dev/vulnerability/MAL-2026-5638
 tw-modern-ui	*	MAL-2026-1293	https://osv.dev/vulnerability/MAL-2026-1293
+tw-motion-css	*	MAL-0000-ghsa-malware-6126defd99b4d1f6	https://github.com/ossf/malicious-packages/blob/1714094764d8e0d45df8659fbc31b29c730ac6fc/osv/malicious/npm/tw-motion-css/MAL-0000-ghsa-malware-6126defd99b4d1f6.json
 tw-motion-css	2.0.2	MAL-0000-gatekeeper-tw-motion-css	https://github.com/ossf/malicious-packages/pull/1694
 tw-pkgprobe-7731	1.0.0	MAL-2026-14062	https://osv.dev/vulnerability/MAL-2026-14062
 tw-pkgprobe-7731	1.0.1	MAL-2026-14062	https://osv.dev/vulnerability/MAL-2026-14062
