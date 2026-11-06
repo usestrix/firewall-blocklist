@@ -5407,8 +5407,8 @@ hazard	1	MAL-2024-5199	https://osv.dev/vulnerability/MAL-2024-5199
 heimdal-credentials	2.1.0	MAL-2026-1140	https://osv.dev/vulnerability/MAL-2026-1140
 hekamhelp	1.0.0	MAL-2025-191750	https://osv.dev/vulnerability/MAL-2025-191750
 hell-cipher	1.0.1	MAL-2026-5094	https://osv.dev/vulnerability/MAL-2026-5094
-hello-bat-fwi9	0.1.0	MAL-0000-kam193-915b488501776e1d	https://github.com/ossf/malicious-packages/blob/0f5663a9ad2335dcfecd9261b511e6465e807577/osv/malicious/pypi/hello-bat-fwi9/MAL-0000-kam193-915b488501776e1d.json
-hello-bat-fwi9	0.1.1	MAL-0000-kam193-915b488501776e1d	https://github.com/ossf/malicious-packages/blob/0f5663a9ad2335dcfecd9261b511e6465e807577/osv/malicious/pypi/hello-bat-fwi9/MAL-0000-kam193-915b488501776e1d.json
+hello-bat-fwi9	0.1.0	MAL-2026-18735	https://osv.dev/vulnerability/MAL-2026-18735
+hello-bat-fwi9	0.1.1	MAL-2026-18735	https://osv.dev/vulnerability/MAL-2026-18735
 hello-bozzo2	1.2.3	MAL-2024-12283	https://osv.dev/vulnerability/MAL-2024-12283
 hello-dynamic	0.1.0	MAL-2026-5518	https://osv.dev/vulnerability/MAL-2026-5518
 hello-dynamic	0.1.1	MAL-2026-5518	https://osv.dev/vulnerability/MAL-2026-5518
