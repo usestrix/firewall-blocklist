@@ -3260,6 +3260,14 @@ durabletask	1.4.1	MAL-2026-4174	https://osv.dev/vulnerability/MAL-2026-4174
 durabletask	1.4.2	MAL-2026-4174	https://osv.dev/vulnerability/MAL-2026-4174
 durabletask	1.4.3	MAL-2026-4174	https://osv.dev/vulnerability/MAL-2026-4174
 dwh-kafka-client	0.0.1	MAL-2026-10915	https://osv.dev/vulnerability/MAL-2026-10915
+dynamic-mcp	0.2.0	MAL-0000-dynamic-mcp	https://github.com/ossf/malicious-packages/pull/1748
+dynamic-mcp	0.3.0	MAL-0000-dynamic-mcp	https://github.com/ossf/malicious-packages/pull/1748
+dynamic-mcp	0.3.4	MAL-0000-dynamic-mcp	https://github.com/ossf/malicious-packages/pull/1748
+dynamic-mcp	1.0.4	MAL-0000-dynamic-mcp	https://github.com/ossf/malicious-packages/pull/1748
+dynamic-mcp	1.0.6	MAL-0000-dynamic-mcp	https://github.com/ossf/malicious-packages/pull/1748
+dynamic-mcp	1.0.7	MAL-0000-dynamic-mcp	https://github.com/ossf/malicious-packages/pull/1748
+dynamic-mcp	1.0.8	MAL-0000-dynamic-mcp	https://github.com/ossf/malicious-packages/pull/1748
+dynamic-mcp	1.0.9	MAL-0000-dynamic-mcp	https://github.com/ossf/malicious-packages/pull/1748
 dynamo-release	1.5.4	MAL-2026-5274	https://osv.dev/vulnerability/MAL-2026-5274
 dziplib	1.0.0	MAL-2025-41668	https://osv.dev/vulnerability/MAL-2025-41668
 dziplib	1.2.0	MAL-2025-41668	https://osv.dev/vulnerability/MAL-2025-41668
