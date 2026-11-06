@@ -36340,6 +36340,7 @@ automation_model	1.0.491	MAL-2025-191066	https://osv.dev/vulnerability/MAL-2025-
 automation_model	1.0.781-stage	MAL-2025-191066	https://osv.dev/vulnerability/MAL-2025-191066
 automation_model	1.0.895-dev	MAL-2025-191066	https://osv.dev/vulnerability/MAL-2025-191066
 automerge-action	*	MAL-2025-163	https://osv.dev/vulnerability/MAL-2025-163
+automic-style-engine	*	MAL-0000-ghsa-malware-a7cd96d34518e6d0	https://github.com/ossf/malicious-packages/blob/f484797ee64b532bce36d5c333e1b2673f3a4552/osv/malicious/npm/automic-style-engine/MAL-0000-ghsa-malware-a7cd96d34518e6d0.json
 autonomous-coffee-termite	*	MAL-2025-66883	https://osv.dev/vulnerability/MAL-2025-66883
 autonomous-copper-catfish	*	MAL-2025-66884	https://osv.dev/vulnerability/MAL-2025-66884
 autonomous-header-package-test	*	MAL-2025-49397	https://osv.dev/vulnerability/MAL-2025-49397
