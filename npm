@@ -7992,6 +7992,7 @@
 @kone-ds/webcomponents-react	1.99.99	MAL-2025-1692	https://osv.dev/vulnerability/MAL-2025-1692
 @kong/spec-renderer	1.101.10-pr.747.ed2920a.0	MAL-2025-191455	https://osv.dev/vulnerability/MAL-2025-191455
 @koop-components/common	*	MAL-2022-385	https://osv.dev/vulnerability/MAL-2022-385
+@kora20030101/test-pkg-delete-me	*	MAL-0000-ghsa-malware-819b1b3a509b0b96	https://github.com/ossf/malicious-packages/blob/6f2139e0afb9d35cb84594e8c9e98398e7ffa193/osv/malicious/npm/@kora20030101/test-pkg-delete-me/MAL-0000-ghsa-malware-819b1b3a509b0b96.json
 @kp-admin/history	20.0.0	MAL-2024-9036	https://osv.dev/vulnerability/MAL-2024-9036
 @kp-admin/history	20.0.1	MAL-2024-9036	https://osv.dev/vulnerability/MAL-2024-9036
 @kp-admin/history	20.0.2	MAL-2024-9036	https://osv.dev/vulnerability/MAL-2024-9036
@@ -186309,6 +186310,7 @@ sick_squid_z3n	*	MAL-2025-98929	https://osv.dev/vulnerability/MAL-2025-98929
 sick_stingray_z3n	*	MAL-2025-130124	https://osv.dev/vulnerability/MAL-2025-130124
 sick_vulture_z3n	*	MAL-2025-123205	https://osv.dev/vulnerability/MAL-2025-123205
 sick_wasp-appteadev	*	MAL-2025-108662	https://osv.dev/vulnerability/MAL-2025-108662
+sickle-wrapper	*	MAL-0000-ghsa-malware-92c207e657debd7f	https://github.com/ossf/malicious-packages/blob/6f2139e0afb9d35cb84594e8c9e98398e7ffa193/osv/malicious/npm/sickle-wrapper/MAL-0000-ghsa-malware-92c207e657debd7f.json
 sickle-wrapper	0.2.0	MAL-2026-4178	https://osv.dev/vulnerability/MAL-2026-4178
 sicoca	*	MAL-2025-33182	https://osv.dev/vulnerability/MAL-2025-33182
 sid-client-manager	*	MAL-2024-1292	https://osv.dev/vulnerability/MAL-2024-1292
@@ -218830,6 +218832,7 @@ vf-oss-template	1.0.1	MAL-2025-191447	https://osv.dev/vulnerability/MAL-2025-191
 vf-oss-template	1.0.2	MAL-2025-191447	https://osv.dev/vulnerability/MAL-2025-191447
 vf-oss-template	1.0.3	MAL-2025-191447	https://osv.dev/vulnerability/MAL-2025-191447
 vf-oss-template	1.0.4	MAL-2025-191447	https://osv.dev/vulnerability/MAL-2025-191447
+vfat-tools	*	MAL-0000-ghsa-malware-ad4cfe1f7713519a	https://github.com/ossf/malicious-packages/blob/6f2139e0afb9d35cb84594e8c9e98398e7ffa193/osv/malicious/npm/vfat-tools/MAL-0000-ghsa-malware-ad4cfe1f7713519a.json
 vfat-tools	2.0.0	MAL-2026-4179	https://osv.dev/vulnerability/MAL-2026-4179
 vfdgr43	*	MAL-2025-38267	https://osv.dev/vulnerability/MAL-2025-38267
 vfdp-ui-framework	*	MAL-2022-6909	https://osv.dev/vulnerability/MAL-2022-6909
