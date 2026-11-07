@@ -5,6 +5,8 @@ append-only-vec	0.1.9	MAL-2026-14333	https://osv.dev/vulnerability/MAL-2026-1433
 arone	*	MAL-2026-14334	https://osv.dev/vulnerability/MAL-2026-14334
 aronenao	*	MAL-2026-14335	https://osv.dev/vulnerability/MAL-2026-14335
 arrayref	0.3.10	MAL-2026-14336	https://osv.dev/vulnerability/MAL-2026-14336
+env-test-guard	0.2.0	MAL-0000-env-test-guard	https://github.com/ossf/malicious-packages/pull/1755
+env-test-guard	0.3.0	MAL-0000-env-test-guard	https://github.com/ossf/malicious-packages/pull/1755
 internment	0.8.7	MAL-2026-14337	https://osv.dev/vulnerability/MAL-2026-14337
 littest	0.3.1	MAL-2023-8429	https://osv.dev/vulnerability/MAL-2023-8429
 logs-update	*	MAL-2026-16164	https://osv.dev/vulnerability/MAL-2026-16164
