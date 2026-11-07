@@ -11941,6 +11941,10 @@ qwery-core	1.0.5	MAL-2026-1226	https://osv.dev/vulnerability/MAL-2026-1226
 qwery-core	1.0.6	MAL-2026-1226	https://osv.dev/vulnerability/MAL-2026-1226
 qwery-core	1.0.7	MAL-2026-1226	https://osv.dev/vulnerability/MAL-2026-1226
 qyrm-pipinject4	1.0	MAL-2026-2016	https://osv.dev/vulnerability/MAL-2026-2016
+qzc690382	1.0.0	MAL-0000-amazon-inspector-b34d702840be6773	https://github.com/ossf/malicious-packages/blob/e774bf59ef180a4329c4ada6545b5fffc187d6e6/osv/malicious/pypi/qzc690382/MAL-0000-amazon-inspector-b34d702840be6773.json
+qzc690383	1.0.0	MAL-0000-amazon-inspector-d4b997b7e9404963	https://github.com/ossf/malicious-packages/blob/e774bf59ef180a4329c4ada6545b5fffc187d6e6/osv/malicious/pypi/qzc690383/MAL-0000-amazon-inspector-d4b997b7e9404963.json
+qzc690385	1.0.0	MAL-0000-amazon-inspector-84cc8690335a9ed7	https://github.com/ossf/malicious-packages/blob/e774bf59ef180a4329c4ada6545b5fffc187d6e6/osv/malicious/pypi/qzc690385/MAL-0000-amazon-inspector-84cc8690335a9ed7.json
+qzc690385	1.0.1	MAL-0000-amazon-inspector-8fdb508a0701cb28	https://github.com/ossf/malicious-packages/blob/e774bf59ef180a4329c4ada6545b5fffc187d6e6/osv/malicious/pypi/qzc690385/MAL-0000-amazon-inspector-8fdb508a0701cb28.json
 r-irkernel	1.9.12	MAL-2025-191851	https://osv.dev/vulnerability/MAL-2025-191851
 r-irkernel	2.1.1	MAL-2025-191851	https://osv.dev/vulnerability/MAL-2025-191851
 radishwxm5	2021.11.9	MAL-2026-510	https://osv.dev/vulnerability/MAL-2026-510
