@@ -4972,6 +4972,7 @@ gemini-analyzer	1.0.8	MAL-2026-3347	https://osv.dev/vulnerability/MAL-2026-3347
 gemini-analyzer	1.0.9	MAL-2026-3347	https://osv.dev/vulnerability/MAL-2026-3347
 gen-agent-fingerprint	0.1	MAL-2024-5171	https://osv.dev/vulnerability/MAL-2024-5171
 gen-user-random-agent	1.7.0	MAL-2024-11599	https://osv.dev/vulnerability/MAL-2024-11599
+genblaze-atlascloud	0.1.0	MAL-0000-kam193-c8d0787ea4049d0b	https://github.com/ossf/malicious-packages/blob/6a91cadbbd985095ac350fc2aaea5fec209469f8/osv/malicious/pypi/genblaze-atlascloud/MAL-0000-kam193-c8d0787ea4049d0b.json
 genblaze-fal	0.1.0	MAL-2026-18746	https://osv.dev/vulnerability/MAL-2026-18746
 generatellm	2.21	MAL-2026-5773	https://osv.dev/vulnerability/MAL-2026-5773
 generatellm	2.22	MAL-2026-5773	https://osv.dev/vulnerability/MAL-2026-5773
