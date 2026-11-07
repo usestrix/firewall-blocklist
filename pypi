@@ -4953,9 +4953,9 @@ gcli-control	0.12.2	MAL-2026-12502	https://osv.dev/vulnerability/MAL-2026-12502
 gcli-control	0.12.4	MAL-2026-12502	https://osv.dev/vulnerability/MAL-2026-12502
 gcli-control	0.5.0	MAL-2026-12502	https://osv.dev/vulnerability/MAL-2026-12502
 gclient-eval	0.0.1	MAL-2025-191737	https://osv.dev/vulnerability/MAL-2025-191737
-gcp-log-poc	0.0.1	MAL-0000-kam193-2435f0c2437e00d8	https://github.com/ossf/malicious-packages/blob/a52d79a3b808d62641df9e87d8da13aa4e8c21ab/osv/malicious/pypi/gcp-log-poc/MAL-0000-kam193-2435f0c2437e00d8.json
-gcp-log-poc	0.0.2	MAL-0000-kam193-2435f0c2437e00d8	https://github.com/ossf/malicious-packages/blob/a52d79a3b808d62641df9e87d8da13aa4e8c21ab/osv/malicious/pypi/gcp-log-poc/MAL-0000-kam193-2435f0c2437e00d8.json
-gcp-log-poc	0.0.3	MAL-0000-kam193-2435f0c2437e00d8	https://github.com/ossf/malicious-packages/blob/a52d79a3b808d62641df9e87d8da13aa4e8c21ab/osv/malicious/pypi/gcp-log-poc/MAL-0000-kam193-2435f0c2437e00d8.json
+gcp-log-poc	0.0.1	MAL-2026-18753	https://osv.dev/vulnerability/MAL-2026-18753
+gcp-log-poc	0.0.2	MAL-2026-18753	https://osv.dev/vulnerability/MAL-2026-18753
+gcp-log-poc	0.0.3	MAL-2026-18753	https://osv.dev/vulnerability/MAL-2026-18753
 gcphelpit	0.1.0	MAL-2026-15810	https://osv.dev/vulnerability/MAL-2026-15810
 gcphelpit	0.1.1	MAL-2026-15810	https://osv.dev/vulnerability/MAL-2026-15810
 gcphelpit	0.1.2	MAL-2026-15810	https://osv.dev/vulnerability/MAL-2026-15810
