@@ -9825,8 +9825,8 @@ pullrand	*	MAL-2023-4967	https://osv.dev/vulnerability/MAL-2023-4967
 pullrandom	*	MAL-2023-4968	https://osv.dev/vulnerability/MAL-2023-4968
 pullvm	*	MAL-2023-4969	https://osv.dev/vulnerability/MAL-2023-4969
 pulsecord	1.0.0	MAL-2025-191830	https://osv.dev/vulnerability/MAL-2025-191830
-pulumi-doppler	0.0.0	MAL-0000-kam193-50b46d564c0937fb	https://github.com/ossf/malicious-packages/blob/7245e2ad332a333c314f3df4a5bf538eb5cc283c/osv/malicious/pypi/pulumi-doppler/MAL-0000-kam193-50b46d564c0937fb.json
-pulumi-doppler	1.0.0	MAL-0000-kam193-50b46d564c0937fb	https://github.com/ossf/malicious-packages/blob/7245e2ad332a333c314f3df4a5bf538eb5cc283c/osv/malicious/pypi/pulumi-doppler/MAL-0000-kam193-50b46d564c0937fb.json
+pulumi-doppler	0.0.0	MAL-2026-18745	https://osv.dev/vulnerability/MAL-2026-18745
+pulumi-doppler	1.0.0	MAL-2026-18745	https://osv.dev/vulnerability/MAL-2026-18745
 puregram	1.0.0	MAL-2025-6569	https://osv.dev/vulnerability/MAL-2025-6569
 push2web	99.0	MAL-2024-5576	https://osv.dev/vulnerability/MAL-2024-5576
 pushgui	*	MAL-2023-4970	https://osv.dev/vulnerability/MAL-2023-4970
