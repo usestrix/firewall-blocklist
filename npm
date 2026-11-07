@@ -69394,9 +69394,9 @@ dsgs-txcui-pix	*	MAL-2025-174120	https://osv.dev/vulnerability/MAL-2025-174120
 dsh-moss-console	3.3.0	MAL-2026-18522	https://osv.dev/vulnerability/MAL-2026-18522
 dsh-moss-wallpaper	3.4.0	MAL-2026-18523	https://osv.dev/vulnerability/MAL-2026-18523
 dsh-native	1.4.1	MAL-2026-18315	https://osv.dev/vulnerability/MAL-2026-18315
-dsh-notify-focus	0.5.0	MAL-0000-ghsa-malware-c91c538bb4d09c5a	https://github.com/ossf/malicious-packages/blob/eeeef75ccf3ffdeda2e7860cfd6ea86f3d95cfed/osv/malicious/npm/dsh-notify-focus/MAL-0000-ghsa-malware-c91c538bb4d09c5a.json
-dsh-notify-focus	0.7.0	MAL-0000-ghsa-malware-c91c538bb4d09c5a	https://github.com/ossf/malicious-packages/blob/eeeef75ccf3ffdeda2e7860cfd6ea86f3d95cfed/osv/malicious/npm/dsh-notify-focus/MAL-0000-ghsa-malware-c91c538bb4d09c5a.json
-dsh-notify-focus	0.7.1	MAL-0000-ghsa-malware-c91c538bb4d09c5a	https://github.com/ossf/malicious-packages/blob/eeeef75ccf3ffdeda2e7860cfd6ea86f3d95cfed/osv/malicious/npm/dsh-notify-focus/MAL-0000-ghsa-malware-c91c538bb4d09c5a.json
+dsh-notify-focus	0.5.0	MAL-2026-18748	https://osv.dev/vulnerability/MAL-2026-18748
+dsh-notify-focus	0.7.0	MAL-2026-18748	https://osv.dev/vulnerability/MAL-2026-18748
+dsh-notify-focus	0.7.1	MAL-2026-18748	https://osv.dev/vulnerability/MAL-2026-18748
 dsh-plugin-blender-3d	0.2.1	MAL-2026-18321	https://osv.dev/vulnerability/MAL-2026-18321
 dsh-purge	1.2.1	MAL-2026-18707	https://osv.dev/vulnerability/MAL-2026-18707
 dsh-redteam-mode	0.15.2	MAL-2026-18366	https://osv.dev/vulnerability/MAL-2026-18366
