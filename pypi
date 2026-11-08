@@ -1274,6 +1274,7 @@ blastchamber-python-pypi	0.1.0	MAL-2025-192891	https://osv.dev/vulnerability/MAL
 blastchamber-python-pypi	0.2.0	MAL-2025-192891	https://osv.dev/vulnerability/MAL-2025-192891
 blastchamber-python-pypi	0.2.2	MAL-2025-192891	https://osv.dev/vulnerability/MAL-2025-192891
 blazeted	1.0	MAL-2024-4823	https://osv.dev/vulnerability/MAL-2024-4823
+blender-headless	9.99.9	MAL-0000-kam193-da370fd492985ac1	https://github.com/ossf/malicious-packages/blob/683e4d9cfff248ae530ded4bde2fdc442b191322/osv/malicious/pypi/blender-headless/MAL-0000-kam193-da370fd492985ac1.json
 blender-headless	9.99.9	MAL-2026-18758	https://osv.dev/vulnerability/MAL-2026-18758
 blessclient	0.0.1	MAL-2026-11067	https://osv.dev/vulnerability/MAL-2026-11067
 blessclient	0.0.2	MAL-2026-11067	https://osv.dev/vulnerability/MAL-2026-11067
@@ -4483,6 +4484,7 @@ exodushcate	1.7	MAL-2024-11585	https://osv.dev/vulnerability/MAL-2024-11585
 exodushcate	1.7.1	MAL-2024-11585	https://osv.dev/vulnerability/MAL-2024-11585
 exodushcate	1.7.2	MAL-2024-11585	https://osv.dev/vulnerability/MAL-2024-11585
 exorigsim	0.1.0	MAL-2025-6501	https://osv.dev/vulnerability/MAL-2025-6501
+expect-tests	99.99.99	MAL-0000-kam193-a39f8a715e51027c	https://github.com/ossf/malicious-packages/blob/683e4d9cfff248ae530ded4bde2fdc442b191322/osv/malicious/pypi/expect-tests/MAL-0000-kam193-a39f8a715e51027c.json
 expect-tests	99.99.99	MAL-2026-18760	https://osv.dev/vulnerability/MAL-2026-18760
 expkg-am	0.0.3	MAL-2024-12268	https://osv.dev/vulnerability/MAL-2024-12268
 exporter-stackdriver	99.0	MAL-2024-5125	https://osv.dev/vulnerability/MAL-2024-5125
@@ -5920,6 +5922,7 @@ infotool	*	MAL-2023-3805	https://osv.dev/vulnerability/MAL-2023-3805
 infourl	*	MAL-2023-3806	https://osv.dev/vulnerability/MAL-2023-3806
 infovirtual	*	MAL-2023-3807	https://osv.dev/vulnerability/MAL-2023-3807
 infovm	*	MAL-2023-3808	https://osv.dev/vulnerability/MAL-2023-3808
+infra-libs	99.99.99	MAL-0000-kam193-2796ca84a4fd5c8e	https://github.com/ossf/malicious-packages/blob/683e4d9cfff248ae530ded4bde2fdc442b191322/osv/malicious/pypi/infra-libs/MAL-0000-kam193-2796ca84a4fd5c8e.json
 infra-libs	99.99.99	MAL-2026-18761	https://osv.dev/vulnerability/MAL-2026-18761
 infrabench	0.1.0	MAL-2026-17469	https://osv.dev/vulnerability/MAL-2026-17469
 infrabench	0.1.1	MAL-2026-17469	https://osv.dev/vulnerability/MAL-2026-17469
@@ -7456,6 +7459,7 @@ loguru-utf8	0.7.3	MAL-2025-192435	https://osv.dev/vulnerability/MAL-2025-192435
 loguru-utf8	0.7.4	MAL-2025-192435	https://osv.dev/vulnerability/MAL-2025-192435
 logutilkit	1.0.1	MAL-2026-2120	https://osv.dev/vulnerability/MAL-2026-2120
 lolcrazy	0.1.1	MAL-2025-47785	https://osv.dev/vulnerability/MAL-2025-47785
+lookuptest11	0.0.1	MAL-0000-kam193-fe5cc784eb96a402	https://github.com/ossf/malicious-packages/blob/683e4d9cfff248ae530ded4bde2fdc442b191322/osv/malicious/pypi/lookuptest11/MAL-0000-kam193-fe5cc784eb96a402.json
 looopiw	0.0.1	MAL-2026-2842	https://osv.dev/vulnerability/MAL-2026-2842
 loquru	0.7.3	MAL-2025-191784	https://osv.dev/vulnerability/MAL-2025-191784
 lore-cs	1.0.0	MAL-2026-17639	https://osv.dev/vulnerability/MAL-2026-17639
