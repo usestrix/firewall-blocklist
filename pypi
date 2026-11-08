@@ -1274,6 +1274,7 @@ blastchamber-python-pypi	0.1.0	MAL-2025-192891	https://osv.dev/vulnerability/MAL
 blastchamber-python-pypi	0.2.0	MAL-2025-192891	https://osv.dev/vulnerability/MAL-2025-192891
 blastchamber-python-pypi	0.2.2	MAL-2025-192891	https://osv.dev/vulnerability/MAL-2025-192891
 blazeted	1.0	MAL-2024-4823	https://osv.dev/vulnerability/MAL-2024-4823
+blender-headless	9.99.9	MAL-0000-amazon-inspector-7edaff2bd9abfea1	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/blender-headless/MAL-0000-amazon-inspector-7edaff2bd9abfea1.json
 blessclient	0.0.1	MAL-2026-11067	https://osv.dev/vulnerability/MAL-2026-11067
 blessclient	0.0.2	MAL-2026-11067	https://osv.dev/vulnerability/MAL-2026-11067
 blobhunter-depconf-poc	999.0.0	MAL-2026-33	https://osv.dev/vulnerability/MAL-2026-33
@@ -1820,6 +1821,16 @@ chimera-sandbox-extensions	0.1.42	MAL-2025-191701	https://osv.dev/vulnerability/
 chosenrce18	1.0.0	MAL-2025-4210	https://osv.dev/vulnerability/MAL-2025-4210
 christmasmiraclemaker	1.0.0	MAL-2024-12234	https://osv.dev/vulnerability/MAL-2024-12234
 chroma-client	0.5.7	MAL-2026-16143	https://osv.dev/vulnerability/MAL-2026-16143
+chromacli	0.1.0	MAL-0000-amazon-inspector-faa55f651aa1c9e2	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/chromacli/MAL-0000-amazon-inspector-faa55f651aa1c9e2.json
+chromacli	0.1.0	MAL-0000-kam193-bda96ece61753bb7	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/chromacli/MAL-0000-kam193-bda96ece61753bb7.json
+chromacli	0.1.1	MAL-0000-amazon-inspector-72936049f7fbdfd5	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/chromacli/MAL-0000-amazon-inspector-72936049f7fbdfd5.json
+chromacli	0.1.1	MAL-0000-kam193-bda96ece61753bb7	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/chromacli/MAL-0000-kam193-bda96ece61753bb7.json
+chromacli	0.1.2	MAL-0000-amazon-inspector-649fbd930cef7b2a	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/chromacli/MAL-0000-amazon-inspector-649fbd930cef7b2a.json
+chromacli	0.1.2	MAL-0000-kam193-bda96ece61753bb7	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/chromacli/MAL-0000-kam193-bda96ece61753bb7.json
+chromacli	0.1.3	MAL-0000-amazon-inspector-d3adaa2c55288f2e	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/chromacli/MAL-0000-amazon-inspector-d3adaa2c55288f2e.json
+chromacli	0.1.3	MAL-0000-kam193-bda96ece61753bb7	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/chromacli/MAL-0000-kam193-bda96ece61753bb7.json
+chromacli	0.1.4	MAL-0000-amazon-inspector-f8413360c7281314	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/chromacli/MAL-0000-amazon-inspector-f8413360c7281314.json
+chromacli	0.1.4	MAL-0000-kam193-bda96ece61753bb7	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/chromacli/MAL-0000-kam193-bda96ece61753bb7.json
 chrome-stealth	0.1.0	MAL-2026-28	https://osv.dev/vulnerability/MAL-2026-28
 chromeselenium	0.1.0	MAL-2024-4889	https://osv.dev/vulnerability/MAL-2024-4889
 chromeselenium	0.1.1	MAL-2024-4889	https://osv.dev/vulnerability/MAL-2024-4889
@@ -4477,10 +4488,12 @@ exodushcate	1.7	MAL-2024-11585	https://osv.dev/vulnerability/MAL-2024-11585
 exodushcate	1.7.1	MAL-2024-11585	https://osv.dev/vulnerability/MAL-2024-11585
 exodushcate	1.7.2	MAL-2024-11585	https://osv.dev/vulnerability/MAL-2024-11585
 exorigsim	0.1.0	MAL-2025-6501	https://osv.dev/vulnerability/MAL-2025-6501
+expect-tests	99.99.99	MAL-0000-amazon-inspector-f693b92cac909344	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/expect-tests/MAL-0000-amazon-inspector-f693b92cac909344.json
 expkg-am	0.0.3	MAL-2024-12268	https://osv.dev/vulnerability/MAL-2024-12268
 exporter-stackdriver	99.0	MAL-2024-5125	https://osv.dev/vulnerability/MAL-2024-5125
 extera-plugin-runtime	1.0.0	MAL-2026-18625	https://osv.dev/vulnerability/MAL-2026-18625
 extera-plugin-runtime	1.0.1	MAL-2026-18625	https://osv.dev/vulnerability/MAL-2026-18625
+extera-runtime	1.1.0	MAL-0000-amazon-inspector-af4f783a1272f2f3	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/extera-runtime/MAL-0000-amazon-inspector-af4f783a1272f2f3.json
 extera-runtime	1.1.0	MAL-2026-18633	https://osv.dev/vulnerability/MAL-2026-18633
 extra-huggingface	0.4.0	MAL-2026-6489	https://osv.dev/vulnerability/MAL-2026-6489
 extracolorsv2	0.0.1	MAL-2024-5126	https://osv.dev/vulnerability/MAL-2024-5126
@@ -4656,6 +4669,7 @@ filipt	0.1.1	MAL-2026-18580	https://osv.dev/vulnerability/MAL-2026-18580
 filipt	0.1.2	MAL-2026-18580	https://osv.dev/vulnerability/MAL-2026-18580
 filipt	0.1.3	MAL-2026-18580	https://osv.dev/vulnerability/MAL-2026-18580
 filipt	0.1.4	MAL-2026-18580	https://osv.dev/vulnerability/MAL-2026-18580
+filipt	0.1.5	MAL-0000-amazon-inspector-a214411b19c95761	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/filipt/MAL-0000-amazon-inspector-a214411b19c95761.json
 filipt	0.1.5	MAL-2026-18580	https://osv.dev/vulnerability/MAL-2026-18580
 final-osint	2.0.0	MAL-2025-48891	https://osv.dev/vulnerability/MAL-2025-48891
 financial-crimes-general-utils	3.9.12	MAL-2026-2107	https://osv.dev/vulnerability/MAL-2026-2107
@@ -4954,8 +4968,11 @@ gcli-control	0.12.2	MAL-2026-12502	https://osv.dev/vulnerability/MAL-2026-12502
 gcli-control	0.12.4	MAL-2026-12502	https://osv.dev/vulnerability/MAL-2026-12502
 gcli-control	0.5.0	MAL-2026-12502	https://osv.dev/vulnerability/MAL-2026-12502
 gclient-eval	0.0.1	MAL-2025-191737	https://osv.dev/vulnerability/MAL-2025-191737
+gcp-log-poc	0.0.1	MAL-0000-amazon-inspector-dfa3ab3f889efefa	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/gcp-log-poc/MAL-0000-amazon-inspector-dfa3ab3f889efefa.json
 gcp-log-poc	0.0.1	MAL-2026-18753	https://osv.dev/vulnerability/MAL-2026-18753
+gcp-log-poc	0.0.2	MAL-0000-amazon-inspector-e716bbfb2b65c5fb	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/gcp-log-poc/MAL-0000-amazon-inspector-e716bbfb2b65c5fb.json
 gcp-log-poc	0.0.2	MAL-2026-18753	https://osv.dev/vulnerability/MAL-2026-18753
+gcp-log-poc	0.0.3	MAL-0000-amazon-inspector-cc8768984228dad1	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/gcp-log-poc/MAL-0000-amazon-inspector-cc8768984228dad1.json
 gcp-log-poc	0.0.3	MAL-2026-18753	https://osv.dev/vulnerability/MAL-2026-18753
 gcphelpit	0.1.0	MAL-2026-15810	https://osv.dev/vulnerability/MAL-2026-15810
 gcphelpit	0.1.1	MAL-2026-15810	https://osv.dev/vulnerability/MAL-2026-15810
@@ -5424,6 +5441,7 @@ heimdal-credentials	2.1.0	MAL-2026-1140	https://osv.dev/vulnerability/MAL-2026-1
 hekamhelp	1.0.0	MAL-2025-191750	https://osv.dev/vulnerability/MAL-2025-191750
 hell-cipher	1.0.1	MAL-2026-5094	https://osv.dev/vulnerability/MAL-2026-5094
 hello-bat-fwi9	0.1.0	MAL-2026-18735	https://osv.dev/vulnerability/MAL-2026-18735
+hello-bat-fwi9	0.1.1	MAL-0000-amazon-inspector-7c6e259229025169	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/hello-bat-fwi9/MAL-0000-amazon-inspector-7c6e259229025169.json
 hello-bat-fwi9	0.1.1	MAL-2026-18735	https://osv.dev/vulnerability/MAL-2026-18735
 hello-bozzo2	1.2.3	MAL-2024-12283	https://osv.dev/vulnerability/MAL-2024-12283
 hello-dynamic	0.1.0	MAL-2026-5518	https://osv.dev/vulnerability/MAL-2026-5518
@@ -5913,6 +5931,7 @@ infotool	*	MAL-2023-3805	https://osv.dev/vulnerability/MAL-2023-3805
 infourl	*	MAL-2023-3806	https://osv.dev/vulnerability/MAL-2023-3806
 infovirtual	*	MAL-2023-3807	https://osv.dev/vulnerability/MAL-2023-3807
 infovm	*	MAL-2023-3808	https://osv.dev/vulnerability/MAL-2023-3808
+infra-libs	99.99.99	MAL-0000-amazon-inspector-721b376b505d760e	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/infra-libs/MAL-0000-amazon-inspector-721b376b505d760e.json
 infrabench	0.1.0	MAL-2026-17469	https://osv.dev/vulnerability/MAL-2026-17469
 infrabench	0.1.1	MAL-2026-17469	https://osv.dev/vulnerability/MAL-2026-17469
 infrabench	0.2.0	MAL-2026-17469	https://osv.dev/vulnerability/MAL-2026-17469
@@ -11971,6 +11990,7 @@ raft-dask	0.0.0	MAL-2025-192382	https://osv.dev/vulnerability/MAL-2025-192382
 raft-dask	1.1.0	MAL-2025-192382	https://osv.dev/vulnerability/MAL-2025-192382
 raimbow-colors	0.1	MAL-2024-5848	https://osv.dev/vulnerability/MAL-2024-5848
 raimbowxyz	0.1	MAL-2024-10150	https://osv.dev/vulnerability/MAL-2024-10150
+rainbowcolors	0.1.0	MAL-0000-amazon-inspector-c836e6786c834715	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/rainbowcolors/MAL-0000-amazon-inspector-c836e6786c834715.json
 rak-lab-yoav-orca-zrktd2cp5hjmo4x7	9.9.9	MAL-2026-16241	https://osv.dev/vulnerability/MAL-2026-16241
 raknet-testing-package	0.0.1	MAL-2025-41729	https://osv.dev/vulnerability/MAL-2025-41729
 raknet-testing-package	0.0.2	MAL-2025-41729	https://osv.dev/vulnerability/MAL-2025-41729
@@ -12100,6 +12120,7 @@ rbx1325382	0.1.0	MAL-2025-41735	https://osv.dev/vulnerability/MAL-2025-41735
 rc4-secure	1.0.0	MAL-2026-14306	https://osv.dev/vulnerability/MAL-2026-14306
 rce-test	0.1	MAL-2026-14523	https://osv.dev/vulnerability/MAL-2026-14523
 rcebymrx	0.0.1	MAL-2024-8946	https://osv.dev/vulnerability/MAL-2024-8946
+rcp-ndcg	9999.0.0	MAL-0000-amazon-inspector-9477dba93cdb5c9d	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/pypi/rcp-ndcg/MAL-0000-amazon-inspector-9477dba93cdb5c9d.json
 rcp-ndcg	9999.0.0	MAL-2026-18658	https://osv.dev/vulnerability/MAL-2026-18658
 rctorchprivate	0.0.1	MAL-2025-6573	https://osv.dev/vulnerability/MAL-2025-6573
 rcyptocompare	*	MAL-2023-2145	https://osv.dev/vulnerability/MAL-2023-2145
