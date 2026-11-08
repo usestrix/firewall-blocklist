@@ -302,7 +302,7 @@ aem_deploy	0.1.26	MAL-2024-6526	https://osv.dev/vulnerability/MAL-2024-6526
 after-the_deadline	0.1.3	MAL-2024-6527	https://osv.dev/vulnerability/MAL-2024-6527
 agave_client	0.1.3	MAL-2024-6528	https://osv.dev/vulnerability/MAL-2024-6528
 age-validator	0.1.0	MAL-2024-6529	https://osv.dev/vulnerability/MAL-2024-6529
-agentic-call-control	1.1.8	MAL-0000-amazon-inspector-6604e2b2afca5be9	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/rubygems/agentic-call-control/MAL-0000-amazon-inspector-6604e2b2afca5be9.json
+agentic-call-control	1.1.8	MAL-2026-18763	https://osv.dev/vulnerability/MAL-2026-18763
 agentoaitestabc123	0.0.1	MAL-2026-7473	https://osv.dev/vulnerability/MAL-2026-7473
 agfosscab20	0.0.1	MAL-2026-7474	https://osv.dev/vulnerability/MAL-2026-7474
 agfossgrant23	0.0.1	MAL-2026-7475	https://osv.dev/vulnerability/MAL-2026-7475
@@ -1859,7 +1859,7 @@ commission-junction_stats	0.0.2	MAL-2024-6840	https://osv.dev/vulnerability/MAL-
 commonmarker_pluggable	0.3.0	MAL-2024-6841	https://osv.dev/vulnerability/MAL-2024-6841
 console_auth	99.99.99	MAL-2025-46899	https://osv.dev/vulnerability/MAL-2025-46899
 contributors-stats	1.0.0	MAL-2024-6842	https://osv.dev/vulnerability/MAL-2024-6842
-control-character-command-injection	1.0.1	MAL-0000-amazon-inspector-83327b9e45cb49b0	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/rubygems/control-character-command-injection/MAL-0000-amazon-inspector-83327b9e45cb49b0.json
+control-character-command-injection	1.0.1	MAL-2026-18764	https://osv.dev/vulnerability/MAL-2026-18764
 cordova_rake	0.5.2	MAL-2024-6843	https://osv.dev/vulnerability/MAL-2024-6843
 councilfetchxqz	0.0.1	MAL-2026-7603	https://osv.dev/vulnerability/MAL-2026-7603
 critter	90002.0	MAL-2025-192905	https://osv.dev/vulnerability/MAL-2025-192905
@@ -1952,7 +1952,7 @@ doge-helper	0.1	MAL-2024-6866	https://osv.dev/vulnerability/MAL-2024-6866
 doge-linguist	0.1.0	MAL-2024-6867	https://osv.dev/vulnerability/MAL-2024-6867
 doge-woof	0.1.10	MAL-2024-6868	https://osv.dev/vulnerability/MAL-2024-6868
 doge_chef-formatter	0.0.1	MAL-2024-6869	https://osv.dev/vulnerability/MAL-2024-6869
-donjon-ledger	2.0.2	MAL-0000-amazon-inspector-4ab38ebb03685b0d	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/rubygems/donjon-ledger/MAL-0000-amazon-inspector-4ab38ebb03685b0d.json
+donjon-ledger	2.0.2	MAL-2026-18765	https://osv.dev/vulnerability/MAL-2026-18765
 dopc-client	1.0.0	MAL-2026-18518	https://osv.dev/vulnerability/MAL-2026-18518
 dopc-client	10.0.0	MAL-2026-18518	https://osv.dev/vulnerability/MAL-2026-18518
 dot-rake_tasks_in_rails	0.0.1	MAL-2024-6870	https://osv.dev/vulnerability/MAL-2024-6870
@@ -1970,7 +1970,7 @@ dwpdf1248771	0.0.1	MAL-2026-7644	https://osv.dev/vulnerability/MAL-2026-7644
 dwpdf1248841	0.0.1	MAL-2026-7645	https://osv.dev/vulnerability/MAL-2026-7645
 dwpdf1248851	0.0.1	MAL-2026-7646	https://osv.dev/vulnerability/MAL-2026-7646
 dwpdf1248881	0.0.1	MAL-2026-7647	https://osv.dev/vulnerability/MAL-2026-7647
-dynamic-object-handler	1.0.1	MAL-0000-amazon-inspector-bb6afd4195002019	https://github.com/ossf/malicious-packages/blob/445f9b1f218faddc3f24e1cdab0a6eafc7acefc6/osv/malicious/rubygems/dynamic-object-handler/MAL-0000-amazon-inspector-bb6afd4195002019.json
+dynamic-object-handler	1.0.1	MAL-2026-18766	https://osv.dev/vulnerability/MAL-2026-18766
 ebay-client	0.3.1.1045	MAL-2024-6879	https://osv.dev/vulnerability/MAL-2024-6879
 ebay-enterprise_affiliate_network	1.0.3	MAL-2024-6880	https://osv.dev/vulnerability/MAL-2024-6880
 ebay-trading	0.0.2	MAL-2024-6881	https://osv.dev/vulnerability/MAL-2024-6881
