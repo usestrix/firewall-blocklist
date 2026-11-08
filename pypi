@@ -1440,8 +1440,8 @@ buildoslibuploader	0.0.0	MAL-2024-4839	https://osv.dev/vulnerability/MAL-2024-48
 buildpeople	0.1.1	MAL-2025-47751	https://osv.dev/vulnerability/MAL-2025-47751
 bulktweetbyref	0.1.0	MAL-2025-6470	https://osv.dev/vulnerability/MAL-2025-6470
 bulktweetplus	0.1.0	MAL-2025-6471	https://osv.dev/vulnerability/MAL-2025-6471
-bundyfed	1.0.0	MAL-0000-kam193-81b2cc96166cfebf	https://github.com/ossf/malicious-packages/blob/e3a4246d0f449d68fed79f9193072c964f0bb603/osv/malicious/pypi/bundyfed/MAL-0000-kam193-81b2cc96166cfebf.json
-bundyfed	1.0.1	MAL-0000-kam193-81b2cc96166cfebf	https://github.com/ossf/malicious-packages/blob/e3a4246d0f449d68fed79f9193072c964f0bb603/osv/malicious/pypi/bundyfed/MAL-0000-kam193-81b2cc96166cfebf.json
+bundyfed	1.0.0	MAL-2026-18770	https://osv.dev/vulnerability/MAL-2026-18770
+bundyfed	1.0.1	MAL-2026-18770	https://osv.dev/vulnerability/MAL-2026-18770
 bunzbar	0.0.1	MAL-2025-6472	https://osv.dev/vulnerability/MAL-2025-6472
 bup-utils	1.0.0	MAL-2024-4840	https://osv.dev/vulnerability/MAL-2024-4840
 bupi-utils	1.0.0	MAL-2024-4841	https://osv.dev/vulnerability/MAL-2024-4841
