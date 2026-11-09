@@ -106731,6 +106731,7 @@ internal-auth-provider	*	MAL-2026-3261	https://osv.dev/vulnerability/MAL-2026-32
 internal-azure-boar	*	MAL-2025-68966	https://osv.dev/vulnerability/MAL-2025-68966
 internal-checkout-bricks	*	MAL-2025-48283	https://osv.dev/vulnerability/MAL-2025-48283
 internal-company-api	*	MAL-2025-3624	https://osv.dev/vulnerability/MAL-2025-3624
+internal-company-module-test-1337	*	MAL-0000-ghsa-malware-ec73dcdbdf2728ca	https://github.com/ossf/malicious-packages/blob/6652c2c501d5c206f521905a51868d102c8935f4/osv/malicious/npm/internal-company-module-test-1337/MAL-0000-ghsa-malware-ec73dcdbdf2728ca.json
 internal-company-module-test-1337	99.99.9992	MAL-2026-3249	https://osv.dev/vulnerability/MAL-2026-3249
 internal-company-module-test-1337	99.99.9994	MAL-2026-3249	https://osv.dev/vulnerability/MAL-2026-3249
 internal-company-module-test-1337	99.99.9995	MAL-2026-3249	https://osv.dev/vulnerability/MAL-2026-3249
