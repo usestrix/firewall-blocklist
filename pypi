@@ -7439,11 +7439,11 @@ logax	5.2	MAL-2025-3450	https://osv.dev/vulnerability/MAL-2025-3450
 logax	5.3	MAL-2025-3450	https://osv.dev/vulnerability/MAL-2025-3450
 logax	5.4	MAL-2025-3450	https://osv.dev/vulnerability/MAL-2025-3450
 logax	8.3	MAL-2025-3450	https://osv.dev/vulnerability/MAL-2025-3450
-logger-libs	0.4.1	MAL-0000-kam193-b54fca41517078a9	https://github.com/ossf/malicious-packages/blob/d1abbac9c6b9743cbc9efe1d246801e6797a37ce/osv/malicious/pypi/logger-libs/MAL-0000-kam193-b54fca41517078a9.json
-logger-libs	0.4.2	MAL-0000-kam193-b54fca41517078a9	https://github.com/ossf/malicious-packages/blob/d1abbac9c6b9743cbc9efe1d246801e6797a37ce/osv/malicious/pypi/logger-libs/MAL-0000-kam193-b54fca41517078a9.json
-logger-libs	0.4.3	MAL-0000-kam193-b54fca41517078a9	https://github.com/ossf/malicious-packages/blob/d1abbac9c6b9743cbc9efe1d246801e6797a37ce/osv/malicious/pypi/logger-libs/MAL-0000-kam193-b54fca41517078a9.json
-logger-libs	0.4.5	MAL-0000-kam193-b54fca41517078a9	https://github.com/ossf/malicious-packages/blob/d1abbac9c6b9743cbc9efe1d246801e6797a37ce/osv/malicious/pypi/logger-libs/MAL-0000-kam193-b54fca41517078a9.json
-logger-libs	0.4.6	MAL-0000-kam193-b54fca41517078a9	https://github.com/ossf/malicious-packages/blob/d1abbac9c6b9743cbc9efe1d246801e6797a37ce/osv/malicious/pypi/logger-libs/MAL-0000-kam193-b54fca41517078a9.json
+logger-libs	0.4.1	MAL-2026-18778	https://osv.dev/vulnerability/MAL-2026-18778
+logger-libs	0.4.2	MAL-2026-18778	https://osv.dev/vulnerability/MAL-2026-18778
+logger-libs	0.4.3	MAL-2026-18778	https://osv.dev/vulnerability/MAL-2026-18778
+logger-libs	0.4.5	MAL-2026-18778	https://osv.dev/vulnerability/MAL-2026-18778
+logger-libs	0.4.6	MAL-2026-18778	https://osv.dev/vulnerability/MAL-2026-18778
 loggerex	0.7.4	MAL-2025-191782	https://osv.dev/vulnerability/MAL-2025-191782
 loggerex	0.7.5	MAL-2025-191782	https://osv.dev/vulnerability/MAL-2025-191782
 loggerex	0.7.6	MAL-2025-191782	https://osv.dev/vulnerability/MAL-2025-191782
