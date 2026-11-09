@@ -210918,9 +210918,8 @@ tzeos-sdk	*	MAL-2025-37469	https://osv.dev/vulnerability/MAL-2025-37469
 tzf-darwin-x64	*	MAL-2025-37470	https://osv.dev/vulnerability/MAL-2025-37470
 tzgxrf-devapptea	*	MAL-2025-109906	https://osv.dev/vulnerability/MAL-2025-109906
 tzpemvkuflnygdso	*	MAL-2025-37471	https://osv.dev/vulnerability/MAL-2025-37471
-u-chan-secrets	5.2.1	MAL-0000-ghsa-malware-a222972784ceb309	https://github.com/ossf/malicious-packages/blob/96c7f48327c7fc4695bb2f6df5cc0c9e9acede1b/osv/malicious/npm/u-chan-secrets/MAL-0000-ghsa-malware-a222972784ceb309.json
 u-chan-secrets	5.2.1	MAL-2026-18777	https://osv.dev/vulnerability/MAL-2026-18777
-u-chan-secrets	5.2.2	MAL-0000-ghsa-malware-a222972784ceb309	https://github.com/ossf/malicious-packages/blob/96c7f48327c7fc4695bb2f6df5cc0c9e9acede1b/osv/malicious/npm/u-chan-secrets/MAL-0000-ghsa-malware-a222972784ceb309.json
+u-chan-secrets	5.2.2	MAL-2026-18777	https://osv.dev/vulnerability/MAL-2026-18777
 u-workflow.auth	*	MAL-2024-1187	https://osv.dev/vulnerability/MAL-2024-1187
 u-workflow.components	1.0.0	MAL-2024-3247	https://osv.dev/vulnerability/MAL-2024-3247
 u-workflow.module.common.brand-safety	1.0.1	MAL-2024-1137	https://osv.dev/vulnerability/MAL-2024-1137
