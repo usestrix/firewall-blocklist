@@ -16432,7 +16432,7 @@ twitch-stream-py	1.0.9	MAL-2026-18756	https://osv.dev/vulnerability/MAL-2026-187
 twitch-stream-py	1.1.0	MAL-2026-18756	https://osv.dev/vulnerability/MAL-2026-18756
 twitch-stream-py	1.1.1	MAL-2026-18756	https://osv.dev/vulnerability/MAL-2026-18756
 twitch-stream-py	1.1.2	MAL-2026-18756	https://osv.dev/vulnerability/MAL-2026-18756
-twitch-stream.py	1.1.2	MAL-0000-twitch-stream.py	https://github.com/ossf/malicious-packages/pull/1749
+twitch-stream.py	1.1.2	MAL-0000-twitch-stream-py	https://github.com/ossf/malicious-packages/pull/1749
 twitter-request-diagnostics	1.0.0	MAL-2026-18403	https://osv.dev/vulnerability/MAL-2026-18403
 twittter	1.19.6	MAL-2024-6173	https://osv.dev/vulnerability/MAL-2024-6173
 twrap-tool	1.0.0	MAL-2026-6711	https://osv.dev/vulnerability/MAL-2026-6711
