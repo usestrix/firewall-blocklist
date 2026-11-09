@@ -98046,9 +98046,7 @@ hello-world-from-lupin-95	*	MAL-2025-22364	https://osv.dev/vulnerability/MAL-202
 hello-world-from-lupin-99	*	MAL-2025-22365	https://osv.dev/vulnerability/MAL-2025-22365
 hello-world-lupin	*	MAL-2025-22366	https://osv.dev/vulnerability/MAL-2025-22366
 hello-world-npm-demo-example	*	MAL-2026-59	https://osv.dev/vulnerability/MAL-2026-59
-hello-world-pkg-value-value-p	*	MAL-0000-ghsa-malware-baa3dbabaf943eea	https://github.com/ossf/malicious-packages/blob/f9d5ca4c3f97938c17749c37ce1720d0c6a3b87f/osv/malicious/npm/hello-world-pkg-value-value-p/MAL-0000-ghsa-malware-baa3dbabaf943eea.json
-hello-world-pkg-value-value-p	1.0.11	MAL-2026-3714	https://osv.dev/vulnerability/MAL-2026-3714
-hello-world-pkg-value-value-p	1.0.4	MAL-2026-3714	https://osv.dev/vulnerability/MAL-2026-3714
+hello-world-pkg-value-value-p	*	MAL-2026-3714	https://osv.dev/vulnerability/MAL-2026-3714
 hello-world-target	*	MAL-2025-22367	https://osv.dev/vulnerability/MAL-2025-22367
 hello244a	*	MAL-2026-5188	https://osv.dev/vulnerability/MAL-2026-5188
 hello244b	1.0.0	MAL-2026-6955	https://osv.dev/vulnerability/MAL-2026-6955
