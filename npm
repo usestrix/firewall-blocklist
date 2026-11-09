@@ -2679,6 +2679,7 @@
 @berkshirehathaway/fetlife-assets	*	MAL-2022-117	https://osv.dev/vulnerability/MAL-2022-117
 @berufungirnpm/vel-impedit-nobis	*	MAL-2025-7116	https://osv.dev/vulnerability/MAL-2025-7116
 @berush/tracking-pixel	*	MAL-2025-7118	https://osv.dev/vulnerability/MAL-2025-7118
+@bestcoolman/dev-mcp	*	MAL-0000-ghsa-malware-af28ace408ef7f1c	https://github.com/ossf/malicious-packages/blob/e37c6ca585e72dc41f98c688c4c5f28b780d8749/osv/malicious/npm/@bestcoolman/dev-mcp/MAL-0000-ghsa-malware-af28ace408ef7f1c.json
 @bestlzk/sectest	1.0.0	MAL-2026-5561	https://osv.dev/vulnerability/MAL-2026-5561
 @betelguese/yowaimohtea	*	MAL-2025-179414	https://osv.dev/vulnerability/MAL-2025-179414
 @betterbit-library/tools	2000.0.1	MAL-2024-3135	https://osv.dev/vulnerability/MAL-2024-3135
@@ -50257,6 +50258,7 @@ characteristic_unicorn_z3n	*	MAL-2025-60083	https://osv.dev/vulnerability/MAL-20
 characteristic_viper_z3n	*	MAL-2025-93513	https://osv.dev/vulnerability/MAL-2025-93513
 characteristic_whitefish-gooddev	*	MAL-2025-100342	https://osv.dev/vulnerability/MAL-2025-100342
 characteristic_woodpecker_z3n	*	MAL-2025-93514	https://osv.dev/vulnerability/MAL-2025-93514
+charape	*	MAL-0000-ghsa-malware-642f1d05c7f56e46	https://github.com/ossf/malicious-packages/blob/e37c6ca585e72dc41f98c688c4c5f28b780d8749/osv/malicious/npm/charape/MAL-0000-ghsa-malware-642f1d05c7f56e46.json
 charclass	*	MAL-2026-14557	https://osv.dev/vulnerability/MAL-2026-14557
 charcoal-ui	*	MAL-2025-16796	https://osv.dev/vulnerability/MAL-2025-16796
 chards-script	0.0.1	MAL-2024-1973	https://osv.dev/vulnerability/MAL-2024-1973
@@ -113840,6 +113842,7 @@ js-observability	*	MAL-2026-289	https://osv.dev/vulnerability/MAL-2026-289
 js-platform-editor-sdk	*	MAL-2022-4060	https://osv.dev/vulnerability/MAL-2022-4060
 js-presets	*	MAL-2025-23918	https://osv.dev/vulnerability/MAL-2025-23918
 js-prettier	*	MAL-2025-5926	https://osv.dev/vulnerability/MAL-2025-5926
+js-price-client-node	*	MAL-0000-ghsa-malware-8695ca18fd466610	https://github.com/ossf/malicious-packages/blob/e37c6ca585e72dc41f98c688c4c5f28b780d8749/osv/malicious/npm/js-price-client-node/MAL-0000-ghsa-malware-8695ca18fd466610.json
 js-price-client-node	1.0.0	MAL-2026-6503	https://osv.dev/vulnerability/MAL-2026-6503
 js-qha3	*	MAL-2025-23919	https://osv.dev/vulnerability/MAL-2025-23919
 js-regular	*	MAL-2025-23920	https://osv.dev/vulnerability/MAL-2025-23920
@@ -162402,6 +162405,7 @@ polymarket-stake-kelly-math	3.8.2	MAL-2026-10467	https://osv.dev/vulnerability/M
 polymarket-stake-kelly-math-check	3.5.2	MAL-2026-10485	https://osv.dev/vulnerability/MAL-2026-10485
 polymarket-stake-math	*	MAL-2026-6438	https://osv.dev/vulnerability/MAL-2026-6438
 polymarket-stake-maths	*	MAL-2026-6439	https://osv.dev/vulnerability/MAL-2026-6439
+polymarket-stake-mathss	*	MAL-0000-ghsa-malware-6e416dea8ae1d53c	https://github.com/ossf/malicious-packages/blob/e37c6ca585e72dc41f98c688c4c5f28b780d8749/osv/malicious/npm/polymarket-stake-mathss/MAL-0000-ghsa-malware-6e416dea8ae1d53c.json
 polymarket-stake-mathss	3.5.2	MAL-2026-13707	https://osv.dev/vulnerability/MAL-2026-13707
 polymarket-subgraph-common	*	MAL-2025-29496	https://osv.dev/vulnerability/MAL-2025-29496
 polymarket-terminal	*	MAL-2026-4214	https://osv.dev/vulnerability/MAL-2026-4214
@@ -164346,6 +164350,7 @@ prezdentkxheiw	*	MAL-2026-13833	https://osv.dev/vulnerability/MAL-2026-13833
 prh-rules	*	MAL-2025-233	https://osv.dev/vulnerability/MAL-2025-233
 price-fetch	*	MAL-2023-696	https://osv.dev/vulnerability/MAL-2023-696
 price-record	*	MAL-2023-697	https://osv.dev/vulnerability/MAL-2023-697
+price-scripping-js	*	MAL-0000-ghsa-malware-1c5e6886b9df1fd1	https://github.com/ossf/malicious-packages/blob/e37c6ca585e72dc41f98c688c4c5f28b780d8749/osv/malicious/npm/price-scripping-js/MAL-0000-ghsa-malware-1c5e6886b9df1fd1.json
 price-scripping-js	1.1.2	MAL-2026-14272	https://osv.dev/vulnerability/MAL-2026-14272
 price_wrapper	*	MAL-2025-5453	https://osv.dev/vulnerability/MAL-2025-5453
 priceeqn	*	MAL-2025-29638	https://osv.dev/vulnerability/MAL-2025-29638
