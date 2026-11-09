@@ -11813,7 +11813,7 @@ pyultra	*	MAL-2023-5800	https://osv.dev/vulnerability/MAL-2023-5800
 pyunzip	0.0.1	MAL-2024-10148	https://osv.dev/vulnerability/MAL-2024-10148
 pyunzip	0.0.2	MAL-2024-10148	https://osv.dev/vulnerability/MAL-2024-10148
 pyunzip	0.0.4	MAL-2024-10148	https://osv.dev/vulnerability/MAL-2024-10148
-pyuserfox	0.0.2	MAL-0000-pyuserfox	https://github.com/ossf/malicious-packages/pull/1749
+pyuserfox	0.0.2	MAL-0000-pyuserfox	https://github.com/ossf/malicious-packages/blob/260c4cfa62ce27da9bb98df83d910dbf5f0a7b77/osv/malicious/pypi/pyuserfox/MAL-0000-pyuserfox.json
 pyuserfox	0.0.2	MAL-2026-18754	https://osv.dev/vulnerability/MAL-2026-18754
 pyuserox	0.0.2	MAL-2026-18755	https://osv.dev/vulnerability/MAL-2026-18755
 pyutils-helper	1.2.3	MAL-2026-1281	https://osv.dev/vulnerability/MAL-2026-1281
@@ -13926,7 +13926,7 @@ shaiduwkv	912.6	MAL-2024-10461	https://osv.dev/vulnerability/MAL-2024-10461
 shan-lib	1.0.7	MAL-2026-2847	https://osv.dev/vulnerability/MAL-2026-2847
 shan-lib-poc	1.0	MAL-2026-2843	https://osv.dev/vulnerability/MAL-2026-2843
 shan-lib-poc	1.0.1	MAL-2026-2843	https://osv.dev/vulnerability/MAL-2026-2843
-shanks	0.0.4	MAL-0000-shanks	https://github.com/ossf/malicious-packages/pull/1749
+shanks	0.0.4	MAL-0000-shanks	https://github.com/ossf/malicious-packages/blob/260c4cfa62ce27da9bb98df83d910dbf5f0a7b77/osv/malicious/pypi/shanks/MAL-0000-shanks.json
 shark-e2e-bnsneo	0.2.10	MAL-2026-10912	https://osv.dev/vulnerability/MAL-2026-10912
 shark-e2e-bnsneo	0.2.9	MAL-2026-10912	https://osv.dev/vulnerability/MAL-2026-10912
 shark-e2e-bnsneo	0.3.1	MAL-2026-10912	https://osv.dev/vulnerability/MAL-2026-10912
@@ -16432,7 +16432,7 @@ twitch-stream-py	1.0.9	MAL-2026-18756	https://osv.dev/vulnerability/MAL-2026-187
 twitch-stream-py	1.1.0	MAL-2026-18756	https://osv.dev/vulnerability/MAL-2026-18756
 twitch-stream-py	1.1.1	MAL-2026-18756	https://osv.dev/vulnerability/MAL-2026-18756
 twitch-stream-py	1.1.2	MAL-2026-18756	https://osv.dev/vulnerability/MAL-2026-18756
-twitch-stream.py	1.1.2	MAL-0000-twitch-stream-py	https://github.com/ossf/malicious-packages/pull/1749
+twitch-stream.py	1.1.2	MAL-0000-twitch-stream-py	https://github.com/ossf/malicious-packages/blob/260c4cfa62ce27da9bb98df83d910dbf5f0a7b77/osv/malicious/pypi/twitch-stream-py/MAL-0000-twitch-stream-py.json
 twitter-request-diagnostics	1.0.0	MAL-2026-18403	https://osv.dev/vulnerability/MAL-2026-18403
 twittter	1.19.6	MAL-2024-6173	https://osv.dev/vulnerability/MAL-2024-6173
 twrap-tool	1.0.0	MAL-2026-6711	https://osv.dev/vulnerability/MAL-2026-6711
