@@ -3799,7 +3799,7 @@ steelproxymod	0.0.1	MAL-2026-8905	https://osv.dev/vulnerability/MAL-2026-8905
 stripe-backup	0.0.0	MAL-2025-192920	https://osv.dev/vulnerability/MAL-2025-192920
 stripe-rubocop	0.11.3	MAL-2025-192921	https://osv.dev/vulnerability/MAL-2025-192921
 stripe-server	0.2.15	MAL-2025-192922	https://osv.dev/vulnerability/MAL-2025-192922
-strutil-core	1.0.1	MAL-0000-strutil-core	https://github.com/ossf/malicious-packages/pull/1701
+strutil-core	1.0.1	MAL-0000-strutil-core	https://github.com/ossf/malicious-packages/blob/938a7b2ebc421901500b534e18fd3ce64df1aee6/osv/malicious/rubygems/strutil-core/MAL-0000-strutil-core.json
 stuck-it_up	0.1.0	MAL-2024-7031	https://osv.dev/vulnerability/MAL-2024-7031
 super-lite-hub	0.0.1	MAL-2026-15776	https://osv.dev/vulnerability/MAL-2026-15776
 super-pro-hub	0.0.1	MAL-2026-15777	https://osv.dev/vulnerability/MAL-2026-15777
