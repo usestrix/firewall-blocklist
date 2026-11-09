@@ -9400,6 +9400,7 @@
 @markvivanco/app-version-checker	1.0.2	MAL-2025-190818	https://osv.dev/vulnerability/MAL-2025-190818
 @marriott/fetlife-assets	*	MAL-2022-420	https://osv.dev/vulnerability/MAL-2022-420
 @mashov/fetlife-assets	*	MAL-2022-421	https://osv.dev/vulnerability/MAL-2022-421
+@massnerder/x402-scraper-mcp	1.0.0	MAL-0000-ossf-package-analysis-3c2359d61951f070	https://github.com/ossf/malicious-packages/blob/f127d6724fb5c545b505af247996eb3806611714/osv/malicious/npm/@massnerder/x402-scraper-mcp/MAL-0000-ossf-package-analysis-3c2359d61951f070.json
 @mastra/agent-browser	0.3.2	MAL-2026-5996	https://osv.dev/vulnerability/MAL-2026-5996
 @mastra/agent-builder	1.0.42	MAL-2026-5997	https://osv.dev/vulnerability/MAL-2026-5997
 @mastra/ai-sdk	1.4.6	MAL-2026-5939	https://osv.dev/vulnerability/MAL-2026-5939
