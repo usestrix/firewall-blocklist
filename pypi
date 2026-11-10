@@ -11968,9 +11968,7 @@ qwery-core	1.0.7	MAL-2026-1226	https://osv.dev/vulnerability/MAL-2026-1226
 qyrm-pipinject4	1.0	MAL-2026-2016	https://osv.dev/vulnerability/MAL-2026-2016
 qzc690382	1.0.0	MAL-2026-18749	https://osv.dev/vulnerability/MAL-2026-18749
 qzc690383	1.0.0	MAL-2026-18750	https://osv.dev/vulnerability/MAL-2026-18750
-qzc690384	1.0.0	MAL-0000-ossf-package-analysis-7e9e91aa206dd7dd	https://github.com/ossf/malicious-packages/blob/8ea0fc9c8eaf6db38f17515e1a0cbd2649ee0061/osv/malicious/pypi/qzc690384/MAL-0000-ossf-package-analysis-7e9e91aa206dd7dd.json
 qzc690384	1.0.0	MAL-2026-18752	https://osv.dev/vulnerability/MAL-2026-18752
-qzc690385	1.0.0	MAL-0000-ossf-package-analysis-71e0c5f67230af29	https://github.com/ossf/malicious-packages/blob/8ea0fc9c8eaf6db38f17515e1a0cbd2649ee0061/osv/malicious/pypi/qzc690385/MAL-0000-ossf-package-analysis-71e0c5f67230af29.json
 qzc690385	1.0.0	MAL-2026-18751	https://osv.dev/vulnerability/MAL-2026-18751
 qzc690385	1.0.1	MAL-2026-18751	https://osv.dev/vulnerability/MAL-2026-18751
 qzc690385	1.0.2	MAL-2026-18751	https://osv.dev/vulnerability/MAL-2026-18751
@@ -11982,7 +11980,6 @@ qzc690385	1.0.7	MAL-2026-18751	https://osv.dev/vulnerability/MAL-2026-18751
 qzc690385	1.0.8	MAL-2026-18751	https://osv.dev/vulnerability/MAL-2026-18751
 qzc690385	1.0.9	MAL-2026-18751	https://osv.dev/vulnerability/MAL-2026-18751
 qzc690385	1.1.0	MAL-2026-18751	https://osv.dev/vulnerability/MAL-2026-18751
-qzc690385	1.1.1	MAL-0000-ossf-package-analysis-f037ce8e45b9ea1a	https://github.com/ossf/malicious-packages/blob/8ea0fc9c8eaf6db38f17515e1a0cbd2649ee0061/osv/malicious/pypi/qzc690385/MAL-0000-ossf-package-analysis-f037ce8e45b9ea1a.json
 qzc690385	1.1.1	MAL-2026-18751	https://osv.dev/vulnerability/MAL-2026-18751
 qzc690385	1.1.2	MAL-2026-18751	https://osv.dev/vulnerability/MAL-2026-18751
 qzc690385	1.1.3	MAL-2026-18751	https://osv.dev/vulnerability/MAL-2026-18751
