@@ -122702,6 +122702,7 @@ level_ox_z3n	*	MAL-2025-128172	https://osv.dev/vulnerability/MAL-2025-128172
 level_python_z3n	*	MAL-2025-98786	https://osv.dev/vulnerability/MAL-2025-98786
 level_rook_z3n	*	MAL-2025-87777	https://osv.dev/vulnerability/MAL-2025-87777
 level_whippet_z3n	*	MAL-2025-128173	https://osv.dev/vulnerability/MAL-2025-128173
+leveldb-edit	*	MAL-0000-ghsa-malware-54266582f63ea6cc	https://github.com/ossf/malicious-packages/blob/ff761d90a05c7f32950c4a36ff41e36dd813af6f/osv/malicious/npm/leveldb-edit/MAL-0000-ghsa-malware-54266582f63ea6cc.json
 levelq	*	MAL-2025-25202	https://osv.dev/vulnerability/MAL-2025-25202
 levels-adonis-wezen-nodemon	*	MAL-2025-144348	https://osv.dev/vulnerability/MAL-2025-144348
 levels-alphard-meteor-meissa	*	MAL-2025-25203	https://osv.dev/vulnerability/MAL-2025-25203
