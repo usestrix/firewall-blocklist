@@ -194614,6 +194614,7 @@ supersccan	*	MAL-2025-4928	https://osv.dev/vulnerability/MAL-2025-4928
 superset-cypress	*	MAL-2023-1020	https://osv.dev/vulnerability/MAL-2023-1020
 superset-websocket	*	MAL-2022-6354	https://osv.dev/vulnerability/MAL-2022-6354
 superset.connectors.druid.models	*	MAL-2023-821	https://osv.dev/vulnerability/MAL-2023-821
+supership-scan	1.0.0	MAL-0000-ghsa-malware-0e482ca14e9c633e	https://github.com/ossf/malicious-packages/blob/e9c77b450ec53d22867b0e84ebe7ea5c9b71189c/osv/malicious/npm/supership-scan/MAL-0000-ghsa-malware-0e482ca14e9c633e.json
 supership-scan	1.0.0	MAL-2026-4675	https://osv.dev/vulnerability/MAL-2026-4675
 supersig	*	MAL-2026-13461	https://osv.dev/vulnerability/MAL-2026-13461
 supersignaturenature	*	MAL-2026-15560	https://osv.dev/vulnerability/MAL-2026-15560
@@ -205194,6 +205195,7 @@ text-crate-check	*	MAL-2026-14503	https://osv.dev/vulnerability/MAL-2026-14503
 text-helper	*	MAL-2025-36761	https://osv.dev/vulnerability/MAL-2025-36761
 text-line-parser	1.0.0	MAL-2026-11151	https://osv.dev/vulnerability/MAL-2026-11151
 text-openai-embedding-js	*	MAL-2025-46308	https://osv.dev/vulnerability/MAL-2025-46308
+text-regexer	4.3.0	MAL-0000-ghsa-malware-0d78f149572298f2	https://github.com/ossf/malicious-packages/blob/e9c77b450ec53d22867b0e84ebe7ea5c9b71189c/osv/malicious/npm/text-regexer/MAL-0000-ghsa-malware-0d78f149572298f2.json
 text-transform-plus	1.2.4	MAL-2026-15915	https://osv.dev/vulnerability/MAL-2026-15915
 text-unicode-webpack	*	MAL-2025-347	https://osv.dev/vulnerability/MAL-2025-347
 text-ytabl	*	MAL-2022-6537	https://osv.dev/vulnerability/MAL-2022-6537
@@ -208998,6 +209000,7 @@ trezor-rollout	*	MAL-2025-49053	https://osv.dev/vulnerability/MAL-2025-49053
 trezor-translations-manager	*	MAL-2022-6645	https://osv.dev/vulnerability/MAL-2022-6645
 trezor-ui-components	*	MAL-2022-6646	https://osv.dev/vulnerability/MAL-2022-6646
 trezor-wallet	*	MAL-2022-6647	https://osv.dev/vulnerability/MAL-2022-6647
+trgrip	*	MAL-0000-ghsa-malware-e75a8f179b23a874	https://github.com/ossf/malicious-packages/blob/e9c77b450ec53d22867b0e84ebe7ea5c9b71189c/osv/malicious/npm/trgrip/MAL-0000-ghsa-malware-e75a8f179b23a874.json
 trgrip	*	MAL-2026-2912	https://osv.dev/vulnerability/MAL-2026-2912
 trhiolabs	*	MAL-2025-37195	https://osv.dev/vulnerability/MAL-2025-37195
 triage-bot	1.0.1	MAL-2026-6346	https://osv.dev/vulnerability/MAL-2026-6346
@@ -210914,6 +210917,7 @@ typical_worm_z3n	*	MAL-2025-109905	https://osv.dev/vulnerability/MAL-2025-109905
 typical_xerinae_z3n	*	MAL-2025-81809	https://osv.dev/vulnerability/MAL-2025-81809
 typing-extensions	*	MAL-2025-47895	https://osv.dev/vulnerability/MAL-2025-47895
 typlesmod	*	MAL-2025-37413	https://osv.dev/vulnerability/MAL-2025-37413
+typo-crypto	*	MAL-0000-ghsa-malware-cf7e91ea854d018e	https://github.com/ossf/malicious-packages/blob/e9c77b450ec53d22867b0e84ebe7ea5c9b71189c/osv/malicious/npm/typo-crypto/MAL-0000-ghsa-malware-cf7e91ea854d018e.json
 typo-crypto	4.3.0	MAL-2026-3400	https://osv.dev/vulnerability/MAL-2026-3400
 typography-stylecss	0.7.4	MAL-2026-3776	https://osv.dev/vulnerability/MAL-2026-3776
 typohero	*	MAL-2025-37414	https://osv.dev/vulnerability/MAL-2025-37414
