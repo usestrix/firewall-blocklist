@@ -17,9 +17,9 @@ lwd-uri-util	0.1.1	MAL-2026-19058	https://osv.dev/vulnerability/MAL-2026-19058
 lwd-uri-util	0.1.2	MAL-2026-19058	https://osv.dev/vulnerability/MAL-2026-19058
 lwd-uri-util	0.1.3	MAL-2026-19058	https://osv.dev/vulnerability/MAL-2026-19058
 lwd-uri-util	0.1.4	MAL-2026-19058	https://osv.dev/vulnerability/MAL-2026-19058
-lwd-uri-util	0.1.5	MAL-0000-amazon-inspector-3d8a38ce1c03731c	https://github.com/ossf/malicious-packages/blob/1ff2e4985d4c3ad3507f18033c1d91f6f0cb49e4/osv/malicious/crates.io/lwd_uri_util/MAL-0000-amazon-inspector-3d8a38ce1c03731c.json
-lwd-uri-util	0.1.6	MAL-0000-amazon-inspector-88e054ad597970f8	https://github.com/ossf/malicious-packages/blob/1ff2e4985d4c3ad3507f18033c1d91f6f0cb49e4/osv/malicious/crates.io/lwd_uri_util/MAL-0000-amazon-inspector-88e054ad597970f8.json
-lwd-uri-util	0.1.7	MAL-0000-amazon-inspector-912a23b9591c44a2	https://github.com/ossf/malicious-packages/blob/1ff2e4985d4c3ad3507f18033c1d91f6f0cb49e4/osv/malicious/crates.io/lwd_uri_util/MAL-0000-amazon-inspector-912a23b9591c44a2.json
+lwd-uri-util	0.1.5	MAL-2026-19058	https://osv.dev/vulnerability/MAL-2026-19058
+lwd-uri-util	0.1.6	MAL-2026-19058	https://osv.dev/vulnerability/MAL-2026-19058
+lwd-uri-util	0.1.7	MAL-2026-19058	https://osv.dev/vulnerability/MAL-2026-19058
 mysten-metrics	9.0.0	MAL-2026-2958	https://osv.dev/vulnerability/MAL-2026-2958
 mysten-metrics	9.0.3	MAL-2026-2958	https://osv.dev/vulnerability/MAL-2026-2958
 proc-macro-en	*	MAL-2026-14339	https://osv.dev/vulnerability/MAL-2026-14339
