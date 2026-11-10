@@ -196502,7 +196502,9 @@ tailwind-kinetic	*	MAL-2026-18084	https://osv.dev/vulnerability/MAL-2026-18084
 tailwind-kinetics	2.0.7	MAL-0000-gatekeeper-tailwind-kinetics	https://github.com/ossf/malicious-packages/pull/1694
 tailwind-kinetix	*	MAL-2026-19078	https://osv.dev/vulnerability/MAL-2026-19078
 tailwind-kinetix	2.0.7	MAL-0000-gatekeeper-tailwind-kinetix	https://github.com/ossf/malicious-packages/pull/1694
+tailwind-lineclamp	0.4.5	MAL-0000-tailwind-lineclamp	https://github.com/ossf/malicious-packages/pull/1765
 tailwind-lines-clamp	*	MAL-2026-2655	https://osv.dev/vulnerability/MAL-2026-2655
+tailwind-lines-clamps	0.4.5	MAL-0000-tailwind-lines-clamps	https://github.com/ossf/malicious-packages/pull/1765
 tailwind-logic	*	MAL-2025-192642	https://osv.dev/vulnerability/MAL-2025-192642
 tailwind-magic	*	MAL-2025-48584	https://osv.dev/vulnerability/MAL-2025-48584
 tailwind-mainanimation	*	MAL-2026-1418	https://osv.dev/vulnerability/MAL-2026-1418
