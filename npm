@@ -3390,6 +3390,7 @@
 @commute/market-data-chartjs	2.3.1	MAL-2025-191209	https://osv.dev/vulnerability/MAL-2025-191209
 @company-internal/logger	*	MAL-2025-6028	https://osv.dev/vulnerability/MAL-2025-6028
 @concerns/i18n	*	MAL-2026-6606	https://osv.dev/vulnerability/MAL-2026-6606
+@conduitops/logview-archive	*	MAL-0000-ghsa-malware-5bc2585015d3f27a	https://github.com/ossf/malicious-packages/blob/a48eb7bba035f703164a19a6a59e8fa647afa3f1/osv/malicious/npm/@conduitops/logview-archive/MAL-0000-ghsa-malware-5bc2585015d3f27a.json
 @conduitops/logview-archive	1.0.0	MAL-2026-18183	https://osv.dev/vulnerability/MAL-2026-18183
 @conduitops/logview-archive	1.0.1	MAL-2026-18183	https://osv.dev/vulnerability/MAL-2026-18183
 @confluence-classic/confluence-authentication	*	MAL-2025-4056	https://osv.dev/vulnerability/MAL-2025-4056
