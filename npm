@@ -8436,6 +8436,8 @@
 @lekzo_dev/amprem	*	MAL-2026-17813	https://osv.dev/vulnerability/MAL-2026-17813
 @lekzox/baileys	0.0.1	MAL-2026-18678	https://osv.dev/vulnerability/MAL-2026-18678
 @lekzsync/baileys	*	MAL-0000-lekzsync-baileys	https://github.com/ossf/malicious-packages/pull/1735
+@lemili9804/mcp-weather-server	1.0.3	MAL-0000-ghsa-malware-5d30fa4c52f79899	https://github.com/ossf/malicious-packages/blob/0c8c46924683718fd508b18be9a0fc870a4fef85/osv/malicious/npm/@lemili9804/mcp-weather-server/MAL-0000-ghsa-malware-5d30fa4c52f79899.json
+@lemili9804/mcp-weather-server	1.0.6	MAL-0000-ghsa-malware-5d30fa4c52f79899	https://github.com/ossf/malicious-packages/blob/0c8c46924683718fd508b18be9a0fc870a4fef85/osv/malicious/npm/@lemili9804/mcp-weather-server/MAL-0000-ghsa-malware-5d30fa4c52f79899.json
 @lendkzn/xntaabail	*	MAL-2026-17364	https://osv.dev/vulnerability/MAL-2026-17364
 @lendxntaa/baileys	*	MAL-2026-17365	https://osv.dev/vulnerability/MAL-2026-17365
 @lensapp/eslint-config	*	MAL-2025-5835	https://osv.dev/vulnerability/MAL-2025-5835
@@ -66081,6 +66083,7 @@ dir-auto-backup	*	MAL-2025-2753	https://osv.dev/vulnerability/MAL-2025-2753
 dir-size-analyzer	*	MAL-2025-2252	https://osv.dev/vulnerability/MAL-2025-2252
 dir-tree-generator	*	MAL-2025-2754	https://osv.dev/vulnerability/MAL-2025-2754
 direct-aqua-beetle	*	MAL-2025-67764	https://osv.dev/vulnerability/MAL-2025-67764
+direct-message-receiver	*	MAL-0000-ghsa-malware-9b7463d368444663	https://github.com/ossf/malicious-packages/blob/0c8c46924683718fd508b18be9a0fc870a4fef85/osv/malicious/npm/direct-message-receiver/MAL-0000-ghsa-malware-9b7463d368444663.json
 direct-rose-primate	*	MAL-2025-67765	https://osv.dev/vulnerability/MAL-2025-67765
 direct-rose-wolf	*	MAL-2025-67766	https://osv.dev/vulnerability/MAL-2025-67766
 direct-turquoise-felidae	*	MAL-2025-67767	https://osv.dev/vulnerability/MAL-2025-67767
@@ -66277,6 +66280,7 @@ discord-antiflag	*	MAL-2022-2478	https://osv.dev/vulnerability/MAL-2022-2478
 discord-api-docs	*	MAL-2024-9095	https://osv.dev/vulnerability/MAL-2024-9095
 discord-api-ts	*	MAL-2024-7750	https://osv.dev/vulnerability/MAL-2024-7750
 discord-badge	*	MAL-2022-2479	https://osv.dev/vulnerability/MAL-2022-2479
+discord-badge-parser	*	MAL-0000-ghsa-malware-7d2a24796d3a59ca	https://github.com/ossf/malicious-packages/blob/0c8c46924683718fd508b18be9a0fc870a4fef85/osv/malicious/npm/discord-badge-parser/MAL-0000-ghsa-malware-7d2a24796d3a59ca.json
 discord-bot-3	*	MAL-2024-1344	https://osv.dev/vulnerability/MAL-2024-1344
 discord-bot-server	0.1.2	MAL-2025-190769	https://osv.dev/vulnerability/MAL-2025-190769
 discord-bots-api	*	MAL-2025-18470	https://osv.dev/vulnerability/MAL-2025-18470
@@ -66294,6 +66298,7 @@ discord-color	*	MAL-2024-1327	https://osv.dev/vulnerability/MAL-2024-1327
 discord-colors	*	MAL-2023-252	https://osv.dev/vulnerability/MAL-2023-252
 discord-csr	*	MAL-2026-11277	https://osv.dev/vulnerability/MAL-2026-11277
 discord-datas	*	MAL-2024-1361	https://osv.dev/vulnerability/MAL-2024-1361
+discord-dm-parser	*	MAL-0000-ghsa-malware-6d5e724d3b829b2d	https://github.com/ossf/malicious-packages/blob/0c8c46924683718fd508b18be9a0fc870a4fef85/osv/malicious/npm/discord-dm-parser/MAL-0000-ghsa-malware-6d5e724d3b829b2d.json
 discord-easy-commands-v2	1.0.0	MAL-2025-5077	https://osv.dev/vulnerability/MAL-2025-5077
 discord-external	*	MAL-2022-2481	https://osv.dev/vulnerability/MAL-2022-2481
 discord-fetchers	1.4.0	MAL-2024-1353	https://osv.dev/vulnerability/MAL-2024-1353
@@ -66326,6 +66331,7 @@ discord-search	0.1.2	MAL-2026-5244	https://osv.dev/vulnerability/MAL-2026-5244
 discord-search	0.1.3	MAL-2026-5244	https://osv.dev/vulnerability/MAL-2026-5244
 discord-self-user-bot	*	MAL-2022-2488	https://osv.dev/vulnerability/MAL-2022-2488
 discord-self-v11	*	MAL-2025-18474	https://osv.dev/vulnerability/MAL-2025-18474
+discord-selfbot-functions	*	MAL-0000-ghsa-malware-13f88d8e83fb3723	https://github.com/ossf/malicious-packages/blob/0c8c46924683718fd508b18be9a0fc870a4fef85/osv/malicious/npm/discord-selfbot-functions/MAL-0000-ghsa-malware-13f88d8e83fb3723.json
 discord-selfbot-tools	*	MAL-2022-2489	https://osv.dev/vulnerability/MAL-2022-2489
 discord-selfbot-v11	*	MAL-2025-18475	https://osv.dev/vulnerability/MAL-2025-18475
 discord-selfbot-v12	*	MAL-2025-18476	https://osv.dev/vulnerability/MAL-2025-18476
@@ -66342,6 +66348,7 @@ discord-spammer-webhooks	*	MAL-2023-2474	https://osv.dev/vulnerability/MAL-2023-
 discord-starter	*	MAL-2026-11280	https://osv.dev/vulnerability/MAL-2026-11280
 discord-thief	*	MAL-2022-2493	https://osv.dev/vulnerability/MAL-2022-2493
 discord-tqr	*	MAL-2026-15977	https://osv.dev/vulnerability/MAL-2026-15977
+discord-user-parser	*	MAL-0000-ghsa-malware-2766aea53528ed77	https://github.com/ossf/malicious-packages/blob/0c8c46924683718fd508b18be9a0fc870a4fef85/osv/malicious/npm/discord-user-parser/MAL-0000-ghsa-malware-2766aea53528ed77.json
 discord-utils-enhanced	*	MAL-2025-48592	https://osv.dev/vulnerability/MAL-2025-48592
 discord-v11	*	MAL-2022-2494	https://osv.dev/vulnerability/MAL-2022-2494
 discord-v11.js	*	MAL-2025-18477	https://osv.dev/vulnerability/MAL-2025-18477
@@ -66457,6 +66464,7 @@ discorddependency	*	MAL-2022-2519	https://osv.dev/vulnerability/MAL-2022-2519
 discorddevsimple	3.0.1	MAL-2024-1152	https://osv.dev/vulnerability/MAL-2024-1152
 discordi.js	*	MAL-2025-18484	https://osv.dev/vulnerability/MAL-2025-18484
 discordinfos	*	MAL-2024-1140	https://osv.dev/vulnerability/MAL-2024-1140
+discordjs-dm-parse	*	MAL-0000-ghsa-malware-a51912e26847a4be	https://github.com/ossf/malicious-packages/blob/0c8c46924683718fd508b18be9a0fc870a4fef85/osv/malicious/npm/discordjs-dm-parse/MAL-0000-ghsa-malware-a51912e26847a4be.json
 discordjs-fetcher	*	MAL-2024-155	https://osv.dev/vulnerability/MAL-2024-155
 discordjs-fetcher-v13	1.0.0	MAL-2024-2103	https://osv.dev/vulnerability/MAL-2024-2103
 discordjs-fetcher-v13	1.1.3	MAL-2024-2103	https://osv.dev/vulnerability/MAL-2024-2103
@@ -189274,6 +189282,7 @@ smooth_wombat_z3n	*	MAL-2025-108886	https://osv.dev/vulnerability/MAL-2025-10888
 smp-imsc	99.9.9	MAL-2024-8929	https://osv.dev/vulnerability/MAL-2024-8929
 smplpdo	*	MAL-2025-33466	https://osv.dev/vulnerability/MAL-2025-33466
 smrf-test	*	MAL-2025-242	https://osv.dev/vulnerability/MAL-2025-242
+sms-activate.js	*	MAL-0000-ghsa-malware-7d44b2e323198739	https://github.com/ossf/malicious-packages/blob/0c8c46924683718fd508b18be9a0fc870a4fef85/osv/malicious/npm/sms-activate.js/MAL-0000-ghsa-malware-7d44b2e323198739.json
 sms-stedin-afronden	*	MAL-2025-33467	https://osv.dev/vulnerability/MAL-2025-33467
 sms-stedin-filters	*	MAL-2025-33468	https://osv.dev/vulnerability/MAL-2025-33468
 sms-stedin-leveringsherstel	*	MAL-2025-33469	https://osv.dev/vulnerability/MAL-2025-33469
