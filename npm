@@ -5955,7 +5955,6 @@
 @erfix/frontend-logge	*	MAL-2025-48019	https://osv.dev/vulnerability/MAL-2025-48019
 @erfix/frontend-logger	*	MAL-2025-48020	https://osv.dev/vulnerability/MAL-2025-48020
 @eric-orderbuddyinfo/react-noval	*	MAL-2026-2159	https://osv.dev/vulnerability/MAL-2026-2159
-@erlanzz/baileys	*	MAL-0000-ghsa-malware-6eaa9b634619c736	https://github.com/ossf/malicious-packages/blob/e6f42b1e635937cdd8dfc150c4ecafcf86c61a73/osv/malicious/npm/@erlanzz/baileys/MAL-0000-ghsa-malware-6eaa9b634619c736.json
 @erlanzz/baileys	*	MAL-2026-17440	https://osv.dev/vulnerability/MAL-2026-17440
 @eset/fetlife-assets	*	MAL-2022-252	https://osv.dev/vulnerability/MAL-2022-252
 @esmpfrontend/ui	*	MAL-2023-36	https://osv.dev/vulnerability/MAL-2023-36
