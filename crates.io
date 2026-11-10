@@ -12,6 +12,11 @@ littest	0.3.1	MAL-2023-8429	https://osv.dev/vulnerability/MAL-2023-8429
 logs-update	*	MAL-2026-16164	https://osv.dev/vulnerability/MAL-2026-16164
 lsh	99.0.1	MAL-2026-3126	https://osv.dev/vulnerability/MAL-2026-3126
 lsh	99.1.0	MAL-2026-3126	https://osv.dev/vulnerability/MAL-2026-3126
+lwd-uri-util	0.1.0	MAL-2026-19058	https://osv.dev/vulnerability/MAL-2026-19058
+lwd-uri-util	0.1.1	MAL-2026-19058	https://osv.dev/vulnerability/MAL-2026-19058
+lwd-uri-util	0.1.2	MAL-2026-19058	https://osv.dev/vulnerability/MAL-2026-19058
+lwd-uri-util	0.1.3	MAL-2026-19058	https://osv.dev/vulnerability/MAL-2026-19058
+lwd-uri-util	0.1.4	MAL-2026-19058	https://osv.dev/vulnerability/MAL-2026-19058
 mysten-metrics	9.0.0	MAL-2026-2958	https://osv.dev/vulnerability/MAL-2026-2958
 mysten-metrics	9.0.3	MAL-2026-2958	https://osv.dev/vulnerability/MAL-2026-2958
 proc-macro-en	*	MAL-2026-14339	https://osv.dev/vulnerability/MAL-2026-14339
