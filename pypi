@@ -3193,7 +3193,9 @@ do-not-install-this-package-002	0.1.1	MAL-2026-163	https://osv.dev/vulnerability
 do-not-install-this-package-003	0.1.0	MAL-2026-1018	https://osv.dev/vulnerability/MAL-2026-1018
 do-not-install-this-package-004	0.1.0	MAL-2026-1436	https://osv.dev/vulnerability/MAL-2026-1436
 docontrol-mcp	999.0.0	MAL-2026-4811	https://osv.dev/vulnerability/MAL-2026-4811
+doctreelstm	1.0.0	MAL-0000-amazon-inspector-35691c952231d08c	https://github.com/ossf/malicious-packages/blob/67466c27cf5208a17b16b05899a38a77759067e7/osv/malicious/pypi/doctreelstm/MAL-0000-amazon-inspector-35691c952231d08c.json
 doctreelstm	1.0.0	MAL-2026-18430	https://osv.dev/vulnerability/MAL-2026-18430
+doctreelstm	10.0.0	MAL-0000-amazon-inspector-89260928fc4083b0	https://github.com/ossf/malicious-packages/blob/67466c27cf5208a17b16b05899a38a77759067e7/osv/malicious/pypi/doctreelstm/MAL-0000-amazon-inspector-89260928fc4083b0.json
 doctreelstm	10.0.0	MAL-2026-18430	https://osv.dev/vulnerability/MAL-2026-18430
 document-inference	0.0.0	MAL-2025-3742	https://osv.dev/vulnerability/MAL-2025-3742
 document-inference	0.0.1	MAL-2025-3742	https://osv.dev/vulnerability/MAL-2025-3742
@@ -4496,8 +4498,11 @@ extera-runtime	1.1.0	MAL-2026-18633	https://osv.dev/vulnerability/MAL-2026-18633
 extra-huggingface	0.4.0	MAL-2026-6489	https://osv.dev/vulnerability/MAL-2026-6489
 extracolorsv2	0.0.1	MAL-2024-5126	https://osv.dev/vulnerability/MAL-2024-5126
 extracolorsv2	0.0.2	MAL-2024-5126	https://osv.dev/vulnerability/MAL-2024-5126
+extrahtml	0.1.0	MAL-0000-amazon-inspector-858c265b6e7de992	https://github.com/ossf/malicious-packages/blob/67466c27cf5208a17b16b05899a38a77759067e7/osv/malicious/pypi/extrahtml/MAL-0000-amazon-inspector-858c265b6e7de992.json
 extrahtml	0.1.0	MAL-2026-18771	https://osv.dev/vulnerability/MAL-2026-18771
+extrahtml	0.1.1	MAL-0000-amazon-inspector-2338a0148505cc5b	https://github.com/ossf/malicious-packages/blob/67466c27cf5208a17b16b05899a38a77759067e7/osv/malicious/pypi/extrahtml/MAL-0000-amazon-inspector-2338a0148505cc5b.json
 extrahtml	0.1.1	MAL-2026-18771	https://osv.dev/vulnerability/MAL-2026-18771
+extrahtml	0.1.2	MAL-0000-amazon-inspector-b925dcc530cfe4ca	https://github.com/ossf/malicious-packages/blob/67466c27cf5208a17b16b05899a38a77759067e7/osv/malicious/pypi/extrahtml/MAL-0000-amazon-inspector-b925dcc530cfe4ca.json
 extrahtml	0.1.2	MAL-2026-18771	https://osv.dev/vulnerability/MAL-2026-18771
 extrazip	0.1.0	MAL-2025-192948	https://osv.dev/vulnerability/MAL-2025-192948
 ezauto	0.0.1	MAL-2024-10027	https://osv.dev/vulnerability/MAL-2024-10027
@@ -14837,6 +14842,7 @@ tcloud-python-sdks	1.0.0	MAL-2025-191887	https://osv.dev/vulnerability/MAL-2025-
 tcloud-python-test	1.0.0	MAL-2025-3006	https://osv.dev/vulnerability/MAL-2025-3006
 tdata-grabber	*	MAL-2026-6560	https://osv.dev/vulnerability/MAL-2026-6560
 team-bsb-bot	1.0.0	MAL-2025-2622	https://osv.dev/vulnerability/MAL-2025-2622
+teamviewer-mcp-server	0.0.1	MAL-0000-amazon-inspector-4b500a7a820f13ea	https://github.com/ossf/malicious-packages/blob/67466c27cf5208a17b16b05899a38a77759067e7/osv/malicious/pypi/teamviewer-mcp-server/MAL-0000-amazon-inspector-4b500a7a820f13ea.json
 teamviewer-mcp-server	0.0.1	MAL-2026-18705	https://osv.dev/vulnerability/MAL-2026-18705
 teensorflow	*	MAL-2023-2293	https://osv.dev/vulnerability/MAL-2023-2293
 tego-managed-agents-test	0.1.0	MAL-2026-17183	https://osv.dev/vulnerability/MAL-2026-17183
