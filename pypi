@@ -5741,8 +5741,8 @@ hultine	2.0.2	MAL-2026-624	https://osv.dev/vulnerability/MAL-2026-624
 hultine	2.0.3	MAL-2026-624	https://osv.dev/vulnerability/MAL-2026-624
 hultine	2.0.4	MAL-2026-624	https://osv.dev/vulnerability/MAL-2026-624
 huluquests	0.0.3	MAL-2024-5250	https://osv.dev/vulnerability/MAL-2024-5250
-humbility-shared	0.0.1	MAL-0000-kam193-bad6120ea5f69f85	https://github.com/ossf/malicious-packages/blob/0532a46e62711f09cc6d8c5f925ca90821660224/osv/malicious/pypi/humbility-shared/MAL-0000-kam193-bad6120ea5f69f85.json
-humbility-shared	0.0.2	MAL-0000-kam193-bad6120ea5f69f85	https://github.com/ossf/malicious-packages/blob/0532a46e62711f09cc6d8c5f925ca90821660224/osv/malicious/pypi/humbility-shared/MAL-0000-kam193-bad6120ea5f69f85.json
+humbility-shared	0.0.1	MAL-2026-19116	https://osv.dev/vulnerability/MAL-2026-19116
+humbility-shared	0.0.2	MAL-2026-19116	https://osv.dev/vulnerability/MAL-2026-19116
 humunaiodio2443	0.3.6	MAL-2025-191633	https://osv.dev/vulnerability/MAL-2025-191633
 humunculous5910	0.2.9	MAL-2025-191634	https://osv.dev/vulnerability/MAL-2025-191634
 humunculous5910	0.3.1	MAL-2025-191634	https://osv.dev/vulnerability/MAL-2025-191634
