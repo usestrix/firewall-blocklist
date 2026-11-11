@@ -847,6 +847,7 @@ aurm-python-sdk	1.1.13	MAL-2025-1967	https://osv.dev/vulnerability/MAL-2025-1967
 aurm-python-sdk	1.1.14	MAL-2025-1967	https://osv.dev/vulnerability/MAL-2025-1967
 aurm-python-sdk	1.1.15	MAL-2025-1967	https://osv.dev/vulnerability/MAL-2025-1967
 aurm-python-sdk	1.1.16	MAL-2025-1967	https://osv.dev/vulnerability/MAL-2025-1967
+aurum-pay	1.2.0	MAL-0000-aurum-pay	https://github.com/ossf/malicious-packages/pull/1770
 auth-app-streamlit	2.1.1	MAL-2026-15577	https://osv.dev/vulnerability/MAL-2026-15577
 auth0-ai-ms-agent	0.1.0	MAL-2026-2184	https://osv.dev/vulnerability/MAL-2026-2184
 auth0-open-source-template	20.1.0	MAL-2025-901	https://osv.dev/vulnerability/MAL-2025-901
