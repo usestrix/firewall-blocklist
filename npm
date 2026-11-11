@@ -142271,10 +142271,6 @@ nagix-node	2.1.6	MAL-2026-11525	https://osv.dev/vulnerability/MAL-2026-11525
 nagix-nodejs	2.1.6	MAL-2026-11526	https://osv.dev/vulnerability/MAL-2026-11526
 nagixjs	2.1.6	MAL-2026-11541	https://osv.dev/vulnerability/MAL-2026-11541
 nailette	*	MAL-2025-27061	https://osv.dev/vulnerability/MAL-2025-27061
-naileys	0.5.1	MAL-0000-naileys	https://github.com/ossf/malicious-packages/pull/1769
-naileys	0.5.2	MAL-0000-naileys	https://github.com/ossf/malicious-packages/pull/1769
-naileys	0.5.4	MAL-0000-naileys	https://github.com/ossf/malicious-packages/pull/1769
-naileys	0.5.6	MAL-0000-naileys	https://github.com/ossf/malicious-packages/pull/1769
 nails-faster-cookies	*	MAL-2025-45269	https://osv.dev/vulnerability/MAL-2025-45269
 naivbzlpcjtfqkrd	*	MAL-2025-27062	https://osv.dev/vulnerability/MAL-2025-27062
 nakajio	*	MAL-2025-69521	https://osv.dev/vulnerability/MAL-2025-69521
