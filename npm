@@ -53,7 +53,9 @@
 0maptrea	*	MAL-2022-12	https://osv.dev/vulnerability/MAL-2022-12
 0nestjs	0.0.1	MAL-2026-15908	https://osv.dev/vulnerability/MAL-2026-15908
 0o1d7m	*	MAL-2025-6976	https://osv.dev/vulnerability/MAL-2025-6976
+0sec-cli	0.28.10	MAL-0000-ghsa-malware-3c30d9423f714d96	https://github.com/ossf/malicious-packages/blob/2b79a202161a45229439b574442250b403bda97c/osv/malicious/npm/0sec-cli/MAL-0000-ghsa-malware-3c30d9423f714d96.json
 0sec-cli	0.28.10	MAL-2026-19118	https://osv.dev/vulnerability/MAL-2026-19118
+0sec-cli	0.28.9	MAL-0000-ghsa-malware-3c30d9423f714d96	https://github.com/ossf/malicious-packages/blob/2b79a202161a45229439b574442250b403bda97c/osv/malicious/npm/0sec-cli/MAL-0000-ghsa-malware-3c30d9423f714d96.json
 0supportscolor	*	MAL-2022-13	https://osv.dev/vulnerability/MAL-2022-13
 0sxokg	*	MAL-2024-9115	https://osv.dev/vulnerability/MAL-2024-9115
 0vulns-dependency-confusion-poc	1.0.0	MAL-2025-5016	https://osv.dev/vulnerability/MAL-2025-5016
@@ -47222,6 +47224,7 @@ cakesista	*	MAL-2025-16438	https://osv.dev/vulnerability/MAL-2025-16438
 cakesns	*	MAL-2025-16439	https://osv.dev/vulnerability/MAL-2025-16439
 cakwgoydmhvlnits	*	MAL-2022-1760	https://osv.dev/vulnerability/MAL-2022-1760
 cal-pretty-console	10.13.0	MAL-2025-41422	https://osv.dev/vulnerability/MAL-2025-41422
+cal-time-stamper	*	MAL-0000-ghsa-malware-72abd3a6cebf27a3	https://github.com/ossf/malicious-packages/blob/2b79a202161a45229439b574442250b403bda97c/osv/malicious/npm/cal-time-stamper/MAL-0000-ghsa-malware-72abd3a6cebf27a3.json
 cal_rd	*	MAL-2025-16440	https://osv.dev/vulnerability/MAL-2025-16440
 caladan	*	MAL-2025-16441	https://osv.dev/vulnerability/MAL-2025-16441
 caladeen	*	MAL-2025-16442	https://osv.dev/vulnerability/MAL-2025-16442
@@ -58089,6 +58092,7 @@ corraldev-activationsvc	*	MAL-2024-1623	https://osv.dev/vulnerability/MAL-2024-1
 correct-aqua-hookworm	*	MAL-2025-67501	https://osv.dev/vulnerability/MAL-2025-67501
 correct-brown-jay	*	MAL-2025-67502	https://osv.dev/vulnerability/MAL-2025-67502
 correct-brown-snipe	*	MAL-2025-67503	https://osv.dev/vulnerability/MAL-2025-67503
+correct-calc	*	MAL-0000-ghsa-malware-5acdc2d413c5631f	https://github.com/ossf/malicious-packages/blob/2b79a202161a45229439b574442250b403bda97c/osv/malicious/npm/correct-calc/MAL-0000-ghsa-malware-5acdc2d413c5631f.json
 correct-copper-galliform	*	MAL-2025-67504	https://osv.dev/vulnerability/MAL-2025-67504
 correct-eager-aside	*	MAL-2025-43898	https://osv.dev/vulnerability/MAL-2025-43898
 correct-silver-landfowl	*	MAL-2025-67505	https://osv.dev/vulnerability/MAL-2025-67505
