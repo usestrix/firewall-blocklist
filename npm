@@ -171533,7 +171533,7 @@ raid-shadow-legends-hack808	*	MAL-2025-31559	https://osv.dev/vulnerability/MAL-2
 raid-shadow-legends-promo-codes286	*	MAL-2025-31560	https://osv.dev/vulnerability/MAL-2025-31560
 raid-shadow-legends-promo-codes288	*	MAL-2025-45752	https://osv.dev/vulnerability/MAL-2025-45752
 raidbot	*	MAL-2025-31561	https://osv.dev/vulnerability/MAL-2025-31561
-raiden-baileys	*	MAL-0000-raiden-baileys	https://github.com/ossf/malicious-packages/pull/1733
+raiden-baileys	*	MAL-0000-raiden-baileys	https://github.com/ossf/malicious-packages/blob/102775b05a50926e7964b1250809a95b051c1da8/osv/malicious/npm/raiden-baileys/MAL-0000-raiden-baileys.json
 railinfo	*	MAL-2025-31562	https://osv.dev/vulnerability/MAL-2025-31562
 rails-bigint-primarykey	*	MAL-2025-31563	https://osv.dev/vulnerability/MAL-2025-31563
 rails-dom-testing	*	MAL-2025-48039	https://osv.dev/vulnerability/MAL-2025-48039
