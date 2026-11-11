@@ -11079,6 +11079,7 @@
 @ncurran/sandbox-recon-sys-6a3f	*	MAL-2026-6109	https://osv.dev/vulnerability/MAL-2026-6109
 @ncurran/sandbox-recon-uac-4e7c	*	MAL-2026-6110	https://osv.dev/vulnerability/MAL-2026-6110
 @ndikafath/baileys	1.0.0	MAL-2026-18867	https://osv.dev/vulnerability/MAL-2026-18867
+@ndikagantengg/baileys	*	MAL-0000-ndikagantengg-baileys	https://github.com/ossf/malicious-packages/pull/1768
 @nebula.js/cli	7.1.2	MAL-2026-11565	https://osv.dev/vulnerability/MAL-2026-11565
 @nebula.js/cli-build	7.1.2	MAL-2026-11566	https://osv.dev/vulnerability/MAL-2026-11566
 @nebula.js/cli-sense	7.1.2	MAL-2026-11567	https://osv.dev/vulnerability/MAL-2026-11567
@@ -48408,6 +48409,7 @@ carbon-monorepo	20.1.1	MAL-2026-14229	https://osv.dev/vulnerability/MAL-2026-142
 carbon-sageone	*	MAL-2023-160	https://osv.dev/vulnerability/MAL-2023-160
 carbonara-notthedevs	*	MAL-2025-100263	https://osv.dev/vulnerability/MAL-2025-100263
 carbonite-internal	99.9.0	MAL-2026-3352	https://osv.dev/vulnerability/MAL-2026-3352
+carboniteapp	*	MAL-0000-carboniteapp	https://github.com/ossf/malicious-packages/pull/1767
 carcandofilex	*	MAL-2025-3547	https://osv.dev/vulnerability/MAL-2025-3547
 card-present-integration	*	MAL-2025-48355	https://osv.dev/vulnerability/MAL-2025-48355
 card3d	*	MAL-2026-15972	https://osv.dev/vulnerability/MAL-2026-15972
