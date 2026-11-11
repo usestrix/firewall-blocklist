@@ -15369,6 +15369,7 @@
 @solana-launchpads/sdk	*	MAL-2026-1939	https://osv.dev/vulnerability/MAL-2026-1939
 @solana-libs/check-balance	*	MAL-2025-9330	https://osv.dev/vulnerability/MAL-2025-9330
 @solana-sdk/web3.js	*	MAL-2026-11227	https://osv.dev/vulnerability/MAL-2026-11227
+@solana-trade/core	*	MAL-0000-ghsa-malware-f9176979cfaf900e	https://github.com/ossf/malicious-packages/blob/36fc2677adfcf67c980f747d76f179452d05d6bb/osv/malicious/npm/@solana-trade/core/MAL-0000-ghsa-malware-f9176979cfaf900e.json
 @solana-utils/common	*	MAL-2026-11228	https://osv.dev/vulnerability/MAL-2026-11228
 @solana/web3.js	>=1.95.6	MAL-2024-11183	https://osv.dev/vulnerability/MAL-2024-11183
 @solanas-libs/check-balance	*	MAL-2025-9331	https://osv.dev/vulnerability/MAL-2025-9331
@@ -50087,6 +50088,7 @@ chalkdev	1.0.0	MAL-2026-10583	https://osv.dev/vulnerability/MAL-2026-10583
 chalkdevx	2.0.0	MAL-2026-10584	https://osv.dev/vulnerability/MAL-2026-10584
 chalki-pretty	1.0.0	MAL-2026-6829	https://osv.dev/vulnerability/MAL-2026-6829
 chalkk	*	MAL-2025-16776	https://osv.dev/vulnerability/MAL-2025-16776
+chalks-log	*	MAL-0000-ghsa-malware-0989c6b31e999888	https://github.com/ossf/malicious-packages/blob/36fc2677adfcf67c980f747d76f179452d05d6bb/osv/malicious/npm/chalks-log/MAL-0000-ghsa-malware-0989c6b31e999888.json
 chalks-logger	1.0.9	MAL-2026-6811	https://osv.dev/vulnerability/MAL-2026-6811
 chalks-logger	1.1.0	MAL-2026-6811	https://osv.dev/vulnerability/MAL-2026-6811
 chalks-logger	1.1.1	MAL-2026-6811	https://osv.dev/vulnerability/MAL-2026-6811
@@ -115959,6 +115961,7 @@ kbezvoastwprqmdu	*	MAL-2025-24358	https://osv.dev/vulnerability/MAL-2025-24358
 kbfnqgrwpkumvcyi	*	MAL-2025-24359	https://osv.dev/vulnerability/MAL-2025-24359
 kbgfvtxykesdiojq	*	MAL-2022-4123	https://osv.dev/vulnerability/MAL-2022-4123
 kbkjyqzmfxuhodnt	*	MAL-2025-24360	https://osv.dev/vulnerability/MAL-2025-24360
+kbmathlessons	*	MAL-0000-ghsa-malware-d751bbc7fdf5dfe2	https://github.com/ossf/malicious-packages/blob/36fc2677adfcf67c980f747d76f179452d05d6bb/osv/malicious/npm/kbmathlessons/MAL-0000-ghsa-malware-d751bbc7fdf5dfe2.json
 kbn-analytics	*	MAL-2022-4124	https://osv.dev/vulnerability/MAL-2022-4124
 kbn-i18n	*	MAL-2022-4125	https://osv.dev/vulnerability/MAL-2022-4125
 kbn-ui-shared-deps	*	MAL-2022-4126	https://osv.dev/vulnerability/MAL-2022-4126
@@ -164302,6 +164305,7 @@ prettier_v1	*	MAL-2026-5845	https://osv.dev/vulnerability/MAL-2026-5845
 prettier_v2	*	MAL-2026-5846	https://osv.dev/vulnerability/MAL-2026-5846
 prettierjs	*	MAL-2025-29634	https://osv.dev/vulnerability/MAL-2025-29634
 prettify-error	*	MAL-2025-29635	https://osv.dev/vulnerability/MAL-2025-29635
+prettlog	*	MAL-0000-ghsa-malware-c9360f4fd522539a	https://github.com/ossf/malicious-packages/blob/36fc2677adfcf67c980f747d76f179452d05d6bb/osv/malicious/npm/prettlog/MAL-0000-ghsa-malware-c9360f4fd522539a.json
 pretty-amaranth-leopon	*	MAL-2025-69990	https://osv.dev/vulnerability/MAL-2025-69990
 pretty-amethyst-koala	*	MAL-2025-69991	https://osv.dev/vulnerability/MAL-2025-69991
 pretty-array	*	MAL-2023-8091	https://osv.dev/vulnerability/MAL-2023-8091
@@ -202371,6 +202375,7 @@ teriu-txcui-pix	*	MAL-2025-179027	https://osv.dev/vulnerability/MAL-2025-179027
 teriyaki-notthedevs	*	MAL-2025-109552	https://osv.dev/vulnerability/MAL-2025-109552
 term-paper-warehouse	*	MAL-2025-34721	https://osv.dev/vulnerability/MAL-2025-34721
 termacase	*	MAL-2025-34722	https://osv.dev/vulnerability/MAL-2025-34722
+termchalk	*	MAL-0000-ghsa-malware-b41f585c4e82520c	https://github.com/ossf/malicious-packages/blob/36fc2677adfcf67c980f747d76f179452d05d6bb/osv/malicious/npm/termchalk/MAL-0000-ghsa-malware-b41f585c4e82520c.json
 terminal-formatter	*	MAL-2026-2911	https://osv.dev/vulnerability/MAL-2026-2911
 terminal-kleur	*	MAL-2025-48950	https://osv.dev/vulnerability/MAL-2025-48950
 terminal-logger-utils	*	MAL-2026-4198	https://osv.dev/vulnerability/MAL-2026-4198
