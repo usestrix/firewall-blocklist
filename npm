@@ -230068,7 +230068,7 @@ xrunt-cl	*	MAL-2022-7298	https://osv.dev/vulnerability/MAL-2022-7298
 xs-js-ipld-dag-cbor	*	MAL-2025-39993	https://osv.dev/vulnerability/MAL-2025-39993
 xs2aframe	*	MAL-2024-9262	https://osv.dev/vulnerability/MAL-2024-9262
 xsalefter	*	MAL-2025-39994	https://osv.dev/vulnerability/MAL-2025-39994
-xsdsh-purge-next	1.0.0	MAL-0000-ghsa-malware-b0e622ecd67d0424	https://github.com/ossf/malicious-packages/blob/5244efd9f430409bdb3c388a029d0b94d4a962f7/osv/malicious/npm/xsdsh-purge-next/MAL-0000-ghsa-malware-b0e622ecd67d0424.json
+xsdsh-purge-next	1.0.0	MAL-2026-19117	https://osv.dev/vulnerability/MAL-2026-19117
 xsfateszt	*	MAL-2025-39995	https://osv.dev/vulnerability/MAL-2025-39995
 xshe_0h9hb	*	MAL-2023-977	https://osv.dev/vulnerability/MAL-2023-977
 xshvczomkjpwyalf	*	MAL-2022-7299	https://osv.dev/vulnerability/MAL-2022-7299
