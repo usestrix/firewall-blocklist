@@ -38871,6 +38871,7 @@ baidu-tims	*	MAL-2025-48590	https://osv.dev/vulnerability/MAL-2025-48590
 baidutop	*	MAL-2025-15337	https://osv.dev/vulnerability/MAL-2025-15337
 baileeys	1.0.0	MAL-2026-18938	https://osv.dev/vulnerability/MAL-2026-18938
 baileys-akiko	1.0.1	MAL-2026-18939	https://osv.dev/vulnerability/MAL-2026-18939
+baileys-clean	7.3.2	MAL-0000-baileys-clean	https://github.com/ossf/malicious-packages/pull/1769
 baileys-cleaner	*	MAL-2025-5804	https://osv.dev/vulnerability/MAL-2025-5804
 baileys-dgxeon	1.0.0	MAL-2025-806	https://osv.dev/vulnerability/MAL-2025-806
 baileys-dtz	*	MAL-2026-672	https://osv.dev/vulnerability/MAL-2026-672
