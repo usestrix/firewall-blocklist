@@ -106825,7 +106825,6 @@ internal-plugin-telemetry-backend	*	MAL-2025-6166	https://osv.dev/vulnerability/
 internal-random	>=16.0.0	MAL-2025-6732	https://osv.dev/vulnerability/MAL-2025-6732
 internal-renderers	*	MAL-2026-18484	https://osv.dev/vulnerability/MAL-2026-18484
 internal-renderers	1.0.0	MAL-0000-gatekeeper-internal-renderers	https://github.com/ossf/malicious-packages/pull/1694
-internal-renderers	10.0.0	MAL-0000-amazon-inspector-2d5f9a7272f857bd	https://github.com/ossf/malicious-packages/blob/759ab4b314b5e446ef435499ddddd1f555201a91/osv/malicious/npm/internal-renderers/MAL-0000-amazon-inspector-2d5f9a7272f857bd.json
 internal-renderers	10.0.0	MAL-0000-gatekeeper-internal-renderers	https://github.com/ossf/malicious-packages/pull/1694
 internal-runtime	10.0.1	MAL-2025-48846	https://osv.dev/vulnerability/MAL-2025-48846
 internal-runtime-test	10.0.1	MAL-2025-48847	https://osv.dev/vulnerability/MAL-2025-48847
