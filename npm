@@ -146199,6 +146199,7 @@ nittymail	*	MAL-2025-27566	https://osv.dev/vulnerability/MAL-2025-27566
 nixientp	*	MAL-2025-27567	https://osv.dev/vulnerability/MAL-2025-27567
 nixpsweb	*	MAL-2022-4858	https://osv.dev/vulnerability/MAL-2022-4858
 nizzybase32	1.0.0	MAL-2026-6450	https://osv.dev/vulnerability/MAL-2026-6450
+nj-logger	*	MAL-0000-ghsa-malware-1d4672fb4d84dc03	https://github.com/ossf/malicious-packages/blob/39c3585b2e4871785683aeed9cda01a10d71afc4/osv/malicious/npm/nj-logger/MAL-0000-ghsa-malware-1d4672fb4d84dc03.json
 nj-logger	*	MAL-2026-2907	https://osv.dev/vulnerability/MAL-2026-2907
 njip	*	MAL-2022-4859	https://osv.dev/vulnerability/MAL-2022-4859
 njplgwrv2ify8ho5m4ya3qnbszxc31jd	*	MAL-2025-27568	https://osv.dev/vulnerability/MAL-2025-27568
@@ -175513,6 +175514,7 @@ rewadmin	*	MAL-2025-32183	https://osv.dev/vulnerability/MAL-2025-32183
 rewards-mfe	*	MAL-2024-7984	https://osv.dev/vulnerability/MAL-2024-7984
 rewindbbs	*	MAL-2025-32184	https://osv.dev/vulnerability/MAL-2025-32184
 rex-design	*	MAL-2022-5776	https://osv.dev/vulnerability/MAL-2022-5776
+rex-react-diag-tools-v1	*	MAL-0000-ghsa-malware-aed5165f50b2beb5	https://github.com/ossf/malicious-packages/blob/39c3585b2e4871785683aeed9cda01a10d71afc4/osv/malicious/npm/rex-react-diag-tools-v1/MAL-0000-ghsa-malware-aed5165f50b2beb5.json
 rexalord	*	MAL-2025-32185	https://osv.dev/vulnerability/MAL-2025-32185
 rexchan2139_tools	*	MAL-2025-32186	https://osv.dev/vulnerability/MAL-2025-32186
 rexivynfjbdlpakm	*	MAL-2022-5777	https://osv.dev/vulnerability/MAL-2022-5777
