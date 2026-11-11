@@ -18535,6 +18535,7 @@
 @xyuxu/i18never	*	MAL-2025-192617	https://osv.dev/vulnerability/MAL-2025-192617
 @xzvbailss/baileys	1.0.0	MAL-0000-xzvbailss-baileys	https://github.com/ossf/malicious-packages/pull/1769
 @xzvbailss/baileys	5.0.0	MAL-0000-xzvbailss-baileys	https://github.com/ossf/malicious-packages/pull/1769
+@xzvbailss/baileys	6.0.0	MAL-0000-xzvbailss-baileys	https://github.com/ossf/malicious-packages/pull/1769
 @y9c-login/chat-bot	20.0.0	MAL-2024-1977	https://osv.dev/vulnerability/MAL-2024-1977
 @y9d-adobe/analytics	20.0.0	MAL-2024-1753	https://osv.dev/vulnerability/MAL-2024-1753
 @yahoo-engadget/i13n	*	MAL-2025-4916	https://osv.dev/vulnerability/MAL-2025-4916
