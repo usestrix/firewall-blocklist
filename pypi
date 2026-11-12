@@ -89,6 +89,7 @@ acme-widget-layout-utils	0.0.3	MAL-2026-5545	https://osv.dev/vulnerability/MAL-2
 acoustichub	0.1.0	MAL-2026-18155	https://osv.dev/vulnerability/MAL-2026-18155
 acousticpack	0.1.0	MAL-2026-18152	https://osv.dev/vulnerability/MAL-2026-18152
 acpi-tables	1.0.9	MAL-2026-876	https://osv.dev/vulnerability/MAL-2026-876
+acustoviasr	0.1.0	MAL-0000-kam193-1b7333093822a9bc	https://github.com/ossf/malicious-packages/blob/317686745fab1bed468ff511c0de66b3043a87ef/osv/malicious/pypi/acustoviasr/MAL-0000-kam193-1b7333093822a9bc.json
 adad	*	MAL-2023-2476	https://osv.dev/vulnerability/MAL-2023-2476
 adafruit-display-text	1.0.0	MAL-2024-12187	https://osv.dev/vulnerability/MAL-2024-12187
 adafruit-imageload	1.0.0	MAL-2024-9935	https://osv.dev/vulnerability/MAL-2024-9935
