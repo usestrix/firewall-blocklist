@@ -3182,7 +3182,7 @@ pdflahueca1	0.0.1	MAL-2026-8422	https://osv.dev/vulnerability/MAL-2026-8422
 pdfmeno1	0.0.1	MAL-2026-8423	https://osv.dev/vulnerability/MAL-2026-8423
 pdfpalais1	0.0.1	MAL-2026-8424	https://osv.dev/vulnerability/MAL-2026-8424
 pdftoilet1	0.0.1	MAL-2026-8425	https://osv.dev/vulnerability/MAL-2026-8425
-pentest-copilot	1.0.1	MAL-0000-ossf-package-analysis-8ed8a5f6d36e52a0	https://github.com/ossf/malicious-packages/blob/d4a06924a5cdb363b950ca468e6437d1c947902e/osv/malicious/rubygems/pentest-copilot/MAL-0000-ossf-package-analysis-8ed8a5f6d36e52a0.json
+pentest-copilot	1.0.1	MAL-2026-19177	https://osv.dev/vulnerability/MAL-2026-19177
 perp-funding-rates	0.9.1	MAL-2026-17793	https://osv.dev/vulnerability/MAL-2026-17793
 pg_result_init	2.0.9	MAL-2025-191667	https://osv.dev/vulnerability/MAL-2025-191667
 piko-clean-hub	0.0.1	MAL-2026-15764	https://osv.dev/vulnerability/MAL-2026-15764
