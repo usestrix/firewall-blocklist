@@ -2770,9 +2770,9 @@ dash-grid-normalizer	0.0.2	MAL-2026-5725	https://osv.dev/vulnerability/MAL-2026-
 dash-grid-normalizer	0.0.3	MAL-2026-5725	https://osv.dev/vulnerability/MAL-2026-5725
 dash-grid-normalizer	0.0.4	MAL-2026-5725	https://osv.dev/vulnerability/MAL-2026-5725
 dash-grid-normalizer	0.0.5	MAL-2026-5725	https://osv.dev/vulnerability/MAL-2026-5725
-dashloom	1.0.0	MAL-0000-kam193-ba0285d49d46cd93	https://github.com/ossf/malicious-packages/blob/c910687fbd8654a78fddf859cf6f84f88903b6f9/osv/malicious/pypi/dashloom/MAL-0000-kam193-ba0285d49d46cd93.json
-dashloom	1.1.0	MAL-0000-kam193-ba0285d49d46cd93	https://github.com/ossf/malicious-packages/blob/c910687fbd8654a78fddf859cf6f84f88903b6f9/osv/malicious/pypi/dashloom/MAL-0000-kam193-ba0285d49d46cd93.json
-dashloom	1.1.1	MAL-0000-kam193-ba0285d49d46cd93	https://github.com/ossf/malicious-packages/blob/c910687fbd8654a78fddf859cf6f84f88903b6f9/osv/malicious/pypi/dashloom/MAL-0000-kam193-ba0285d49d46cd93.json
+dashloom	1.0.0	MAL-2026-19202	https://osv.dev/vulnerability/MAL-2026-19202
+dashloom	1.1.0	MAL-2026-19202	https://osv.dev/vulnerability/MAL-2026-19202
+dashloom	1.1.1	MAL-2026-19202	https://osv.dev/vulnerability/MAL-2026-19202
 data-harvester	0.3.1	MAL-2026-10191	https://osv.dev/vulnerability/MAL-2026-10191
 data-parser-utils	2.4.1	MAL-2026-10780	https://osv.dev/vulnerability/MAL-2026-10780
 data-pipeline-check	0.1.0	MAL-2026-4271	https://osv.dev/vulnerability/MAL-2026-4271
