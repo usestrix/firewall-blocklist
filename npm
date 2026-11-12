@@ -15910,7 +15910,6 @@
 @swiggy-private/js-utils	99999999.99.9999	MAL-2024-12168	https://osv.dev/vulnerability/MAL-2024-12168
 @swiggy-private/js-utils	99999999.999.9999	MAL-2024-12168	https://osv.dev/vulnerability/MAL-2024-12168
 @sxm-content-creators/tools-ds	*	MAL-2026-18414	https://osv.dev/vulnerability/MAL-2026-18414
-@sxm-content-creators/tools-ds	1.0.1	MAL-0000-amazon-inspector-8b05391eed5aeb5b	https://github.com/ossf/malicious-packages/blob/7ff40197de96d039c315f7865eece02c47ab6255/osv/malicious/npm/@sxm-content-creators/tools-ds/MAL-0000-amazon-inspector-8b05391eed5aeb5b.json
 @sxm-web/client-sdk-core	*	MAL-2026-18319	https://osv.dev/vulnerability/MAL-2026-18319
 @sxmp/detector	*	MAL-2024-1336	https://osv.dev/vulnerability/MAL-2024-1336
 @sxmp/logging	*	MAL-2024-1337	https://osv.dev/vulnerability/MAL-2024-1337
