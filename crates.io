@@ -5,8 +5,10 @@ append-only-vec	0.1.9	MAL-2026-14333	https://osv.dev/vulnerability/MAL-2026-1433
 arone	*	MAL-2026-14334	https://osv.dev/vulnerability/MAL-2026-14334
 aronenao	*	MAL-2026-14335	https://osv.dev/vulnerability/MAL-2026-14335
 arrayref	0.3.10	MAL-2026-14336	https://osv.dev/vulnerability/MAL-2026-14336
+basek	0.1.0	MAL-0000-amazon-inspector-f82b1f071f557e9f	https://github.com/ossf/malicious-packages/blob/f75d26ebd0903cb8174658bb03bb6de4517c3755/osv/malicious/crates.io/basek/MAL-0000-amazon-inspector-f82b1f071f557e9f.json
 env-test-guard	0.2.0	MAL-2026-18776	https://osv.dev/vulnerability/MAL-2026-18776
 env-test-guard	0.3.0	MAL-2026-18776	https://osv.dev/vulnerability/MAL-2026-18776
+hesk	0.1.0	MAL-0000-amazon-inspector-83716a1c499cecbd	https://github.com/ossf/malicious-packages/blob/f75d26ebd0903cb8174658bb03bb6de4517c3755/osv/malicious/crates.io/hesk/MAL-0000-amazon-inspector-83716a1c499cecbd.json
 internment	0.8.7	MAL-2026-14337	https://osv.dev/vulnerability/MAL-2026-14337
 littest	0.3.1	MAL-2023-8429	https://osv.dev/vulnerability/MAL-2023-8429
 logs-update	*	MAL-2026-16164	https://osv.dev/vulnerability/MAL-2026-16164
