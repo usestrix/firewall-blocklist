@@ -4990,7 +4990,9 @@ gemini-analyzer	1.0.8	MAL-2026-3347	https://osv.dev/vulnerability/MAL-2026-3347
 gemini-analyzer	1.0.9	MAL-2026-3347	https://osv.dev/vulnerability/MAL-2026-3347
 gen-agent-fingerprint	0.1	MAL-2024-5171	https://osv.dev/vulnerability/MAL-2024-5171
 gen-user-random-agent	1.7.0	MAL-2024-11599	https://osv.dev/vulnerability/MAL-2024-11599
+genblaze-atlascloud	0.1.0	MAL-0000-amazon-inspector-6279c5d7cd957549	https://github.com/ossf/malicious-packages/blob/9560c82cc5edbd8c14c714e3a3bbc1dccbebd090/osv/malicious/pypi/genblaze-atlascloud/MAL-0000-amazon-inspector-6279c5d7cd957549.json
 genblaze-atlascloud	0.1.0	MAL-2026-18747	https://osv.dev/vulnerability/MAL-2026-18747
+genblaze-fal	0.1.0	MAL-0000-amazon-inspector-8a271155be7da40c	https://github.com/ossf/malicious-packages/blob/9560c82cc5edbd8c14c714e3a3bbc1dccbebd090/osv/malicious/pypi/genblaze-fal/MAL-0000-amazon-inspector-8a271155be7da40c.json
 genblaze-fal	0.1.0	MAL-2026-18746	https://osv.dev/vulnerability/MAL-2026-18746
 generatellm	2.21	MAL-2026-5773	https://osv.dev/vulnerability/MAL-2026-5773
 generatellm	2.22	MAL-2026-5773	https://osv.dev/vulnerability/MAL-2026-5773
@@ -5743,7 +5745,9 @@ hultine	2.0.2	MAL-2026-624	https://osv.dev/vulnerability/MAL-2026-624
 hultine	2.0.3	MAL-2026-624	https://osv.dev/vulnerability/MAL-2026-624
 hultine	2.0.4	MAL-2026-624	https://osv.dev/vulnerability/MAL-2026-624
 huluquests	0.0.3	MAL-2024-5250	https://osv.dev/vulnerability/MAL-2024-5250
+humbility-shared	0.0.1	MAL-0000-amazon-inspector-62ef2123979b9b05	https://github.com/ossf/malicious-packages/blob/9560c82cc5edbd8c14c714e3a3bbc1dccbebd090/osv/malicious/pypi/humbility-shared/MAL-0000-amazon-inspector-62ef2123979b9b05.json
 humbility-shared	0.0.1	MAL-2026-19116	https://osv.dev/vulnerability/MAL-2026-19116
+humbility-shared	0.0.2	MAL-0000-amazon-inspector-5a497af9223d888f	https://github.com/ossf/malicious-packages/blob/9560c82cc5edbd8c14c714e3a3bbc1dccbebd090/osv/malicious/pypi/humbility-shared/MAL-0000-amazon-inspector-5a497af9223d888f.json
 humbility-shared	0.0.2	MAL-2026-19116	https://osv.dev/vulnerability/MAL-2026-19116
 humunaiodio2443	0.3.6	MAL-2025-191633	https://osv.dev/vulnerability/MAL-2025-191633
 humunculous5910	0.2.9	MAL-2025-191634	https://osv.dev/vulnerability/MAL-2025-191634
@@ -6033,6 +6037,7 @@ ipllow	*	MAL-2023-1883	https://osv.dev/vulnerability/MAL-2023-1883
 irasim	99.6	MAL-2024-10824	https://osv.dev/vulnerability/MAL-2024-10824
 ironic-secureboot-driver	31463.0.0	MAL-2025-41692	https://osv.dev/vulnerability/MAL-2025-41692
 is-it-ai	0.1.0	MAL-2026-18426	https://osv.dev/vulnerability/MAL-2026-18426
+is-it-ai	0.1.1	MAL-0000-amazon-inspector-6c41881d21c4cb04	https://github.com/ossf/malicious-packages/blob/9560c82cc5edbd8c14c714e3a3bbc1dccbebd090/osv/malicious/pypi/is-it-ai/MAL-0000-amazon-inspector-6c41881d21c4cb04.json
 is-it-ai	0.1.1	MAL-2026-18426	https://osv.dev/vulnerability/MAL-2026-18426
 is-it-ai	0.1.3	MAL-2026-18426	https://osv.dev/vulnerability/MAL-2026-18426
 is-number-object	1.0.8	MAL-2025-6526	https://osv.dev/vulnerability/MAL-2025-6526
@@ -7443,9 +7448,13 @@ logax	5.2	MAL-2025-3450	https://osv.dev/vulnerability/MAL-2025-3450
 logax	5.3	MAL-2025-3450	https://osv.dev/vulnerability/MAL-2025-3450
 logax	5.4	MAL-2025-3450	https://osv.dev/vulnerability/MAL-2025-3450
 logax	8.3	MAL-2025-3450	https://osv.dev/vulnerability/MAL-2025-3450
+logger-libs	0.4.1	MAL-0000-amazon-inspector-5298529aa92672f1	https://github.com/ossf/malicious-packages/blob/9560c82cc5edbd8c14c714e3a3bbc1dccbebd090/osv/malicious/pypi/logger-libs/MAL-0000-amazon-inspector-5298529aa92672f1.json
 logger-libs	0.4.1	MAL-2026-18778	https://osv.dev/vulnerability/MAL-2026-18778
+logger-libs	0.4.2	MAL-0000-amazon-inspector-366335a9d3428c5a	https://github.com/ossf/malicious-packages/blob/9560c82cc5edbd8c14c714e3a3bbc1dccbebd090/osv/malicious/pypi/logger-libs/MAL-0000-amazon-inspector-366335a9d3428c5a.json
 logger-libs	0.4.2	MAL-2026-18778	https://osv.dev/vulnerability/MAL-2026-18778
+logger-libs	0.4.3	MAL-0000-amazon-inspector-b1f9a82f259e7f5d	https://github.com/ossf/malicious-packages/blob/9560c82cc5edbd8c14c714e3a3bbc1dccbebd090/osv/malicious/pypi/logger-libs/MAL-0000-amazon-inspector-b1f9a82f259e7f5d.json
 logger-libs	0.4.3	MAL-2026-18778	https://osv.dev/vulnerability/MAL-2026-18778
+logger-libs	0.4.5	MAL-0000-amazon-inspector-4e4a0dc5159ce15e	https://github.com/ossf/malicious-packages/blob/9560c82cc5edbd8c14c714e3a3bbc1dccbebd090/osv/malicious/pypi/logger-libs/MAL-0000-amazon-inspector-4e4a0dc5159ce15e.json
 logger-libs	0.4.5	MAL-2026-18778	https://osv.dev/vulnerability/MAL-2026-18778
 logger-libs	0.4.6	MAL-2026-18778	https://osv.dev/vulnerability/MAL-2026-18778
 loggerex	0.7.4	MAL-2025-191782	https://osv.dev/vulnerability/MAL-2025-191782
@@ -8989,6 +8998,7 @@ parser-scrapper	7.2	MAL-2024-5457	https://osv.dev/vulnerability/MAL-2024-5457
 parseweb	1	MAL-2024-5458	https://osv.dev/vulnerability/MAL-2024-5458
 parseweb	2	MAL-2024-5458	https://osv.dev/vulnerability/MAL-2024-5458
 parseweb	3	MAL-2024-5458	https://osv.dev/vulnerability/MAL-2024-5458
+parseyaml	1.2.0	MAL-0000-amazon-inspector-42b56cbea8e7b46f	https://github.com/ossf/malicious-packages/blob/9560c82cc5edbd8c14c714e3a3bbc1dccbebd090/osv/malicious/pypi/parseyaml/MAL-0000-amazon-inspector-42b56cbea8e7b46f.json
 parseyaml	1.2.0	MAL-2026-18772	https://osv.dev/vulnerability/MAL-2026-18772
 parsimonius	0.10.0	MAL-2026-5151	https://osv.dev/vulnerability/MAL-2026-5151
 parsimonius	0.11.0	MAL-2026-5151	https://osv.dev/vulnerability/MAL-2026-5151
@@ -9581,6 +9591,7 @@ prime-math	1.0.0	MAL-2025-952	https://osv.dev/vulnerability/MAL-2025-952
 print-django	3.9.10	MAL-2023-1387	https://osv.dev/vulnerability/MAL-2023-1387
 print-pip	13.9.3	MAL-2023-1388	https://osv.dev/vulnerability/MAL-2023-1388
 printrables	1.0.1	MAL-2026-951	https://osv.dev/vulnerability/MAL-2026-951
+privacypass-py	0.1.100	MAL-0000-amazon-inspector-43b30cafa942acc3	https://github.com/ossf/malicious-packages/blob/9560c82cc5edbd8c14c714e3a3bbc1dccbebd090/osv/malicious/pypi/privacypass-py/MAL-0000-amazon-inspector-43b30cafa942acc3.json
 privacypass-py	0.1.100	MAL-2026-18435	https://osv.dev/vulnerability/MAL-2026-18435
 privacypass-py	0.1.101	MAL-2026-18435	https://osv.dev/vulnerability/MAL-2026-18435
 privacypass-py	0.1.99	MAL-2026-18435	https://osv.dev/vulnerability/MAL-2026-18435
