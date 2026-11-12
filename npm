@@ -159389,8 +159389,7 @@ pdb-uatraits	*	MAL-2023-673	https://osv.dev/vulnerability/MAL-2023-673
 pdf-a-court-of-wings-and-ruin-a-court-of-thorns-and-roses-3-by-sarah-j-maas-on-iphone-full-chapters-	*	MAL-2023-674	https://osv.dev/vulnerability/MAL-2023-674
 pdf-annotation	0.0.2	MAL-2025-190985	https://osv.dev/vulnerability/MAL-2025-190985
 pdf-gods-generals-the-military-lives-of-moses-the-buddha-and-muhammad-by-richard-a-gabriel-on-textbo	*	MAL-2023-675	https://osv.dev/vulnerability/MAL-2023-675
-pdf-html5-page-flip	2.0.1	MAL-0000-ghsa-malware-3de335821612b498	https://github.com/ossf/malicious-packages/blob/f1916fbe8a5bf168db0ddff45561268f078f0868/osv/malicious/npm/pdf-html5-page-flip/MAL-0000-ghsa-malware-3de335821612b498.json
-pdf-html5-page-flip	2.0.2	MAL-0000-ghsa-malware-3de335821612b498	https://github.com/ossf/malicious-packages/blob/f1916fbe8a5bf168db0ddff45561268f078f0868/osv/malicious/npm/pdf-html5-page-flip/MAL-0000-ghsa-malware-3de335821612b498.json
+pdf-html5-page-flip	2.0.1	MAL-2026-19153	https://osv.dev/vulnerability/MAL-2026-19153
 pdf-html5-page-flip	2.0.2	MAL-2026-19153	https://osv.dev/vulnerability/MAL-2026-19153
 pdf-lib-enhanced	*	MAL-2026-4799	https://osv.dev/vulnerability/MAL-2026-4799
 pdf-linker	*	MAL-2026-2677	https://osv.dev/vulnerability/MAL-2026-2677
