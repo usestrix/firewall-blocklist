@@ -4435,8 +4435,10 @@ ethtoolz	1.0	MAL-2024-5120	https://osv.dev/vulnerability/MAL-2024-5120
 etlisalat	1.0	MAL-2024-5121	https://osv.dev/vulnerability/MAL-2024-5121
 etnsorflow	*	MAL-2023-1827	https://osv.dev/vulnerability/MAL-2023-1827
 ettherium	1.0.0	MAL-2024-10021	https://osv.dev/vulnerability/MAL-2024-10021
+eulaliatts	0.1.0	MAL-0000-kam193-26264ebade1f8ffa	https://github.com/ossf/malicious-packages/blob/8640769ae6cae48280bdbb8ef9c7797794e1c60f/osv/malicious/pypi/eulaliatts/MAL-0000-kam193-26264ebade1f8ffa.json
 euler-sdk	1.0.0	MAL-2026-13730	https://osv.dev/vulnerability/MAL-2026-13730
 eutherium	1.0.0	MAL-2024-10022	https://osv.dev/vulnerability/MAL-2024-10022
+evalometer	0.1.0	MAL-0000-kam193-5311054d0bb8bc91	https://github.com/ossf/malicious-packages/blob/8640769ae6cae48280bdbb8ef9c7797794e1c60f/osv/malicious/pypi/evalometer/MAL-0000-kam193-5311054d0bb8bc91.json
 evalstream	0.1.0	MAL-2026-18161	https://osv.dev/vulnerability/MAL-2026-18161
 evannlegoat	1.0.4	MAL-2024-5122	https://osv.dev/vulnerability/MAL-2024-5122
 evil-package	0.0.1	MAL-2024-10023	https://osv.dev/vulnerability/MAL-2024-10023
@@ -4620,6 +4622,7 @@ fernets	0.0.1	MAL-2025-191728	https://osv.dev/vulnerability/MAL-2025-191728
 ferns	1.0	MAL-2024-5137	https://osv.dev/vulnerability/MAL-2024-5137
 ferqtrade	*	MAL-2023-1830	https://osv.dev/vulnerability/MAL-2023-1830
 ferretqueue	0.1.0	MAL-2026-18226	https://osv.dev/vulnerability/MAL-2026-18226
+ferrotts	0.1.0	MAL-0000-kam193-b9cf8d8b5adcccc1	https://github.com/ossf/malicious-packages/blob/8640769ae6cae48280bdbb8ef9c7797794e1c60f/osv/malicious/pypi/ferrotts/MAL-0000-kam193-b9cf8d8b5adcccc1.json
 fet	2.0.1	MAL-2025-41671	https://osv.dev/vulnerability/MAL-2025-41671
 fetch-data-api-syncapi	0.1.0	MAL-2026-3100	https://osv.dev/vulnerability/MAL-2026-3100
 fetch-data-api-syncapi	0.1.1	MAL-2026-3100	https://osv.dev/vulnerability/MAL-2026-3100
@@ -4755,6 +4758,7 @@ floogle	0.7	MAL-2025-41676	https://osv.dev/vulnerability/MAL-2025-41676
 flophttp	2.3.5	MAL-2024-10028	https://osv.dev/vulnerability/MAL-2024-10028
 flowfix	0.1.0	MAL-2026-1276	https://osv.dev/vulnerability/MAL-2026-1276
 flowfix	0.1.1	MAL-2026-1276	https://osv.dev/vulnerability/MAL-2026-1276
+flowmetry	0.1.0	MAL-0000-kam193-3cd9c2027e6d2cd6	https://github.com/ossf/malicious-packages/blob/8640769ae6cae48280bdbb8ef9c7797794e1c60f/osv/malicious/pypi/flowmetry/MAL-0000-kam193-3cd9c2027e6d2cd6.json
 flowpeek	0.1.1	MAL-2026-1437	https://osv.dev/vulnerability/MAL-2026-1437
 fluent-dashboard-panel-metrics	0.1.0	MAL-2026-6233	https://osv.dev/vulnerability/MAL-2026-6233
 fluent-panel-metrics	0.1.0	MAL-2026-6182	https://osv.dev/vulnerability/MAL-2026-6182
@@ -4952,6 +4956,8 @@ gamevm	*	MAL-2023-3605	https://osv.dev/vulnerability/MAL-2023-3605
 gandon-pidar1	1.0.0	MAL-2025-928	https://osv.dev/vulnerability/MAL-2025-928
 gangomodule	1.0.20	MAL-2026-2486	https://osv.dev/vulnerability/MAL-2026-2486
 gangomodule	1.0.37	MAL-2026-2486	https://osv.dev/vulnerability/MAL-2026-2486
+garviscope	0.1.0	MAL-0000-kam193-b9a85e3733b61731	https://github.com/ossf/malicious-packages/blob/8640769ae6cae48280bdbb8ef9c7797794e1c60f/osv/malicious/pypi/garviscope/MAL-0000-kam193-b9a85e3733b61731.json
+garvisuite	0.1.0	MAL-0000-kam193-aba6c4e4d80dd609	https://github.com/ossf/malicious-packages/blob/8640769ae6cae48280bdbb8ef9c7797794e1c60f/osv/malicious/pypi/garvisuite/MAL-0000-kam193-aba6c4e4d80dd609.json
 gate-apis	2.33.0	MAL-2026-2630	https://osv.dev/vulnerability/MAL-2026-2630
 gateway-framework	0.1	MAL-2025-6508	https://osv.dev/vulnerability/MAL-2025-6508
 gateway-framework	0.2	MAL-2025-6508	https://osv.dev/vulnerability/MAL-2025-6508
@@ -5932,6 +5938,7 @@ infra-libs	99.99.99	MAL-2026-18761	https://osv.dev/vulnerability/MAL-2026-18761
 infrabench	0.1.0	MAL-2026-17469	https://osv.dev/vulnerability/MAL-2026-17469
 infrabench	0.1.1	MAL-2026-17469	https://osv.dev/vulnerability/MAL-2026-17469
 infrabench	0.2.0	MAL-2026-17469	https://osv.dev/vulnerability/MAL-2026-17469
+inframetric	0.1.0	MAL-0000-kam193-e1dfe7ee88510cfb	https://github.com/ossf/malicious-packages/blob/8640769ae6cae48280bdbb8ef9c7797794e1c60f/osv/malicious/pypi/inframetric/MAL-0000-kam193-e1dfe7ee88510cfb.json
 init2winit	9.9.9	MAL-2026-1989	https://osv.dev/vulnerability/MAL-2026-1989
 initer	0.2.1	MAL-2025-6524	https://osv.dev/vulnerability/MAL-2025-6524
 initer	0.2.2	MAL-2025-6524	https://osv.dev/vulnerability/MAL-2025-6524
@@ -7517,6 +7524,7 @@ lukz	2.0.1	MAL-2024-5339	https://osv.dev/vulnerability/MAL-2024-5339
 lukz	3.0.0	MAL-2024-5339	https://osv.dev/vulnerability/MAL-2024-5339
 lulumortreux	0.1.3	MAL-2024-5340	https://osv.dev/vulnerability/MAL-2024-5340
 lulumortreux	0.1.4	MAL-2024-5340	https://osv.dev/vulnerability/MAL-2024-5340
+lumitts	0.1.0	MAL-0000-kam193-c1093eeb37afa2ce	https://github.com/ossf/malicious-packages/blob/8640769ae6cae48280bdbb8ef9c7797794e1c60f/osv/malicious/pypi/lumitts/MAL-0000-kam193-c1093eeb37afa2ce.json
 luna-paysure	0.7.1	MAL-2024-11627	https://osv.dev/vulnerability/MAL-2024-11627
 luna-paysure	0.7.2	MAL-2024-11627	https://osv.dev/vulnerability/MAL-2024-11627
 luna-paysure	0.7.3	MAL-2024-11627	https://osv.dev/vulnerability/MAL-2024-11627
@@ -7857,6 +7865,7 @@ medoen	0.1.1	MAL-2025-47786	https://osv.dev/vulnerability/MAL-2025-47786
 mega-sparks	92.6	MAL-2024-10586	https://osv.dev/vulnerability/MAL-2024-10586
 megai	92.6	MAL-2024-10593	https://osv.dev/vulnerability/MAL-2024-10593
 melcuratts	0.1.0	MAL-2026-18141	https://osv.dev/vulnerability/MAL-2026-18141
+melstagen	0.1.0	MAL-0000-kam193-ac28e45b20df71fe	https://github.com/ossf/malicious-packages/blob/8640769ae6cae48280bdbb8ef9c7797794e1c60f/osv/malicious/pypi/melstagen/MAL-0000-kam193-ac28e45b20df71fe.json
 mem8	6.0.1	MAL-2026-5319	https://osv.dev/vulnerability/MAL-2026-5319
 memlib	2.0.0	MAL-2025-6547	https://osv.dev/vulnerability/MAL-2025-6547
 memorylib	2.0.0	MAL-2025-6548	https://osv.dev/vulnerability/MAL-2025-6548
@@ -9102,6 +9111,7 @@ phantomdecoderss	1.6.9	MAL-2024-10104	https://osv.dev/vulnerability/MAL-2024-101
 phasedibd	0.0.1	MAL-2026-2533	https://osv.dev/vulnerability/MAL-2026-2533
 phenopacket-store-toolkit	0.1.7	MAL-2026-5322	https://osv.dev/vulnerability/MAL-2026-5322
 phishermanx	4.0.1	MAL-2025-6563	https://osv.dev/vulnerability/MAL-2025-6563
+phoneliasr	0.1.0	MAL-0000-kam193-0fb66d50cba21c85	https://github.com/ossf/malicious-packages/blob/8640769ae6cae48280bdbb8ef9c7797794e1c60f/osv/malicious/pypi/phoneliasr/MAL-0000-kam193-0fb66d50cba21c85.json
 phonemeforge	0.1.0	MAL-2026-18163	https://osv.dev/vulnerability/MAL-2026-18163
 phonemeprobe	0.1.0	MAL-2026-18164	https://osv.dev/vulnerability/MAL-2026-18164
 phonoviatts	0.1.0	MAL-2026-18143	https://osv.dev/vulnerability/MAL-2026-18143
@@ -14277,6 +14287,7 @@ spaysrbdata	0.5.0	MAL-2026-5170	https://osv.dev/vulnerability/MAL-2026-5170
 spaysrbx	0.3.0	MAL-2026-5334	https://osv.dev/vulnerability/MAL-2026-5334
 speakbench	0.1.0	MAL-2026-18166	https://osv.dev/vulnerability/MAL-2026-18166
 speaksocket	0.1.0	MAL-2026-18167	https://osv.dev/vulnerability/MAL-2026-18167
+spectrova	0.1.0	MAL-0000-kam193-e8a78fd42fc449ca	https://github.com/ossf/malicious-packages/blob/8640769ae6cae48280bdbb8ef9c7797794e1c60f/osv/malicious/pypi/spectrova/MAL-0000-kam193-e8a78fd42fc449ca.json
 speechprobe	0.1.0	MAL-2026-18168	https://osv.dev/vulnerability/MAL-2026-18168
 speed-hashes	0.1.0	MAL-2026-13607	https://osv.dev/vulnerability/MAL-2026-13607
 speed-testing-nt	0.2	MAL-2025-191874	https://osv.dev/vulnerability/MAL-2025-191874
@@ -14382,6 +14393,7 @@ ssolana	*	MAL-2023-2290	https://osv.dev/vulnerability/MAL-2023-2290
 st-payment	99.0.0	MAL-2026-2522	https://osv.dev/vulnerability/MAL-2026-2522
 st-py-de-cli	1.9.9	MAL-2025-41768	https://osv.dev/vulnerability/MAL-2025-41768
 stackstorm-runner-action-chain	1.0.0	MAL-2024-11714	https://osv.dev/vulnerability/MAL-2024-11714
+stackvane	0.1.0	MAL-0000-kam193-45bfb9eab4765a14	https://github.com/ossf/malicious-packages/blob/8640769ae6cae48280bdbb8ef9c7797794e1c60f/osv/malicious/pypi/stackvane/MAL-0000-kam193-45bfb9eab4765a14.json
 stake-auto-better	1.0	MAL-2024-6037	https://osv.dev/vulnerability/MAL-2024-6037
 starexx	1.26	MAL-2025-191662	https://osv.dev/vulnerability/MAL-2025-191662
 starexx	1.27	MAL-2025-191662	https://osv.dev/vulnerability/MAL-2025-191662
@@ -16844,7 +16856,9 @@ voxeval	0.4.2	MAL-2026-17457	https://osv.dev/vulnerability/MAL-2026-17457
 voxeval	0.4.3	MAL-2026-17457	https://osv.dev/vulnerability/MAL-2026-17457
 voxeval	0.4.4	MAL-2026-17457	https://osv.dev/vulnerability/MAL-2026-17457
 voxeval	0.4.5	MAL-2026-17457	https://osv.dev/vulnerability/MAL-2026-17457
+voxgramasr	0.1.0	MAL-0000-kam193-ada38683f334fda7	https://github.com/ossf/malicious-packages/blob/8640769ae6cae48280bdbb8ef9c7797794e1c60f/osv/malicious/pypi/voxgramasr/MAL-0000-kam193-ada38683f334fda7.json
 voxilaratts	0.1.0	MAL-2026-18150	https://osv.dev/vulnerability/MAL-2026-18150
+voxrelitts	0.1.0	MAL-0000-kam193-519830c724d27578	https://github.com/ossf/malicious-packages/blob/8640769ae6cae48280bdbb8ef9c7797794e1c60f/osv/malicious/pypi/voxrelitts/MAL-0000-kam193-519830c724d27578.json
 voxweaver	0.1.0	MAL-2026-18176	https://osv.dev/vulnerability/MAL-2026-18176
 vper	*	MAL-2023-2348	https://osv.dev/vulnerability/MAL-2023-2348
 vpyer	*	MAL-2023-2349	https://osv.dev/vulnerability/MAL-2023-2349
@@ -16923,6 +16937,7 @@ wasig4321	1.0.0	MAL-2025-2011	https://osv.dev/vulnerability/MAL-2025-2011
 watchitoring	0.1.0	MAL-2025-3015	https://osv.dev/vulnerability/MAL-2025-3015
 watchitoring	0.1.1	MAL-2025-3015	https://osv.dev/vulnerability/MAL-2025-3015
 wave-opensdk	1.0.0	MAL-2024-12368	https://osv.dev/vulnerability/MAL-2024-12368
+wavforge	0.1.0	MAL-0000-kam193-e017f6da32e0eec5	https://github.com/ossf/malicious-packages/blob/8640769ae6cae48280bdbb8ef9c7797794e1c60f/osv/malicious/pypi/wavforge/MAL-0000-kam193-e017f6da32e0eec5.json
 waymo-waymax	99.0.0	MAL-2026-6961	https://osv.dev/vulnerability/MAL-2026-6961
 wayspiritmcp-enconly	0.1.0	MAL-2025-191924	https://osv.dev/vulnerability/MAL-2025-191924
 wayspiritmcp-enconly	0.1.1	MAL-2025-191924	https://osv.dev/vulnerability/MAL-2025-191924
