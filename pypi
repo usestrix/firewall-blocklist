@@ -7470,7 +7470,6 @@ loguru-utf8	0.7.3	MAL-2025-192435	https://osv.dev/vulnerability/MAL-2025-192435
 loguru-utf8	0.7.4	MAL-2025-192435	https://osv.dev/vulnerability/MAL-2025-192435
 logutilkit	1.0.1	MAL-2026-2120	https://osv.dev/vulnerability/MAL-2026-2120
 lolcrazy	0.1.1	MAL-2025-47785	https://osv.dev/vulnerability/MAL-2025-47785
-lookuptest11	0.0.1	MAL-0000-amazon-inspector-5e9ac24971ad447f	https://github.com/ossf/malicious-packages/blob/b4054d7de860111fac1086b2d9bcde0c6337592f/osv/malicious/pypi/lookuptest11/MAL-0000-amazon-inspector-5e9ac24971ad447f.json
 lookuptest11	0.0.1	MAL-2026-18769	https://osv.dev/vulnerability/MAL-2026-18769
 looopiw	0.0.1	MAL-2026-2842	https://osv.dev/vulnerability/MAL-2026-2842
 loquru	0.7.3	MAL-2025-191784	https://osv.dev/vulnerability/MAL-2025-191784
@@ -7802,7 +7801,6 @@ mcp-runcommand-server2	1.0.6	MAL-2025-191648	https://osv.dev/vulnerability/MAL-2
 mcp-search-server	1.0.0	MAL-2026-11198	https://osv.dev/vulnerability/MAL-2026-11198
 mcp-search-server	2.0.0	MAL-2026-11198	https://osv.dev/vulnerability/MAL-2026-11198
 mcp-search-server	2.0.1	MAL-2026-11198	https://osv.dev/vulnerability/MAL-2026-11198
-mcp-teamviewer	0.0.1	MAL-0000-amazon-inspector-108ea237ed659c21	https://github.com/ossf/malicious-packages/blob/b4054d7de860111fac1086b2d9bcde0c6337592f/osv/malicious/pypi/mcp-teamviewer/MAL-0000-amazon-inspector-108ea237ed659c21.json
 mcp-teamviewer	0.0.1	MAL-2026-18706	https://osv.dev/vulnerability/MAL-2026-18706
 mcp-transport-proto	9.9.9	MAL-2026-1990	https://osv.dev/vulnerability/MAL-2026-1990
 mcp-weather-full	0.8.0	MAL-2025-191789	https://osv.dev/vulnerability/MAL-2025-191789
@@ -8085,7 +8083,6 @@ mrfeastpip	0.6	MAL-2024-5379	https://osv.dev/vulnerability/MAL-2024-5379
 mrfeastpip	0.7	MAL-2024-5379	https://osv.dev/vulnerability/MAL-2024-5379
 mrmustard	0.7.4	MAL-2026-11049	https://osv.dev/vulnerability/MAL-2026-11049
 msgpackrpc	0.0.0	MAL-2026-18627	https://osv.dev/vulnerability/MAL-2026-18627
-msgpackrpc	0.1.0	MAL-0000-amazon-inspector-55c4f419c883d30c	https://github.com/ossf/malicious-packages/blob/b4054d7de860111fac1086b2d9bcde0c6337592f/osv/malicious/pypi/msgpackrpc/MAL-0000-amazon-inspector-55c4f419c883d30c.json
 msgpackrpc	0.1.0	MAL-2026-18627	https://osv.dev/vulnerability/MAL-2026-18627
 msgspec-python313-pre	0.0.0.1	MAL-2025-2977	https://osv.dev/vulnerability/MAL-2025-2977
 msrcpoc	99.1.9	MAL-2026-14444	https://osv.dev/vulnerability/MAL-2026-14444
