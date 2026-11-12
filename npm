@@ -65711,10 +65711,14 @@ diesel-site	99.9.1	MAL-2023-1153	https://osv.dev/vulnerability/MAL-2023-1153
 diesel-site	99.9.2	MAL-2023-1153	https://osv.dev/vulnerability/MAL-2023-1153
 dieselui	*	MAL-2025-18444	https://osv.dev/vulnerability/MAL-2025-18444
 dietrine	*	MAL-2025-18445	https://osv.dev/vulnerability/MAL-2025-18445
+diezy-libsignal-node	*	MAL-0000-ghsa-malware-afdfadf34d9c6b82	https://github.com/ossf/malicious-packages/blob/949821eae5ee703eb6afe4671d0f1aa76feb79a9/osv/malicious/npm/diezy-libsignal-node/MAL-0000-ghsa-malware-afdfadf34d9c6b82.json
 diezyclutch-baileys	*	MAL-2026-13482	https://osv.dev/vulnerability/MAL-2026-13482
+diezyxalisa-baileys	*	MAL-0000-ghsa-malware-2678ad26283894b7	https://github.com/ossf/malicious-packages/blob/949821eae5ee703eb6afe4671d0f1aa76feb79a9/osv/malicious/npm/diezyxalisa-baileys/MAL-0000-ghsa-malware-2678ad26283894b7.json
 diezyxalisa-baileys	1.0.0	MAL-2026-18967	https://osv.dev/vulnerability/MAL-2026-18967
+diezyxalya-baileys	*	MAL-0000-ghsa-malware-24959b15742a1c60	https://github.com/ossf/malicious-packages/blob/949821eae5ee703eb6afe4671d0f1aa76feb79a9/osv/malicious/npm/diezyxalya-baileys/MAL-0000-ghsa-malware-24959b15742a1c60.json
 diezyxalya-baileys	1.0.0	MAL-2026-18968	https://osv.dev/vulnerability/MAL-2026-18968
 diezyxalya-baileys	1.0.1	MAL-2026-18968	https://osv.dev/vulnerability/MAL-2026-18968
+diezyxhao-baileys	*	MAL-0000-ghsa-malware-302336139c0920b9	https://github.com/ossf/malicious-packages/blob/949821eae5ee703eb6afe4671d0f1aa76feb79a9/osv/malicious/npm/diezyxhao-baileys/MAL-0000-ghsa-malware-302336139c0920b9.json
 diezyyasha-baileys	*	MAL-2026-13443	https://osv.dev/vulnerability/MAL-2026-13443
 difane	*	MAL-2025-18446	https://osv.dev/vulnerability/MAL-2025-18446
 diff-dom-2	*	MAL-2022-2467	https://osv.dev/vulnerability/MAL-2022-2467
@@ -184561,6 +184565,7 @@ selenology-protractor-metabolomics-bionics	*	MAL-2025-45992	https://osv.dev/vuln
 selenology-tailwindcss-cosmogenic-antares	*	MAL-2025-189436	https://osv.dev/vulnerability/MAL-2025-189436
 selenology-zenobia-loglevel-prettier-stylelint	*	MAL-2025-189437	https://osv.dev/vulnerability/MAL-2025-189437
 self-bots-dc	*	MAL-2025-363	https://osv.dev/vulnerability/MAL-2025-363
+self-certificate	*	MAL-0000-ghsa-malware-f25ae1f9b9e110e1	https://github.com/ossf/malicious-packages/blob/949821eae5ee703eb6afe4671d0f1aa76feb79a9/osv/malicious/npm/self-certificate/MAL-0000-ghsa-malware-f25ae1f9b9e110e1.json
 self-certificate	1.0.0	MAL-2026-5644	https://osv.dev/vulnerability/MAL-2026-5644
 self-certificate	1.1.0	MAL-2026-5644	https://osv.dev/vulnerability/MAL-2026-5644
 self-certificates	*	MAL-2026-14543	https://osv.dev/vulnerability/MAL-2026-14543
@@ -196730,6 +196735,7 @@ tailwindcss-form-bundler	*	MAL-2026-1209	https://osv.dev/vulnerability/MAL-2026-
 tailwindcss-form-components	*	MAL-2026-12223	https://osv.dev/vulnerability/MAL-2026-12223
 tailwindcss-form-kit	*	MAL-2026-17221	https://osv.dev/vulnerability/MAL-2026-17221
 tailwindcss-form-styles	0.5.15	MAL-2026-14568	https://osv.dev/vulnerability/MAL-2026-14568
+tailwindcss-form-ui	*	MAL-0000-ghsa-malware-79b8b68967836f47	https://github.com/ossf/malicious-packages/blob/949821eae5ee703eb6afe4671d0f1aa76feb79a9/osv/malicious/npm/tailwindcss-form-ui/MAL-0000-ghsa-malware-79b8b68967836f47.json
 tailwindcss-form-ui	0.5.1	MAL-2026-16262	https://osv.dev/vulnerability/MAL-2026-16262
 tailwindcss-form-ui	0.5.8	MAL-2026-16262	https://osv.dev/vulnerability/MAL-2026-16262
 tailwindcss-form-utils	*	MAL-2026-16263	https://osv.dev/vulnerability/MAL-2026-16263
