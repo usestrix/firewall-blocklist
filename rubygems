@@ -1144,7 +1144,7 @@ buenlder	1.0.0	MAL-2026-16788	https://osv.dev/vulnerability/MAL-2026-16788
 buenlder	1.0.41769	MAL-2026-16788	https://osv.dev/vulnerability/MAL-2026-16788
 buesndler	1.0.0	MAL-2026-16789	https://osv.dev/vulnerability/MAL-2026-16789
 buesndler	1.0.48043	MAL-2026-16789	https://osv.dev/vulnerability/MAL-2026-16789
-buffer-code-exercise-api	1.0.1	MAL-0000-amazon-inspector-b575cb1f6c5f576a	https://github.com/ossf/malicious-packages/blob/e5c3768d91972caa9bbbb1eaad530c7ecf493428/osv/malicious/rubygems/buffer-code-exercise-api/MAL-0000-amazon-inspector-b575cb1f6c5f576a.json
+buffer-code-exercise-api	1.0.1	MAL-2026-19156	https://osv.dev/vulnerability/MAL-2026-19156
 buhdlef	1.0.0	MAL-2026-16790	https://osv.dev/vulnerability/MAL-2026-16790
 buhdlef	1.0.93541	MAL-2026-16790	https://osv.dev/vulnerability/MAL-2026-16790
 buhdler	1.0.0	MAL-2026-16791	https://osv.dev/vulnerability/MAL-2026-16791
@@ -1810,7 +1810,7 @@ chatoaitestgit1778552630	0.0.1	MAL-2026-7573	https://osv.dev/vulnerability/MAL-2
 chatoaitesthg1778552644	0.0.1	MAL-2026-7574	https://osv.dev/vulnerability/MAL-2026-7574
 chatoaitestsvn1778552651	0.0.1	MAL-2026-7575	https://osv.dev/vulnerability/MAL-2026-7575
 chatterbox-client	2.4.1.48.ge07b52b	MAL-2025-46898	https://osv.dev/vulnerability/MAL-2025-46898
-cheesebox	10.0.1	MAL-0000-amazon-inspector-5b03698e5384db9f	https://github.com/ossf/malicious-packages/blob/e5c3768d91972caa9bbbb1eaad530c7ecf493428/osv/malicious/rubygems/cheesebox/MAL-0000-amazon-inspector-5b03698e5384db9f.json
+cheesebox	10.0.1	MAL-2026-19157	https://osv.dev/vulnerability/MAL-2026-19157
 chef-partial-search	1.0.7	MAL-2024-6825	https://osv.dev/vulnerability/MAL-2024-6825
 chef_cloudsearch	0.0.2	MAL-2024-6826	https://osv.dev/vulnerability/MAL-2024-6826
 chef_handler-datadog-demo	0.2.0	MAL-2024-6827	https://osv.dev/vulnerability/MAL-2024-6827
