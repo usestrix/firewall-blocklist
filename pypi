@@ -11388,7 +11388,6 @@ pyprettifier	0.1.3	MAL-2024-11674	https://osv.dev/vulnerability/MAL-2024-11674
 pyprettifier	0.1.4	MAL-2024-11674	https://osv.dev/vulnerability/MAL-2024-11674
 pyprettifier	0.1.5	MAL-2024-11674	https://osv.dev/vulnerability/MAL-2024-11674
 pyprig	1.2.0	MAL-2026-18490	https://osv.dev/vulnerability/MAL-2026-18490
-pyprig	1.2.1	MAL-0000-amazon-inspector-83ccb335aa01c8a3	https://github.com/ossf/malicious-packages/blob/cb274bbfcfaf59f66e0bfa8a3347b55f58a3ced5/osv/malicious/pypi/pyprig/MAL-0000-amazon-inspector-83ccb335aa01c8a3.json
 pyprig	1.2.1	MAL-2026-18490	https://osv.dev/vulnerability/MAL-2026-18490
 pyprig	1.2.2	MAL-2026-18490	https://osv.dev/vulnerability/MAL-2026-18490
 pyproof	*	MAL-2023-5797	https://osv.dev/vulnerability/MAL-2023-5797
@@ -11513,9 +11512,7 @@ pystiyle	2.9	MAL-2024-5780	https://osv.dev/vulnerability/MAL-2024-5780
 pystlete	2.9	MAL-2024-10125	https://osv.dev/vulnerability/MAL-2024-10125
 pystob	*	MAL-2023-8586	https://osv.dev/vulnerability/MAL-2023-8586
 pystr-codec	0.1.0	MAL-2026-18432	https://osv.dev/vulnerability/MAL-2026-18432
-pystr-codec	0.1.1	MAL-0000-amazon-inspector-512abf8460812ee7	https://github.com/ossf/malicious-packages/blob/cb274bbfcfaf59f66e0bfa8a3347b55f58a3ced5/osv/malicious/pypi/pystr-codec/MAL-0000-amazon-inspector-512abf8460812ee7.json
 pystr-codec	0.1.1	MAL-2026-18432	https://osv.dev/vulnerability/MAL-2026-18432
-pystr-codec	0.1.2	MAL-0000-amazon-inspector-1bac683aabaa6265	https://github.com/ossf/malicious-packages/blob/cb274bbfcfaf59f66e0bfa8a3347b55f58a3ced5/osv/malicious/pypi/pystr-codec/MAL-0000-amazon-inspector-1bac683aabaa6265.json
 pystr-codec	0.1.2	MAL-2026-18432	https://osv.dev/vulnerability/MAL-2026-18432
 pystyl	0.8	MAL-2024-5781	https://osv.dev/vulnerability/MAL-2024-5781
 pystylerio	1.0	MAL-2024-5782	https://osv.dev/vulnerability/MAL-2024-5782
