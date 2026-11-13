@@ -115946,6 +115946,7 @@ karma-verbose-summary-reporter	*	MAL-2025-47994	https://osv.dev/vulnerability/MA
 karma-wait-for-load	*	MAL-2023-551	https://osv.dev/vulnerability/MAL-2023-551
 karma-webpack-deployment-test	*	MAL-2025-24330	https://osv.dev/vulnerability/MAL-2025-24330
 karma-websockets-kastra-europa	*	MAL-2025-144123	https://osv.dev/vulnerability/MAL-2025-144123
+karma365-mcp	2.1.0	MAL-0000-ghsa-malware-e2545042ca50e39e	https://github.com/ossf/malicious-packages/blob/8f22eea94a1189b9c2b55eac6d5d9a9872b23fa5/osv/malicious/npm/karma365-mcp/MAL-0000-ghsa-malware-e2545042ca50e39e.json
 karma_a70l3_z1fzv_kryptonite	*	MAL-2025-24331	https://osv.dev/vulnerability/MAL-2025-24331
 karma_ezdnq_hgl1e_phoenix	*	MAL-2025-24332	https://osv.dev/vulnerability/MAL-2025-24332
 karma_m7rym_98yk3_vortex	*	MAL-2025-24333	https://osv.dev/vulnerability/MAL-2025-24333
