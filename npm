@@ -7610,6 +7610,7 @@
 @jd-org/clear-server	*	MAL-2025-48540	https://osv.dev/vulnerability/MAL-2025-48540
 @jdei/codmi-figma-test	*	MAL-2025-48541	https://osv.dev/vulnerability/MAL-2025-48541
 @jdtaro/dynamic-devtools-utils	*	MAL-2025-48542	https://osv.dev/vulnerability/MAL-2025-48542
+@jelou/cli-win32-x64	4.26.1	MAL-0000-ghsa-malware-2c1ca4873370727c	https://github.com/ossf/malicious-packages/blob/93fad8d61118dee5a7af564e99dd3709ebf172d9/osv/malicious/npm/@jelou/cli-win32-x64/MAL-0000-ghsa-malware-2c1ca4873370727c.json
 @jerusalem/fetlife-assets	*	MAL-2022-368	https://osv.dev/vulnerability/MAL-2022-368
 @jes4l/react-pkg	*	MAL-2026-755	https://osv.dev/vulnerability/MAL-2026-755
 @jesusvizcaino2021/app-push-base	99.9.9	MAL-2026-7078	https://osv.dev/vulnerability/MAL-2026-7078
