@@ -4963,6 +4963,7 @@ gandon-pidar1	1.0.0	MAL-2025-928	https://osv.dev/vulnerability/MAL-2025-928
 gangomodule	1.0.20	MAL-2026-2486	https://osv.dev/vulnerability/MAL-2026-2486
 gangomodule	1.0.37	MAL-2026-2486	https://osv.dev/vulnerability/MAL-2026-2486
 garviscope	0.1.0	MAL-2026-19183	https://osv.dev/vulnerability/MAL-2026-19183
+garvisometerui	0.1.0	MAL-0000-kam193-09877eb0403bbdcc	https://github.com/ossf/malicious-packages/blob/52173db5e2c501f67cfc42adbd2f38f5c0b8dd1a/osv/malicious/pypi/garvisometerui/MAL-0000-kam193-09877eb0403bbdcc.json
 garvisuite	0.1.0	MAL-2026-19184	https://osv.dev/vulnerability/MAL-2026-19184
 gate-apis	2.33.0	MAL-2026-2630	https://osv.dev/vulnerability/MAL-2026-2630
 gateway-framework	0.1	MAL-2025-6508	https://osv.dev/vulnerability/MAL-2025-6508
@@ -11977,6 +11978,7 @@ quizdom	0.1.0	MAL-2025-3208	https://osv.dev/vulnerability/MAL-2025-3208
 quizdom	0.2.0	MAL-2025-3208	https://osv.dev/vulnerability/MAL-2025-3208
 quizdom	0.3.0	MAL-2025-3208	https://osv.dev/vulnerability/MAL-2025-3208
 qwen-asr-pvt	0.0.6	MAL-2026-10690	https://osv.dev/vulnerability/MAL-2026-10690
+qwen3ttsui	0.1.0	MAL-0000-kam193-2c64f86bb29e5345	https://github.com/ossf/malicious-packages/blob/52173db5e2c501f67cfc42adbd2f38f5c0b8dd1a/osv/malicious/pypi/qwen3ttsui/MAL-0000-kam193-2c64f86bb29e5345.json
 qwery-core	1.0.0	MAL-2026-1226	https://osv.dev/vulnerability/MAL-2026-1226
 qwery-core	1.0.1	MAL-2026-1226	https://osv.dev/vulnerability/MAL-2026-1226
 qwery-core	1.0.2	MAL-2026-1226	https://osv.dev/vulnerability/MAL-2026-1226
@@ -16855,6 +16857,7 @@ voxcpmruntime	0.1.0	MAL-2026-17470	https://osv.dev/vulnerability/MAL-2026-17470
 voxcpmtts3	0.1.0	MAL-2026-17463	https://osv.dev/vulnerability/MAL-2026-17463
 voxcpmtts3	0.1.1	MAL-2026-17463	https://osv.dev/vulnerability/MAL-2026-17463
 voxcpmtts3	0.1.2	MAL-2026-17463	https://osv.dev/vulnerability/MAL-2026-17463
+voxcpmttslora	0.1.0	MAL-0000-kam193-b40228df9bac54fb	https://github.com/ossf/malicious-packages/blob/52173db5e2c501f67cfc42adbd2f38f5c0b8dd1a/osv/malicious/pypi/voxcpmttslora/MAL-0000-kam193-b40228df9bac54fb.json
 voxcpmui3	0.1.0	MAL-2026-17464	https://osv.dev/vulnerability/MAL-2026-17464
 voxcpmui4	0.2.0	MAL-2026-17467	https://osv.dev/vulnerability/MAL-2026-17467
 voxel-tts	0.5.0	MAL-2026-17461	https://osv.dev/vulnerability/MAL-2026-17461
