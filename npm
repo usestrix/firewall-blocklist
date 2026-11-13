@@ -15256,7 +15256,7 @@
 @silgi/yoga	0.7.1	MAL-2025-191320	https://osv.dev/vulnerability/MAL-2025-191320
 @simplepoll/fetlife-assets	*	MAL-2022-591	https://osv.dev/vulnerability/MAL-2022-591
 @simplipayng/checkout	*	MAL-2026-13388	https://osv.dev/vulnerability/MAL-2026-13388
-@sirius0528/black-moon	*	MAL-0000-ghsa-malware-0a6c055f80bdee04	https://github.com/ossf/malicious-packages/blob/ed1f75abfd969652bb9140b2d8eb69073612e7a1/osv/malicious/npm/@sirius0528/black-moon/MAL-0000-ghsa-malware-0a6c055f80bdee04.json
+@sirius0528/black-moon	*	MAL-2026-19209	https://osv.dev/vulnerability/MAL-2026-19209
 @siriusbeyond/auth	99.0.0	MAL-2026-16320	https://osv.dev/vulnerability/MAL-2026-16320
 @siriusbeyond/ui	99.0.0	MAL-2026-16321	https://osv.dev/vulnerability/MAL-2026-16321
 @siriusbeyond/utils	99.0.0	MAL-2026-16322	https://osv.dev/vulnerability/MAL-2026-16322
@@ -43033,8 +43033,7 @@ blaast-web	*	MAL-2025-15780	https://osv.dev/vulnerability/MAL-2025-15780
 blabberui	*	MAL-2025-15781	https://osv.dev/vulnerability/MAL-2025-15781
 blablablabla	1.0.0	MAL-2023-1126	https://osv.dev/vulnerability/MAL-2023-1126
 black-especially-period	*	MAL-2025-43626	https://osv.dev/vulnerability/MAL-2025-43626
-black-moon-js	*	MAL-0000-ghsa-malware-0f72e55e28146963	https://github.com/ossf/malicious-packages/blob/ed1f75abfd969652bb9140b2d8eb69073612e7a1/osv/malicious/npm/black-moon-js/MAL-0000-ghsa-malware-0f72e55e28146963.json
-black-moon-js	1.0.0	MAL-2026-2870	https://osv.dev/vulnerability/MAL-2026-2870
+black-moon-js	*	MAL-2026-2870	https://osv.dev/vulnerability/MAL-2026-2870
 black-spindle	999.0.0	MAL-2026-18359	https://osv.dev/vulnerability/MAL-2026-18359
 black-spindle-2	100.0.0	MAL-2026-18376	https://osv.dev/vulnerability/MAL-2026-18376
 black-spindle-2	301.0.0	MAL-2026-18376	https://osv.dev/vulnerability/MAL-2026-18376
@@ -70955,7 +70954,7 @@ ehouse	*	MAL-2025-19262	https://osv.dev/vulnerability/MAL-2025-19262
 ehquvdznyglmrpxb	*	MAL-2025-19263	https://osv.dev/vulnerability/MAL-2025-19263
 ehxjimturwyqnzbk	*	MAL-2025-19264	https://osv.dev/vulnerability/MAL-2025-19264
 eigenlayer-middleware	*	MAL-2025-3237	https://osv.dev/vulnerability/MAL-2025-3237
-eigenlayer-sdk	*	MAL-0000-ghsa-malware-9204be7a4fce847d	https://github.com/ossf/malicious-packages/blob/ed1f75abfd969652bb9140b2d8eb69073612e7a1/osv/malicious/npm/eigenlayer-sdk/MAL-0000-ghsa-malware-9204be7a4fce847d.json
+eigenlayer-sdk	*	MAL-2026-19210	https://osv.dev/vulnerability/MAL-2026-19210
 eigenstate-archaeogenetics-singularitarianism-socketio	*	MAL-2025-44094	https://osv.dev/vulnerability/MAL-2025-44094
 eigenstate-areology-deneb-parallax	*	MAL-2025-186683	https://osv.dev/vulnerability/MAL-2025-186683
 eigenstate-auriga-module-chromedriver	*	MAL-2025-186684	https://osv.dev/vulnerability/MAL-2025-186684
@@ -94044,8 +94043,8 @@ griffin-content-react	*	MAL-2025-21933	https://osv.dev/vulnerability/MAL-2025-21
 griffin-paypal	*	MAL-2025-21934	https://osv.dev/vulnerability/MAL-2025-21934
 griffin-transliterator	*	MAL-2026-14312	https://osv.dev/vulnerability/MAL-2026-14312
 griffin-webpack-plugin	*	MAL-2025-21935	https://osv.dev/vulnerability/MAL-2025-21935
-griffing-ui-pkg	*	MAL-0000-ghsa-malware-3b81e7d7262ff21c	https://github.com/ossf/malicious-packages/blob/ed1f75abfd969652bb9140b2d8eb69073612e7a1/osv/malicious/npm/griffing-ui-pkg/MAL-0000-ghsa-malware-3b81e7d7262ff21c.json
-griffing-ux-pkg	*	MAL-0000-ghsa-malware-85f695211c611517	https://github.com/ossf/malicious-packages/blob/ed1f75abfd969652bb9140b2d8eb69073612e7a1/osv/malicious/npm/griffing-ux-pkg/MAL-0000-ghsa-malware-85f695211c611517.json
+griffing-ui-pkg	*	MAL-2026-19211	https://osv.dev/vulnerability/MAL-2026-19211
+griffing-ux-pkg	*	MAL-2026-19212	https://osv.dev/vulnerability/MAL-2026-19212
 grim-amaranth-possum	*	MAL-2025-68591	https://osv.dev/vulnerability/MAL-2025-68591
 grim-chocolate-swallow	*	MAL-2025-68592	https://osv.dev/vulnerability/MAL-2025-68592
 grim-silver-wildcat	*	MAL-2025-68593	https://osv.dev/vulnerability/MAL-2025-68593
@@ -138815,7 +138814,7 @@ mrdaa-frontend	*	MAL-2026-3363	https://osv.dev/vulnerability/MAL-2026-3363
 mrdott1014331	9.9.9	MAL-2024-2676	https://osv.dev/vulnerability/MAL-2024-2676
 mre-config-react	*	MAL-2025-5617	https://osv.dev/vulnerability/MAL-2025-5617
 mre-layout-react	*	MAL-2025-5618	https://osv.dev/vulnerability/MAL-2025-5618
-mre-notificacao-react	*	MAL-0000-ghsa-malware-f468ccd29ac259c5	https://github.com/ossf/malicious-packages/blob/ed1f75abfd969652bb9140b2d8eb69073612e7a1/osv/malicious/npm/mre-notificacao-react/MAL-0000-ghsa-malware-f468ccd29ac259c5.json
+mre-notificacao-react	*	MAL-2026-19213	https://osv.dev/vulnerability/MAL-2026-19213
 mreactjs	1.1.2	MAL-2026-7323	https://osv.dev/vulnerability/MAL-2026-7323
 mreactjs	1.1.4	MAL-2026-7323	https://osv.dev/vulnerability/MAL-2026-7323
 mreactjs	8.7.6	MAL-2026-7323	https://osv.dev/vulnerability/MAL-2026-7323
@@ -163790,7 +163789,7 @@ powser	*	MAL-2025-29560	https://osv.dev/vulnerability/MAL-2025-29560
 powwow-logger	*	MAL-2025-29561	https://osv.dev/vulnerability/MAL-2025-29561
 poxel	*	MAL-2025-29562	https://osv.dev/vulnerability/MAL-2025-29562
 poxel-server	*	MAL-2025-29563	https://osv.dev/vulnerability/MAL-2025-29563
-poxios-chain	*	MAL-0000-ghsa-malware-6134c796f930423b	https://github.com/ossf/malicious-packages/blob/ed1f75abfd969652bb9140b2d8eb69073612e7a1/osv/malicious/npm/poxios-chain/MAL-0000-ghsa-malware-6134c796f930423b.json
+poxios-chain	*	MAL-2026-19214	https://osv.dev/vulnerability/MAL-2026-19214
 pp-amount-field	*	MAL-2022-5432	https://osv.dev/vulnerability/MAL-2022-5432
 pp-app-ui	*	MAL-2024-80	https://osv.dev/vulnerability/MAL-2024-80
 pp-com-components	*	MAL-2025-45581	https://osv.dev/vulnerability/MAL-2025-45581
@@ -171806,7 +171805,7 @@ ramirez-teadev	*	MAL-2025-107704	https://osv.dev/vulnerability/MAL-2025-107704
 raml-toolkit	*	MAL-2025-42060	https://osv.dev/vulnerability/MAL-2025-42060
 ramp-network	*	MAL-2022-5579	https://osv.dev/vulnerability/MAL-2022-5579
 ramp-tax-info-ui	*	MAL-2025-2472	https://osv.dev/vulnerability/MAL-2025-2472
-rampage-unpack	*	MAL-0000-ghsa-malware-c36796720d574c5c	https://github.com/ossf/malicious-packages/blob/ed1f75abfd969652bb9140b2d8eb69073612e7a1/osv/malicious/npm/rampage-unpack/MAL-0000-ghsa-malware-c36796720d574c5c.json
+rampage-unpack	*	MAL-2026-19215	https://osv.dev/vulnerability/MAL-2026-19215
 rampix-core	*	MAL-2025-31615	https://osv.dev/vulnerability/MAL-2025-31615
 ramples	*	MAL-2025-31616	https://osv.dev/vulnerability/MAL-2025-31616
 ramybaguette	*	MAL-2025-171759	https://osv.dev/vulnerability/MAL-2025-171759
@@ -174719,7 +174718,7 @@ render-sample-app	*	MAL-2024-7097	https://osv.dev/vulnerability/MAL-2024-7097
 render-stage	*	MAL-2025-191524	https://osv.dev/vulnerability/MAL-2025-191524
 render_delegates	*	MAL-2022-5749	https://osv.dev/vulnerability/MAL-2022-5749
 renderctx	1.1.1	MAL-2026-6871	https://osv.dev/vulnerability/MAL-2026-6871
-renderkit-ctx	*	MAL-0000-ghsa-malware-a2be16a45cc308f2	https://github.com/ossf/malicious-packages/blob/ed1f75abfd969652bb9140b2d8eb69073612e7a1/osv/malicious/npm/renderkit-ctx/MAL-0000-ghsa-malware-a2be16a45cc308f2.json
+renderkit-ctx	*	MAL-2026-19216	https://osv.dev/vulnerability/MAL-2026-19216
 rendezvous-js	*	MAL-2026-4662	https://osv.dev/vulnerability/MAL-2026-4662
 rendimg	*	MAL-2025-32074	https://osv.dev/vulnerability/MAL-2025-32074
 renewed-peach-gerbil	*	MAL-2025-70321	https://osv.dev/vulnerability/MAL-2025-70321
@@ -196674,7 +196673,7 @@ tailwind-kinetix	2.0.7	MAL-0000-gatekeeper-tailwind-kinetix	https://github.com/o
 tailwind-lineclamp	*	MAL-2026-19168	https://osv.dev/vulnerability/MAL-2026-19168
 tailwind-lineclamp	0.4.5	MAL-0000-tailwind-lineclamp	https://github.com/ossf/malicious-packages/pull/1765
 tailwind-lines-clamp	*	MAL-2026-2655	https://osv.dev/vulnerability/MAL-2026-2655
-tailwind-lines-clamps	*	MAL-0000-ghsa-malware-a9ca5bcfc6d23626	https://github.com/ossf/malicious-packages/blob/ed1f75abfd969652bb9140b2d8eb69073612e7a1/osv/malicious/npm/tailwind-lines-clamps/MAL-0000-ghsa-malware-a9ca5bcfc6d23626.json
+tailwind-lines-clamps	*	MAL-2026-19217	https://osv.dev/vulnerability/MAL-2026-19217
 tailwind-lines-clamps	0.4.5	MAL-0000-tailwind-lines-clamps	https://github.com/ossf/malicious-packages/pull/1765
 tailwind-logic	*	MAL-2025-192642	https://osv.dev/vulnerability/MAL-2025-192642
 tailwind-magic	*	MAL-2025-48584	https://osv.dev/vulnerability/MAL-2025-48584
@@ -226544,7 +226543,7 @@ winston-lint-fornax-centaurus	*	MAL-2025-39329	https://osv.dev/vulnerability/MAL
 winston-lint-staged-ganymede-parcel	*	MAL-2025-190336	https://osv.dev/vulnerability/MAL-2025-190336
 winston-log	*	MAL-2025-42117	https://osv.dev/vulnerability/MAL-2025-42117
 winston-logger-pro	*	MAL-2025-47935	https://osv.dev/vulnerability/MAL-2025-47935
-winston-loggerex	*	MAL-0000-ghsa-malware-9253246c70895f03	https://github.com/ossf/malicious-packages/blob/ed1f75abfd969652bb9140b2d8eb69073612e7a1/osv/malicious/npm/winston-loggerex/MAL-0000-ghsa-malware-9253246c70895f03.json
+winston-loggerex	*	MAL-2026-19218	https://osv.dev/vulnerability/MAL-2026-19218
 winston-loglevel-ariel-cors	*	MAL-2025-149506	https://osv.dev/vulnerability/MAL-2025-149506
 winston-loopback-nodejs-bulma	*	MAL-2025-46642	https://osv.dev/vulnerability/MAL-2025-46642
 winston-magellan-miranda-terser-webpack-plugin	*	MAL-2025-149507	https://osv.dev/vulnerability/MAL-2025-149507
