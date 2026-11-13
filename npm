@@ -107056,7 +107056,7 @@ internallib_v605	*	MAL-2024-10980	https://osv.dev/vulnerability/MAL-2024-10980
 internallib_v606	*	MAL-2025-47559	https://osv.dev/vulnerability/MAL-2025-47559
 internallib_v607	*	MAL-2022-3902	https://osv.dev/vulnerability/MAL-2022-3902
 internallib_v625	*	MAL-2025-3898	https://osv.dev/vulnerability/MAL-2025-3898
-internallib_v647	1.0.3	MAL-0000-amazon-inspector-701b4c0d503cece8	https://github.com/ossf/malicious-packages/blob/39749caf0be4eecd0dadf997d63d6901ef950f23/osv/malicious/npm/internallib_v647/MAL-0000-amazon-inspector-701b4c0d503cece8.json
+internallib_v647	1.0.3	MAL-2026-19229	https://osv.dev/vulnerability/MAL-2026-19229
 internallib_v657	1.0.1	MAL-2026-16482	https://osv.dev/vulnerability/MAL-2026-16482
 internallib_v663	*	MAL-2025-42011	https://osv.dev/vulnerability/MAL-2025-42011
 internallib_v666	*	MAL-2025-1250	https://osv.dev/vulnerability/MAL-2025-1250
@@ -107085,7 +107085,7 @@ internallib_v789	*	MAL-2025-1267	https://osv.dev/vulnerability/MAL-2025-1267
 internallib_v799	*	MAL-2025-48931	https://osv.dev/vulnerability/MAL-2025-48931
 internallib_v803	*	MAL-2025-3625	https://osv.dev/vulnerability/MAL-2025-3625
 internallib_v808	*	MAL-2025-48534	https://osv.dev/vulnerability/MAL-2025-48534
-internallib_v811	1.0.1	MAL-0000-amazon-inspector-cee312ec1c8c2f91	https://github.com/ossf/malicious-packages/blob/39749caf0be4eecd0dadf997d63d6901ef950f23/osv/malicious/npm/internallib_v811/MAL-0000-amazon-inspector-cee312ec1c8c2f91.json
+internallib_v811	1.0.1	MAL-2026-19230	https://osv.dev/vulnerability/MAL-2026-19230
 internallib_v819	*	MAL-2025-47183	https://osv.dev/vulnerability/MAL-2025-47183
 internallib_v820	*	MAL-2022-3908	https://osv.dev/vulnerability/MAL-2022-3908
 internallib_v828	*	MAL-2026-534	https://osv.dev/vulnerability/MAL-2026-534
