@@ -97799,7 +97799,7 @@ hathway	*	MAL-2025-22263	https://osv.dev/vulnerability/MAL-2025-22263
 haucict	*	MAL-2025-22264	https://osv.dev/vulnerability/MAL-2025-22264
 haufe-axera-api-client	0.0.1	MAL-2025-190962	https://osv.dev/vulnerability/MAL-2025-190962
 haufe-axera-api-client	0.0.2	MAL-2025-190962	https://osv.dev/vulnerability/MAL-2025-190962
-hauntview	0.2.9	MAL-0000-ghsa-malware-1c1beaab001c7335	https://github.com/ossf/malicious-packages/blob/c86dc11bf1f9e95ab6919090729cce2db3a8c799/osv/malicious/npm/hauntview/MAL-0000-ghsa-malware-1c1beaab001c7335.json
+hauntview	0.2.9	MAL-2026-19257	https://osv.dev/vulnerability/MAL-2026-19257
 havas-worldwide	1.0.1	MAL-2024-2452	https://osv.dev/vulnerability/MAL-2024-2452
 havegive	*	MAL-2025-22265	https://osv.dev/vulnerability/MAL-2025-22265
 haven-1ec7t-dogih-orbit-project	*	MAL-2025-22266	https://osv.dev/vulnerability/MAL-2025-22266
@@ -115324,7 +115324,7 @@ kamonetuv	*	MAL-2025-24286	https://osv.dev/vulnerability/MAL-2025-24286
 kamonetuzx	*	MAL-2025-24287	https://osv.dev/vulnerability/MAL-2025-24287
 kampas-kopling	*	MAL-2025-171440	https://osv.dev/vulnerability/MAL-2025-171440
 kampodine	0.8.0	MAL-2026-18738	https://osv.dev/vulnerability/MAL-2026-18738
-kampodra	0.8.16	MAL-0000-ghsa-malware-92db23fff21ab5c2	https://github.com/ossf/malicious-packages/blob/c86dc11bf1f9e95ab6919090729cce2db3a8c799/osv/malicious/npm/kampodra/MAL-0000-ghsa-malware-92db23fff21ab5c2.json
+kampodra	0.8.16	MAL-2026-19258	https://osv.dev/vulnerability/MAL-2026-19258
 kanaquiz	*	MAL-2025-24288	https://osv.dev/vulnerability/MAL-2025-24288
 kanban-webcomponent	*	MAL-2026-417	https://osv.dev/vulnerability/MAL-2026-417
 kanborasd	*	MAL-2025-69031	https://osv.dev/vulnerability/MAL-2025-69031
