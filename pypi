@@ -11910,6 +11910,7 @@ pyysocks	*	MAL-2023-2142	https://osv.dev/vulnerability/MAL-2023-2142
 pyython-binance	*	MAL-2023-2143	https://osv.dev/vulnerability/MAL-2023-2143
 pyytorch	*	MAL-2023-2144	https://osv.dev/vulnerability/MAL-2023-2144
 pyzelf	2.0.1	MAL-2024-10149	https://osv.dev/vulnerability/MAL-2024-10149
+qap793gl4l	0.1.1	MAL-0000-kam193-3b70be66ff6d01cb	https://github.com/ossf/malicious-packages/blob/84bcafbabf86607073d87ea7b4ae7f25c7b1644e/osv/malicious/pypi/qap793gl4l/MAL-0000-kam193-3b70be66ff6d01cb.json
 qassabi	1.1.8	MAL-2025-964	https://osv.dev/vulnerability/MAL-2025-964
 qaxtest-httpx	1.1.1	MAL-2024-5840	https://osv.dev/vulnerability/MAL-2024-5840
 qaxtest-httpx	1.1.3	MAL-2024-5840	https://osv.dev/vulnerability/MAL-2024-5840
@@ -15080,6 +15081,7 @@ testerpackage123	0.1	MAL-2024-11724	https://osv.dev/vulnerability/MAL-2024-11724
 testfiwldsd21233s	0.1	MAL-2024-6113	https://osv.dev/vulnerability/MAL-2024-6113
 testing1232	0.0.1	MAL-2024-6114	https://osv.dev/vulnerability/MAL-2024-6114
 testing123kk	10.0.5	MAL-2025-6336	https://osv.dev/vulnerability/MAL-2025-6336
+testing1345	0.1.0	MAL-0000-kam193-48d6feb6315919cb	https://github.com/ossf/malicious-packages/blob/84bcafbabf86607073d87ea7b4ae7f25c7b1644e/osv/malicious/pypi/testing1345/MAL-0000-kam193-48d6feb6315919cb.json
 testing1345	0.1.0	MAL-2026-19247	https://osv.dev/vulnerability/MAL-2026-19247
 testingiasdf1	2.31.10	MAL-2024-6115	https://osv.dev/vulnerability/MAL-2024-6115
 testingiasdf1	2.31.6	MAL-2024-6115	https://osv.dev/vulnerability/MAL-2024-6115
