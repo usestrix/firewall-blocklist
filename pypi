@@ -910,6 +910,7 @@ awsglueml	6.1.4	MAL-2025-2942	https://osv.dev/vulnerability/MAL-2025-2942
 awsutil	0.1.0	MAL-2025-192961	https://osv.dev/vulnerability/MAL-2025-192961
 awsutil	0.1.1	MAL-2025-192961	https://osv.dev/vulnerability/MAL-2025-192961
 awsutil	99.99.99	MAL-2025-192961	https://osv.dev/vulnerability/MAL-2025-192961
+axiom-dragon-xyz	1.0.4	MAL-0000-kam193-7bb0be864a1e4a0a	https://github.com/ossf/malicious-packages/blob/2dbf61e3c03cf22a04589b264899118ff9bf62b0/osv/malicious/pypi/axiom-dragon-xyz/MAL-0000-kam193-7bb0be864a1e4a0a.json
 axonify	1.0	MAL-2025-191688	https://osv.dev/vulnerability/MAL-2025-191688
 axonify	10.0	MAL-2025-191688	https://osv.dev/vulnerability/MAL-2025-191688
 axonify	6.2	MAL-2025-191688	https://osv.dev/vulnerability/MAL-2025-191688
