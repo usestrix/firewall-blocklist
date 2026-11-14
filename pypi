@@ -16284,6 +16284,8 @@ trc20-unlocker	1.0	MAL-2024-6167	https://osv.dev/vulnerability/MAL-2024-6167
 treadtools	1.0.0	MAL-2024-11733	https://osv.dev/vulnerability/MAL-2024-11733
 treadtools	1.0.1	MAL-2024-11733	https://osv.dev/vulnerability/MAL-2024-11733
 treeherder-submitter	0.0.1	MAL-2025-191910	https://osv.dev/vulnerability/MAL-2025-191910
+trezortranslate	0.0.0	MAL-0000-kam193-da5f11fa30f28362	https://github.com/ossf/malicious-packages/blob/53fa99a34b710c87f989854ecf8af54f02215f35/osv/malicious/pypi/trezortranslate/MAL-0000-kam193-da5f11fa30f28362.json
+trezortranslate	1.0.0	MAL-0000-kam193-da5f11fa30f28362	https://github.com/ossf/malicious-packages/blob/53fa99a34b710c87f989854ecf8af54f02215f35/osv/malicious/pypi/trezortranslate/MAL-0000-kam193-da5f11fa30f28362.json
 trickery	1.0.0	MAL-2026-3698	https://osv.dev/vulnerability/MAL-2026-3698
 trickery	1.0.1	MAL-2026-3698	https://osv.dev/vulnerability/MAL-2026-3698
 trijigo-kalip	1.0.0	MAL-2026-18114	https://osv.dev/vulnerability/MAL-2026-18114
