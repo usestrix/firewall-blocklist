@@ -3876,7 +3876,6 @@ systemd-daemon	0.0.1	MAL-2023-1434	https://osv.dev/vulnerability/MAL-2023-1434
 sz638fce	0.0.1	MAL-2026-8967	https://osv.dev/vulnerability/MAL-2026-8967
 taxjar-bundler	23.55.0	MAL-2024-7032	https://osv.dev/vulnerability/MAL-2024-7032
 tbxtestaquz	0.0.1	MAL-2026-8968	https://osv.dev/vulnerability/MAL-2026-8968
-tdesign-vue-mono	1.0.1	MAL-0000-amazon-inspector-a698c4c20872ce57	https://github.com/ossf/malicious-packages/blob/55ab4e91e1938e4cf7b564246866307c69774df6/osv/malicious/rubygems/tdesign-vue-mono/MAL-0000-amazon-inspector-a698c4c20872ce57.json
 tdesign-vue-mono	1.0.1	MAL-2026-19242	https://osv.dev/vulnerability/MAL-2026-19242
 teaspoon-devkit	0.1.0	MAL-2025-5146	https://osv.dev/vulnerability/MAL-2025-5146
 teaspoon-devkit	0.1.1	MAL-2025-5146	https://osv.dev/vulnerability/MAL-2025-5146
