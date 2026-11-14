@@ -11336,7 +11336,6 @@ pymaniac	7.0	MAL-2024-5743	https://osv.dev/vulnerability/MAL-2024-5743
 pymaniac	8.0	MAL-2024-5743	https://osv.dev/vulnerability/MAL-2024-5743
 pymaniac	9.0	MAL-2024-5743	https://osv.dev/vulnerability/MAL-2024-5743
 pymaniac	9.1	MAL-2024-5743	https://osv.dev/vulnerability/MAL-2024-5743
-pymatcha	0.1	MAL-0000-kam193-39eb2743f7904f3b	https://github.com/ossf/malicious-packages/blob/6d75b8279cefeaa9233ccd14b12424ec8fa68197/osv/malicious/pypi/pymatcha/MAL-0000-kam193-39eb2743f7904f3b.json
 pymatcha	0.1	MAL-2024-12332	https://osv.dev/vulnerability/MAL-2024-12332
 pymatcha	0.1.0	MAL-2024-12332	https://osv.dev/vulnerability/MAL-2024-12332
 pymem-win	1.14.0	MAL-2026-16128	https://osv.dev/vulnerability/MAL-2026-16128
@@ -14341,9 +14340,7 @@ spiderai	0.0.1	MAL-2024-12348	https://osv.dev/vulnerability/MAL-2024-12348
 spiderai	0.0.2	MAL-2024-12348	https://osv.dev/vulnerability/MAL-2024-12348
 spiderai	0.0.3	MAL-2024-12348	https://osv.dev/vulnerability/MAL-2024-12348
 spiderai	0.1.0	MAL-2024-12348	https://osv.dev/vulnerability/MAL-2024-12348
-spiderai	1.0	MAL-0000-kam193-0f04c6964c3cadcb	https://github.com/ossf/malicious-packages/blob/6d75b8279cefeaa9233ccd14b12424ec8fa68197/osv/malicious/pypi/spiderai/MAL-0000-kam193-0f04c6964c3cadcb.json
 spiderai	1.0	MAL-2024-12348	https://osv.dev/vulnerability/MAL-2024-12348
-spiderai	1.1	MAL-0000-kam193-0f04c6964c3cadcb	https://github.com/ossf/malicious-packages/blob/6d75b8279cefeaa9233ccd14b12424ec8fa68197/osv/malicious/pypi/spiderai/MAL-0000-kam193-0f04c6964c3cadcb.json
 spiderai	1.1	MAL-2024-12348	https://osv.dev/vulnerability/MAL-2024-12348
 spiderxr-ai	0.1.5	MAL-2024-11713	https://osv.dev/vulnerability/MAL-2024-11713
 spiderxr-ai	0.4	MAL-2024-11713	https://osv.dev/vulnerability/MAL-2024-11713
