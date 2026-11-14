@@ -910,6 +910,7 @@ awsglueml	6.1.4	MAL-2025-2942	https://osv.dev/vulnerability/MAL-2025-2942
 awsutil	0.1.0	MAL-2025-192961	https://osv.dev/vulnerability/MAL-2025-192961
 awsutil	0.1.1	MAL-2025-192961	https://osv.dev/vulnerability/MAL-2025-192961
 awsutil	99.99.99	MAL-2025-192961	https://osv.dev/vulnerability/MAL-2025-192961
+axiom-dragon-xyz	1.0.4	MAL-0000-amazon-inspector-e4ce1e726810b4fb	https://github.com/ossf/malicious-packages/blob/55ab4e91e1938e4cf7b564246866307c69774df6/osv/malicious/pypi/axiom-dragon-xyz/MAL-0000-amazon-inspector-e4ce1e726810b4fb.json
 axiom-dragon-xyz	1.0.4	MAL-2026-19289	https://osv.dev/vulnerability/MAL-2026-19289
 axonify	1.0	MAL-2025-191688	https://osv.dev/vulnerability/MAL-2025-191688
 axonify	10.0	MAL-2025-191688	https://osv.dev/vulnerability/MAL-2025-191688
@@ -9808,8 +9809,11 @@ prrompt-toolkit	*	MAL-2023-2019	https://osv.dev/vulnerability/MAL-2023-2019
 pruebasdemalware	1.5	MAL-2024-5572	https://osv.dev/vulnerability/MAL-2024-5572
 ps-bool	0.2.0	MAL-2026-19934	https://osv.dev/vulnerability/MAL-2026-19934
 ps-bool	0.2.1	MAL-2026-19934	https://osv.dev/vulnerability/MAL-2026-19934
+ps-bool	0.2.3	MAL-0000-amazon-inspector-b4774cf69e0f73b0	https://github.com/ossf/malicious-packages/blob/55ab4e91e1938e4cf7b564246866307c69774df6/osv/malicious/pypi/ps-bool/MAL-0000-amazon-inspector-b4774cf69e0f73b0.json
 ps-bool	0.2.3	MAL-2026-19934	https://osv.dev/vulnerability/MAL-2026-19934
+ps-bool	0.2.4	MAL-0000-amazon-inspector-d1639c1857cd8a9c	https://github.com/ossf/malicious-packages/blob/55ab4e91e1938e4cf7b564246866307c69774df6/osv/malicious/pypi/ps-bool/MAL-0000-amazon-inspector-d1639c1857cd8a9c.json
 ps-bool	0.2.4	MAL-2026-19934	https://osv.dev/vulnerability/MAL-2026-19934
+ps-bool	0.2.5	MAL-0000-amazon-inspector-5dcafa44d321e5c6	https://github.com/ossf/malicious-packages/blob/55ab4e91e1938e4cf7b564246866307c69774df6/osv/malicious/pypi/ps-bool/MAL-0000-amazon-inspector-5dcafa44d321e5c6.json
 ps-bool	0.2.5	MAL-2026-19934	https://osv.dev/vulnerability/MAL-2026-19934
 psbt-helpers	1.0.0	MAL-2026-11521	https://osv.dev/vulnerability/MAL-2026-11521
 psbt-utils	1.0.0	MAL-2026-11520	https://osv.dev/vulnerability/MAL-2026-11520
@@ -11922,6 +11926,7 @@ pyysocks	*	MAL-2023-2142	https://osv.dev/vulnerability/MAL-2023-2142
 pyython-binance	*	MAL-2023-2143	https://osv.dev/vulnerability/MAL-2023-2143
 pyytorch	*	MAL-2023-2144	https://osv.dev/vulnerability/MAL-2023-2144
 pyzelf	2.0.1	MAL-2024-10149	https://osv.dev/vulnerability/MAL-2024-10149
+qap793gl4l	0.1.1	MAL-0000-amazon-inspector-3e78b140d24e4de0	https://github.com/ossf/malicious-packages/blob/55ab4e91e1938e4cf7b564246866307c69774df6/osv/malicious/pypi/qap793gl4l/MAL-0000-amazon-inspector-3e78b140d24e4de0.json
 qap793gl4l	0.1.1	MAL-2026-19259	https://osv.dev/vulnerability/MAL-2026-19259
 qassabi	1.1.8	MAL-2025-964	https://osv.dev/vulnerability/MAL-2025-964
 qaxtest-httpx	1.1.1	MAL-2024-5840	https://osv.dev/vulnerability/MAL-2024-5840
