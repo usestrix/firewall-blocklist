@@ -4971,7 +4971,6 @@ gate-apis	2.33.0	MAL-2026-2630	https://osv.dev/vulnerability/MAL-2026-2630
 gateio-client	99.99.1	MAL-2026-19933	https://osv.dev/vulnerability/MAL-2026-19933
 gateio-sdk	99.99.1	MAL-2026-19936	https://osv.dev/vulnerability/MAL-2026-19936
 gateio-sdk	99.99.2	MAL-2026-19936	https://osv.dev/vulnerability/MAL-2026-19936
-gateio-v4	99.99.1	MAL-0000-kam193-acecc5214f539226	https://github.com/ossf/malicious-packages/blob/a3896a92a3d9127c8cbb326db1ce12d9385cbc5c/osv/malicious/pypi/gateio-v4/MAL-0000-kam193-acecc5214f539226.json
 gateio-v4	99.99.1	MAL-2026-19940	https://osv.dev/vulnerability/MAL-2026-19940
 gateio-ws	99.99.1	MAL-2026-19937	https://osv.dev/vulnerability/MAL-2026-19937
 gateio-ws	99.99.2	MAL-2026-19937	https://osv.dev/vulnerability/MAL-2026-19937
