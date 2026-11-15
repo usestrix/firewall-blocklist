@@ -147690,7 +147690,7 @@ node-xpnav	*	MAL-2025-49360	https://osv.dev/vulnerability/MAL-2025-49360
 node-youtube-dash-sidx	*	MAL-2025-27665	https://osv.dev/vulnerability/MAL-2025-27665
 node-zenvia	*	MAL-2025-27666	https://osv.dev/vulnerability/MAL-2025-27666
 node-zoodubbo	*	MAL-2025-27667	https://osv.dev/vulnerability/MAL-2025-27667
-node-zserial	1.0.42	MAL-0000-ghsa-malware-f772f85fa8bbb3a0	https://github.com/ossf/malicious-packages/blob/f805701f28c636d9fcc3d5378e9c5458b6c5d266/osv/malicious/npm/node-zserial/MAL-0000-ghsa-malware-f772f85fa8bbb3a0.json
+node-zserial	1.0.42	MAL-2026-19941	https://osv.dev/vulnerability/MAL-2026-19941
 node.js	*	MAL-2025-27668	https://osv.dev/vulnerability/MAL-2025-27668
 node10-earnest-db	*	MAL-2025-27669	https://osv.dev/vulnerability/MAL-2025-27669
 node_api_auth	*	MAL-2025-27670	https://osv.dev/vulnerability/MAL-2025-27670
