@@ -4974,7 +4974,7 @@ gateio-sdk	99.99.2	MAL-2026-19936	https://osv.dev/vulnerability/MAL-2026-19936
 gateio-v4	99.99.1	MAL-2026-19940	https://osv.dev/vulnerability/MAL-2026-19940
 gateio-ws	99.99.1	MAL-2026-19937	https://osv.dev/vulnerability/MAL-2026-19937
 gateio-ws	99.99.2	MAL-2026-19937	https://osv.dev/vulnerability/MAL-2026-19937
-gatepay-sdk-python	99.99.1	MAL-0000-kam193-9ea41e6fdee5681e	https://github.com/ossf/malicious-packages/blob/c6aab121e3e94166db4300f6e3d969eee156e4b0/osv/malicious/pypi/gatepay-sdk-python/MAL-0000-kam193-9ea41e6fdee5681e.json
+gatepay-sdk-python	99.99.1	MAL-2026-19942	https://osv.dev/vulnerability/MAL-2026-19942
 gateway-framework	0.1	MAL-2025-6508	https://osv.dev/vulnerability/MAL-2025-6508
 gateway-framework	0.2	MAL-2025-6508	https://osv.dev/vulnerability/MAL-2025-6508
 gateway-framework	0.3	MAL-2025-6508	https://osv.dev/vulnerability/MAL-2025-6508
