@@ -18626,7 +18626,6 @@
 @xxxfnbs21/hello-demo	0.1.8	MAL-2026-17876	https://osv.dev/vulnerability/MAL-2026-17876
 @xyrozero/baileys-mod	8.0.14	MAL-2026-18916	https://osv.dev/vulnerability/MAL-2026-18916
 @xyuxu/i18never	*	MAL-2025-192617	https://osv.dev/vulnerability/MAL-2025-192617
-@xzvbailss/baileys	*	MAL-0000-xzvbailss-baileys	https://github.com/ossf/malicious-packages/pull/1793
 @xzvbailss/baileys	1.0.0	MAL-2026-19946	https://osv.dev/vulnerability/MAL-2026-19946
 @xzvbailss/baileys	5.0.0	MAL-2026-19946	https://osv.dev/vulnerability/MAL-2026-19946
 @xzvbailss/baileys	6.0.0	MAL-2026-19946	https://osv.dev/vulnerability/MAL-2026-19946
