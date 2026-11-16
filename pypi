@@ -6426,6 +6426,7 @@ lbank-connector-pythons	2.1	MAL-2025-191644	https://osv.dev/vulnerability/MAL-20
 lbank-connector-pythons	2.2	MAL-2025-191644	https://osv.dev/vulnerability/MAL-2025-191644
 lbank-connector-pythons	2.3	MAL-2025-191644	https://osv.dev/vulnerability/MAL-2025-191644
 lcick	*	MAL-2023-1891	https://osv.dev/vulnerability/MAL-2023-1891
+ldk-node	0.7.9999	MAL-0000-kam193-44588499f90f7a3f	https://github.com/ossf/malicious-packages/blob/b5e9736fa8296b14a05b0356aa0ee001e3b38690/osv/malicious/pypi/ldk-node/MAL-0000-kam193-44588499f90f7a3f.json
 leakdeep	2.4.1	MAL-2026-17921	https://osv.dev/vulnerability/MAL-2026-17921
 leakdeep	2.4.5	MAL-2026-17921	https://osv.dev/vulnerability/MAL-2026-17921
 leakdeep	2.5.0	MAL-2026-17921	https://osv.dev/vulnerability/MAL-2026-17921
@@ -8228,6 +8229,7 @@ my-service-manager	1.0.5	MAL-2024-12309	https://osv.dev/vulnerability/MAL-2024-1
 my-service-manager	1.0.6	MAL-2024-12309	https://osv.dev/vulnerability/MAL-2024-12309
 my-service-manager	1.0.7	MAL-2024-12309	https://osv.dev/vulnerability/MAL-2024-12309
 my-signature	1.0.0	MAL-2026-19953	https://osv.dev/vulnerability/MAL-2026-19953
+my-signatureu	1.0.0	MAL-0000-kam193-a63d64043fd88f21	https://github.com/ossf/malicious-packages/blob/b5e9736fa8296b14a05b0356aa0ee001e3b38690/osv/malicious/pypi/my-signatureu/MAL-0000-kam193-a63d64043fd88f21.json
 my-super-lib	0.3.0	MAL-2026-1434	https://osv.dev/vulnerability/MAL-2026-1434
 my-super-lib	0.4.0	MAL-2026-1434	https://osv.dev/vulnerability/MAL-2026-1434
 my-super-lib	0.6.0	MAL-2026-1434	https://osv.dev/vulnerability/MAL-2026-1434
