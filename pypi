@@ -2892,6 +2892,7 @@ dekugay	1.0	MAL-2024-5035	https://osv.dev/vulnerability/MAL-2024-5035
 dell-recovery	99.99.99	MAL-2025-192305	https://osv.dev/vulnerability/MAL-2025-192305
 dell-restore-system	99.99.99	MAL-2025-192306	https://osv.dev/vulnerability/MAL-2025-192306
 demo-malicious-package	2022.12.7	MAL-2024-5036	https://osv.dev/vulnerability/MAL-2024-5036
+demo-pingtest-xyz	0.0.1	MAL-0000-amazon-inspector-ac5f1e73e5038ae7	https://github.com/ossf/malicious-packages/blob/68e687d1c83bb4d43bdc1ba2cb09d4c0d012f60a/osv/malicious/pypi/demo-pingtest-xyz/MAL-0000-amazon-inspector-ac5f1e73e5038ae7.json
 demo-pingtest-xyz	0.0.1	MAL-2026-19935	https://osv.dev/vulnerability/MAL-2026-19935
 demontonto	1.0.8	MAL-2024-5037	https://osv.dev/vulnerability/MAL-2024-5037
 demontonto1	1.0.8	MAL-2024-5038	https://osv.dev/vulnerability/MAL-2024-5038
@@ -4969,11 +4970,14 @@ garvisometerui	0.1.0	MAL-2026-19206	https://osv.dev/vulnerability/MAL-2026-19206
 garvisuite	0.1.0	MAL-2026-19184	https://osv.dev/vulnerability/MAL-2026-19184
 gate-apis	2.33.0	MAL-2026-2630	https://osv.dev/vulnerability/MAL-2026-2630
 gateio-client	99.99.1	MAL-2026-19933	https://osv.dev/vulnerability/MAL-2026-19933
+gateio-sdk	99.99.1	MAL-0000-amazon-inspector-50316b5fa5e78f5b	https://github.com/ossf/malicious-packages/blob/68e687d1c83bb4d43bdc1ba2cb09d4c0d012f60a/osv/malicious/pypi/gateio-sdk/MAL-0000-amazon-inspector-50316b5fa5e78f5b.json
 gateio-sdk	99.99.1	MAL-2026-19936	https://osv.dev/vulnerability/MAL-2026-19936
 gateio-sdk	99.99.2	MAL-2026-19936	https://osv.dev/vulnerability/MAL-2026-19936
 gateio-v4	99.99.1	MAL-2026-19940	https://osv.dev/vulnerability/MAL-2026-19940
+gateio-ws	99.99.1	MAL-0000-amazon-inspector-d69c1a6ef8056459	https://github.com/ossf/malicious-packages/blob/68e687d1c83bb4d43bdc1ba2cb09d4c0d012f60a/osv/malicious/pypi/gateio-ws/MAL-0000-amazon-inspector-d69c1a6ef8056459.json
 gateio-ws	99.99.1	MAL-2026-19937	https://osv.dev/vulnerability/MAL-2026-19937
 gateio-ws	99.99.2	MAL-2026-19937	https://osv.dev/vulnerability/MAL-2026-19937
+gatepay-sdk-python	99.99.1	MAL-0000-amazon-inspector-2d538d791bd87fe8	https://github.com/ossf/malicious-packages/blob/68e687d1c83bb4d43bdc1ba2cb09d4c0d012f60a/osv/malicious/pypi/gatepay-sdk-python/MAL-0000-amazon-inspector-2d538d791bd87fe8.json
 gatepay-sdk-python	99.99.1	MAL-2026-19942	https://osv.dev/vulnerability/MAL-2026-19942
 gateway-framework	0.1	MAL-2025-6508	https://osv.dev/vulnerability/MAL-2025-6508
 gateway-framework	0.2	MAL-2025-6508	https://osv.dev/vulnerability/MAL-2025-6508
@@ -8228,6 +8232,7 @@ my-service-manager	1.0.4	MAL-2024-12309	https://osv.dev/vulnerability/MAL-2024-1
 my-service-manager	1.0.5	MAL-2024-12309	https://osv.dev/vulnerability/MAL-2024-12309
 my-service-manager	1.0.6	MAL-2024-12309	https://osv.dev/vulnerability/MAL-2024-12309
 my-service-manager	1.0.7	MAL-2024-12309	https://osv.dev/vulnerability/MAL-2024-12309
+my-signature	1.0.0	MAL-0000-amazon-inspector-d4381e88116d4871	https://github.com/ossf/malicious-packages/blob/68e687d1c83bb4d43bdc1ba2cb09d4c0d012f60a/osv/malicious/pypi/my-signature/MAL-0000-amazon-inspector-d4381e88116d4871.json
 my-signature	1.0.0	MAL-2026-19953	https://osv.dev/vulnerability/MAL-2026-19953
 my-signatureu	1.0.0	MAL-2026-19955	https://osv.dev/vulnerability/MAL-2026-19955
 my-super-lib	0.3.0	MAL-2026-1434	https://osv.dev/vulnerability/MAL-2026-1434
@@ -15096,6 +15101,7 @@ testerpackage123	0.1	MAL-2024-11724	https://osv.dev/vulnerability/MAL-2024-11724
 testfiwldsd21233s	0.1	MAL-2024-6113	https://osv.dev/vulnerability/MAL-2024-6113
 testing1232	0.0.1	MAL-2024-6114	https://osv.dev/vulnerability/MAL-2024-6114
 testing123kk	10.0.5	MAL-2025-6336	https://osv.dev/vulnerability/MAL-2025-6336
+testing1345	0.1.0	MAL-0000-amazon-inspector-89784543a54361cc	https://github.com/ossf/malicious-packages/blob/68e687d1c83bb4d43bdc1ba2cb09d4c0d012f60a/osv/malicious/pypi/testing1345/MAL-0000-amazon-inspector-89784543a54361cc.json
 testing1345	0.1.0	MAL-2026-19247	https://osv.dev/vulnerability/MAL-2026-19247
 testingiasdf1	2.31.10	MAL-2024-6115	https://osv.dev/vulnerability/MAL-2024-6115
 testingiasdf1	2.31.6	MAL-2024-6115	https://osv.dev/vulnerability/MAL-2024-6115
@@ -16649,6 +16655,7 @@ urrllib3	*	MAL-2023-2346	https://osv.dev/vulnerability/MAL-2023-2346
 urz	0.1	MAL-2024-6189	https://osv.dev/vulnerability/MAL-2024-6189
 usar-agent	0.1.0	MAL-2025-2006	https://osv.dev/vulnerability/MAL-2025-2006
 usdm-minting-client	0.1.0	MAL-2026-19952	https://osv.dev/vulnerability/MAL-2026-19952
+usdm-minting-client	0.1.1	MAL-0000-amazon-inspector-3a76785d8f5b95d2	https://github.com/ossf/malicious-packages/blob/68e687d1c83bb4d43bdc1ba2cb09d4c0d012f60a/osv/malicious/pypi/usdm-minting-client/MAL-0000-amazon-inspector-3a76785d8f5b95d2.json
 usdm-minting-client	0.1.1	MAL-2026-19952	https://osv.dev/vulnerability/MAL-2026-19952
 usdm-minting-client	0.1.2	MAL-2026-19952	https://osv.dev/vulnerability/MAL-2026-19952
 usdm-minting-client	0.1.3	MAL-2026-19952	https://osv.dev/vulnerability/MAL-2026-19952
@@ -17376,6 +17383,7 @@ xoloxwmellxliq	0.0.0	MAL-2024-6248	https://osv.dev/vulnerability/MAL-2024-6248
 xoloyuaezcqixu	0.0.0	MAL-2025-41799	https://osv.dev/vulnerability/MAL-2025-41799
 xorg-renderproto	0.11.1	MAL-2025-41800	https://osv.dev/vulnerability/MAL-2025-41800
 xrfdc	0.0.0	MAL-2026-19932	https://osv.dev/vulnerability/MAL-2026-19932
+xrfdc	2.0	MAL-0000-amazon-inspector-bd1b72077d7e588c	https://github.com/ossf/malicious-packages/blob/68e687d1c83bb4d43bdc1ba2cb09d4c0d012f60a/osv/malicious/pypi/xrfdc/MAL-0000-amazon-inspector-bd1b72077d7e588c.json
 xrfdc	2.0	MAL-2026-19932	https://osv.dev/vulnerability/MAL-2026-19932
 xsilyxd	0.1	MAL-2024-11750	https://osv.dev/vulnerability/MAL-2024-11750
 xsltproc	0.0.0	MAL-2025-191937	https://osv.dev/vulnerability/MAL-2025-191937
