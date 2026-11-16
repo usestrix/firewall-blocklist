@@ -11046,7 +11046,6 @@
 @nab-trade/mnt-prod	*	MAL-2022-447	https://osv.dev/vulnerability/MAL-2022-447
 @nagular/core	1.0.67	MAL-2026-17499	https://osv.dev/vulnerability/MAL-2026-17499
 @nagular/router	2.2.1	MAL-2026-17500	https://osv.dev/vulnerability/MAL-2026-17500
-@nakano-cjs/baileys	*	MAL-0000-nakano-cjs-baileys	https://github.com/ossf/malicious-packages/pull/1780
 @nasddatax/common	*	MAL-2026-12323	https://osv.dev/vulnerability/MAL-2026-12323
 @nasdtickets/common	*	MAL-2026-12324	https://osv.dev/vulnerability/MAL-2026-12324
 @nationalgeographicsociety/ngsui-addons-react	*	MAL-2025-3058	https://osv.dev/vulnerability/MAL-2025-3058
