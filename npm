@@ -73043,6 +73043,11 @@ elaborate_walrus_z3n	*	MAL-2025-85028	https://osv.dev/vulnerability/MAL-2025-850
 elaborate_wolverine_z3n	*	MAL-2025-126135	https://osv.dev/vulnerability/MAL-2025-126135
 elabstest	*	MAL-2025-19304	https://osv.dev/vulnerability/MAL-2025-19304
 elaina-baileys	*	MAL-0000-elaina-baileys	https://github.com/ossf/malicious-packages/pull/1793
+elaina-baileys	0.0.0-stage	MAL-2026-19957	https://osv.dev/vulnerability/MAL-2026-19957
+elaina-baileys	1.0.0	MAL-2026-19957	https://osv.dev/vulnerability/MAL-2026-19957
+elaina-baileys	1.0.1	MAL-2026-19957	https://osv.dev/vulnerability/MAL-2026-19957
+elaina-baileys	1.0.2	MAL-2026-19957	https://osv.dev/vulnerability/MAL-2026-19957
+elaina-baileys	1.0.3	MAL-2026-19957	https://osv.dev/vulnerability/MAL-2026-19957
 elara-aurora-yaml-ophiuchus	*	MAL-2025-141862	https://osv.dev/vulnerability/MAL-2025-141862
 elara-auth-enif-prettier	*	MAL-2025-186691	https://osv.dev/vulnerability/MAL-2025-186691
 elara-backend-mira-corvus	*	MAL-2025-141863	https://osv.dev/vulnerability/MAL-2025-141863
@@ -80396,6 +80401,7 @@ express-javascript	5.2.1	MAL-2026-17242	https://osv.dev/vulnerability/MAL-2026-1
 express-javascript	5.2.2	MAL-2026-17242	https://osv.dev/vulnerability/MAL-2026-17242
 express-js-web	*	MAL-2025-192968	https://osv.dev/vulnerability/MAL-2025-192968
 express-jscookie	*	MAL-2025-4829	https://osv.dev/vulnerability/MAL-2025-4829
+express-json-database	*	MAL-2026-19958	https://osv.dev/vulnerability/MAL-2026-19958
 express-juggernaut	*	MAL-2025-20076	https://osv.dev/vulnerability/MAL-2025-20076
 express-jwt-v6	6.0.6	MAL-2024-7771	https://osv.dev/vulnerability/MAL-2024-7771
 express-langdetect	*	MAL-2025-20077	https://osv.dev/vulnerability/MAL-2025-20077
@@ -106779,6 +106785,7 @@ inland_ox_z3n	*	MAL-2025-95030	https://osv.dev/vulnerability/MAL-2025-95030
 inland_platypus_z3n	*	MAL-2025-98763	https://osv.dev/vulnerability/MAL-2025-98763
 inland_scallop_z3n	*	MAL-2025-120804	https://osv.dev/vulnerability/MAL-2025-120804
 inland_swan_z3n	*	MAL-2025-56848	https://osv.dev/vulnerability/MAL-2025-56848
+inline-array	*	MAL-2026-19959	https://osv.dev/vulnerability/MAL-2026-19959
 inline-dep	*	MAL-2025-44701	https://osv.dev/vulnerability/MAL-2025-44701
 inline-icons	69.69.70	MAL-2024-7746	https://osv.dev/vulnerability/MAL-2024-7746
 inline-icons	70.69.69	MAL-2024-7746	https://osv.dev/vulnerability/MAL-2024-7746
@@ -197631,6 +197638,7 @@ tailwindcss-merge	*	MAL-2026-5632	https://osv.dev/vulnerability/MAL-2026-5632
 tailwindcss-miranda-aquarius-duplex	*	MAL-2025-148447	https://osv.dev/vulnerability/MAL-2025-148447
 tailwindcss-morgan-xenon-prettier-plugin-markdown	*	MAL-2025-148448	https://osv.dev/vulnerability/MAL-2025-148448
 tailwindcss-motion-advanced	1.0.1	MAL-2026-13604	https://osv.dev/vulnerability/MAL-2026-13604
+tailwindcss-motion-toolkit	*	MAL-2026-19960	https://osv.dev/vulnerability/MAL-2026-19960
 tailwindcss-motionanimate	1.0.1	MAL-2026-18089	https://osv.dev/vulnerability/MAL-2026-18089
 tailwindcss-motionflex	*	MAL-2025-48598	https://osv.dev/vulnerability/MAL-2025-48598
 tailwindcss-oberon-fusion-virgo	*	MAL-2025-148449	https://osv.dev/vulnerability/MAL-2025-148449
@@ -205980,8 +205988,7 @@ testnpmnmp	1.0.21	MAL-2026-4691	https://osv.dev/vulnerability/MAL-2026-4691
 testone-avisheknayal	*	MAL-2024-1526	https://osv.dev/vulnerability/MAL-2024-1526
 testosu888	1.0.0	MAL-2026-17298	https://osv.dev/vulnerability/MAL-2026-17298
 testosu8887	1.0.1	MAL-2026-17299	https://osv.dev/vulnerability/MAL-2026-17299
-testpackage83	1.0.0	MAL-2026-19938	https://osv.dev/vulnerability/MAL-2026-19938
-testpackage83	1.0.1	MAL-2026-19938	https://osv.dev/vulnerability/MAL-2026-19938
+testpackage83	*	MAL-2026-19938	https://osv.dev/vulnerability/MAL-2026-19938
 testpackagehere	*	MAL-2022-6528	https://osv.dev/vulnerability/MAL-2022-6528
 testpacke	*	MAL-2025-147	https://osv.dev/vulnerability/MAL-2025-147
 testpackyeaaaa	*	MAL-2023-860	https://osv.dev/vulnerability/MAL-2023-860
