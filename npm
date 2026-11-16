@@ -4573,6 +4573,7 @@
 @devcrypto/hdwallet-provider	*	MAL-2022-201	https://osv.dev/vulnerability/MAL-2022-201
 @developmentyora/baileyss	*	MAL-2026-17439	https://osv.dev/vulnerability/MAL-2026-17439
 @developmentyora/yorakids	*	MAL-2026-17890	https://osv.dev/vulnerability/MAL-2026-17890
+@devforgespr/postcss-animation-toolkit	*	MAL-2026-20007	https://osv.dev/vulnerability/MAL-2026-20007
 @devgandhi/cpp	*	MAL-2026-705	https://osv.dev/vulnerability/MAL-2026-705
 @devgandhi/healthpulse	*	MAL-2026-706	https://osv.dev/vulnerability/MAL-2026-706
 @devil-fight/baileys	1.0.0	MAL-2026-18819	https://osv.dev/vulnerability/MAL-2026-18819
@@ -15215,6 +15216,8 @@
 @sflyinc-knapsack/shutterfly-react	*	MAL-2026-5393	https://osv.dev/vulnerability/MAL-2026-5393
 @sfunction/dsh-screenshot	0.1.1	MAL-2026-19931	https://osv.dev/vulnerability/MAL-2026-19931
 @shadowbyte/checkout-telemetry-agent	1.0.4	MAL-2025-34	https://osv.dev/vulnerability/MAL-2025-34
+@shadowdqj/image-mcp	*	MAL-2026-20008	https://osv.dev/vulnerability/MAL-2026-20008
+@shadowdu/memos-mcp	*	MAL-2026-20009	https://osv.dev/vulnerability/MAL-2026-20009
 @shadowmonarchx/eslint_plugin_react	*	MAL-2025-5758	https://osv.dev/vulnerability/MAL-2025-5758
 @shahwarhello/l2geth	0.5.11	MAL-2024-12084	https://osv.dev/vulnerability/MAL-2024-12084
 @shamim12_12/iniconfig	2.0.0	MAL-2024-2513	https://osv.dev/vulnerability/MAL-2024-2513
@@ -126803,6 +126806,7 @@ lodahsjs	1.0.0	MAL-2026-14181	https://osv.dev/vulnerability/MAL-2026-14181
 lodarshe	*	MAL-2023-8142	https://osv.dev/vulnerability/MAL-2023-8142
 lodaschisstring	*	MAL-2022-4356	https://osv.dev/vulnerability/MAL-2022-4356
 lodasfhmap	*	MAL-2022-4357	https://osv.dev/vulnerability/MAL-2022-4357
+lodash-base-unary	*	MAL-2026-20010	https://osv.dev/vulnerability/MAL-2026-20010
 lodash-electron	*	MAL-2024-1201	https://osv.dev/vulnerability/MAL-2024-1201
 lodash-ex	*	MAL-2026-11327	https://osv.dev/vulnerability/MAL-2026-11327
 lodash-fast	*	MAL-2025-25503	https://osv.dev/vulnerability/MAL-2025-25503
@@ -135336,6 +135340,7 @@ melted_whale-appteadev	*	MAL-2025-105791	https://osv.dev/vulnerability/MAL-2025-
 melted_whitefish_z3n	*	MAL-2025-105792	https://osv.dev/vulnerability/MAL-2025-105792
 melted_wren_dumbs	*	MAL-2025-105793	https://osv.dev/vulnerability/MAL-2025-105793
 meltrams	*	MAL-2025-26172	https://osv.dev/vulnerability/MAL-2025-26172
+mem0-mcp-server	*	MAL-2026-20011	https://osv.dev/vulnerability/MAL-2026-20011
 members.cdbaby.com	1.0.0	MAL-2025-3406	https://osv.dev/vulnerability/MAL-2025-3406
 membrane-astrophysics-fomalhaut-framework	*	MAL-2025-26173	https://osv.dev/vulnerability/MAL-2025-26173
 membrane-commitlint-config-angular-async-octans	*	MAL-2025-26174	https://osv.dev/vulnerability/MAL-2025-26174
@@ -138775,7 +138780,7 @@ mohamedsaqib	*	MAL-2024-9240	https://osv.dev/vulnerability/MAL-2024-9240
 mohammedazeem	*	MAL-2025-171590	https://osv.dev/vulnerability/MAL-2025-171590
 mohanpatel	*	MAL-2025-171591	https://osv.dev/vulnerability/MAL-2025-171591
 mohanverma	*	MAL-2025-171592	https://osv.dev/vulnerability/MAL-2025-171592
-moidevl	1.0.0	MAL-2026-16441	https://osv.dev/vulnerability/MAL-2026-16441
+moidevl	*	MAL-2026-16441	https://osv.dev/vulnerability/MAL-2026-16441
 moidevy	1.0.0	MAL-2026-14348	https://osv.dev/vulnerability/MAL-2026-14348
 mojacesta	*	MAL-2025-26614	https://osv.dev/vulnerability/MAL-2025-26614
 mojio-client-lite	*	MAL-2025-49366	https://osv.dev/vulnerability/MAL-2025-49366
@@ -197644,6 +197649,7 @@ tailwindcss-motion-toolkit	*	MAL-2026-19960	https://osv.dev/vulnerability/MAL-20
 tailwindcss-motionanimate	1.0.1	MAL-2026-18089	https://osv.dev/vulnerability/MAL-2026-18089
 tailwindcss-motionflex	*	MAL-2025-48598	https://osv.dev/vulnerability/MAL-2025-48598
 tailwindcss-oberon-fusion-virgo	*	MAL-2025-148449	https://osv.dev/vulnerability/MAL-2025-148449
+tailwindcss-pixel-tools	*	MAL-2026-20012	https://osv.dev/vulnerability/MAL-2026-20012
 tailwindcss-playwright-lacerta-hapi	*	MAL-2025-148450	https://osv.dev/vulnerability/MAL-2025-148450
 tailwindcss-process-enceladus-rehype	*	MAL-2025-34391	https://osv.dev/vulnerability/MAL-2025-34391
 tailwindcss-pulsar-hyperion-standard	*	MAL-2025-34392	https://osv.dev/vulnerability/MAL-2025-34392
@@ -221924,6 +221930,7 @@ vital_planarian_z3n	*	MAL-2025-137874	https://osv.dev/vulnerability/MAL-2025-137
 vital_swift_z3n	*	MAL-2025-66027	https://osv.dev/vulnerability/MAL-2025-66027
 vital_wasp_z3n	*	MAL-2025-97271	https://osv.dev/vulnerability/MAL-2025-97271
 vite-auditlog	*	MAL-2025-5209	https://osv.dev/vulnerability/MAL-2025-5209
+vite-auto-import-svg	*	MAL-2026-20013	https://osv.dev/vulnerability/MAL-2026-20013
 vite-babel-plugin-es6-promise	*	MAL-2025-48322	https://osv.dev/vulnerability/MAL-2025-48322
 vite-binding-js	7.11.8	MAL-2025-41613	https://osv.dev/vulnerability/MAL-2025-41613
 vite-chunk-master	*	MAL-2025-190176	https://osv.dev/vulnerability/MAL-2025-190176
@@ -222060,9 +222067,8 @@ vite-tsconfig-svg	*	MAL-2026-11497	https://osv.dev/vulnerability/MAL-2026-11497
 vite-tsconsole-log	*	MAL-2025-4289	https://osv.dev/vulnerability/MAL-2025-4289
 vite-ui-components	*	MAL-2026-669	https://osv.dev/vulnerability/MAL-2026-669
 vite-usageit	*	MAL-2025-5969	https://osv.dev/vulnerability/MAL-2025-5969
-vite-vue-path-map	1.0.0	MAL-2026-13465	https://osv.dev/vulnerability/MAL-2026-13465
-vite-vue-path-map	1.0.1	MAL-2026-13465	https://osv.dev/vulnerability/MAL-2026-13465
-vite-vue-path-map	1.0.2	MAL-2026-13465	https://osv.dev/vulnerability/MAL-2026-13465
+vite-utils-svg-icon	*	MAL-2026-20014	https://osv.dev/vulnerability/MAL-2026-20014
+vite-vue-path-map	*	MAL-2026-13465	https://osv.dev/vulnerability/MAL-2026-13465
 vite_ruby_monorepo	*	MAL-2025-1561	https://osv.dev/vulnerability/MAL-2025-1561
 vitejs-plugin-react-refresh	*	MAL-2025-6247	https://osv.dev/vulnerability/MAL-2025-6247
 vitejs-plugin-refresh	*	MAL-2025-5970	https://osv.dev/vulnerability/MAL-2025-5970
@@ -223310,6 +223316,7 @@ washinton	*	MAL-2025-38801	https://osv.dev/vulnerability/MAL-2025-38801
 wasitestforeducation	*	MAL-2025-3592	https://osv.dev/vulnerability/MAL-2025-3592
 wasm-bindgen	*	MAL-2025-192419	https://osv.dev/vulnerability/MAL-2025-192419
 wasm-ion-schema-test	*	MAL-2022-7045	https://osv.dev/vulnerability/MAL-2022-7045
+wasm-jzwl981	*	MAL-2026-20015	https://osv.dev/vulnerability/MAL-2026-20015
 wasm-test-adapter	*	MAL-2025-1509	https://osv.dev/vulnerability/MAL-2025-1509
 wasm-wasi-core	*	MAL-2025-5067	https://osv.dev/vulnerability/MAL-2025-5067
 wasmer-term	*	MAL-2025-1262	https://osv.dev/vulnerability/MAL-2025-1262
