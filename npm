@@ -116709,11 +116709,15 @@ karone	*	MAL-2025-24334	https://osv.dev/vulnerability/MAL-2025-24334
 kartyk-github-oidc-test-pkg	*	MAL-2026-16244	https://osv.dev/vulnerability/MAL-2026-16244
 kartyk-github-single-ver-pkg	*	MAL-2026-16245	https://osv.dev/vulnerability/MAL-2026-16245
 kartyk-github-token-pkg	*	MAL-2026-16246	https://osv.dev/vulnerability/MAL-2026-16246
+kartyk-test-unscoped-pkg	0.0.0-stage	MAL-2026-20016	https://osv.dev/vulnerability/MAL-2026-20016
+kartyk-test-unscoped-pkg	0.0.1	MAL-2026-20016	https://osv.dev/vulnerability/MAL-2026-20016
 kartykgithub-multiversion-a	1.0.0	MAL-2026-16272	https://osv.dev/vulnerability/MAL-2026-16272
 kartykgithub-multiversion-a	1.0.1	MAL-2026-16272	https://osv.dev/vulnerability/MAL-2026-16272
 kartykgithub-ph-b	0.0.1-security	MAL-2026-17424	https://osv.dev/vulnerability/MAL-2026-17424
 kartykgithub-ph-b	0.0.1-security.0	MAL-2026-17424	https://osv.dev/vulnerability/MAL-2026-17424
 kartykgithub-ph-b	1.0.0	MAL-2026-17424	https://osv.dev/vulnerability/MAL-2026-17424
+kartykgithub-ph-c	1.0.0	MAL-2026-20017	https://osv.dev/vulnerability/MAL-2026-20017
+kartykgithub-ph-d	1.0.0	MAL-2026-20018	https://osv.dev/vulnerability/MAL-2026-20018
 kartykgithub-ph-e	1.0.0	MAL-2026-17425	https://osv.dev/vulnerability/MAL-2026-17425
 kartykgithub-ph-f	1.0.0	MAL-2026-17426	https://osv.dev/vulnerability/MAL-2026-17426
 kartykgithub-takedown-a	1.0.0	MAL-2026-16248	https://osv.dev/vulnerability/MAL-2026-16248
