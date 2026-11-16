@@ -101387,8 +101387,8 @@ hsqwe	*	MAL-2023-1447	https://osv.dev/vulnerability/MAL-2023-1447
 hsqyyds	*	MAL-2022-3690	https://osv.dev/vulnerability/MAL-2022-3690
 hsreport	*	MAL-2025-22748	https://osv.dev/vulnerability/MAL-2025-22748
 hsrmap	*	MAL-2025-22749	https://osv.dev/vulnerability/MAL-2025-22749
-hstdemotest	*	MAL-0000-hstdemotest	https://github.com/ossf/malicious-packages/blob/f62cdd063d35cdd7ee9502d09c492fc371863baa/osv/malicious/npm/hstdemotest/MAL-0000-hstdemotest.json
-hstdemotests	*	MAL-0000-hstdemotests	https://github.com/ossf/malicious-packages/blob/f62cdd063d35cdd7ee9502d09c492fc371863baa/osv/malicious/npm/hstdemotests/MAL-0000-hstdemotests.json
+hstdemotest	*	MAL-2026-19948	https://osv.dev/vulnerability/MAL-2026-19948
+hstdemotests	*	MAL-2026-19949	https://osv.dev/vulnerability/MAL-2026-19949
 hstester	*	MAL-2025-22750	https://osv.dev/vulnerability/MAL-2025-22750
 hthb-entites	*	MAL-2022-3691	https://osv.dev/vulnerability/MAL-2022-3691
 htlparsevr2	*	MAL-2022-3692	https://osv.dev/vulnerability/MAL-2022-3692
@@ -206161,7 +206161,7 @@ tfjs-layers	*	MAL-2025-2422	https://osv.dev/vulnerability/MAL-2025-2422
 tfjs-vis	*	MAL-2025-6203	https://osv.dev/vulnerability/MAL-2025-6203
 tg-client-query-builder	2.14.4	MAL-2025-47350	https://osv.dev/vulnerability/MAL-2025-47350
 tg-client-query-builder	2.14.5	MAL-2025-47350	https://osv.dev/vulnerability/MAL-2025-47350
-tg-msg-effect	*	MAL-0000-tg-msg-effect	https://github.com/ossf/malicious-packages/blob/f62cdd063d35cdd7ee9502d09c492fc371863baa/osv/malicious/npm/tg-msg-effect/MAL-0000-tg-msg-effect.json
+tg-msg-effect	*	MAL-2026-19950	https://osv.dev/vulnerability/MAL-2026-19950
 tg-redbird	1.3.1	MAL-2025-47351	https://osv.dev/vulnerability/MAL-2025-47351
 tg-redbird	1.3.2	MAL-2025-47351	https://osv.dev/vulnerability/MAL-2025-47351
 tg-seq-gen	1.0.10	MAL-2025-47352	https://osv.dev/vulnerability/MAL-2025-47352
