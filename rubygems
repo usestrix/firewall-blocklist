@@ -3694,6 +3694,7 @@ sm8290nhgm	0.0.1	MAL-2026-8818	https://osv.dev/vulnerability/MAL-2026-8818
 sm8295yubf	0.0.1	MAL-2026-8819	https://osv.dev/vulnerability/MAL-2026-8819
 sol-mint-utils	0.9.1	MAL-2026-17795	https://osv.dev/vulnerability/MAL-2026-17795
 solaan-ruby	*	MAL-2026-17610	https://osv.dev/vulnerability/MAL-2026-17610
+solana-keypair	0.1.0	MAL-0000-amazon-inspector-a298aceb49327662	https://github.com/ossf/malicious-packages/blob/c5162539f2a994ca859d18fbb4ccf65695dbe2ba/osv/malicious/rubygems/solana-keypair/MAL-0000-amazon-inspector-a298aceb49327662.json
 sometestproxyywayle	0.0.1	MAL-2026-8820	https://osv.dev/vulnerability/MAL-2026-8820
 southdot	0.0.1	MAL-2026-8821	https://osv.dev/vulnerability/MAL-2026-8821
 southextractproxy2026	0.0.1	MAL-2026-8822	https://osv.dev/vulnerability/MAL-2026-8822
