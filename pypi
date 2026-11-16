@@ -8213,9 +8213,9 @@ my-package-jiecub3	1.4.0	MAL-2026-2962	https://osv.dev/vulnerability/MAL-2026-29
 my-package-jiecub3	1.5.0	MAL-2026-2962	https://osv.dev/vulnerability/MAL-2026-2962
 my-package-jiecub3	1.6.0	MAL-2026-2962	https://osv.dev/vulnerability/MAL-2026-2962
 my-pipeline-watcher-poc	99999.99999.1	MAL-2026-3218	https://osv.dev/vulnerability/MAL-2026-3218
-my-poc-sandbox	1.0.0	MAL-0000-kam193-47b35ec3d2d855cf	https://github.com/ossf/malicious-packages/blob/0fc895ddbba2b5df3c910191788e39f30d890c9a/osv/malicious/pypi/my-poc-sandbox/MAL-0000-kam193-47b35ec3d2d855cf.json
-my-poc-sandbox	1.0.1	MAL-0000-kam193-47b35ec3d2d855cf	https://github.com/ossf/malicious-packages/blob/0fc895ddbba2b5df3c910191788e39f30d890c9a/osv/malicious/pypi/my-poc-sandbox/MAL-0000-kam193-47b35ec3d2d855cf.json
-my-poc-sandbox	1.0.2	MAL-0000-kam193-47b35ec3d2d855cf	https://github.com/ossf/malicious-packages/blob/0fc895ddbba2b5df3c910191788e39f30d890c9a/osv/malicious/pypi/my-poc-sandbox/MAL-0000-kam193-47b35ec3d2d855cf.json
+my-poc-sandbox	1.0.0	MAL-2026-19951	https://osv.dev/vulnerability/MAL-2026-19951
+my-poc-sandbox	1.0.1	MAL-2026-19951	https://osv.dev/vulnerability/MAL-2026-19951
+my-poc-sandbox	1.0.2	MAL-2026-19951	https://osv.dev/vulnerability/MAL-2026-19951
 my-private-pkg	0.1.1	MAL-2026-17180	https://osv.dev/vulnerability/MAL-2026-17180
 my-private-pkg	99.1.1	MAL-2026-17180	https://osv.dev/vulnerability/MAL-2026-17180
 my-private-pkg	99.11.2	MAL-2026-17180	https://osv.dev/vulnerability/MAL-2026-17180
