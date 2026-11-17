@@ -39958,7 +39958,7 @@ base-ui-vue3	*	MAL-2026-270	https://osv.dev/vulnerability/MAL-2026-270
 base-upload	*	MAL-2025-15494	https://osv.dev/vulnerability/MAL-2025-15494
 base-x-64	*	MAL-2026-2320	https://osv.dev/vulnerability/MAL-2026-2320
 base-x-ts	*	MAL-2026-11246	https://osv.dev/vulnerability/MAL-2026-11246
-base128-x58	*	MAL-0000-base128-x58	https://github.com/ossf/malicious-packages/blob/5e56c0e6c7fc4eaf10c0400c90e9b622744db297/osv/malicious/npm/base128-x58/MAL-0000-base128-x58.json
+base128-x58	*	MAL-2026-20034	https://osv.dev/vulnerability/MAL-2026-20034
 base46	*	MAL-2022-1467	https://osv.dev/vulnerability/MAL-2022-1467
 base58-cli	*	MAL-2026-6918	https://osv.dev/vulnerability/MAL-2026-6918
 base58-core	*	MAL-2026-6445	https://osv.dev/vulnerability/MAL-2026-6445
@@ -39970,12 +39970,12 @@ base58-utils	1.0.3	MAL-2026-10606	https://osv.dev/vulnerability/MAL-2026-10606
 base58-utils	1.0.4	MAL-2026-10606	https://osv.dev/vulnerability/MAL-2026-10606
 base58-utils	1.0.5	MAL-2026-10606	https://osv.dev/vulnerability/MAL-2026-10606
 base58x64	*	MAL-2026-17988	https://osv.dev/vulnerability/MAL-2026-17988
-base60-58x	*	MAL-0000-base60-58x	https://github.com/ossf/malicious-packages/blob/5e56c0e6c7fc4eaf10c0400c90e9b622744db297/osv/malicious/npm/base60-58x/MAL-0000-base60-58x.json
+base60-58x	*	MAL-2026-20035	https://osv.dev/vulnerability/MAL-2026-20035
 base62-58x	*	MAL-2025-190624	https://osv.dev/vulnerability/MAL-2025-190624
 base62-86x	*	MAL-2026-6446	https://osv.dev/vulnerability/MAL-2026-6446
 base64-javascript	*	MAL-2022-1468	https://osv.dev/vulnerability/MAL-2022-1468
 base64-paypal	*	MAL-2025-15495	https://osv.dev/vulnerability/MAL-2025-15495
-base64-x58	*	MAL-0000-base64-x58	https://github.com/ossf/malicious-packages/blob/5e56c0e6c7fc4eaf10c0400c90e9b622744db297/osv/malicious/npm/base64-x58/MAL-0000-base64-x58.json
+base64-x58	*	MAL-2026-20036	https://osv.dev/vulnerability/MAL-2026-20036
 base65-11x	*	MAL-2026-13745	https://osv.dev/vulnerability/MAL-2026-13745
 base65-12x	*	MAL-2026-13746	https://osv.dev/vulnerability/MAL-2026-13746
 base65-13x	*	MAL-2026-13747	https://osv.dev/vulnerability/MAL-2026-13747
@@ -45061,7 +45061,7 @@ bs58-12	*	MAL-2026-13759	https://osv.dev/vulnerability/MAL-2026-13759
 bs58-13	*	MAL-2026-13760	https://osv.dev/vulnerability/MAL-2026-13760
 bs58-15	6.0.1	MAL-2026-13964	https://osv.dev/vulnerability/MAL-2026-13964
 bs58-33	6.0.1	MAL-2026-14017	https://osv.dev/vulnerability/MAL-2026-14017
-bs58-60	*	MAL-0000-bs58-60	https://github.com/ossf/malicious-packages/blob/5e56c0e6c7fc4eaf10c0400c90e9b622744db297/osv/malicious/npm/bs58-60/MAL-0000-bs58-60.json
+bs58-60	*	MAL-2026-20037	https://osv.dev/vulnerability/MAL-2026-20037
 bs58-77	6.0.1	MAL-2026-14018	https://osv.dev/vulnerability/MAL-2026-14018
 bs58-86	*	MAL-2026-6448	https://osv.dev/vulnerability/MAL-2026-6448
 bs58-88	*	MAL-2026-11023	https://osv.dev/vulnerability/MAL-2026-11023
@@ -78870,7 +78870,7 @@ ethers-transactions	*	MAL-2024-1306	https://osv.dev/vulnerability/MAL-2024-1306
 ethers-util	*	MAL-2025-19892	https://osv.dev/vulnerability/MAL-2025-19892
 ethers-util.js	*	MAL-2025-19893	https://osv.dev/vulnerability/MAL-2025-19893
 ethers-v6	*	MAL-2026-11297	https://osv.dev/vulnerability/MAL-2026-11297
-ethers-wallet-latest	*	MAL-0000-ethers-wallet-latest	https://github.com/ossf/malicious-packages/blob/5e56c0e6c7fc4eaf10c0400c90e9b622744db297/osv/malicious/npm/ethers-wallet-latest/MAL-0000-ethers-wallet-latest.json
+ethers-wallet-latest	*	MAL-2026-20038	https://osv.dev/vulnerability/MAL-2026-20038
 ethers-wallet-package	*	MAL-2026-4553	https://osv.dev/vulnerability/MAL-2026-4553
 ethers-wallet-packages	*	MAL-2026-4554	https://osv.dev/vulnerability/MAL-2026-4554
 ethers-web	1.0.0	MAL-2026-3711	https://osv.dev/vulnerability/MAL-2026-3711
@@ -147290,7 +147290,7 @@ node-backup	*	MAL-2025-27606	https://osv.dev/vulnerability/MAL-2025-27606
 node-base58	*	MAL-2025-49262	https://osv.dev/vulnerability/MAL-2025-49262
 node-bbael	*	MAL-2022-4877	https://osv.dev/vulnerability/MAL-2022-4877
 node-box-config	*	MAL-2025-27607	https://osv.dev/vulnerability/MAL-2025-27607
-node-bs58.js	*	MAL-0000-node-bs58.js	https://github.com/ossf/malicious-packages/blob/5e56c0e6c7fc4eaf10c0400c90e9b622744db297/osv/malicious/npm/node-bs58.js/MAL-0000-node-bs58.js.json
+node-bs58.js	*	MAL-2026-20039	https://osv.dev/vulnerability/MAL-2026-20039
 node-buc	*	MAL-2025-27608	https://osv.dev/vulnerability/MAL-2025-27608
 node-buildpack-test-app	0.0.0	MAL-2025-6296	https://osv.dev/vulnerability/MAL-2025-6296
 node-buildpack-test-app	0.0.1	MAL-2025-6296	https://osv.dev/vulnerability/MAL-2025-6296
@@ -150420,7 +150420,7 @@ npm-apply	*	MAL-2025-27825	https://osv.dev/vulnerability/MAL-2025-27825
 npm-babel-parser	*	MAL-2025-27826	https://osv.dev/vulnerability/MAL-2025-27826
 npm-base-template	*	MAL-2023-8600	https://osv.dev/vulnerability/MAL-2023-8600
 npm-bomb	*	MAL-2025-27827	https://osv.dev/vulnerability/MAL-2025-27827
-npm-bs58.js	*	MAL-0000-npm-bs58.js	https://github.com/ossf/malicious-packages/blob/5e56c0e6c7fc4eaf10c0400c90e9b622744db297/osv/malicious/npm/npm-bs58.js/MAL-0000-npm-bs58.js.json
+npm-bs58.js	*	MAL-2026-20040	https://osv.dev/vulnerability/MAL-2026-20040
 npm-bug-bounty-test1-rhyselsmore	1.0.5	MAL-2026-6354	https://osv.dev/vulnerability/MAL-2026-6354
 npm-builderio-qwik-poc	*	MAL-2026-4623	https://osv.dev/vulnerability/MAL-2026-4623
 npm-builders	*	MAL-2026-1345	https://osv.dev/vulnerability/MAL-2026-1345
