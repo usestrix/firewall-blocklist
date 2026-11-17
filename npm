@@ -18306,7 +18306,6 @@
 @whalent/agent	0.3.297	MAL-2026-10721	https://osv.dev/vulnerability/MAL-2026-10721
 @whalent/agent	0.3.298	MAL-2026-10721	https://osv.dev/vulnerability/MAL-2026-10721
 @whalent/agent	0.3.302	MAL-2026-10721	https://osv.dev/vulnerability/MAL-2026-10721
-@whalent/agent	0.3.358	MAL-0000-whalent-agent	https://github.com/ossf/malicious-packages/pull/1462
 @whalent/agent-core	0.3.230	MAL-2026-10722	https://osv.dev/vulnerability/MAL-2026-10722
 @whalent/agent-core	0.3.231	MAL-2026-10722	https://osv.dev/vulnerability/MAL-2026-10722
 @whalent/agent-core	0.3.232	MAL-2026-10722	https://osv.dev/vulnerability/MAL-2026-10722
