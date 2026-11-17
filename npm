@@ -17625,6 +17625,7 @@
 @user-services/web-components	*	MAL-2026-16379	https://osv.dev/vulnerability/MAL-2026-16379
 @utilcode/simple-http	*	MAL-2025-9588	https://osv.dev/vulnerability/MAL-2025-9588
 @utilitycraft/tailwindcss-motion-atelier	*	MAL-2026-18468	https://osv.dev/vulnerability/MAL-2026-18468
+@utilityforge/dynamic-interface-kit	*	MAL-0000-ghsa-malware-14b256620c57bc89	https://github.com/ossf/malicious-packages/blob/decd9e6f60ae1c5ac650b4477aed73a8f0f8eef4/osv/malicious/npm/@utilityforge/dynamic-interface-kit/MAL-0000-ghsa-malware-14b256620c57bc89.json
 @uw010010/vite-tree	*	MAL-2026-10470	https://osv.dev/vulnerability/MAL-2026-10470
 @uwr/colors	1.3.6	MAL-2026-10179	https://osv.dev/vulnerability/MAL-2026-10179
 @ux-foundry/palette	*	MAL-2026-264	https://osv.dev/vulnerability/MAL-2026-264
@@ -86204,6 +86205,7 @@ flexible-amaranth-haddock	*	MAL-2025-68359	https://osv.dev/vulnerability/MAL-202
 flexible-aquamarine-bedbug	*	MAL-2025-68360	https://osv.dev/vulnerability/MAL-2025-68360
 flexible-blush-coyote	*	MAL-2025-138724	https://osv.dev/vulnerability/MAL-2025-138724
 flexible-gray-anaconda	*	MAL-2025-68361	https://osv.dev/vulnerability/MAL-2025-68361
+flexible-layout-tools	*	MAL-0000-ghsa-malware-070e0c65b272bac1	https://github.com/ossf/malicious-packages/blob/decd9e6f60ae1c5ac650b4477aed73a8f0f8eef4/osv/malicious/npm/flexible-layout-tools/MAL-0000-ghsa-malware-070e0c65b272bac1.json
 flexible-loggers	*	MAL-2025-3888	https://osv.dev/vulnerability/MAL-2025-3888
 flexible-plum-chicken	*	MAL-2025-138725	https://osv.dev/vulnerability/MAL-2025-138725
 flexible-sapphire-spider	*	MAL-2025-138726	https://osv.dev/vulnerability/MAL-2025-138726
@@ -175032,6 +175034,7 @@ reject-sun-wind-refactor-compress	*	MAL-2025-32042	https://osv.dev/vulnerability
 reject-uglify-phi-xml-quick	*	MAL-2025-32043	https://osv.dev/vulnerability/MAL-2025-32043
 rejoice-opaline-dil653-project	*	MAL-2025-32044	https://osv.dev/vulnerability/MAL-2025-32044
 rekilog	*	MAL-2025-2408	https://osv.dev/vulnerability/MAL-2025-2408
+rel-zone	9.0.0	MAL-0000-ghsa-malware-6f64f102d0178d11	https://github.com/ossf/malicious-packages/blob/decd9e6f60ae1c5ac650b4477aed73a8f0f8eef4/osv/malicious/npm/rel-zone/MAL-0000-ghsa-malware-6f64f102d0178d11.json
 relap-ui	*	MAL-2022-5737	https://osv.dev/vulnerability/MAL-2022-5737
 relap-widgets	*	MAL-2022-5738	https://osv.dev/vulnerability/MAL-2022-5738
 related-jade-peafowl	*	MAL-2025-70269	https://osv.dev/vulnerability/MAL-2025-70269
