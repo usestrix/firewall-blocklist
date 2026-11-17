@@ -15951,6 +15951,7 @@
 @support-editor/mts-editor-dist	*	MAL-2025-3810	https://osv.dev/vulnerability/MAL-2025-3810
 @suraj_h/medium-common	1.0.5	MAL-2025-191054	https://osv.dev/vulnerability/MAL-2025-191054
 @suruj/scan-dog	*	MAL-2026-20070	https://osv.dev/vulnerability/MAL-2026-20070
+@suruj/tsc-p2p	*	MAL-0000-ghsa-malware-c418a8cf63a30375	https://github.com/ossf/malicious-packages/blob/ec2fe0b189e39e58ccfa929000a88dbb05045c42/osv/malicious/npm/@suruj/tsc-p2p/MAL-0000-ghsa-malware-c418a8cf63a30375.json
 @sw-commons-components/message-upsell	*	MAL-2026-11452	https://osv.dev/vulnerability/MAL-2026-11452
 @swenkerorg/accusantium-aut	*	MAL-2025-42703	https://osv.dev/vulnerability/MAL-2025-42703
 @swenkerorg/cum-nostrum-hic	*	MAL-2025-42704	https://osv.dev/vulnerability/MAL-2025-42704
@@ -27476,6 +27477,7 @@ afraid_wasp_z3n	*	MAL-2025-76755	https://osv.dev/vulnerability/MAL-2025-76755
 afraid_wildfowl_z3n	*	MAL-2025-93167	https://osv.dev/vulnerability/MAL-2025-93167
 aframe-vimeo-component	*	MAL-2022-888	https://osv.dev/vulnerability/MAL-2022-888
 afrasa	*	MAL-2025-14145	https://osv.dev/vulnerability/MAL-2025-14145
+afreumtoolkits	*	MAL-0000-ghsa-malware-5198fbad8a81a217	https://github.com/ossf/malicious-packages/blob/ec2fe0b189e39e58ccfa929000a88dbb05045c42/osv/malicious/npm/afreumtoolkits/MAL-0000-ghsa-malware-5198fbad8a81a217.json
 afri-zidan-tea	*	MAL-2025-172730	https://osv.dev/vulnerability/MAL-2025-172730
 afrii-zidan-tea	*	MAL-2025-172731	https://osv.dev/vulnerability/MAL-2025-172731
 afriii-zidan-tea	*	MAL-2025-172732	https://osv.dev/vulnerability/MAL-2025-172732
@@ -210517,7 +210519,9 @@ tsc-ai	*	MAL-2026-20072	https://osv.dev/vulnerability/MAL-2026-20072
 tsc-aws-s3	1.0.1	MAL-2024-8009	https://osv.dev/vulnerability/MAL-2024-8009
 tsc-lotl	*	MAL-2026-20073	https://osv.dev/vulnerability/MAL-2026-20073
 tsc-mesh	*	MAL-2026-20074	https://osv.dev/vulnerability/MAL-2026-20074
+tsc-p2pnet	*	MAL-0000-ghsa-malware-1d2f0b13fa795ed8	https://github.com/ossf/malicious-packages/blob/ec2fe0b189e39e58ccfa929000a88dbb05045c42/osv/malicious/npm/tsc-p2pnet/MAL-0000-ghsa-malware-1d2f0b13fa795ed8.json
 tsc-polymorph	*	MAL-2026-20075	https://osv.dev/vulnerability/MAL-2026-20075
+tsc-wireshift	*	MAL-0000-ghsa-malware-9627b8faed8f34d8	https://github.com/ossf/malicious-packages/blob/ec2fe0b189e39e58ccfa929000a88dbb05045c42/osv/malicious/npm/tsc-wireshift/MAL-0000-ghsa-malware-9627b8faed8f34d8.json
 tsclient.engage.aperture	10.10.10	MAL-2024-11475	https://osv.dev/vulnerability/MAL-2024-11475
 tsclust	*	MAL-2025-37257	https://osv.dev/vulnerability/MAL-2025-37257
 tscom-geo	99.99.9	MAL-2026-1868	https://osv.dev/vulnerability/MAL-2026-1868
