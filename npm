@@ -218202,10 +218202,9 @@ valuedex-sdk	3.0.5	MAL-2025-191446	https://osv.dev/vulnerability/MAL-2025-191446
 valutec	*	MAL-2025-38076	https://osv.dev/vulnerability/MAL-2025-38076
 valvo-custom-bs	*	MAL-2025-38077	https://osv.dev/vulnerability/MAL-2025-38077
 valzey	*	MAL-2025-71400	https://osv.dev/vulnerability/MAL-2025-71400
-vamp-mcp	0.2.3	MAL-0000-ghsa-malware-c954c19fb756f37e	https://github.com/ossf/malicious-packages/blob/7ad1ce31edf028795af0117e789989518cd5935c/osv/malicious/npm/vamp-mcp/MAL-0000-ghsa-malware-c954c19fb756f37e.json
-vamp-mcp	0.2.4	MAL-0000-ghsa-malware-c954c19fb756f37e	https://github.com/ossf/malicious-packages/blob/7ad1ce31edf028795af0117e789989518cd5935c/osv/malicious/npm/vamp-mcp/MAL-0000-ghsa-malware-c954c19fb756f37e.json
+vamp-mcp	0.2.3	MAL-2026-20061	https://osv.dev/vulnerability/MAL-2026-20061
 vamp-mcp	0.2.4	MAL-2026-20061	https://osv.dev/vulnerability/MAL-2026-20061
-vamp-mcp	0.2.5	MAL-0000-ghsa-malware-c954c19fb756f37e	https://github.com/ossf/malicious-packages/blob/7ad1ce31edf028795af0117e789989518cd5935c/osv/malicious/npm/vamp-mcp/MAL-0000-ghsa-malware-c954c19fb756f37e.json
+vamp-mcp	0.2.5	MAL-2026-20061	https://osv.dev/vulnerability/MAL-2026-20061
 vampuleerl	*	MAL-2025-38078	https://osv.dev/vulnerability/MAL-2025-38078
 vamsiproj	*	MAL-2025-38079	https://osv.dev/vulnerability/MAL-2025-38079
 vanabell	*	MAL-2025-38080	https://osv.dev/vulnerability/MAL-2025-38080
