@@ -112004,7 +112004,7 @@ jaynan	*	MAL-2025-23699	https://osv.dev/vulnerability/MAL-2025-23699
 jayo555	*	MAL-2025-68999	https://osv.dev/vulnerability/MAL-2025-68999
 jayparser	*	MAL-2025-23700	https://osv.dev/vulnerability/MAL-2025-23700
 jayqwipzmrogfklh	*	MAL-2022-4004	https://osv.dev/vulnerability/MAL-2022-4004
-jaysift	1.5.0	MAL-0000-ghsa-malware-04e9f0c580ea7a51	https://github.com/ossf/malicious-packages/blob/fe49f58745bf944baf04e4463cdf64f0a3ef8c8f/osv/malicious/npm/jaysift/MAL-0000-ghsa-malware-04e9f0c580ea7a51.json
+jaysift	1.5.0	MAL-2026-20055	https://osv.dev/vulnerability/MAL-2026-20055
 jazz_services-handler	*	MAL-2025-1602	https://osv.dev/vulnerability/MAL-2025-1602
 jazz_token-authorizer	*	MAL-2025-197	https://osv.dev/vulnerability/MAL-2025-197
 jb-abtest	*	MAL-2025-23701	https://osv.dev/vulnerability/MAL-2025-23701
