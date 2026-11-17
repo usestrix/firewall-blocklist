@@ -187882,8 +187882,8 @@ singlestore-avro-sample	>=1001.0.1	MAL-2025-6856	https://osv.dev/vulnerability/M
 singlewire-components	1.0.0	MAL-2025-4195	https://osv.dev/vulnerability/MAL-2025-4195
 singlewire-components	12.0.0	MAL-2025-4195	https://osv.dev/vulnerability/MAL-2025-4195
 singpass-myinfo-oidc-helper	0.0.1	MAL-0000-singpass-myinfo-oidc-helper	https://github.com/ossf/malicious-packages/pull/1800
-singpass-myinfo-oidc-helper	0.0.2	MAL-0000-ossf-package-analysis-d0a839ddd03981e9	https://github.com/ossf/malicious-packages/blob/38e12873c3e737c592470b02fd572d43b81949a6/osv/malicious/npm/singpass-myinfo-oidc-helper/MAL-0000-ossf-package-analysis-d0a839ddd03981e9.json
 singpass-myinfo-oidc-helper	0.0.2	MAL-0000-singpass-myinfo-oidc-helper	https://github.com/ossf/malicious-packages/pull/1800
+singpass-myinfo-oidc-helper	0.0.2	MAL-2026-20062	https://osv.dev/vulnerability/MAL-2026-20062
 singularitarianism-cybernetics-geckodriver-accretion	*	MAL-2025-33290	https://osv.dev/vulnerability/MAL-2025-33290
 singularitarianism-eleventy-gridsome-lint-staged	*	MAL-2025-33291	https://osv.dev/vulnerability/MAL-2025-33291
 singularitarianism-europa-spectroscopy-lithosphere	*	MAL-2025-189504	https://osv.dev/vulnerability/MAL-2025-189504
