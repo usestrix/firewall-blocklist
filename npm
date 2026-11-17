@@ -6313,6 +6313,7 @@
 @finaxis/common-js	0.3.5	MAL-2026-14064	https://osv.dev/vulnerability/MAL-2026-14064
 @finaxis/common-js	0.3.6	MAL-2026-14064	https://osv.dev/vulnerability/MAL-2026-14064
 @finaxis/common-js	0.3.8	MAL-2026-14064	https://osv.dev/vulnerability/MAL-2026-14064
+@finxsecdemo/utils	*	MAL-0000-ghsa-malware-6c07322e7c82c51b	https://github.com/ossf/malicious-packages/blob/90637b1cf1cee4541733652b6d0b2042929a3193/osv/malicious/npm/@finxsecdemo/utils/MAL-0000-ghsa-malware-6c07322e7c82c51b.json
 @finxsecdemo/utils	1.0.2	MAL-2026-11170	https://osv.dev/vulnerability/MAL-2026-11170
 @finxsecdemo/utils	1.0.3	MAL-2026-11170	https://osv.dev/vulnerability/MAL-2026-11170
 @finzzcloud/baileys	*	MAL-2026-19996	https://osv.dev/vulnerability/MAL-2026-19996
@@ -185701,6 +185702,7 @@ sendgst	*	MAL-2025-32947	https://osv.dev/vulnerability/MAL-2025-32947
 sendinblue2019	*	MAL-2025-867	https://osv.dev/vulnerability/MAL-2025-867
 sendmoneyserv	*	MAL-2025-2485	https://osv.dev/vulnerability/MAL-2025-2485
 sendtelegram	*	MAL-2023-770	https://osv.dev/vulnerability/MAL-2023-770
+sendy-kaitoz11	*	MAL-0000-ghsa-malware-bb1f26e87a6eb1bc	https://github.com/ossf/malicious-packages/blob/90637b1cf1cee4541733652b6d0b2042929a3193/osv/malicious/npm/sendy-kaitoz11/MAL-0000-ghsa-malware-bb1f26e87a6eb1bc.json
 senecacli	*	MAL-2025-32948	https://osv.dev/vulnerability/MAL-2025-32948
 senginx	*	MAL-2025-32949	https://osv.dev/vulnerability/MAL-2025-32949
 senior-blue-yak	*	MAL-2025-70526	https://osv.dev/vulnerability/MAL-2025-70526
