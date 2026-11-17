@@ -39964,6 +39964,10 @@ base-upload	*	MAL-2025-15494	https://osv.dev/vulnerability/MAL-2025-15494
 base-x-64	*	MAL-2026-2320	https://osv.dev/vulnerability/MAL-2026-2320
 base-x-ts	*	MAL-2026-11246	https://osv.dev/vulnerability/MAL-2026-11246
 base128-x58	*	MAL-2026-20034	https://osv.dev/vulnerability/MAL-2026-20034
+base128-x58-1	0.0.1	MAL-0000-base128-x58-1	https://github.com/ossf/malicious-packages/pull/1798
+base128-x58-1	0.0.2	MAL-0000-base128-x58-1	https://github.com/ossf/malicious-packages/pull/1798
+base128-x58-1	0.0.3	MAL-0000-base128-x58-1	https://github.com/ossf/malicious-packages/pull/1798
+base128-x58-1	0.0.4	MAL-0000-base128-x58-1	https://github.com/ossf/malicious-packages/pull/1798
 base46	*	MAL-2022-1467	https://osv.dev/vulnerability/MAL-2022-1467
 base58-cli	*	MAL-2026-6918	https://osv.dev/vulnerability/MAL-2026-6918
 base58-core	*	MAL-2026-6445	https://osv.dev/vulnerability/MAL-2026-6445
@@ -39977,6 +39981,7 @@ base58-utils	1.0.5	MAL-2026-10606	https://osv.dev/vulnerability/MAL-2026-10606
 base58x64	*	MAL-2026-17988	https://osv.dev/vulnerability/MAL-2026-17988
 base60-58x	*	MAL-2026-20035	https://osv.dev/vulnerability/MAL-2026-20035
 base62-58x	*	MAL-2025-190624	https://osv.dev/vulnerability/MAL-2025-190624
+base62-85x	5.0.4	MAL-0000-base62-85x	https://github.com/ossf/malicious-packages/pull/1798
 base62-86x	*	MAL-2026-6446	https://osv.dev/vulnerability/MAL-2026-6446
 base64-javascript	*	MAL-2022-1468	https://osv.dev/vulnerability/MAL-2022-1468
 base64-paypal	*	MAL-2025-15495	https://osv.dev/vulnerability/MAL-2025-15495
@@ -48340,6 +48345,7 @@ canvas-nest.js	2.1.4	MAL-2026-4131	https://osv.dev/vulnerability/MAL-2026-4131
 canvas-nest.js	2.2.4	MAL-2026-4131	https://osv.dev/vulnerability/MAL-2026-4131
 canvas-text-colorizer	*	MAL-2023-158	https://osv.dev/vulnerability/MAL-2023-158
 canvas-to	*	MAL-2026-11254	https://osv.dev/vulnerability/MAL-2026-11254
+canvas_webgl_minimal	11.11.13	MAL-0000-canvas_webgl_minimal	https://github.com/ossf/malicious-packages/pull/1798
 canvasbars	*	MAL-2025-16503	https://osv.dev/vulnerability/MAL-2025-16503
 canvasino	*	MAL-2025-16504	https://osv.dev/vulnerability/MAL-2025-16504
 canvaskit-local	*	MAL-2024-10898	https://osv.dev/vulnerability/MAL-2024-10898
@@ -162224,6 +162230,7 @@ playwright-bellatrix-postcss-loader-query	*	MAL-2025-146273	https://osv.dev/vuln
 playwright-centaurus-mira-weywot	*	MAL-2025-146274	https://osv.dev/vulnerability/MAL-2025-146274
 playwright-chakra-ui-ora-hapi	*	MAL-2025-146275	https://osv.dev/vulnerability/MAL-2025-146275
 playwright-cli-antares-lynx	*	MAL-2025-146276	https://osv.dev/vulnerability/MAL-2025-146276
+playwright-config	20.20.20	MAL-0000-playwright-config	https://github.com/ossf/malicious-packages/pull/1798
 playwright-config-pdffiller	>=999.0.0	MAL-2025-6751	https://osv.dev/vulnerability/MAL-2025-6751
 playwright-config-titan-greatfilter	*	MAL-2025-45567	https://osv.dev/vulnerability/MAL-2025-45567
 playwright-cors-bulma-mensa	*	MAL-2025-146277	https://osv.dev/vulnerability/MAL-2025-146277
