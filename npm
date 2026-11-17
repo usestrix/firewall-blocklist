@@ -1511,6 +1511,7 @@
 @anemone95/evil	*	MAL-2022-77	https://osv.dev/vulnerability/MAL-2022-77
 @anfular/core	22.2.1	MAL-2026-17533	https://osv.dev/vulnerability/MAL-2026-17533
 @angjlar/core	22.2.1	MAL-2026-17534	https://osv.dev/vulnerability/MAL-2026-17534
+@angkasabaileys/baileys	1.0.1	MAL-0000-angkasabaileys-baileys	https://github.com/ossf/malicious-packages/pull/1793
 @anguar/core	22.2.1	MAL-2026-17535	https://osv.dev/vulnerability/MAL-2026-17535
 @angulaar/cli	22.2.1	MAL-2026-17536	https://osv.dev/vulnerability/MAL-2026-17536
 @angulaar/core	22.2.1	MAL-2026-17537	https://osv.dev/vulnerability/MAL-2026-17537
