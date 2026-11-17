@@ -116725,8 +116725,10 @@ kartyk-github-single-ver-pkg	*	MAL-2026-16245	https://osv.dev/vulnerability/MAL-
 kartyk-github-token-pkg	*	MAL-2026-16246	https://osv.dev/vulnerability/MAL-2026-16246
 kartyk-test-unscoped-pkg	0.0.0-stage	MAL-2026-20016	https://osv.dev/vulnerability/MAL-2026-20016
 kartyk-test-unscoped-pkg	0.0.1	MAL-2026-20016	https://osv.dev/vulnerability/MAL-2026-20016
+kartykgithub-bulk-multi	1.0.0	MAL-0000-ghsa-malware-d2efe8a07efdcb96	https://github.com/ossf/malicious-packages/blob/02e230a7cae9fb8c5e65fe6d67922771f7037bdc/osv/malicious/npm/kartykgithub-bulk-multi/MAL-0000-ghsa-malware-d2efe8a07efdcb96.json
 kartykgithub-bulk-rollback	0.0.0-stage	MAL-2026-20022	https://osv.dev/vulnerability/MAL-2026-20022
 kartykgithub-bulk-rollback	1.0.0	MAL-2026-20022	https://osv.dev/vulnerability/MAL-2026-20022
+kartykgithub-bulk-versions	1.0.0	MAL-0000-ghsa-malware-5fef7dc3883b2ab9	https://github.com/ossf/malicious-packages/blob/02e230a7cae9fb8c5e65fe6d67922771f7037bdc/osv/malicious/npm/kartykgithub-bulk-versions/MAL-0000-ghsa-malware-5fef7dc3883b2ab9.json
 kartykgithub-multiversion-a	1.0.0	MAL-2026-16272	https://osv.dev/vulnerability/MAL-2026-16272
 kartykgithub-multiversion-a	1.0.1	MAL-2026-16272	https://osv.dev/vulnerability/MAL-2026-16272
 kartykgithub-ph-b	0.0.1-security	MAL-2026-17424	https://osv.dev/vulnerability/MAL-2026-17424
@@ -123452,6 +123454,7 @@ leo-sf-symbols	1.0.0	MAL-2024-2603	https://osv.dev/vulnerability/MAL-2024-2603
 leo-sf-symbols	1.0.1	MAL-2024-2603	https://osv.dev/vulnerability/MAL-2024-2603
 leo-sf-symbols	99.99.99	MAL-2024-2603	https://osv.dev/vulnerability/MAL-2024-2603
 leo-streams	2.0.1	MAL-2026-6431	https://osv.dev/vulnerability/MAL-2026-6431
+leobot-cli	*	MAL-0000-ghsa-malware-58c0891dfed4c24e	https://github.com/ossf/malicious-packages/blob/02e230a7cae9fb8c5e65fe6d67922771f7037bdc/osv/malicious/npm/leobot-cli/MAL-0000-ghsa-malware-58c0891dfed4c24e.json
 leocare-new	1.0.0	MAL-2024-1588	https://osv.dev/vulnerability/MAL-2024-1588
 leomira	*	MAL-2025-25152	https://osv.dev/vulnerability/MAL-2025-25152
 leonard-soluble-pot	*	MAL-2025-105086	https://osv.dev/vulnerability/MAL-2025-105086
@@ -223288,6 +223291,8 @@ warp-rigel-corvus-jovian	*	MAL-2025-149275	https://osv.dev/vulnerability/MAL-202
 warp-sails-selenology-gravity	*	MAL-2025-190227	https://osv.dev/vulnerability/MAL-2025-190227
 warp-ursa-kastra-centauri	*	MAL-2025-149276	https://osv.dev/vulnerability/MAL-2025-149276
 warp-xanadu-nconf-vuetify	*	MAL-2025-149277	https://osv.dev/vulnerability/MAL-2025-149277
+warpcast	*	MAL-0000-ghsa-malware-bb71a836d85938cc	https://github.com/ossf/malicious-packages/blob/02e230a7cae9fb8c5e65fe6d67922771f7037bdc/osv/malicious/npm/warpcast/MAL-0000-ghsa-malware-bb71a836d85938cc.json
+warpcast-bot	*	MAL-0000-ghsa-malware-c1f2294969da39ab	https://github.com/ossf/malicious-packages/blob/02e230a7cae9fb8c5e65fe6d67922771f7037bdc/osv/malicious/npm/warpcast-bot/MAL-0000-ghsa-malware-c1f2294969da39ab.json
 warpic	*	MAL-2025-38783	https://osv.dev/vulnerability/MAL-2025-38783
 warplugin	*	MAL-2025-38784	https://osv.dev/vulnerability/MAL-2025-38784
 warptable	*	MAL-2025-38785	https://osv.dev/vulnerability/MAL-2025-38785
