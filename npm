@@ -33589,7 +33589,7 @@ approval-guardian	1.0.3	MAL-2026-11995	https://osv.dev/vulnerability/MAL-2026-11
 approval-guardian	1.0.5	MAL-2026-11995	https://osv.dev/vulnerability/MAL-2026-11995
 approval-guardian	1.0.6	MAL-2026-11995	https://osv.dev/vulnerability/MAL-2026-11995
 approval-workflow	*	MAL-2025-14737	https://osv.dev/vulnerability/MAL-2025-14737
-approve-audit	1.0.0	MAL-0000-invisirisk-approve-audit	https://github.com/ossf/malicious-packages/pull/1788
+approve-audit	1.0.0	MAL-0000-invisirisk-approve-audit	https://github.com/ossf/malicious-packages/blob/23a158b7abd4b34c5681818e0e587dff08167670/osv/malicious/npm/approve-audit/MAL-0000-invisirisk-approve-audit.json
 apps-gpt	*	MAL-2026-10284	https://osv.dev/vulnerability/MAL-2026-10284
 apps-script-oauth2	*	MAL-2025-14738	https://osv.dev/vulnerability/MAL-2025-14738
 apps-showcase	*	MAL-2022-1071	https://osv.dev/vulnerability/MAL-2022-1071
