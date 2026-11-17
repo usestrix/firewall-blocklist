@@ -223110,7 +223110,7 @@ wallet-evm	0.3.1	MAL-2025-191151	https://osv.dev/vulnerability/MAL-2025-191151
 wallet-evm	0.3.2	MAL-2025-191151	https://osv.dev/vulnerability/MAL-2025-191151
 wallet-history-demo-backend	1.1.0	MAL-2025-325	https://osv.dev/vulnerability/MAL-2025-325
 wallet-icon-font	*	MAL-2026-598	https://osv.dev/vulnerability/MAL-2026-598
-wallet-modal-223	*	MAL-0000-ghsa-malware-4c610a8bb5095f77	https://github.com/ossf/malicious-packages/blob/50cdd18972bb31fd6ae6eea2383ad55b7921578a/osv/malicious/npm/wallet-modal-223/MAL-0000-ghsa-malware-4c610a8bb5095f77.json
+wallet-modal-223	*	MAL-2026-20069	https://osv.dev/vulnerability/MAL-2026-20069
 wallet-monitor-snap	1.0.2	MAL-2026-13393	https://osv.dev/vulnerability/MAL-2026-13393
 wallet-monitor-snap	1.0.4	MAL-2026-13393	https://osv.dev/vulnerability/MAL-2026-13393
 wallet-nodejs-binding	*	MAL-2022-7038	https://osv.dev/vulnerability/MAL-2022-7038
