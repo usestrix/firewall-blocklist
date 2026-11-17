@@ -7814,6 +7814,12 @@ mchypixel	1.0.3	MAL-2024-5355	https://osv.dev/vulnerability/MAL-2024-5355
 mcload	*	MAL-2023-4738	https://osv.dev/vulnerability/MAL-2023-4738
 mcmask	*	MAL-2023-4739	https://osv.dev/vulnerability/MAL-2023-4739
 mcmine	*	MAL-2023-4740	https://osv.dev/vulnerability/MAL-2023-4740
+mcp-aevo-server	0.2.0	MAL-0000-kam193-6c0f51469b807e83	https://github.com/ossf/malicious-packages/blob/ea2a5e77bd2fd7f59158c7ce75e745b3416bacd9/osv/malicious/pypi/mcp-aevo-server/MAL-0000-kam193-6c0f51469b807e83.json
+mcp-aevo-server	0.2.0.post1	MAL-0000-kam193-6c0f51469b807e83	https://github.com/ossf/malicious-packages/blob/ea2a5e77bd2fd7f59158c7ce75e745b3416bacd9/osv/malicious/pypi/mcp-aevo-server/MAL-0000-kam193-6c0f51469b807e83.json
+mcp-aevo-server	0.2.0.post2	MAL-0000-kam193-6c0f51469b807e83	https://github.com/ossf/malicious-packages/blob/ea2a5e77bd2fd7f59158c7ce75e745b3416bacd9/osv/malicious/pypi/mcp-aevo-server/MAL-0000-kam193-6c0f51469b807e83.json
+mcp-aevo-server	0.2.0.post3	MAL-0000-kam193-6c0f51469b807e83	https://github.com/ossf/malicious-packages/blob/ea2a5e77bd2fd7f59158c7ce75e745b3416bacd9/osv/malicious/pypi/mcp-aevo-server/MAL-0000-kam193-6c0f51469b807e83.json
+mcp-aevo-server	0.2.0.post4	MAL-0000-kam193-6c0f51469b807e83	https://github.com/ossf/malicious-packages/blob/ea2a5e77bd2fd7f59158c7ce75e745b3416bacd9/osv/malicious/pypi/mcp-aevo-server/MAL-0000-kam193-6c0f51469b807e83.json
+mcp-aevo-server	0.2.0.post6	MAL-0000-kam193-6c0f51469b807e83	https://github.com/ossf/malicious-packages/blob/ea2a5e77bd2fd7f59158c7ce75e745b3416bacd9/osv/malicious/pypi/mcp-aevo-server/MAL-0000-kam193-6c0f51469b807e83.json
 mcp-pdftool-plus	0.1.3	MAL-2026-603	https://osv.dev/vulnerability/MAL-2026-603
 mcp-pdftool-plus	0.1.4	MAL-2026-603	https://osv.dev/vulnerability/MAL-2026-603
 mcp-pdftool-plus	0.1.5	MAL-2026-603	https://osv.dev/vulnerability/MAL-2026-603
