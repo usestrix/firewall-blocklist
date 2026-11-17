@@ -177,7 +177,10 @@ afriton	1.6	MAL-2024-11514	https://osv.dev/vulnerability/MAL-2024-11514
 afriton-py	1.6	MAL-2024-11515	https://osv.dev/vulnerability/MAL-2024-11515
 afriton-py	1.7	MAL-2024-11515	https://osv.dev/vulnerability/MAL-2024-11515
 afritonpy	1	MAL-2024-11516	https://osv.dev/vulnerability/MAL-2024-11516
+agent-framework	1.26.1	MAL-0000-amazon-inspector-72f7549a69d5529a	https://github.com/ossf/malicious-packages/blob/cf84ce0adbb4b9d4cab6af717610b5656d1fca0c/osv/malicious/pypi/agent-framework/MAL-0000-amazon-inspector-72f7549a69d5529a.json
+agent-framework	1.26.1	MAL-0000-kam193-7170b55e6541c89d	https://github.com/ossf/malicious-packages/blob/cf84ce0adbb4b9d4cab6af717610b5656d1fca0c/osv/malicious/pypi/agent-framework/MAL-0000-kam193-7170b55e6541c89d.json
 agent-framework	1.26.1	MAL-2026-20101	https://osv.dev/vulnerability/MAL-2026-20101
+agent-framework	1.26.2	MAL-0000-kam193-7170b55e6541c89d	https://github.com/ossf/malicious-packages/blob/cf84ce0adbb4b9d4cab6af717610b5656d1fca0c/osv/malicious/pypi/agent-framework/MAL-0000-kam193-7170b55e6541c89d.json
 agent-framework	1.26.2	MAL-2026-20101	https://osv.dev/vulnerability/MAL-2026-20101
 agent-user-generate	1.6.7	MAL-2024-11517	https://osv.dev/vulnerability/MAL-2024-11517
 agent-vx	0.1.0	MAL-2026-17755	https://osv.dev/vulnerability/MAL-2026-17755
@@ -5138,6 +5141,7 @@ ggfmttygl-new	1.0.5	MAL-2026-3406	https://osv.dev/vulnerability/MAL-2026-3406
 ggghhhrrr	0.1	MAL-2024-11600	https://osv.dev/vulnerability/MAL-2024-11600
 ggghhhrrr	0.3	MAL-2024-11600	https://osv.dev/vulnerability/MAL-2024-11600
 ggitpython	*	MAL-2023-1854	https://osv.dev/vulnerability/MAL-2023-1854
+gguf-accelerator	0.1.0	MAL-0000-kam193-ea28ec2703fb6f7c	https://github.com/ossf/malicious-packages/blob/cf84ce0adbb4b9d4cab6af717610b5656d1fca0c/osv/malicious/pypi/gguf-accelerator/MAL-0000-kam193-ea28ec2703fb6f7c.json
 giantmidi-piano	912.6	MAL-2024-11601	https://osv.dev/vulnerability/MAL-2024-11601
 gigl-core	0.3.1	MAL-2026-5811	https://osv.dev/vulnerability/MAL-2026-5811
 giitpython	*	MAL-2023-1855	https://osv.dev/vulnerability/MAL-2023-1855
