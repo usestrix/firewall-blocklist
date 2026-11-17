@@ -2893,7 +2893,6 @@ dekugay	1.0	MAL-2024-5035	https://osv.dev/vulnerability/MAL-2024-5035
 dell-recovery	99.99.99	MAL-2025-192305	https://osv.dev/vulnerability/MAL-2025-192305
 dell-restore-system	99.99.99	MAL-2025-192306	https://osv.dev/vulnerability/MAL-2025-192306
 demo-malicious-package	2022.12.7	MAL-2024-5036	https://osv.dev/vulnerability/MAL-2024-5036
-demo-pingtest-xyz	0.0.1	MAL-0000-ossf-package-analysis-6a6aaba095baebff	https://github.com/ossf/malicious-packages/blob/d57a95518ebda5bac47faa00c0b99b3d5c7c023f/osv/malicious/pypi/demo-pingtest-xyz/MAL-0000-ossf-package-analysis-6a6aaba095baebff.json
 demo-pingtest-xyz	0.0.1	MAL-2026-19935	https://osv.dev/vulnerability/MAL-2026-19935
 demontonto	1.0.8	MAL-2024-5037	https://osv.dev/vulnerability/MAL-2024-5037
 demontonto1	1.0.8	MAL-2024-5038	https://osv.dev/vulnerability/MAL-2024-5038
@@ -4974,7 +4973,6 @@ gateio-client	99.99.1	MAL-2026-19933	https://osv.dev/vulnerability/MAL-2026-1993
 gateio-sdk	99.99.1	MAL-2026-19936	https://osv.dev/vulnerability/MAL-2026-19936
 gateio-sdk	99.99.2	MAL-2026-19936	https://osv.dev/vulnerability/MAL-2026-19936
 gateio-v4	99.99.1	MAL-2026-19940	https://osv.dev/vulnerability/MAL-2026-19940
-gateio-ws	99.99.1	MAL-0000-ossf-package-analysis-d0049d257ca3b06a	https://github.com/ossf/malicious-packages/blob/d57a95518ebda5bac47faa00c0b99b3d5c7c023f/osv/malicious/pypi/gateio-ws/MAL-0000-ossf-package-analysis-d0049d257ca3b06a.json
 gateio-ws	99.99.1	MAL-2026-19937	https://osv.dev/vulnerability/MAL-2026-19937
 gateio-ws	99.99.2	MAL-2026-19937	https://osv.dev/vulnerability/MAL-2026-19937
 gatepay-sdk-python	99.99.1	MAL-2026-19942	https://osv.dev/vulnerability/MAL-2026-19942
