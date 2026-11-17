@@ -187516,7 +187516,7 @@ signpost-verifier	*	MAL-2025-33243	https://osv.dev/vulnerability/MAL-2025-33243
 signsaver	*	MAL-2025-33244	https://osv.dev/vulnerability/MAL-2025-33244
 signup-embedder	*	MAL-2026-6396	https://osv.dev/vulnerability/MAL-2026-6396
 signup-failover	*	MAL-2025-190650	https://osv.dev/vulnerability/MAL-2025-190650
-signup-lib	99.99.99	MAL-0000-invisirisk-signup-lib	https://github.com/ossf/malicious-packages/blob/111d8962f7fe45f53a2d7e50b481742b6dab96ff/osv/malicious/npm/signup-lib/MAL-0000-invisirisk-signup-lib.json
+signup-lib	99.99.99	MAL-2026-20054	https://osv.dev/vulnerability/MAL-2026-20054
 signup-ui-core	*	MAL-2022-6120	https://osv.dev/vulnerability/MAL-2022-6120
 signup-ui-lego-core	1.0.0	MAL-2025-6891	https://osv.dev/vulnerability/MAL-2025-6891
 signup-ui-lego-core	1.0.1	MAL-2025-6891	https://osv.dev/vulnerability/MAL-2025-6891
