@@ -2627,6 +2627,7 @@
 @bapiweb-ux/bapi-header	*	MAL-2026-6602	https://osv.dev/vulnerability/MAL-2026-6602
 @barz-dev/baileys	8.4.0	MAL-2026-18808	https://osv.dev/vulnerability/MAL-2026-18808
 @basic-ui-components-stc/basic-ui-components	1.0.5	MAL-2025-47420	https://osv.dev/vulnerability/MAL-2025-47420
+@basis-theory-elements/api-client	99.9.1	MAL-0000-basis-theory-elements-api-client	https://github.com/ossf/malicious-packages/pull/1804
 @bat-sec/pr0tobuff-loaders	1.0.0	MAL-2025-6391	https://osv.dev/vulnerability/MAL-2025-6391
 @baywa-re-lusy/nsemea-address-lib-poc	*	MAL-2025-3512	https://osv.dev/vulnerability/MAL-2025-3512
 @baywa-re-lusy/nsemea-alias-lib-poc	*	MAL-2025-3513	https://osv.dev/vulnerability/MAL-2025-3513
