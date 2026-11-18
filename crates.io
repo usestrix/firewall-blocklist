@@ -9,6 +9,7 @@ basek	0.1.0	MAL-2026-19200	https://osv.dev/vulnerability/MAL-2026-19200
 env-test-guard	0.2.0	MAL-2026-18776	https://osv.dev/vulnerability/MAL-2026-18776
 env-test-guard	0.3.0	MAL-2026-18776	https://osv.dev/vulnerability/MAL-2026-18776
 hesk	0.1.0	MAL-2026-19201	https://osv.dev/vulnerability/MAL-2026-19201
+hesk	0.1.1	MAL-0000-amazon-inspector-de5b04ce46240775	https://github.com/ossf/malicious-packages/blob/943352906285a1fe605b1d8408b341fe7eb82e9c/osv/malicious/crates.io/hesk/MAL-0000-amazon-inspector-de5b04ce46240775.json
 internment	0.8.7	MAL-2026-14337	https://osv.dev/vulnerability/MAL-2026-14337
 littest	0.3.1	MAL-2023-8429	https://osv.dev/vulnerability/MAL-2023-8429
 logs-update	*	MAL-2026-16164	https://osv.dev/vulnerability/MAL-2026-16164
