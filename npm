@@ -80532,7 +80532,7 @@ expressful-tools	*	MAL-2025-20096	https://osv.dev/vulnerability/MAL-2025-20096
 expressjs-lint	*	MAL-2026-1106	https://osv.dev/vulnerability/MAL-2026-1106
 expressjs-mynodeutils	*	MAL-2025-20097	https://osv.dev/vulnerability/MAL-2025-20097
 expressos	*	MAL-2025-190961	https://osv.dev/vulnerability/MAL-2025-190961
-expresstokyo	*	MAL-0000-ghsa-malware-80aad200edbc4deb	https://github.com/ossf/malicious-packages/blob/c803ca63b9a8f6ab7a36e582617726c54728bc13/osv/malicious/npm/expresstokyo/MAL-0000-ghsa-malware-80aad200edbc4deb.json
+expresstokyo	*	MAL-2026-20138	https://osv.dev/vulnerability/MAL-2026-20138
 expressyession	*	MAL-2022-2931	https://osv.dev/vulnerability/MAL-2022-2931
 exprono	*	MAL-2025-20098	https://osv.dev/vulnerability/MAL-2025-20098
 exprrdd	5.2.1	MAL-2026-17244	https://osv.dev/vulnerability/MAL-2026-17244
@@ -147945,8 +147945,7 @@ nodespode	*	MAL-2025-42043	https://osv.dev/vulnerability/MAL-2025-42043
 nodestream-log	*	MAL-2025-5942	https://osv.dev/vulnerability/MAL-2025-5942
 nodetest1010	*	MAL-2025-27693	https://osv.dev/vulnerability/MAL-2025-27693
 nodetest199	*	MAL-2025-27694	https://osv.dev/vulnerability/MAL-2025-27694
-nodetokyo	*	MAL-0000-ghsa-malware-69518d18591c73f7	https://github.com/ossf/malicious-packages/blob/c803ca63b9a8f6ab7a36e582617726c54728bc13/osv/malicious/npm/nodetokyo/MAL-0000-ghsa-malware-69518d18591c73f7.json
-nodetokyo	1.0.8	MAL-2026-16388	https://osv.dev/vulnerability/MAL-2026-16388
+nodetokyo	*	MAL-2026-16388	https://osv.dev/vulnerability/MAL-2026-16388
 nodeunit-shim	*	MAL-2025-27695	https://osv.dev/vulnerability/MAL-2025-27695
 nodex-db	*	MAL-2026-1960	https://osv.dev/vulnerability/MAL-2026-1960
 nodex123	*	MAL-2025-1254	https://osv.dev/vulnerability/MAL-2025-1254
