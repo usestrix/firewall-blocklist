@@ -163,7 +163,7 @@ adv2099m7	1.0.0	MAL-2024-4740	https://osv.dev/vulnerability/MAL-2024-4740
 advdef01	1.0.0	MAL-2024-12189	https://osv.dev/vulnerability/MAL-2024-12189
 advirtual	*	MAL-2023-2507	https://osv.dev/vulnerability/MAL-2023-2507
 advm	*	MAL-2023-2508	https://osv.dev/vulnerability/MAL-2023-2508
-aeivasta	0.3	MAL-0000-aeivasta	https://github.com/ossf/malicious-packages/pull/1797
+aeivasta	0.3	MAL-0000-aeivasta	https://github.com/ossf/malicious-packages/blob/c3a7421f4753a5d4fc136680e71f48dca5f892f9/osv/malicious/pypi/aeivasta/MAL-0000-aeivasta.json
 aeodata	0.4	MAL-2024-4741	https://osv.dev/vulnerability/MAL-2024-4741
 aeodatav04	0.4	MAL-2024-4742	https://osv.dev/vulnerability/MAL-2024-4742
 aet-test	1.0	MAL-2026-2852	https://osv.dev/vulnerability/MAL-2026-2852
@@ -6737,13 +6737,13 @@ libhydravmmine	*	MAL-2023-4093	https://osv.dev/vulnerability/MAL-2023-4093
 libhydravmram	*	MAL-2023-4094	https://osv.dev/vulnerability/MAL-2023-4094
 libid	0.1	MAL-2024-5311	https://osv.dev/vulnerability/MAL-2024-5311
 libida	0.2	MAL-2024-5312	https://osv.dev/vulnerability/MAL-2024-5312
-libide	0.1	MAL-0000-libide	https://github.com/ossf/malicious-packages/pull/1797
+libide	0.1	MAL-0000-libide	https://github.com/ossf/malicious-packages/blob/c3a7421f4753a5d4fc136680e71f48dca5f892f9/osv/malicious/pypi/libide/MAL-0000-libide.json
 libidee	0.1	MAL-2024-5313	https://osv.dev/vulnerability/MAL-2024-5313
 libideee	0.1	MAL-2024-5314	https://osv.dev/vulnerability/MAL-2024-5314
 libideeee	0.1	MAL-2024-5315	https://osv.dev/vulnerability/MAL-2024-5315
 libidi	0.1	MAL-2024-5316	https://osv.dev/vulnerability/MAL-2024-5316
 libidos	0.1	MAL-2024-5317	https://osv.dev/vulnerability/MAL-2024-5317
-libidreq	0.1	MAL-0000-libidreq	https://github.com/ossf/malicious-packages/pull/1797
+libidreq	0.1	MAL-0000-libidreq	https://github.com/ossf/malicious-packages/blob/c3a7421f4753a5d4fc136680e71f48dca5f892f9/osv/malicious/pypi/libidreq/MAL-0000-libidreq.json
 libidrequest	0.4	MAL-2024-5318	https://osv.dev/vulnerability/MAL-2024-5318
 libig	0.1	MAL-2024-5319	https://osv.dev/vulnerability/MAL-2024-5319
 libinfo	*	MAL-2023-4095	https://osv.dev/vulnerability/MAL-2023-4095
@@ -11987,7 +11987,7 @@ questpro	1.0.3	MAL-2026-936	https://osv.dev/vulnerability/MAL-2026-936
 questpro	3.0.0	MAL-2026-936	https://osv.dev/vulnerability/MAL-2026-936
 questpro	3.0.5	MAL-2026-936	https://osv.dev/vulnerability/MAL-2026-936
 questpro	4.0.0	MAL-2026-936	https://osv.dev/vulnerability/MAL-2026-936
-quick-telegram-sender	0.7	MAL-0000-quick-telegram-sender	https://github.com/ossf/malicious-packages/pull/1797
+quick-telegram-sender	0.7	MAL-0000-quick-telegram-sender	https://github.com/ossf/malicious-packages/blob/c3a7421f4753a5d4fc136680e71f48dca5f892f9/osv/malicious/pypi/quick-telegram-sender/MAL-0000-quick-telegram-sender.json
 quickcolors	10.0.9	MAL-2025-3461	https://osv.dev/vulnerability/MAL-2025-3461
 quicklytookerv	1.0.0	MAL-2026-3364	https://osv.dev/vulnerability/MAL-2026-3364
 quicklytookerv	1.0.1	MAL-2026-3364	https://osv.dev/vulnerability/MAL-2026-3364
@@ -13961,7 +13961,7 @@ set7	1.0.5	MAL-2025-41760	https://osv.dev/vulnerability/MAL-2025-41760
 set7	1.0.7	MAL-2025-41760	https://osv.dev/vulnerability/MAL-2025-41760
 setdotwork	0.6	MAL-2024-5990	https://osv.dev/vulnerability/MAL-2024-5990
 setdotwork	0.7	MAL-2024-5990	https://osv.dev/vulnerability/MAL-2024-5990
-setnetwork	0.2	MAL-0000-setnetwork	https://github.com/ossf/malicious-packages/pull/1797
+setnetwork	0.2	MAL-0000-setnetwork	https://github.com/ossf/malicious-packages/blob/c3a7421f4753a5d4fc136680e71f48dca5f892f9/osv/malicious/pypi/setnetwork/MAL-0000-setnetwork.json
 setup1nter	0.0.1	MAL-2024-5991	https://osv.dev/vulnerability/MAL-2024-5991
 setup1nter	0.0.2	MAL-2024-5991	https://osv.dev/vulnerability/MAL-2024-5991
 setupint3	0.0.2	MAL-2024-5992	https://osv.dev/vulnerability/MAL-2024-5992
@@ -15098,7 +15098,7 @@ test-workalendar-internal	0.0.1	MAL-2026-18092	https://osv.dev/vulnerability/MAL
 test-workalendar-internal	0.0.2	MAL-2026-18092	https://osv.dev/vulnerability/MAL-2026-18092
 test-workalendar-internal	0.0.3	MAL-2026-18092	https://osv.dev/vulnerability/MAL-2026-18092
 test128123612	0.1	MAL-2024-11723	https://osv.dev/vulnerability/MAL-2024-11723
-test23414234234	0.6	MAL-0000-test23414234234	https://github.com/ossf/malicious-packages/pull/1797
+test23414234234	0.6	MAL-0000-test23414234234	https://github.com/ossf/malicious-packages/blob/c3a7421f4753a5d4fc136680e71f48dca5f892f9/osv/malicious/pypi/test23414234234/MAL-0000-test23414234234.json
 test24234	0.1	MAL-2024-10170	https://osv.dev/vulnerability/MAL-2024-10170
 test24234	0.4	MAL-2024-10170	https://osv.dev/vulnerability/MAL-2024-10170
 test421	1.0.1	MAL-2025-48899	https://osv.dev/vulnerability/MAL-2025-48899
