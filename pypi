@@ -12654,8 +12654,8 @@ roblox-python-wrapper	1.0.93	MAL-2024-5950	https://osv.dev/vulnerability/MAL-202
 roblox-python-wrapper	2.0.3	MAL-2024-5950	https://osv.dev/vulnerability/MAL-2024-5950
 robloxapi-test	1.0.0	MAL-2026-1497	https://osv.dev/vulnerability/MAL-2026-1497
 robloxapi-testy	1.0.0	MAL-2026-1496	https://osv.dev/vulnerability/MAL-2026-1496
-robloxapiaccess	0.0.1	MAL-0000-robloxapiaccess	https://github.com/ossf/malicious-packages/blob/732900a9e668651ea52c2a4da277798c947ff935/osv/malicious/pypi/robloxapiaccess/MAL-0000-robloxapiaccess.json
-robloxapiaccess	0.0.2	MAL-0000-robloxapiaccess	https://github.com/ossf/malicious-packages/blob/732900a9e668651ea52c2a4da277798c947ff935/osv/malicious/pypi/robloxapiaccess/MAL-0000-robloxapiaccess.json
+robloxapiaccess	0.0.1	MAL-2026-20112	https://osv.dev/vulnerability/MAL-2026-20112
+robloxapiaccess	0.0.2	MAL-2026-20112	https://osv.dev/vulnerability/MAL-2026-20112
 robloxextra	0.1	MAL-2025-6578	https://osv.dev/vulnerability/MAL-2025-6578
 robloxextra	0.2	MAL-2025-6578	https://osv.dev/vulnerability/MAL-2025-6578
 robloxextra	0.3	MAL-2025-6578	https://osv.dev/vulnerability/MAL-2025-6578
