@@ -84441,7 +84441,7 @@ fiat-token-admin	99.1.1	MAL-2026-7286	https://osv.dev/vulnerability/MAL-2026-728
 fibo-num	*	MAL-2023-8627	https://osv.dev/vulnerability/MAL-2023-8627
 ficlovers	*	MAL-2025-20441	https://osv.dev/vulnerability/MAL-2025-20441
 fidaabdul	*	MAL-2025-171219	https://osv.dev/vulnerability/MAL-2025-171219
-fiddle-js	*	MAL-0000-ghsa-malware-37fd1bce61ce42a1	https://github.com/ossf/malicious-packages/blob/d7c366031f5650da30167f3abd03fb53be1ed93f/osv/malicious/npm/fiddle-js/MAL-0000-ghsa-malware-37fd1bce61ce42a1.json
+fiddle-js	*	MAL-2026-20124	https://osv.dev/vulnerability/MAL-2026-20124
 fiddlesticks	*	MAL-2025-3579	https://osv.dev/vulnerability/MAL-2025-3579
 fidentity-website	*	MAL-2024-11815	https://osv.dev/vulnerability/MAL-2024-11815
 fider	*	MAL-2024-12175	https://osv.dev/vulnerability/MAL-2024-12175
@@ -112318,7 +112318,7 @@ jest-solis-aldebaran-markdownlint	*	MAL-2025-143935	https://osv.dev/vulnerabilit
 jest-stable	40.1.10	MAL-2025-192678	https://osv.dev/vulnerability/MAL-2025-192678
 jest-stable	40.1.9	MAL-2025-192678	https://osv.dev/vulnerability/MAL-2025-192678
 jest-sync-json-reporter	*	MAL-2025-23745	https://osv.dev/vulnerability/MAL-2025-23745
-jest-test	*	MAL-0000-ghsa-malware-a44aac9c18f52ac4	https://github.com/ossf/malicious-packages/blob/d7c366031f5650da30167f3abd03fb53be1ed93f/osv/malicious/npm/jest-test/MAL-0000-ghsa-malware-a44aac9c18f52ac4.json
+jest-test	*	MAL-2026-20125	https://osv.dev/vulnerability/MAL-2026-20125
 jest-test-plugin-utils	*	MAL-2026-5896	https://osv.dev/vulnerability/MAL-2026-5896
 jest-testcafe-stop-mutation	*	MAL-2025-143936	https://osv.dev/vulnerability/MAL-2025-143936
 jest-titan-postcss-loader-galaxy	*	MAL-2025-187608	https://osv.dev/vulnerability/MAL-2025-187608
