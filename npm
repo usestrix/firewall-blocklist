@@ -58789,6 +58789,7 @@ create-release-hash	*	MAL-2025-17664	https://osv.dev/vulnerability/MAL-2025-1766
 create-remotion	0.0.2	MAL-2026-11460	https://osv.dev/vulnerability/MAL-2026-11460
 create-remotion	0.0.3	MAL-2026-11460	https://osv.dev/vulnerability/MAL-2026-11460
 create-response	*	MAL-2025-49095	https://osv.dev/vulnerability/MAL-2025-49095
+create-saint	*	MAL-0000-ghsa-malware-a511e53f0cd516fd	https://github.com/ossf/malicious-packages/blob/147e582989485aa2222f5c5c1f2fa5095fc38a1d/osv/malicious/npm/create-saint/MAL-0000-ghsa-malware-a511e53f0cd516fd.json
 create-semi-d2c-plugin	9.3.5	MAL-2024-11336	https://osv.dev/vulnerability/MAL-2024-11336
 create-sensort-app	*	MAL-2025-2662	https://osv.dev/vulnerability/MAL-2025-2662
 create-shop-mini	*	MAL-2025-17665	https://osv.dev/vulnerability/MAL-2025-17665
