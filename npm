@@ -16925,7 +16925,7 @@
 @tnf-dev/react	1.0.8	MAL-2025-47288	https://osv.dev/vulnerability/MAL-2025-47288
 @tnf-dev/react	1.0.8-0	MAL-2025-47288	https://osv.dev/vulnerability/MAL-2025-47288
 @tnf-dev/react	1.0.9-0	MAL-2025-47288	https://osv.dev/vulnerability/MAL-2025-47288
-@tnhorg/agent-skills	*	MAL-0000-ghsa-malware-15aa7c362aaaafc3	https://github.com/ossf/malicious-packages/blob/fd2b2e194fd25852aec1a58c89d18de124748edc/osv/malicious/npm/@tnhorg/agent-skills/MAL-0000-ghsa-malware-15aa7c362aaaafc3.json
+@tnhorg/agent-skills	*	MAL-2026-20104	https://osv.dev/vulnerability/MAL-2026-20104
 @tobiasredfield/simple-web-app-package	*	MAL-2025-42963	https://osv.dev/vulnerability/MAL-2025-42963
 @tochka-modules/t15-ui-kit-icons	*	MAL-2022-664	https://osv.dev/vulnerability/MAL-2022-664
 @tochka-ui/foundation	*	MAL-2026-3069	https://osv.dev/vulnerability/MAL-2026-3069
@@ -24294,7 +24294,7 @@ a-love-letter-to-whiskey-by-kandi-steiner-on-iphone-new-version-	*	MAL-2023-75	h
 a-onesite	99.9.9	MAL-2026-16480	https://osv.dev/vulnerability/MAL-2026-16480
 a-pem-misa	*	MAL-2025-179424	https://osv.dev/vulnerability/MAL-2025-179424
 a-simple-cache	*	MAL-2025-13914	https://osv.dev/vulnerability/MAL-2025-13914
-a-sub-watcher	*	MAL-0000-ghsa-malware-503864aead00d74d	https://github.com/ossf/malicious-packages/blob/fd2b2e194fd25852aec1a58c89d18de124748edc/osv/malicious/npm/a-sub-watcher/MAL-0000-ghsa-malware-503864aead00d74d.json
+a-sub-watcher	*	MAL-2026-20105	https://osv.dev/vulnerability/MAL-2026-20105
 a-vailable-al-bum-513977-rant-in-e-minor-lybr0-bdhlsb	*	MAL-2026-17958	https://osv.dev/vulnerability/MAL-2026-17958
 a-vailable-al-bum-file-101379-communion-mt1lk-dvshll	*	MAL-2026-17959	https://osv.dev/vulnerability/MAL-2026-17959
 a-vailable-al-bum-file-13575-forts-fsk2p-gmeawq	*	MAL-2025-13915	https://osv.dev/vulnerability/MAL-2025-13915
@@ -33147,7 +33147,7 @@ apijsclo	*	MAL-2026-11239	https://osv.dev/vulnerability/MAL-2026-11239
 apijsuni1	*	MAL-2025-47987	https://osv.dev/vulnerability/MAL-2025-47987
 apimanagementclient	*	MAL-2022-1047	https://osv.dev/vulnerability/MAL-2022-1047
 apinitro	*	MAL-2022-1048	https://osv.dev/vulnerability/MAL-2022-1048
-apintergrationpost	*	MAL-0000-ghsa-malware-81185f6e42d55057	https://github.com/ossf/malicious-packages/blob/fd2b2e194fd25852aec1a58c89d18de124748edc/osv/malicious/npm/apintergrationpost/MAL-0000-ghsa-malware-81185f6e42d55057.json
+apintergrationpost	*	MAL-2026-20106	https://osv.dev/vulnerability/MAL-2026-20106
 apiportal-backend	*	MAL-2025-14649	https://osv.dev/vulnerability/MAL-2025-14649
 apirsagenerator	1.3.7	MAL-2023-7945	https://osv.dev/vulnerability/MAL-2023-7945
 apitelegraf	*	MAL-2023-102	https://osv.dev/vulnerability/MAL-2023-102
