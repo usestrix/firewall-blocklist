@@ -16935,6 +16935,7 @@
 @tnf-dev/react	1.0.9-0	MAL-2025-47288	https://osv.dev/vulnerability/MAL-2025-47288
 @tnhorg/agent-skills	*	MAL-2026-20104	https://osv.dev/vulnerability/MAL-2026-20104
 @tobiasredfield/simple-web-app-package	*	MAL-2025-42963	https://osv.dev/vulnerability/MAL-2025-42963
+@tobyvalk123/tixte	*	MAL-0000-ghsa-malware-acbe3c153071dcc1	https://github.com/ossf/malicious-packages/blob/acf2478c7ad3e2d7ae5021fe0b7820037de667b8/osv/malicious/npm/@tobyvalk123/tixte/MAL-0000-ghsa-malware-acbe3c153071dcc1.json
 @tochka-modules/t15-ui-kit-icons	*	MAL-2022-664	https://osv.dev/vulnerability/MAL-2022-664
 @tochka-ui/foundation	*	MAL-2026-3069	https://osv.dev/vulnerability/MAL-2026-3069
 @tolka/cli	1.0.2	MAL-2026-3521	https://osv.dev/vulnerability/MAL-2026-3521
