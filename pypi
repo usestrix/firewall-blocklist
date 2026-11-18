@@ -447,7 +447,7 @@ amzn-sagemaker-studio	0.1.0	MAL-2025-191680	https://osv.dev/vulnerability/MAL-20
 anaconda-anon-usage	0.4.9	MAL-2024-9939	https://osv.dev/vulnerability/MAL-2024-9939
 analyze-me	1.0.0	MAL-2024-4765	https://osv.dev/vulnerability/MAL-2024-4765
 analyze-me	2.0.0	MAL-2024-4765	https://osv.dev/vulnerability/MAL-2024-4765
-anchorpy-utils	1.98.2	MAL-0000-amazon-inspector-48c30b992653900c	https://github.com/ossf/malicious-packages/blob/943352906285a1fe605b1d8408b341fe7eb82e9c/osv/malicious/pypi/anchorpy-utils/MAL-0000-amazon-inspector-48c30b992653900c.json
+anchorpy-utils	1.98.2	MAL-2026-20134	https://osv.dev/vulnerability/MAL-2026-20134
 androidspyeye	2.5	MAL-2024-4766	https://osv.dev/vulnerability/MAL-2024-4766
 anduril-lattice-sdk-grpc-python	2.0.0	MAL-2026-440	https://osv.dev/vulnerability/MAL-2026-440
 anduril-lattice-sdk-grpc-python	99.99.9	MAL-2026-440	https://osv.dev/vulnerability/MAL-2026-440
@@ -14214,8 +14214,8 @@ solana-live	0.1.0	MAL-2025-5138	https://osv.dev/vulnerability/MAL-2025-5138
 solana-program	1.0.1	MAL-2026-252	https://osv.dev/vulnerability/MAL-2026-252
 solana-program	1.0.2	MAL-2026-252	https://osv.dev/vulnerability/MAL-2026-252
 solana-py-sdk	1.0.0	MAL-2026-3390	https://osv.dev/vulnerability/MAL-2026-3390
-solana-py-utils	1.98.2	MAL-0000-amazon-inspector-6792d58c87bc86a3	https://github.com/ossf/malicious-packages/blob/943352906285a1fe605b1d8408b341fe7eb82e9c/osv/malicious/pypi/solana-py-utils/MAL-0000-amazon-inspector-6792d58c87bc86a3.json
-solana-py-utils	1.98.3	MAL-0000-amazon-inspector-dc8b7ddf366b6a88	https://github.com/ossf/malicious-packages/blob/943352906285a1fe605b1d8408b341fe7eb82e9c/osv/malicious/pypi/solana-py-utils/MAL-0000-amazon-inspector-dc8b7ddf366b6a88.json
+solana-py-utils	1.98.2	MAL-2026-20135	https://osv.dev/vulnerability/MAL-2026-20135
+solana-py-utils	1.98.3	MAL-2026-20135	https://osv.dev/vulnerability/MAL-2026-20135
 solana-scanner	1.0.0	MAL-2026-3381	https://osv.dev/vulnerability/MAL-2026-3381
 solana-sdkpy	1.2.2	MAL-2025-6588	https://osv.dev/vulnerability/MAL-2025-6588
 solana-sdkpy	1.2.3	MAL-2025-6588	https://osv.dev/vulnerability/MAL-2025-6588
@@ -14239,8 +14239,8 @@ solana-transaction	1.0.7	MAL-2024-10164	https://osv.dev/vulnerability/MAL-2024-1
 solana-transfer	0.1.1	MAL-2024-10165	https://osv.dev/vulnerability/MAL-2024-10165
 solana-utils	0.1.1	MAL-2025-2999	https://osv.dev/vulnerability/MAL-2025-2999
 solana-utils	0.1.2	MAL-2025-2999	https://osv.dev/vulnerability/MAL-2025-2999
-solana-utils-terminalmoney1	1.98.2	MAL-0000-amazon-inspector-288fb4a2f4a24c5e	https://github.com/ossf/malicious-packages/blob/943352906285a1fe605b1d8408b341fe7eb82e9c/osv/malicious/pypi/solana-utils-terminalmoney1/MAL-0000-amazon-inspector-288fb4a2f4a24c5e.json
-solana-utils-terminalmoney1	1.98.3	MAL-0000-amazon-inspector-b58d55f9a4d2ae8d	https://github.com/ossf/malicious-packages/blob/943352906285a1fe605b1d8408b341fe7eb82e9c/osv/malicious/pypi/solana-utils-terminalmoney1/MAL-0000-amazon-inspector-b58d55f9a4d2ae8d.json
+solana-utils-terminalmoney1	1.98.2	MAL-2026-20136	https://osv.dev/vulnerability/MAL-2026-20136
+solana-utils-terminalmoney1	1.98.3	MAL-2026-20136	https://osv.dev/vulnerability/MAL-2026-20136
 solana-wallet-sdk	1.0.0	MAL-2026-3376	https://osv.dev/vulnerability/MAL-2026-3376
 solana-wallet-utils	1.0.0	MAL-2026-3382	https://osv.dev/vulnerability/MAL-2026-3382
 solana-web3	1.0.0	MAL-2026-5337	https://osv.dev/vulnerability/MAL-2026-5337
@@ -14254,7 +14254,7 @@ solanautil	2.1.1	MAL-2025-4241	https://osv.dev/vulnerability/MAL-2025-4241
 solanna	*	MAL-2023-2280	https://osv.dev/vulnerability/MAL-2023-2280
 solaraund	0.1	MAL-2024-11711	https://osv.dev/vulnerability/MAL-2024-11711
 solders-utils	0.1.1	MAL-2025-3000	https://osv.dev/vulnerability/MAL-2025-3000
-solders-utils	1.98.2	MAL-0000-amazon-inspector-cb21eed8f78e6edb	https://github.com/ossf/malicious-packages/blob/943352906285a1fe605b1d8408b341fe7eb82e9c/osv/malicious/pypi/solders-utils/MAL-0000-amazon-inspector-cb21eed8f78e6edb.json
+solders-utils	1.98.2	MAL-2025-3000	https://osv.dev/vulnerability/MAL-2025-3000
 solgpt	0.1	MAL-2024-10166	https://osv.dev/vulnerability/MAL-2024-10166
 solgpt	0.2	MAL-2024-10166	https://osv.dev/vulnerability/MAL-2024-10166
 solgpt	0.3	MAL-2024-10166	https://osv.dev/vulnerability/MAL-2024-10166
