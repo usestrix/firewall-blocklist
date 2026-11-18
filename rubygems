@@ -2859,6 +2859,7 @@ newswandweekjan5	0.0.1	MAL-2026-8138	https://osv.dev/vulnerability/MAL-2026-8138
 nft-metadata-resolver	0.9.1	MAL-2026-17792	https://osv.dev/vulnerability/MAL-2026-17792
 nhtsa-vin	0.0.8	MAL-2024-6996	https://osv.dev/vulnerability/MAL-2024-6996
 no-fun	999.99.99	MAL-2026-16411	https://osv.dev/vulnerability/MAL-2026-16411
+node-test-repo	1.0.1	MAL-0000-amazon-inspector-39fc0f46ef530b71	https://github.com/ossf/malicious-packages/blob/3613bf386dd65ef20bf62130a7215b22024fbd1e/osv/malicious/rubygems/node-test-repo/MAL-0000-amazon-inspector-39fc0f46ef530b71.json
 node-test-repo	1.0.1	MAL-2026-20058	https://osv.dev/vulnerability/MAL-2026-20058
 nwcid311	0.0.1	MAL-2026-8139	https://osv.dev/vulnerability/MAL-2026-8139
 nwcid315	0.0.1	MAL-2026-8140	https://osv.dev/vulnerability/MAL-2026-8140
@@ -4091,6 +4092,7 @@ vcsmodpdfx1	0.0.1	MAL-2026-9118	https://osv.dev/vulnerability/MAL-2026-9118
 vcssvnpdfx1	0.0.1	MAL-2026-9119	https://osv.dev/vulnerability/MAL-2026-9119
 vcssvnx1	0.0.1	MAL-2026-9120	https://osv.dev/vulnerability/MAL-2026-9120
 verificator	0.0.2	MAL-2025-192925	https://osv.dev/vulnerability/MAL-2025-192925
+vuln-app	1.2.1	MAL-0000-amazon-inspector-d905ef222b582842	https://github.com/ossf/malicious-packages/blob/3613bf386dd65ef20bf62130a7215b22024fbd1e/osv/malicious/rubygems/vuln-app/MAL-0000-amazon-inspector-d905ef222b582842.json
 w002yardprobe	0.0.4	MAL-2026-18599	https://osv.dev/vulnerability/MAL-2026-18599
 w002yardprobe	0.0.5	MAL-2026-18599	https://osv.dev/vulnerability/MAL-2026-18599
 w10266	0.0.1	MAL-2026-9121	https://osv.dev/vulnerability/MAL-2026-9121

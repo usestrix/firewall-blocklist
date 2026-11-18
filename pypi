@@ -7818,10 +7818,15 @@ mcload	*	MAL-2023-4738	https://osv.dev/vulnerability/MAL-2023-4738
 mcmask	*	MAL-2023-4739	https://osv.dev/vulnerability/MAL-2023-4739
 mcmine	*	MAL-2023-4740	https://osv.dev/vulnerability/MAL-2023-4740
 mcp-aevo-server	0.2.0	MAL-2026-20068	https://osv.dev/vulnerability/MAL-2026-20068
+mcp-aevo-server	0.2.0.post1	MAL-0000-amazon-inspector-0798e8aa41cf6d07	https://github.com/ossf/malicious-packages/blob/3613bf386dd65ef20bf62130a7215b22024fbd1e/osv/malicious/pypi/mcp-aevo-server/MAL-0000-amazon-inspector-0798e8aa41cf6d07.json
 mcp-aevo-server	0.2.0.post1	MAL-2026-20068	https://osv.dev/vulnerability/MAL-2026-20068
+mcp-aevo-server	0.2.0.post2	MAL-0000-amazon-inspector-972c258509e94a35	https://github.com/ossf/malicious-packages/blob/3613bf386dd65ef20bf62130a7215b22024fbd1e/osv/malicious/pypi/mcp-aevo-server/MAL-0000-amazon-inspector-972c258509e94a35.json
 mcp-aevo-server	0.2.0.post2	MAL-2026-20068	https://osv.dev/vulnerability/MAL-2026-20068
+mcp-aevo-server	0.2.0.post3	MAL-0000-amazon-inspector-138b279506f65893	https://github.com/ossf/malicious-packages/blob/3613bf386dd65ef20bf62130a7215b22024fbd1e/osv/malicious/pypi/mcp-aevo-server/MAL-0000-amazon-inspector-138b279506f65893.json
 mcp-aevo-server	0.2.0.post3	MAL-2026-20068	https://osv.dev/vulnerability/MAL-2026-20068
+mcp-aevo-server	0.2.0.post4	MAL-0000-amazon-inspector-d5d33159c8372d8b	https://github.com/ossf/malicious-packages/blob/3613bf386dd65ef20bf62130a7215b22024fbd1e/osv/malicious/pypi/mcp-aevo-server/MAL-0000-amazon-inspector-d5d33159c8372d8b.json
 mcp-aevo-server	0.2.0.post4	MAL-2026-20068	https://osv.dev/vulnerability/MAL-2026-20068
+mcp-aevo-server	0.2.0.post6	MAL-0000-amazon-inspector-77c3ab661dbdee76	https://github.com/ossf/malicious-packages/blob/3613bf386dd65ef20bf62130a7215b22024fbd1e/osv/malicious/pypi/mcp-aevo-server/MAL-0000-amazon-inspector-77c3ab661dbdee76.json
 mcp-aevo-server	0.2.0.post6	MAL-2026-20068	https://osv.dev/vulnerability/MAL-2026-20068
 mcp-pdftool-plus	0.1.3	MAL-2026-603	https://osv.dev/vulnerability/MAL-2026-603
 mcp-pdftool-plus	0.1.4	MAL-2026-603	https://osv.dev/vulnerability/MAL-2026-603
@@ -8231,6 +8236,7 @@ my-package-jiecub3	1.6.0	MAL-2026-2962	https://osv.dev/vulnerability/MAL-2026-29
 my-pipeline-watcher-poc	99999.99999.1	MAL-2026-3218	https://osv.dev/vulnerability/MAL-2026-3218
 my-poc-sandbox	1.0.0	MAL-2026-19951	https://osv.dev/vulnerability/MAL-2026-19951
 my-poc-sandbox	1.0.1	MAL-2026-19951	https://osv.dev/vulnerability/MAL-2026-19951
+my-poc-sandbox	1.0.2	MAL-0000-amazon-inspector-fe7240da217bf567	https://github.com/ossf/malicious-packages/blob/3613bf386dd65ef20bf62130a7215b22024fbd1e/osv/malicious/pypi/my-poc-sandbox/MAL-0000-amazon-inspector-fe7240da217bf567.json
 my-poc-sandbox	1.0.2	MAL-2026-19951	https://osv.dev/vulnerability/MAL-2026-19951
 my-private-pkg	0.1.1	MAL-2026-17180	https://osv.dev/vulnerability/MAL-2026-17180
 my-private-pkg	99.1.1	MAL-2026-17180	https://osv.dev/vulnerability/MAL-2026-17180
