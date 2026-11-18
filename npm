@@ -4434,6 +4434,8 @@
 @custombots/custombot	2.0.1	MAL-2026-11498	https://osv.dev/vulnerability/MAL-2026-11498
 @custombots/custombot	2.0.2	MAL-2026-11498	https://osv.dev/vulnerability/MAL-2026-11498
 @customer-threesixty/assets	*	MAL-2026-5154	https://osv.dev/vulnerability/MAL-2026-5154
+@cutehttp/encode-url	*	MAL-0000-ghsa-malware-6084566a6e17e2ed	https://github.com/ossf/malicious-packages/blob/9a89016face140545f588347f02c61397e7ea60b/osv/malicious/npm/@cutehttp/encode-url/MAL-0000-ghsa-malware-6084566a6e17e2ed.json
+@cutehttp/strict-uri-encode	*	MAL-0000-ghsa-malware-d048b14a749e0bd6	https://github.com/ossf/malicious-packages/blob/9a89016face140545f588347f02c61397e7ea60b/osv/malicious/npm/@cutehttp/strict-uri-encode/MAL-0000-ghsa-malware-d048b14a749e0bd6.json
 @cutoffurmind/ui-kit	*	MAL-2022-189	https://osv.dev/vulnerability/MAL-2022-189
 @cvshealth/fetlife-assets	*	MAL-2022-190	https://osv.dev/vulnerability/MAL-2022-190
 @cw-ui/asio-neon-themes	*	MAL-2026-10556	https://osv.dev/vulnerability/MAL-2026-10556
@@ -58378,6 +58380,7 @@ cortex-net-node	*	MAL-2025-2501	https://osv.dev/vulnerability/MAL-2025-2501
 cortex-net-nodex	11.0.17	MAL-2025-2873	https://osv.dev/vulnerability/MAL-2025-2873
 cortex-player-chromeoscortex	*	MAL-2025-2502	https://osv.dev/vulnerability/MAL-2025-2502
 cortexi	*	MAL-2025-17599	https://osv.dev/vulnerability/MAL-2025-17599
+cortico-world-see-now	0.2.2	MAL-0000-ghsa-malware-e2266c0148547d59	https://github.com/ossf/malicious-packages/blob/9a89016face140545f588347f02c61397e7ea60b/osv/malicious/npm/cortico-world-see-now/MAL-0000-ghsa-malware-e2266c0148547d59.json
 corvus-aquarius-pm2-hyperion	*	MAL-2025-141144	https://osv.dev/vulnerability/MAL-2025-141144
 corvus-aquarius-sagitta-forever	*	MAL-2025-141145	https://osv.dev/vulnerability/MAL-2025-141145
 corvus-ariel-non-blocking-webdriver-mocha	*	MAL-2025-17600	https://osv.dev/vulnerability/MAL-2025-17600
