@@ -447,6 +447,7 @@ amzn-sagemaker-studio	0.1.0	MAL-2025-191680	https://osv.dev/vulnerability/MAL-20
 anaconda-anon-usage	0.4.9	MAL-2024-9939	https://osv.dev/vulnerability/MAL-2024-9939
 analyze-me	1.0.0	MAL-2024-4765	https://osv.dev/vulnerability/MAL-2024-4765
 analyze-me	2.0.0	MAL-2024-4765	https://osv.dev/vulnerability/MAL-2024-4765
+anchorpy-utils	1.98.2	MAL-0000-kam193-72c4bff6f129f956	https://github.com/ossf/malicious-packages/blob/9203957dca390f5fd5b3cf3af4eeab82a2953c39/osv/malicious/pypi/anchorpy-utils/MAL-0000-kam193-72c4bff6f129f956.json
 anchorpy-utils	1.98.2	MAL-2026-20134	https://osv.dev/vulnerability/MAL-2026-20134
 androidspyeye	2.5	MAL-2024-4766	https://osv.dev/vulnerability/MAL-2024-4766
 anduril-lattice-sdk-grpc-python	2.0.0	MAL-2026-440	https://osv.dev/vulnerability/MAL-2026-440
@@ -14214,7 +14215,9 @@ solana-live	0.1.0	MAL-2025-5138	https://osv.dev/vulnerability/MAL-2025-5138
 solana-program	1.0.1	MAL-2026-252	https://osv.dev/vulnerability/MAL-2026-252
 solana-program	1.0.2	MAL-2026-252	https://osv.dev/vulnerability/MAL-2026-252
 solana-py-sdk	1.0.0	MAL-2026-3390	https://osv.dev/vulnerability/MAL-2026-3390
+solana-py-utils	1.98.2	MAL-0000-kam193-7106643886b94c7d	https://github.com/ossf/malicious-packages/blob/9203957dca390f5fd5b3cf3af4eeab82a2953c39/osv/malicious/pypi/solana-py-utils/MAL-0000-kam193-7106643886b94c7d.json
 solana-py-utils	1.98.2	MAL-2026-20135	https://osv.dev/vulnerability/MAL-2026-20135
+solana-py-utils	1.98.3	MAL-0000-kam193-7106643886b94c7d	https://github.com/ossf/malicious-packages/blob/9203957dca390f5fd5b3cf3af4eeab82a2953c39/osv/malicious/pypi/solana-py-utils/MAL-0000-kam193-7106643886b94c7d.json
 solana-py-utils	1.98.3	MAL-2026-20135	https://osv.dev/vulnerability/MAL-2026-20135
 solana-scanner	1.0.0	MAL-2026-3381	https://osv.dev/vulnerability/MAL-2026-3381
 solana-sdkpy	1.2.2	MAL-2025-6588	https://osv.dev/vulnerability/MAL-2025-6588
@@ -14239,7 +14242,9 @@ solana-transaction	1.0.7	MAL-2024-10164	https://osv.dev/vulnerability/MAL-2024-1
 solana-transfer	0.1.1	MAL-2024-10165	https://osv.dev/vulnerability/MAL-2024-10165
 solana-utils	0.1.1	MAL-2025-2999	https://osv.dev/vulnerability/MAL-2025-2999
 solana-utils	0.1.2	MAL-2025-2999	https://osv.dev/vulnerability/MAL-2025-2999
+solana-utils-terminalmoney1	1.98.2	MAL-0000-kam193-8b9f1e33c12c0eb5	https://github.com/ossf/malicious-packages/blob/9203957dca390f5fd5b3cf3af4eeab82a2953c39/osv/malicious/pypi/solana-utils-terminalmoney1/MAL-0000-kam193-8b9f1e33c12c0eb5.json
 solana-utils-terminalmoney1	1.98.2	MAL-2026-20136	https://osv.dev/vulnerability/MAL-2026-20136
+solana-utils-terminalmoney1	1.98.3	MAL-0000-kam193-8b9f1e33c12c0eb5	https://github.com/ossf/malicious-packages/blob/9203957dca390f5fd5b3cf3af4eeab82a2953c39/osv/malicious/pypi/solana-utils-terminalmoney1/MAL-0000-kam193-8b9f1e33c12c0eb5.json
 solana-utils-terminalmoney1	1.98.3	MAL-2026-20136	https://osv.dev/vulnerability/MAL-2026-20136
 solana-wallet-sdk	1.0.0	MAL-2026-3376	https://osv.dev/vulnerability/MAL-2026-3376
 solana-wallet-utils	1.0.0	MAL-2026-3382	https://osv.dev/vulnerability/MAL-2026-3382
@@ -14253,7 +14258,9 @@ solanakit	1.0.1	MAL-2026-2837	https://osv.dev/vulnerability/MAL-2026-2837
 solanautil	2.1.1	MAL-2025-4241	https://osv.dev/vulnerability/MAL-2025-4241
 solanna	*	MAL-2023-2280	https://osv.dev/vulnerability/MAL-2023-2280
 solaraund	0.1	MAL-2024-11711	https://osv.dev/vulnerability/MAL-2024-11711
+solders-utils	0.1.1	MAL-0000-kam193-849131b89d2ade6f	https://github.com/ossf/malicious-packages/blob/9203957dca390f5fd5b3cf3af4eeab82a2953c39/osv/malicious/pypi/solders-utils/MAL-0000-kam193-849131b89d2ade6f.json
 solders-utils	0.1.1	MAL-2025-3000	https://osv.dev/vulnerability/MAL-2025-3000
+solders-utils	1.98.2	MAL-0000-kam193-80e0ec4aa6d82ff7	https://github.com/ossf/malicious-packages/blob/9203957dca390f5fd5b3cf3af4eeab82a2953c39/osv/malicious/pypi/solders-utils/MAL-0000-kam193-80e0ec4aa6d82ff7.json
 solders-utils	1.98.2	MAL-2025-3000	https://osv.dev/vulnerability/MAL-2025-3000
 solgpt	0.1	MAL-2024-10166	https://osv.dev/vulnerability/MAL-2024-10166
 solgpt	0.2	MAL-2024-10166	https://osv.dev/vulnerability/MAL-2024-10166
