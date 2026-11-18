@@ -171273,7 +171273,7 @@ qr-image-generator	*	MAL-2024-8798	https://osv.dev/vulnerability/MAL-2024-8798
 qrcode-express	*	MAL-2026-6060	https://osv.dev/vulnerability/MAL-2026-6060
 qrcode-generator-node	*	MAL-2026-6061	https://osv.dev/vulnerability/MAL-2026-6061
 qrcode-pretty-react	*	MAL-2025-48302	https://osv.dev/vulnerability/MAL-2025-48302
-qrcode-reader-vue3	3.1.4	MAL-0000-ghsa-malware-dc20773219608e8f	https://github.com/ossf/malicious-packages/blob/5615e11d59d027e3f6d9f5616940a5f1fa5811b0/osv/malicious/npm/qrcode-reader-vue3/MAL-0000-ghsa-malware-dc20773219608e8f.json
+qrcode-reader-vue3	3.1.4	MAL-2026-20129	https://osv.dev/vulnerability/MAL-2026-20129
 qrdisplay	*	MAL-2025-31045	https://osv.dev/vulnerability/MAL-2025-31045
 qreactjs	1.1.2	MAL-2026-7353	https://osv.dev/vulnerability/MAL-2026-7353
 qreactjs	1.1.4	MAL-2026-7353	https://osv.dev/vulnerability/MAL-2026-7353
@@ -173321,7 +173321,7 @@ react-bootstrap-table2-toolkit-bg	*	MAL-2026-18799	https://osv.dev/vulnerability
 react-bootstrap-telesto-jupiter-transform	*	MAL-2025-45761	https://osv.dev/vulnerability/MAL-2025-45761
 react-bootstrap-zooarchaeology-impulse-janus	*	MAL-2025-45762	https://osv.dev/vulnerability/MAL-2025-45762
 react-bs4	*	MAL-2024-7981	https://osv.dev/vulnerability/MAL-2024-7981
-react-cache-hook	*	MAL-0000-ghsa-malware-daf21c54eb125fb4	https://github.com/ossf/malicious-packages/blob/5615e11d59d027e3f6d9f5616940a5f1fa5811b0/osv/malicious/npm/react-cache-hook/MAL-0000-ghsa-malware-daf21c54eb125fb4.json
+react-cache-hook	*	MAL-2026-20130	https://osv.dev/vulnerability/MAL-2026-20130
 react-campaign-optimizer	*	MAL-2026-6395	https://osv.dev/vulnerability/MAL-2026-6395
 react-card-security-code	*	MAL-2025-5050	https://osv.dev/vulnerability/MAL-2025-5050
 react-check-error	2.1.6	MAL-2026-6341	https://osv.dev/vulnerability/MAL-2026-6341
