@@ -1304,6 +1304,11 @@ bogdi	1.0	MAL-2024-4825	https://osv.dev/vulnerability/MAL-2024-4825
 bogus-nydus-op	99.0.0	MAL-2026-2538	https://osv.dev/vulnerability/MAL-2026-2538
 bombonsec-test-123	0.1	MAL-2026-2809	https://osv.dev/vulnerability/MAL-2026-2809
 bonsaitree1	0.0.1	MAL-2026-2531	https://osv.dev/vulnerability/MAL-2026-2531
+boogipoper	0.1.0	MAL-0000-boogipoper	https://github.com/ossf/malicious-packages/pull/1805
+boogishell	0.1.0	MAL-0000-boogishell	https://github.com/ossf/malicious-packages/pull/1805
+boogishell2	0.1.0	MAL-0000-boogishell2	https://github.com/ossf/malicious-packages/pull/1805
+boogishell3	0.1.0	MAL-0000-boogishell3	https://github.com/ossf/malicious-packages/pull/1805
+boogishell4	0.1.0	MAL-0000-boogishell4	https://github.com/ossf/malicious-packages/pull/1805
 boost-tool	1.0	MAL-2024-4826	https://osv.dev/vulnerability/MAL-2024-4826
 boost-tool-api	1.0	MAL-2024-4827	https://osv.dev/vulnerability/MAL-2024-4827
 boostbot	0.0.1	MAL-2024-4828	https://osv.dev/vulnerability/MAL-2024-4828
@@ -8352,6 +8357,8 @@ myproject234	0.1	MAL-2026-7455	https://osv.dev/vulnerability/MAL-2026-7455
 mypypipkg	0.1.0	MAL-2026-3105	https://osv.dev/vulnerability/MAL-2026-3105
 mypypipkg	0.1.1	MAL-2026-3105	https://osv.dev/vulnerability/MAL-2026-3105
 myshellcode	0.1.0	MAL-2024-5391	https://osv.dev/vulnerability/MAL-2024-5391
+myshellcode2	0.1.0	MAL-0000-myshellcode2	https://github.com/ossf/malicious-packages/pull/1805
+myshellcode4	0.1.0	MAL-0000-myshellcode4	https://github.com/ossf/malicious-packages/pull/1805
 mysupergoodpython	0.1.0	MAL-2026-10910	https://osv.dev/vulnerability/MAL-2026-10910
 mysuperlicense	0.1.0	MAL-2026-10911	https://osv.dev/vulnerability/MAL-2026-10911
 mytonctrl	9999.0.0	MAL-2025-3452	https://osv.dev/vulnerability/MAL-2025-3452
@@ -12827,8 +12834,10 @@ s3transfer-sl	0.12.3	MAL-2025-191861	https://osv.dev/vulnerability/MAL-2025-1918
 s3transfer-sl	0.12.4	MAL-2025-191861	https://osv.dev/vulnerability/MAL-2025-191861
 s3transfer-sl	0.12.5	MAL-2025-191861	https://osv.dev/vulnerability/MAL-2025-191861
 s4transfer	0.3	MAL-2024-11699	https://osv.dev/vulnerability/MAL-2024-11699
+saazsdz	0.1.0	MAL-0000-saazsdz	https://github.com/ossf/malicious-packages/pull/1805
 sadonion	1.0	MAL-2024-5962	https://osv.dev/vulnerability/MAL-2024-5962
 sadonion	1.1	MAL-2024-5962	https://osv.dev/vulnerability/MAL-2024-5962
+sadsacxz	0.1.0	MAL-0000-sadsacxz	https://github.com/ossf/malicious-packages/pull/1805
 saeka	1.0.0	MAL-2026-17877	https://osv.dev/vulnerability/MAL-2026-17877
 saeka	1.2.0	MAL-2026-17877	https://osv.dev/vulnerability/MAL-2026-17877
 saeka	1.2.1	MAL-2026-17877	https://osv.dev/vulnerability/MAL-2026-17877
@@ -13995,6 +14004,8 @@ shark-e2e-bnsneo	0.2.10	MAL-2026-10912	https://osv.dev/vulnerability/MAL-2026-10
 shark-e2e-bnsneo	0.2.9	MAL-2026-10912	https://osv.dev/vulnerability/MAL-2026-10912
 shark-e2e-bnsneo	0.3.1	MAL-2026-10912	https://osv.dev/vulnerability/MAL-2026-10912
 shelipp	0.0.1	MAL-2026-2844	https://osv.dev/vulnerability/MAL-2026-2844
+shellapp	0.1.0	MAL-0000-shellapp	https://github.com/ossf/malicious-packages/pull/1805
+shellapp1	0.1.0	MAL-0000-shellapp1	https://github.com/ossf/malicious-packages/pull/1805
 shellexec	1.0.4	MAL-2024-6001	https://osv.dev/vulnerability/MAL-2024-6001
 shelley	0.1	MAL-2025-983	https://osv.dev/vulnerability/MAL-2025-983
 shellgrip	0.1.0	MAL-2026-18146	https://osv.dev/vulnerability/MAL-2026-18146
@@ -17423,6 +17434,8 @@ xx-ent-wiki-sm	99.2.2	MAL-2025-191939	https://osv.dev/vulnerability/MAL-2025-191
 xxlsxwriter	*	MAL-2023-2444	https://osv.dev/vulnerability/MAL-2023-2444
 xxoo-bale	1.0.0	MAL-2026-3425	https://osv.dev/vulnerability/MAL-2026-3425
 xxx-bale	1.0.0	MAL-2026-3428	https://osv.dev/vulnerability/MAL-2026-3428
+xxxsss	0.1.0	MAL-0000-xxxsss	https://github.com/ossf/malicious-packages/pull/1805
+xxxxssss	0.1.0	MAL-0000-xxxxssss	https://github.com/ossf/malicious-packages/pull/1805
 xyq-drama-skill	0.1.0	MAL-2026-10681	https://osv.dev/vulnerability/MAL-2026-10681
 xyq-drama-skill	0.2.0	MAL-2026-10681	https://osv.dev/vulnerability/MAL-2026-10681
 xyq-drama-skill	0.3.0	MAL-2026-10681	https://osv.dev/vulnerability/MAL-2026-10681
@@ -17548,6 +17561,7 @@ zscaner	1.2.0	MAL-2025-191944	https://osv.dev/vulnerability/MAL-2025-191944
 zscaner	1.3.0	MAL-2025-191944	https://osv.dev/vulnerability/MAL-2025-191944
 zsender	1.2.7	MAL-2025-191945	https://osv.dev/vulnerability/MAL-2025-191945
 ztasimb	1.0.0	MAL-2024-6262	https://osv.dev/vulnerability/MAL-2024-6262
+zwhrce	0.0.1	MAL-0000-zwhrce	https://github.com/ossf/malicious-packages/pull/1805
 zydnitro	1.0	MAL-2024-6263	https://osv.dev/vulnerability/MAL-2024-6263
 zyqnuutupjerllnbxaeq	0.0.1	MAL-2024-6264	https://osv.dev/vulnerability/MAL-2024-6264
 zyto	0.2.0	MAL-2026-18582	https://osv.dev/vulnerability/MAL-2026-18582
