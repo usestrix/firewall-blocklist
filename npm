@@ -24714,7 +24714,6 @@ abiba-avin-auma	*	MAL-2025-151289	https://osv.dev/vulnerability/MAL-2025-151289
 abiba-avin-aumau	*	MAL-2025-151290	https://osv.dev/vulnerability/MAL-2025-151290
 abiba-avin-aumaua	*	MAL-2025-151291	https://osv.dev/vulnerability/MAL-2025-151291
 abiba-avin-aumauna	*	MAL-2025-151292	https://osv.dev/vulnerability/MAL-2025-151292
-abiba-avin-aumauna	1.0.0	MAL-0000-ghsa-malware-8cbf3284ff88856e	https://github.com/ossf/malicious-packages/blob/3ffafefa402f10cb00578ccf1ed798a1948b2f90/osv/malicious/npm/abiba-avin-aumauna/MAL-0000-ghsa-malware-8cbf3284ff88856e.json
 abiba-avin-aumaunat	*	MAL-2025-151293	https://osv.dev/vulnerability/MAL-2025-151293
 abiba-avin-aumaunata	*	MAL-2025-151294	https://osv.dev/vulnerability/MAL-2025-151294
 abiba-avin-aumaunnaata	*	MAL-2025-151295	https://osv.dev/vulnerability/MAL-2025-151295
@@ -24818,7 +24817,6 @@ abina-amugmi-amatanamu	*	MAL-2025-151389	https://osv.dev/vulnerability/MAL-2025-
 abina-amugmi-amau	*	MAL-2025-151390	https://osv.dev/vulnerability/MAL-2025-151390
 abina-amugmi-amiatanamu	*	MAL-2025-151391	https://osv.dev/vulnerability/MAL-2025-151391
 abina-amugmi-amm	*	MAL-2025-151392	https://osv.dev/vulnerability/MAL-2025-151392
-abina-amugmi-amm	1.0.0	MAL-0000-ghsa-malware-8c858968b4ca42b7	https://github.com/ossf/malicious-packages/blob/3ffafefa402f10cb00578ccf1ed798a1948b2f90/osv/malicious/npm/abina-amugmi-amm/MAL-0000-ghsa-malware-8c858968b4ca42b7.json
 abina-amugmi-amtanamu	*	MAL-2025-151393	https://osv.dev/vulnerability/MAL-2025-151393
 abina-amugmi-amu	*	MAL-2025-151394	https://osv.dev/vulnerability/MAL-2025-151394
 abina-amuguai-anuabumai	*	MAL-2025-151395	https://osv.dev/vulnerability/MAL-2025-151395
@@ -25276,7 +25274,6 @@ abuina-mibiian-auruyasta	*	MAL-2025-151614	https://osv.dev/vulnerability/MAL-202
 abujtyvrmnckiodq	*	MAL-2022-809	https://osv.dev/vulnerability/MAL-2022-809
 abukarim	*	MAL-2025-170644	https://osv.dev/vulnerability/MAL-2025-170644
 abukhalid	*	MAL-2025-170645	https://osv.dev/vulnerability/MAL-2025-170645
-abukhalid	1.0.0	MAL-0000-ghsa-malware-0bdcb033bce76b91	https://github.com/ossf/malicious-packages/blob/3ffafefa402f10cb00578ccf1ed798a1948b2f90/osv/malicious/npm/abukhalid/MAL-0000-ghsa-malware-0bdcb033bce76b91.json
 abulaziz	*	MAL-2025-170646	https://osv.dev/vulnerability/MAL-2025-170646
 abulbani-nikamia-luahuubi	*	MAL-2025-151615	https://osv.dev/vulnerability/MAL-2025-151615
 abulhassan	*	MAL-2025-170647	https://osv.dev/vulnerability/MAL-2025-170647
@@ -25377,7 +25374,6 @@ abyikula-nioybnali-lauybasukia	*	MAL-2025-151666	https://osv.dev/vulnerability/M
 abyikula-nioybnali-lauybsukia	*	MAL-2025-151667	https://osv.dev/vulnerability/MAL-2025-151667
 abyikula-nioybnali-lauybukia	*	MAL-2025-151668	https://osv.dev/vulnerability/MAL-2025-151668
 abyikula-nioybnali-lauykia	*	MAL-2025-151669	https://osv.dev/vulnerability/MAL-2025-151669
-abyikula-nioybnali-lauykia	1.1.3	MAL-0000-ghsa-malware-34fe5bed36b16d05	https://github.com/ossf/malicious-packages/blob/3ffafefa402f10cb00578ccf1ed798a1948b2f90/osv/malicious/npm/abyikula-nioybnali-lauykia/MAL-0000-ghsa-malware-34fe5bed36b16d05.json
 abyikula-nioybnali-lauyubauasukia	*	MAL-2025-151670	https://osv.dev/vulnerability/MAL-2025-151670
 abyikula-nioybnali-lauyukia	*	MAL-2025-151671	https://osv.dev/vulnerability/MAL-2025-151671
 abyikula-nioybnli-lauykia	*	MAL-2025-151672	https://osv.dev/vulnerability/MAL-2025-151672
@@ -25390,10 +25386,8 @@ abyil-niana-lasaihmuk	*	MAL-2025-179430	https://osv.dev/vulnerability/MAL-2025-1
 abyil-niana-lasamuk	*	MAL-2025-179431	https://osv.dev/vulnerability/MAL-2025-179431
 abyil-nina-lasmuk	*	MAL-2025-179432	https://osv.dev/vulnerability/MAL-2025-179432
 abyil-nina-lasuk	*	MAL-2025-179433	https://osv.dev/vulnerability/MAL-2025-179433
-abyil-nina-lasuk	1.3.3	MAL-0000-ghsa-malware-41d5e64537c30e6c	https://github.com/ossf/malicious-packages/blob/3ffafefa402f10cb00578ccf1ed798a1948b2f90/osv/malicious/npm/abyil-nina-lasuk/MAL-0000-ghsa-malware-41d5e64537c30e6c.json
 abyil-niona-lasuk	*	MAL-2025-151673	https://osv.dev/vulnerability/MAL-2025-151673
 abyil-nionai-lasuk	*	MAL-2025-151674	https://osv.dev/vulnerability/MAL-2025-151674
-abyil-nionai-lasuk	1.3.3	MAL-0000-ghsa-malware-aa666a6c90a62010	https://github.com/ossf/malicious-packages/blob/3ffafefa402f10cb00578ccf1ed798a1948b2f90/osv/malicious/npm/abyil-nionai-lasuk/MAL-0000-ghsa-malware-aa666a6c90a62010.json
 abyil-nionai-lasukia	*	MAL-2025-151675	https://osv.dev/vulnerability/MAL-2025-151675
 abyil-nionai-lausukia	*	MAL-2025-151676	https://osv.dev/vulnerability/MAL-2025-151676
 abyila-ni-luyai	*	MAL-2025-151677	https://osv.dev/vulnerability/MAL-2025-151677
@@ -25784,7 +25778,6 @@ aciaiaggu-idat-ffugofada	*	MAL-2025-151698	https://osv.dev/vulnerability/MAL-202
 aciaiaggu-idat-gda	*	MAL-2025-151699	https://osv.dev/vulnerability/MAL-2025-151699
 aciaiaggu-idat-gfada	*	MAL-2025-151700	https://osv.dev/vulnerability/MAL-2025-151700
 aciaiaggu-idat-gfda	*	MAL-2025-151701	https://osv.dev/vulnerability/MAL-2025-151701
-aciaiaggu-idat-gfda	1.1.2	MAL-0000-ghsa-malware-47e955821188d5b7	https://github.com/ossf/malicious-packages/blob/3ffafefa402f10cb00578ccf1ed798a1948b2f90/osv/malicious/npm/aciaiaggu-idat-gfda/MAL-0000-ghsa-malware-47e955821188d5b7.json
 aciaiaggu-idat-gofada	*	MAL-2025-151702	https://osv.dev/vulnerability/MAL-2025-151702
 aciaiaggu-idatq-fafugofada	*	MAL-2025-151703	https://osv.dev/vulnerability/MAL-2025-151703
 aciaiaggu-idatqt-fafugofada	*	MAL-2025-151704	https://osv.dev/vulnerability/MAL-2025-151704
