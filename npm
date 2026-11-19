@@ -1507,6 +1507,7 @@
 @an1mshnpmb9c84920/stage-repo-m19g7	*	MAL-2026-18052	https://osv.dev/vulnerability/MAL-2026-18052
 @anchor-ds/core	99.9.0	MAL-2026-1585	https://osv.dev/vulnerability/MAL-2026-1585
 @andes-tools/colors	999.0.0	MAL-2026-6703	https://osv.dev/vulnerability/MAL-2026-6703
+@andrewstory18/is-real-odd	*	MAL-0000-ghsa-malware-2baf6886441ce1a1	https://github.com/ossf/malicious-packages/blob/be7514c7fa326d27bef4b70d64340f98c51e5915/osv/malicious/npm/@andrewstory18/is-real-odd/MAL-0000-ghsa-malware-2baf6886441ce1a1.json
 @andrewstory18/is-real-odd	2.0.3	MAL-2026-10093	https://osv.dev/vulnerability/MAL-2026-10093
 @anemone95/evil	*	MAL-2022-77	https://osv.dev/vulnerability/MAL-2022-77
 @anfular/core	22.2.1	MAL-2026-17533	https://osv.dev/vulnerability/MAL-2026-17533
