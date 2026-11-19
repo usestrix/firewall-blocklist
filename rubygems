@@ -3450,7 +3450,6 @@ scallistajxel	0.0.1	MAL-2026-8586	https://osv.dev/vulnerability/MAL-2026-8586
 secondhand_spider	0.0.1	MAL-2024-7020	https://osv.dev/vulnerability/MAL-2024-7020
 secrequeryabc	0.0.1	MAL-2026-8587	https://osv.dev/vulnerability/MAL-2026-8587
 secret-scanning-proto	99.99.99	MAL-2025-46942	https://osv.dev/vulnerability/MAL-2025-46942
-secretlens	1.0.1	MAL-0000-amazon-inspector-f15898924939d0d1	https://github.com/ossf/malicious-packages/blob/4f264f4bcbdbc2539fb1d52d387f00bd55ad3da4/osv/malicious/rubygems/secretlens/MAL-0000-amazon-inspector-f15898924939d0d1.json
 secretlens	1.0.1	MAL-2026-20213	https://osv.dev/vulnerability/MAL-2026-20213
 seed-phrase-validator	0.9.1	MAL-2026-17794	https://osv.dev/vulnerability/MAL-2026-17794
 seeing-is_believing	3.6.1	MAL-2024-7021	https://osv.dev/vulnerability/MAL-2024-7021
