@@ -188709,7 +188709,7 @@ siregar-poke8	*	MAL-2025-165998	https://osv.dev/vulnerability/MAL-2025-165998
 siregar-poke9	*	MAL-2025-165999	https://osv.dev/vulnerability/MAL-2025-165999
 siren-lament	*	MAL-2025-49247	https://osv.dev/vulnerability/MAL-2025-49247
 sirens-lament	*	MAL-2026-3200	https://osv.dev/vulnerability/MAL-2026-3200
-sirens-lamentt	99.0.2	MAL-0000-amazon-inspector-4b022b670038d319	https://github.com/ossf/malicious-packages/blob/257a8d190c83adbce0516ff10fed04ffc1330626/osv/malicious/npm/sirens-lamentt/MAL-0000-amazon-inspector-4b022b670038d319.json
+sirens-lamentt	99.0.2	MAL-2026-20260	https://osv.dev/vulnerability/MAL-2026-20260
 sirichat	*	MAL-2025-33310	https://osv.dev/vulnerability/MAL-2025-33310
 sirinova	*	MAL-2025-33311	https://osv.dev/vulnerability/MAL-2025-33311
 sirius-antares-quito-meissa	*	MAL-2025-147935	https://osv.dev/vulnerability/MAL-2025-147935
