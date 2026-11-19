@@ -110143,6 +110143,7 @@ item-shop-data-client	99.99.99	MAL-2024-2536	https://osv.dev/vulnerability/MAL-2
 item-sold-count	*	MAL-2024-11045	https://osv.dev/vulnerability/MAL-2024-11045
 item-ut-duoa	*	MAL-2025-183168	https://osv.dev/vulnerability/MAL-2025-183168
 item-validates	*	MAL-2026-20255	https://osv.dev/vulnerability/MAL-2026-20255
+item-validates	1.0.0	MAL-0000-amazon-inspector-9b0999b6e5a124ea	https://github.com/ossf/malicious-packages/blob/923d5135916b1a6e0cc70bbd8703de34b5aa942a/osv/malicious/npm/item-validates/MAL-0000-amazon-inspector-9b0999b6e5a124ea.json
 item-validator	*	MAL-2026-17932	https://osv.dev/vulnerability/MAL-2026-17932
 itembuyer	*	MAL-2025-23462	https://osv.dev/vulnerability/MAL-2025-23462
 items-validator	*	MAL-2026-17235	https://osv.dev/vulnerability/MAL-2026-17235
