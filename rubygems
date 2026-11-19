@@ -606,6 +606,7 @@ aws_codedeploy-agent	0.1.0	MAL-2024-6739	https://osv.dev/vulnerability/MAL-2024-
 aws_elasticsearch	0.1.0	MAL-2024-6740	https://osv.dev/vulnerability/MAL-2024-6740
 aws_logs	0.3.4	MAL-2024-6741	https://osv.dev/vulnerability/MAL-2024-6741
 aws_s3-deploy	0.3.0	MAL-2024-6742	https://osv.dev/vulnerability/MAL-2024-6742
+aws_sdk_wrapper	0.0.99	MAL-0000-amazon-inspector-d7d404dac5d62c71	https://github.com/ossf/malicious-packages/blob/2c1c3b296789e640ea3ef366df166a9f6ad97d6b/osv/malicious/rubygems/aws_sdk_wrapper/MAL-0000-amazon-inspector-d7d404dac5d62c71.json
 b00_arcguide	0.0.1	MAL-2026-7543	https://osv.dev/vulnerability/MAL-2026-7543
 ba-upload	0.1.0	MAL-2024-6743	https://osv.dev/vulnerability/MAL-2024-6743
 backbone_subroute-rails	0.4.6	MAL-2024-6744	https://osv.dev/vulnerability/MAL-2024-6744
@@ -2165,6 +2166,8 @@ gitlab-orchestrator	99.99.10	MAL-2026-2814	https://osv.dev/vulnerability/MAL-202
 gitlab-orchestrator	99.99.9	MAL-2026-2814	https://osv.dev/vulnerability/MAL-2026-2814
 gitstats_rb	2.0.0	MAL-2024-6936	https://osv.dev/vulnerability/MAL-2024-6936
 gitstats_ruby	1.0.1	MAL-2024-6937	https://osv.dev/vulnerability/MAL-2024-6937
+gmo-payment	0.0.99	MAL-0000-amazon-inspector-4536bede455c58b0	https://github.com/ossf/malicious-packages/blob/2c1c3b296789e640ea3ef366df166a9f6ad97d6b/osv/malicious/rubygems/gmo-payment/MAL-0000-amazon-inspector-4536bede455c58b0.json
+gmo-payment-carrier	0.0.99	MAL-0000-amazon-inspector-98f131dbde032aa5	https://github.com/ossf/malicious-packages/blob/2c1c3b296789e640ea3ef366df166a9f6ad97d6b/osv/malicious/rubygems/gmo-payment-carrier/MAL-0000-amazon-inspector-98f131dbde032aa5.json
 goimportinj1778550957	0.0.1	MAL-2026-7714	https://osv.dev/vulnerability/MAL-2026-7714
 goimportinjmeta1778551143	0.0.1	MAL-2026-7715	https://osv.dev/vulnerability/MAL-2026-7715
 google-apis-androidpublisher_v2	0.0	MAL-2023-1426	https://osv.dev/vulnerability/MAL-2023-1426
