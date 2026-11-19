@@ -222654,6 +222654,8 @@ voyage_vx4ld_okb49_antelope	*	MAL-2025-38625	https://osv.dev/vulnerability/MAL-2
 voyage_ysitn_il0e7_plume	*	MAL-2025-38626	https://osv.dev/vulnerability/MAL-2025-38626
 voyager-web	*	MAL-2026-5696	https://osv.dev/vulnerability/MAL-2026-5696
 vp-baileys	*	MAL-0000-vp-baileys	https://github.com/ossf/malicious-packages/pull/1784
+vp-baileys	0.0.0-stage	MAL-0000-ghsa-malware-5f70c43ab6fe4ec9	https://github.com/ossf/malicious-packages/blob/426061af722ce8dbf0dbefc12e98b0af6f2b4385/osv/malicious/npm/vp-baileys/MAL-0000-ghsa-malware-5f70c43ab6fe4ec9.json
+vp-baileys	9.0.34	MAL-0000-ghsa-malware-5f70c43ab6fe4ec9	https://github.com/ossf/malicious-packages/blob/426061af722ce8dbf0dbefc12e98b0af6f2b4385/osv/malicious/npm/vp-baileys/MAL-0000-ghsa-malware-5f70c43ab6fe4ec9.json
 vpatdnhbukmgjqrs	*	MAL-2025-38627	https://osv.dev/vulnerability/MAL-2025-38627
 vpc-nat-gateway-dependency	*	MAL-2023-8531	https://osv.dev/vulnerability/MAL-2023-8531
 vpc-stack-with-issues	*	MAL-2022-6968	https://osv.dev/vulnerability/MAL-2022-6968
