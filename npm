@@ -29623,7 +29623,7 @@ algol-weywot-loopback-nodejs	*	MAL-2025-139314	https://osv.dev/vulnerability/MAL
 algolia-analyzer	9.9.9	MAL-2024-9021	https://osv.dev/vulnerability/MAL-2024-9021
 algoliasearch-v5	9.9.9	MAL-2024-9057	https://osv.dev/vulnerability/MAL-2024-9057
 algomath	*	MAL-2025-14305	https://osv.dev/vulnerability/MAL-2025-14305
-ali-ai-coding-trace	1.0.0	MAL-0000-ali-ai-coding-trace	https://github.com/ossf/malicious-packages/pull/1817
+ali-ai-coding-trace	1.0.0	MAL-0000-ali-ai-coding-trace	https://github.com/ossf/malicious-packages/pull/1818
 ali-contributor	*	MAL-2025-14306	https://osv.dev/vulnerability/MAL-2025-14306
 ali-contributors	*	MAL-2025-14307	https://osv.dev/vulnerability/MAL-2025-14307
 ali-in-wlnd-test-1	*	MAL-2024-7440	https://osv.dev/vulnerability/MAL-2024-7440
