@@ -11371,6 +11371,7 @@
 @noxzacode/eslint-config	*	MAL-2026-13780	https://osv.dev/vulnerability/MAL-2026-13780
 @noxzacode/libsignal-node	*	MAL-2026-13781	https://osv.dev/vulnerability/MAL-2026-13781
 @npm-aditech387/public-repo-ui	*	MAL-2025-9119	https://osv.dev/vulnerability/MAL-2025-9119
+@npmresearch4/utils	*	MAL-0000-ghsa-malware-d0c172f12bba9167	https://github.com/ossf/malicious-packages/blob/27972f97acc98028a8c7a26e7ed7a6acba05e753/osv/malicious/npm/@npmresearch4/utils/MAL-0000-ghsa-malware-d0c172f12bba9167.json
 @npmshivamkalsi/aliquam-necessitatibus-voluptates-alias	*	MAL-2025-9120	https://osv.dev/vulnerability/MAL-2025-9120
 @npmshivamkalsi/animated-guacamole	*	MAL-2025-9121	https://osv.dev/vulnerability/MAL-2025-9121
 @npmshivamkalsi/blanditiis-architecto-iusto-asperiores	*	MAL-2025-9122	https://osv.dev/vulnerability/MAL-2025-9122
@@ -136016,6 +136017,7 @@ metrics-pipeline-d8k2	*	MAL-2026-5858	https://osv.dev/vulnerability/MAL-2026-585
 metrics-probe-64b2	*	MAL-2026-5981	https://osv.dev/vulnerability/MAL-2026-5981
 metrics-probe-77d4	*	MAL-2026-5982	https://osv.dev/vulnerability/MAL-2026-5982
 metrics-probe-88ad	*	MAL-2026-6114	https://osv.dev/vulnerability/MAL-2026-6114
+metrics-probe-9b4c	*	MAL-0000-ghsa-malware-00d70ea8f3d0afdc	https://github.com/ossf/malicious-packages/blob/27972f97acc98028a8c7a26e7ed7a6acba05e753/osv/malicious/npm/metrics-probe-9b4c/MAL-0000-ghsa-malware-00d70ea8f3d0afdc.json
 metrics-probe-dc85	*	MAL-2026-5983	https://osv.dev/vulnerability/MAL-2026-5983
 metrics-probe-f256	*	MAL-2026-6094	https://osv.dev/vulnerability/MAL-2026-6094
 metrics-ui	*	MAL-2026-11473	https://osv.dev/vulnerability/MAL-2026-11473
@@ -150660,6 +150662,9 @@ npmnewtest-avisheknayal122	*	MAL-2024-1519	https://osv.dev/vulnerability/MAL-202
 npmpubman	*	MAL-2025-27852	https://osv.dev/vulnerability/MAL-2025-27852
 npmrce-trials	*	MAL-2022-4948	https://osv.dev/vulnerability/MAL-2022-4948
 npmrcetest	1.0.0	MAL-2025-5761	https://osv.dev/vulnerability/MAL-2025-5761
+npmresearch2026-prov-test	*	MAL-0000-ghsa-malware-bb88bc06743e7c29	https://github.com/ossf/malicious-packages/blob/27972f97acc98028a8c7a26e7ed7a6acba05e753/osv/malicious/npm/npmresearch2026-prov-test/MAL-0000-ghsa-malware-bb88bc06743e7c29.json
+npmresearch2026-scope-test	*	MAL-0000-ghsa-malware-9f049c6ed6fd6f2a	https://github.com/ossf/malicious-packages/blob/27972f97acc98028a8c7a26e7ed7a6acba05e753/osv/malicious/npm/npmresearch2026-scope-test/MAL-0000-ghsa-malware-9f049c6ed6fd6f2a.json
+npmresearch2026-scope-test-b	*	MAL-0000-ghsa-malware-f66bc1c59a3a5ead	https://github.com/ossf/malicious-packages/blob/27972f97acc98028a8c7a26e7ed7a6acba05e753/osv/malicious/npm/npmresearch2026-scope-test-b/MAL-0000-ghsa-malware-f66bc1c59a3a5ead.json
 npmrunnall	*	MAL-2024-11059	https://osv.dev/vulnerability/MAL-2024-11059
 npmrunnode-fetch-test	1337.1.0	MAL-2025-48529	https://osv.dev/vulnerability/MAL-2025-48529
 npmscript_tesstalert_unpkg	*	MAL-2026-16309	https://osv.dev/vulnerability/MAL-2026-16309
@@ -184469,6 +184474,7 @@ scoot-tracking	1.0.1	MAL-2023-1289	https://osv.dev/vulnerability/MAL-2023-1289
 scoot-tracking	1.0.2	MAL-2023-1289	https://osv.dev/vulnerability/MAL-2023-1289
 scootertutor-api	*	MAL-2025-32807	https://osv.dev/vulnerability/MAL-2025-32807
 scope-gatsby	*	MAL-2025-32808	https://osv.dev/vulnerability/MAL-2025-32808
+scope-test-af5c5e	*	MAL-0000-ghsa-malware-76bcd49fedcc16f3	https://github.com/ossf/malicious-packages/blob/27972f97acc98028a8c7a26e7ed7a6acba05e753/osv/malicious/npm/scope-test-af5c5e/MAL-0000-ghsa-malware-76bcd49fedcc16f3.json
 scopely-mopub-aacebookaudiencenetwork-adapters	*	MAL-2022-5967	https://osv.dev/vulnerability/MAL-2022-5967
 score-tools	*	MAL-2025-5581	https://osv.dev/vulnerability/MAL-2025-5581
 score_and_match	*	MAL-2025-32809	https://osv.dev/vulnerability/MAL-2025-32809
