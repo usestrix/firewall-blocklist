@@ -4771,8 +4771,8 @@ flexitest	2.2160.0	MAL-2026-5702	https://osv.dev/vulnerability/MAL-2026-5702
 flexponlib	0.0.1	MAL-2024-5145	https://osv.dev/vulnerability/MAL-2024-5145
 flexssl	2.0.0	MAL-2024-12274	https://osv.dev/vulnerability/MAL-2024-12274
 flintqueue	0.1.0	MAL-2026-18227	https://osv.dev/vulnerability/MAL-2026-18227
-flo-pro-adk	0.0.0	MAL-0000-kam193-e5c10852aa66153d	https://github.com/ossf/malicious-packages/blob/23bbfa845b3b4e65605531d820905ace888ab04b/osv/malicious/pypi/flo-pro-adk/MAL-0000-kam193-e5c10852aa66153d.json
-flo-pro-adk	1.0.0	MAL-0000-kam193-e5c10852aa66153d	https://github.com/ossf/malicious-packages/blob/23bbfa845b3b4e65605531d820905ace888ab04b/osv/malicious/pypi/flo-pro-adk/MAL-0000-kam193-e5c10852aa66153d.json
+flo-pro-adk	0.0.0	MAL-2026-20219	https://osv.dev/vulnerability/MAL-2026-20219
+flo-pro-adk	1.0.0	MAL-2026-20219	https://osv.dev/vulnerability/MAL-2026-20219
 floogle	0.7	MAL-2025-41676	https://osv.dev/vulnerability/MAL-2025-41676
 flophttp	2.3.5	MAL-2024-10028	https://osv.dev/vulnerability/MAL-2024-10028
 flowfix	0.1.0	MAL-2026-1276	https://osv.dev/vulnerability/MAL-2026-1276
