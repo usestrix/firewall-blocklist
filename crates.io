@@ -6,6 +6,7 @@ arone	*	MAL-2026-14334	https://osv.dev/vulnerability/MAL-2026-14334
 aronenao	*	MAL-2026-14335	https://osv.dev/vulnerability/MAL-2026-14335
 arrayref	0.3.10	MAL-2026-14336	https://osv.dev/vulnerability/MAL-2026-14336
 basek	0.1.0	MAL-2026-19200	https://osv.dev/vulnerability/MAL-2026-19200
+besk	0.1.1	MAL-0000-amazon-inspector-1fcb2c7993d79ce4	https://github.com/ossf/malicious-packages/blob/4f264f4bcbdbc2539fb1d52d387f00bd55ad3da4/osv/malicious/crates.io/besk/MAL-0000-amazon-inspector-1fcb2c7993d79ce4.json
 env-test-guard	0.2.0	MAL-2026-18776	https://osv.dev/vulnerability/MAL-2026-18776
 env-test-guard	0.3.0	MAL-2026-18776	https://osv.dev/vulnerability/MAL-2026-18776
 hesk	0.1.0	MAL-2026-19201	https://osv.dev/vulnerability/MAL-2026-19201
