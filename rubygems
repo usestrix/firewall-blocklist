@@ -2053,7 +2053,7 @@ feature-flags-client	1.1.0.4.g5ec4367	MAL-2025-46907	https://osv.dev/vulnerabili
 ffxnzzez0bc	0.0.1	MAL-2026-7685	https://osv.dev/vulnerability/MAL-2026-7685
 ffxnzzez0bc	0.0.2	MAL-2026-7685	https://osv.dev/vulnerability/MAL-2026-7685
 ffxnzzez0bc	0.0.3	MAL-2026-7685	https://osv.dev/vulnerability/MAL-2026-7685
-fh-skeleton-web	1.0.1	MAL-0000-amazon-inspector-4c12d037891947e5	https://github.com/ossf/malicious-packages/blob/0ddc1946aadafe60074555be30f059fcda68ddfc/osv/malicious/rubygems/fh-skeleton-web/MAL-0000-amazon-inspector-4c12d037891947e5.json
+fh-skeleton-web	1.0.1	MAL-2026-20199	https://osv.dev/vulnerability/MAL-2026-20199
 fig-rake	0.9.3	MAL-2024-6894	https://osv.dev/vulnerability/MAL-2024-6894
 final-poc-usa	0.99800.0	MAL-2026-6118	https://osv.dev/vulnerability/MAL-2026-6118
 final-shoaib	1.0.0	MAL-2026-6117	https://osv.dev/vulnerability/MAL-2026-6117
