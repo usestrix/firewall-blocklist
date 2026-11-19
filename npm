@@ -3421,7 +3421,7 @@
 @codentra/postcss-kinetix	*	MAL-2026-19158	https://osv.dev/vulnerability/MAL-2026-19158
 @coderscamp/eslint-plugin	*	MAL-2022-178	https://osv.dev/vulnerability/MAL-2022-178
 @codex2005/logger-core	*	MAL-2026-10555	https://osv.dev/vulnerability/MAL-2026-10555
-@coframe-gtm/annotations	*	MAL-0000-ghsa-malware-7266a2793470c7f3	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/@coframe-gtm/annotations/MAL-0000-ghsa-malware-7266a2793470c7f3.json
+@coframe-gtm/annotations	*	MAL-2026-20220	https://osv.dev/vulnerability/MAL-2026-20220
 @cognam/shared-project	*	MAL-2025-7131	https://osv.dev/vulnerability/MAL-2025-7131
 @coinalpha/fetlife-assets	*	MAL-2022-179	https://osv.dev/vulnerability/MAL-2022-179
 @coinmetro/app	*	MAL-2026-1022	https://osv.dev/vulnerability/MAL-2026-1022
@@ -28371,7 +28371,7 @@ ahmed88521n786-todo-list	*	MAL-2025-14172	https://osv.dev/vulnerability/MAL-2025
 ahmed_salem_o	*	MAL-2025-192663	https://osv.dev/vulnerability/MAL-2025-192663
 ahmed_salem_ph	*	MAL-2026-2672	https://osv.dev/vulnerability/MAL-2026-2672
 ahmed_salem_t	*	MAL-2025-191471	https://osv.dev/vulnerability/MAL-2025-191471
-ahmedabad	*	MAL-0000-ghsa-malware-920a434051540bd2	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/ahmedabad/MAL-0000-ghsa-malware-920a434051540bd2.json
+ahmedabad	*	MAL-2026-20221	https://osv.dev/vulnerability/MAL-2026-20221
 ahmedbaguette	*	MAL-2025-170705	https://osv.dev/vulnerability/MAL-2025-170705
 ahmedfromage	*	MAL-2025-170706	https://osv.dev/vulnerability/MAL-2025-170706
 ahmedlatif	*	MAL-2025-170707	https://osv.dev/vulnerability/MAL-2025-170707
@@ -29572,7 +29572,7 @@ alfiansyah-poke97	*	MAL-2025-152312	https://osv.dev/vulnerability/MAL-2025-15231
 alfiansyah-poke98	*	MAL-2025-152313	https://osv.dev/vulnerability/MAL-2025-152313
 alfiansyah-poke99	*	MAL-2025-152314	https://osv.dev/vulnerability/MAL-2025-152314
 algerb	*	MAL-2025-14297	https://osv.dev/vulnerability/MAL-2025-14297
-algiers	*	MAL-0000-ghsa-malware-21191520794150b0	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/algiers/MAL-0000-ghsa-malware-21191520794150b0.json
+algiers	*	MAL-2026-20222	https://osv.dev/vulnerability/MAL-2026-20222
 algo-svnlook	*	MAL-2023-1547	https://osv.dev/vulnerability/MAL-2023-1547
 algo-svnspawn	*	MAL-2023-1548	https://osv.dev/vulnerability/MAL-2023-1548
 algodoo	*	MAL-2025-14298	https://osv.dev/vulnerability/MAL-2025-14298
@@ -36189,7 +36189,7 @@ aukwrklsfxntqjch	*	MAL-2022-1172	https://osv.dev/vulnerability/MAL-2022-1172
 aura-harmony-wud000-project	*	MAL-2025-15043	https://osv.dev/vulnerability/MAL-2025-15043
 aura-instrumentation	*	MAL-2026-15527	https://osv.dev/vulnerability/MAL-2026-15527
 aura-transportation-driver-messaging	*	MAL-2022-1173	https://osv.dev/vulnerability/MAL-2022-1173
-aurangabad	*	MAL-0000-ghsa-malware-7ff756912f7c32a8	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/aurangabad/MAL-0000-ghsa-malware-7ff756912f7c32a8.json
+aurangabad	*	MAL-2026-20223	https://osv.dev/vulnerability/MAL-2026-20223
 auratikum-api	*	MAL-2025-15044	https://osv.dev/vulnerability/MAL-2025-15044
 aurelia-tables	*	MAL-2025-15045	https://osv.dev/vulnerability/MAL-2025-15045
 aurelia-type	*	MAL-2026-19126	https://osv.dev/vulnerability/MAL-2026-19126
@@ -39003,7 +39003,7 @@ bakaloria	*	MAL-2025-15338	https://osv.dev/vulnerability/MAL-2025-15338
 bakaman	*	MAL-2022-1455	https://osv.dev/vulnerability/MAL-2022-1455
 baker-services	*	MAL-2025-15339	https://osv.dev/vulnerability/MAL-2025-15339
 baker-utils	*	MAL-2025-15340	https://osv.dev/vulnerability/MAL-2025-15340
-bakersfield	*	MAL-0000-ghsa-malware-d44bdbc5a3192976	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/bakersfield/MAL-0000-ghsa-malware-d44bdbc5a3192976.json
+bakersfield	*	MAL-2026-20224	https://osv.dev/vulnerability/MAL-2026-20224
 bakery-dashboard	*	MAL-2024-40	https://osv.dev/vulnerability/MAL-2024-40
 bako5	*	MAL-2025-181362	https://osv.dev/vulnerability/MAL-2025-181362
 bakricroissant	*	MAL-2025-170948	https://osv.dev/vulnerability/MAL-2025-170948
@@ -42748,7 +42748,7 @@ bird-uuap	*	MAL-2025-15729	https://osv.dev/vulnerability/MAL-2025-15729
 birdperson	*	MAL-2025-15730	https://osv.dev/vulnerability/MAL-2025-15730
 birdtree	*	MAL-2025-15731	https://osv.dev/vulnerability/MAL-2025-15731
 biriba	*	MAL-2025-15732	https://osv.dev/vulnerability/MAL-2025-15732
-birmingham	*	MAL-0000-ghsa-malware-146e8569fc229ea5	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/birmingham/MAL-0000-ghsa-malware-146e8569fc229ea5.json
+birmingham	*	MAL-2026-20225	https://osv.dev/vulnerability/MAL-2026-20225
 bis-schemas	9.99.9	MAL-2026-1660	https://osv.dev/vulnerability/MAL-2026-1660
 bisbino	*	MAL-2025-15733	https://osv.dev/vulnerability/MAL-2025-15733
 biscits	*	MAL-2023-8750	https://osv.dev/vulnerability/MAL-2023-8750
@@ -45176,7 +45176,7 @@ bubird	*	MAL-2022-1710	https://osv.dev/vulnerability/MAL-2022-1710
 bubujs	*	MAL-2022-1711	https://osv.dev/vulnerability/MAL-2022-1711
 buc-utils	*	MAL-2025-16248	https://osv.dev/vulnerability/MAL-2025-16248
 buceutils	*	MAL-2025-16249	https://osv.dev/vulnerability/MAL-2025-16249
-bucharest	*	MAL-0000-ghsa-malware-937954807df1aaa2	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/bucharest/MAL-0000-ghsa-malware-937954807df1aaa2.json
+bucharest	*	MAL-2026-20226	https://osv.dev/vulnerability/MAL-2026-20226
 buck2_explain	*	MAL-2025-4978	https://osv.dev/vulnerability/MAL-2025-4978
 bucket-protocol-sdk-v2	*	MAL-2026-4502	https://osv.dev/vulnerability/MAL-2026-4502
 bucketpdf	*	MAL-2025-16250	https://osv.dev/vulnerability/MAL-2025-16250
@@ -45192,7 +45192,7 @@ bud-indexhtml	*	MAL-2025-16255	https://osv.dev/vulnerability/MAL-2025-16255
 bud-live-server	*	MAL-2025-16256	https://osv.dev/vulnerability/MAL-2025-16256
 bud-setya-rusmaya	*	MAL-2025-173115	https://osv.dev/vulnerability/MAL-2025-173115
 budafly	*	MAL-2025-16257	https://osv.dev/vulnerability/MAL-2025-16257
-budapest	*	MAL-0000-ghsa-malware-d42a299f7a13c085	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/budapest/MAL-0000-ghsa-malware-d42a299f7a13c085.json
+budapest	*	MAL-2026-20227	https://osv.dev/vulnerability/MAL-2026-20227
 budetzz	*	MAL-2026-18953	https://osv.dev/vulnerability/MAL-2026-18953
 budfer-xor	*	MAL-2025-16258	https://osv.dev/vulnerability/MAL-2025-16258
 budgames	*	MAL-2025-16259	https://osv.dev/vulnerability/MAL-2025-16259
@@ -60816,7 +60816,7 @@ dappa-libsignal	*	MAL-2026-1358	https://osv.dev/vulnerability/MAL-2026-1358
 dappradar-browser-extension	*	MAL-2025-17963	https://osv.dev/vulnerability/MAL-2025-17963
 dapzsyz-baileysm	0.4.2	MAL-2026-18959	https://osv.dev/vulnerability/MAL-2026-18959
 dardasha	*	MAL-2025-17964	https://osv.dev/vulnerability/MAL-2025-17964
-daressalaam	*	MAL-0000-ghsa-malware-dd16c05c2a761bb4	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/daressalaam/MAL-0000-ghsa-malware-dd16c05c2a761bb4.json
+daressalaam	*	MAL-2026-20228	https://osv.dev/vulnerability/MAL-2026-20228
 dariobafirascroissantguette	*	MAL-2025-171087	https://osv.dev/vulnerability/MAL-2025-171087
 dariobaguette	*	MAL-2025-171088	https://osv.dev/vulnerability/MAL-2025-171088
 dariomda-fofiri-agoai	*	MAL-2025-154245	https://osv.dev/vulnerability/MAL-2025-154245
@@ -63204,9 +63204,7 @@ development-warp-halley-sagitta	*	MAL-2025-141639	https://osv.dev/vulnerability/
 development-webdriver-mocha-leda-bellatrix	*	MAL-2025-186583	https://osv.dev/vulnerability/MAL-2025-186583
 development-xerxes-dagda-repository	*	MAL-2025-186584	https://osv.dev/vulnerability/MAL-2025-186584
 development-xo-pegasus-schema	*	MAL-2025-141640	https://osv.dev/vulnerability/MAL-2025-141640
-developmentstelemetry	*	MAL-0000-ghsa-malware-cc570e27ee7bfcb5	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/developmentstelemetry/MAL-0000-ghsa-malware-cc570e27ee7bfcb5.json
-developmentstelemetry	1.0.1	MAL-2026-17318	https://osv.dev/vulnerability/MAL-2026-17318
-developmentstelemetry	1.0.2	MAL-2026-17318	https://osv.dev/vulnerability/MAL-2026-17318
+developmentstelemetry	*	MAL-2026-17318	https://osv.dev/vulnerability/MAL-2026-17318
 devendrasingh	*	MAL-2025-171105	https://osv.dev/vulnerability/MAL-2025-171105
 devextreme-angular-rpk	21.2.8	MAL-2025-47305	https://osv.dev/vulnerability/MAL-2025-47305
 devextreme-rpk	21.2.8	MAL-2025-47422	https://osv.dev/vulnerability/MAL-2025-47422
@@ -64748,7 +64746,7 @@ dgxeon-soket4	*	MAL-2026-1077	https://osv.dev/vulnerability/MAL-2026-1077
 dgxeon-sokets	1.0.0	MAL-2025-822	https://osv.dev/vulnerability/MAL-2025-822
 dh-jaws-client	*	MAL-2025-18422	https://osv.dev/vulnerability/MAL-2025-18422
 dh-translate	*	MAL-2025-18423	https://osv.dev/vulnerability/MAL-2025-18423
-dhaka	*	MAL-0000-ghsa-malware-f484aef12c4b7a35	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/dhaka/MAL-0000-ghsa-malware-f484aef12c4b7a35.json
+dhaka	*	MAL-2026-20229	https://osv.dev/vulnerability/MAL-2026-20229
 dhchukyso	*	MAL-2025-48625	https://osv.dev/vulnerability/MAL-2025-48625
 dhei-0731-pkg2	*	MAL-2025-6388	https://osv.dev/vulnerability/MAL-2025-6388
 dhemrdhs51214	*	MAL-2025-48626	https://osv.dev/vulnerability/MAL-2025-48626
@@ -74755,7 +74753,7 @@ elm-lang-core	*	MAL-2025-2667	https://osv.dev/vulnerability/MAL-2025-2667
 elm-lang-http	*	MAL-2025-2668	https://osv.dev/vulnerability/MAL-2025-2668
 eloectron	*	MAL-2025-19536	https://osv.dev/vulnerability/MAL-2025-19536
 elohmrowblah	*	MAL-2025-19537	https://osv.dev/vulnerability/MAL-2025-19537
-elpaso	*	MAL-0000-ghsa-malware-cb7a3ad9a878fdae	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/elpaso/MAL-0000-ghsa-malware-cb7a3ad9a878fdae.json
+elpaso	*	MAL-2026-20230	https://osv.dev/vulnerability/MAL-2026-20230
 elpectron	*	MAL-2025-19538	https://osv.dev/vulnerability/MAL-2025-19538
 elpititaso	*	MAL-2023-305	https://osv.dev/vulnerability/MAL-2023-305
 elprices-models	*	MAL-2025-19539	https://osv.dev/vulnerability/MAL-2025-19539
@@ -87240,7 +87238,7 @@ fortunate_tuna-toolteadev	*	MAL-2025-102882	https://osv.dev/vulnerability/MAL-20
 fortunate_tuna_z3n	*	MAL-2025-114077	https://osv.dev/vulnerability/MAL-2025-114077
 fortunate_wolf-appteadev	*	MAL-2025-102883	https://osv.dev/vulnerability/MAL-2025-102883
 fortunka	*	MAL-2025-20805	https://osv.dev/vulnerability/MAL-2025-20805
-fortworth	*	MAL-0000-ghsa-malware-0f15d46e6f34e689	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/fortworth/MAL-0000-ghsa-malware-0f15d46e6f34e689.json
+fortworth	*	MAL-2026-20231	https://osv.dev/vulnerability/MAL-2026-20231
 forumpe	*	MAL-2025-20806	https://osv.dev/vulnerability/MAL-2025-20806
 forumpp	*	MAL-2025-20807	https://osv.dev/vulnerability/MAL-2025-20807
 forward-coral-wren	*	MAL-2025-68403	https://osv.dev/vulnerability/MAL-2025-68403
@@ -98098,7 +98096,7 @@ happy_xerinae_z3n	*	MAL-2025-127147	https://osv.dev/vulnerability/MAL-2025-12714
 happychat-connection	1.0.0	MAL-2025-1832	https://osv.dev/vulnerability/MAL-2025-1832
 happychat-connection	2.0.0	MAL-2025-1832	https://osv.dev/vulnerability/MAL-2025-1832
 haraka-plugin-footer	*	MAL-2025-22190	https://osv.dev/vulnerability/MAL-2025-22190
-harbin	*	MAL-0000-ghsa-malware-4e25ec0beaf5362c	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/harbin/MAL-0000-ghsa-malware-4e25ec0beaf5362c.json
+harbin	*	MAL-2026-20232	https://osv.dev/vulnerability/MAL-2026-20232
 harbor-apple-6ip0	*	MAL-2025-22191	https://osv.dev/vulnerability/MAL-2025-22191
 harbor-aspen-dmp363-project	*	MAL-2025-22192	https://osv.dev/vulnerability/MAL-2025-22192
 harbor-bonfire-fqx182-project	*	MAL-2025-22193	https://osv.dev/vulnerability/MAL-2025-22193
@@ -102168,7 +102166,7 @@ hydanlabs	1.0.2	MAL-2026-6511	https://osv.dev/vulnerability/MAL-2026-6511
 hydanlabs	1.0.3	MAL-2026-6511	https://osv.dev/vulnerability/MAL-2026-6511
 hydanlabs	1.3.0	MAL-2026-6511	https://osv.dev/vulnerability/MAL-2026-6511
 hydanlabs	1.3.2	MAL-2026-6511	https://osv.dev/vulnerability/MAL-2026-6511
-hyderabad	*	MAL-0000-ghsa-malware-dc356e98fcc8a83f	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/hyderabad/MAL-0000-ghsa-malware-dc356e98fcc8a83f.json
+hyderabad	*	MAL-2026-20233	https://osv.dev/vulnerability/MAL-2026-20233
 hydra-abiogenesis-auriga-decoherence	*	MAL-2025-22840	https://osv.dev/vulnerability/MAL-2025-22840
 hydra-bellatrix-backend-sadr	*	MAL-2025-143434	https://osv.dev/vulnerability/MAL-2025-143434
 hydra-betelgeuse-prompts-soap	*	MAL-2025-143435	https://osv.dev/vulnerability/MAL-2025-143435
@@ -110944,7 +110942,7 @@ j6-test	1.0.0	MAL-2024-2539	https://osv.dev/vulnerability/MAL-2024-2539
 j6-test	1.0.1	MAL-2024-2539	https://osv.dev/vulnerability/MAL-2024-2539
 j8i	*	MAL-2022-4000	https://osv.dev/vulnerability/MAL-2022-4000
 jaas-jwt	*	MAL-2024-1058	https://osv.dev/vulnerability/MAL-2024-1058
-jabalpur	*	MAL-0000-ghsa-malware-75373c19ab4920e4	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/jabalpur/MAL-0000-ghsa-malware-75373c19ab4920e4.json
+jabalpur	*	MAL-2026-20234	https://osv.dev/vulnerability/MAL-2026-20234
 jabbah-aether-heka-library	*	MAL-2025-143768	https://osv.dev/vulnerability/MAL-2025-143768
 jabbah-antares-protractor-html-webpack-plugin	*	MAL-2025-44740	https://osv.dev/vulnerability/MAL-2025-44740
 jabbah-areology-archaeometry-vega	*	MAL-2025-187559	https://osv.dev/vulnerability/MAL-2025-187559
@@ -112100,7 +112098,7 @@ jealous_reindeer_0xrequest	*	MAL-2025-104540	https://osv.dev/vulnerability/MAL-2
 jealous_rooster-teagooddev	*	MAL-2025-104541	https://osv.dev/vulnerability/MAL-2025-104541
 jealous_yak_requirement	*	MAL-2025-95130	https://osv.dev/vulnerability/MAL-2025-95130
 jeasatra-notthedevs	*	MAL-2025-104542	https://osv.dev/vulnerability/MAL-2025-104542
-jeddah	*	MAL-0000-ghsa-malware-c56219ce941e757f	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/jeddah/MAL-0000-ghsa-malware-c56219ce941e757f.json
+jeddah	*	MAL-2026-20235	https://osv.dev/vulnerability/MAL-2026-20235
 jedismash	*	MAL-2025-23719	https://osv.dev/vulnerability/MAL-2025-23719
 jeep-poke1	*	MAL-2025-156975	https://osv.dev/vulnerability/MAL-2025-156975
 jeep-poke10	*	MAL-2025-156976	https://osv.dev/vulnerability/MAL-2025-156976
@@ -128676,7 +128674,7 @@ lucky_vulture_z3n	*	MAL-2025-128349	https://osv.dev/vulnerability/MAL-2025-12834
 lucky_wolf_z3n	*	MAL-2025-121606	https://osv.dev/vulnerability/MAL-2025-121606
 lucky_worm_z3n	*	MAL-2025-60797	https://osv.dev/vulnerability/MAL-2025-60797
 luckydoge3	1.0.0	MAL-2025-2886	https://osv.dev/vulnerability/MAL-2025-2886
-ludhiana	*	MAL-0000-ghsa-malware-e03a941872a2c844	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/ludhiana/MAL-0000-ghsa-malware-e03a941872a2c844.json
+ludhiana	*	MAL-2026-20236	https://osv.dev/vulnerability/MAL-2026-20236
 ludogram	*	MAL-2025-25646	https://osv.dev/vulnerability/MAL-2025-25646
 luekria	1.1.38	MAL-2024-9696	https://osv.dev/vulnerability/MAL-2024-9696
 lufsmeter	*	MAL-2025-25647	https://osv.dev/vulnerability/MAL-2025-25647
@@ -131117,7 +131115,7 @@ makonini	*	MAL-2025-45106	https://osv.dev/vulnerability/MAL-2025-45106
 makrbox	*	MAL-2025-25802	https://osv.dev/vulnerability/MAL-2025-25802
 makuai	*	MAL-2025-25803	https://osv.dev/vulnerability/MAL-2025-25803
 makula	*	MAL-2025-25804	https://osv.dev/vulnerability/MAL-2025-25804
-malaga	*	MAL-0000-ghsa-malware-6612dda5b3741c03	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/malaga/MAL-0000-ghsa-malware-6612dda5b3741c03.json
+malaga	*	MAL-2026-20237	https://osv.dev/vulnerability/MAL-2026-20237
 malaha-munsaro-ps	*	MAL-2025-159276	https://osv.dev/vulnerability/MAL-2025-159276
 malahan-munsaro-ps	*	MAL-2025-159277	https://osv.dev/vulnerability/MAL-2025-159277
 malasha-munsaro-ps	*	MAL-2025-159278	https://osv.dev/vulnerability/MAL-2025-159278
@@ -135157,7 +135155,7 @@ meechum-user-lib-js	99.9.9	MAL-2024-2656	https://osv.dev/vulnerability/MAL-2024-
 meenakumari	*	MAL-2025-171560	https://osv.dev/vulnerability/MAL-2025-171560
 meeneeme	*	MAL-2025-26151	https://osv.dev/vulnerability/MAL-2025-26151
 meepmpb	*	MAL-2025-26152	https://osv.dev/vulnerability/MAL-2025-26152
-meerut	*	MAL-0000-ghsa-malware-e694ba8051bc99aa	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/meerut/MAL-0000-ghsa-malware-e694ba8051bc99aa.json
+meerut	*	MAL-2026-20238	https://osv.dev/vulnerability/MAL-2026-20238
 meetalkjs	*	MAL-2025-26153	https://osv.dev/vulnerability/MAL-2025-26153
 meeting-card-component	*	MAL-2025-1223	https://osv.dev/vulnerability/MAL-2025-1223
 meetingsdk-sample-react	*	MAL-2023-587	https://osv.dev/vulnerability/MAL-2023-587
@@ -141649,7 +141647,7 @@ mysl-dumpdiscord	1.0.1	MAL-2025-47692	https://osv.dev/vulnerability/MAL-2025-476
 mysl-dumpdiscord	1.0.2	MAL-2025-47692	https://osv.dev/vulnerability/MAL-2025-47692
 myslidify	*	MAL-2025-26995	https://osv.dev/vulnerability/MAL-2025-26995
 mysnipets	*	MAL-2025-26996	https://osv.dev/vulnerability/MAL-2025-26996
-mysore	*	MAL-0000-ghsa-malware-d43be70370736ca8	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/mysore/MAL-0000-ghsa-malware-d43be70370736ca8.json
+mysore	*	MAL-2026-20239	https://osv.dev/vulnerability/MAL-2026-20239
 mysql-algol-phenomic-sedna	*	MAL-2025-145235	https://osv.dev/vulnerability/MAL-2025-145235
 mysql-apex-nova-axios	*	MAL-2025-145236	https://osv.dev/vulnerability/MAL-2025-145236
 mysql-apollo-ganymede-helios	*	MAL-2025-145237	https://osv.dev/vulnerability/MAL-2025-145237
@@ -144076,7 +144074,7 @@ nana-wajit84-riris	*	MAL-2025-128873	https://osv.dev/vulnerability/MAL-2025-1288
 nancangku	*	MAL-2025-27071	https://osv.dev/vulnerability/MAL-2025-27071
 nanditaghosh	*	MAL-2025-171620	https://osv.dev/vulnerability/MAL-2025-171620
 naniod	*	MAL-2026-964	https://osv.dev/vulnerability/MAL-2026-964
-nanjing	*	MAL-0000-ghsa-malware-0f2616392d9328cf	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/nanjing/MAL-0000-ghsa-malware-0f2616392d9328cf.json
+nanjing	*	MAL-2026-20240	https://osv.dev/vulnerability/MAL-2026-20240
 nannnnnnnnn	*	MAL-2026-18655	https://osv.dev/vulnerability/MAL-2026-18655
 nano-perf	*	MAL-2026-11204	https://osv.dev/vulnerability/MAL-2026-11204
 nanoid-js	*	MAL-2026-418	https://osv.dev/vulnerability/MAL-2026-418
@@ -154781,7 +154779,7 @@ okhsa	*	MAL-2022-5052	https://osv.dev/vulnerability/MAL-2022-5052
 okijuh	*	MAL-2026-571	https://osv.dev/vulnerability/MAL-2026-571
 okimmo-api	*	MAL-2025-28179	https://osv.dev/vulnerability/MAL-2025-28179
 okipeqhzwdvtnkjx	*	MAL-2025-28180	https://osv.dev/vulnerability/MAL-2025-28180
-oklahomacity	*	MAL-0000-ghsa-malware-563ef636c339a287	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/oklahomacity/MAL-0000-ghsa-malware-563ef636c339a287.json
+oklahomacity	*	MAL-2026-20241	https://osv.dev/vulnerability/MAL-2026-20241
 okmanalright	*	MAL-2025-3160	https://osv.dev/vulnerability/MAL-2025-3160
 okmcyrplhnvewxfu	*	MAL-2025-28181	https://osv.dev/vulnerability/MAL-2025-28181
 okqaelhmbfuwipvz	*	MAL-2022-5053	https://osv.dev/vulnerability/MAL-2022-5053
@@ -172610,7 +172608,7 @@ rainy_snipe_z3n	*	MAL-2025-58343	https://osv.dev/vulnerability/MAL-2025-58343
 rainy_tortoise_z3n	*	MAL-2025-107703	https://osv.dev/vulnerability/MAL-2025-107703
 rainy_tyrannosaurus_z3n	*	MAL-2025-96175	https://osv.dev/vulnerability/MAL-2025-96175
 rainy_wren_z3n	*	MAL-2025-61136	https://osv.dev/vulnerability/MAL-2025-61136
-raipur	*	MAL-0000-ghsa-malware-1c340303fb5e75f3	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/raipur/MAL-0000-ghsa-malware-1c340303fb5e75f3.json
+raipur	*	MAL-2026-20242	https://osv.dev/vulnerability/MAL-2026-20242
 raise-common-lib	0.0.249	MAL-2026-4656	https://osv.dev/vulnerability/MAL-2026-4656
 raise-http-server	*	MAL-2025-4980	https://osv.dev/vulnerability/MAL-2025-4980
 raiser	*	MAL-2025-31601	https://osv.dev/vulnerability/MAL-2025-31601
@@ -172698,7 +172696,7 @@ ramses_the_battle_of_kadesh_volume_iii_by_christian_jacq_9xuaw	*	MAL-2026-19918	
 ramybaguette	*	MAL-2025-171759	https://osv.dev/vulnerability/MAL-2025-171759
 rana-media-downloader	*	MAL-2024-10941	https://osv.dev/vulnerability/MAL-2024-10941
 rancher-website-theme	*	MAL-2022-5580	https://osv.dev/vulnerability/MAL-2022-5580
-ranchi	*	MAL-0000-ghsa-malware-3e9711f3a1bd65b2	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/ranchi/MAL-0000-ghsa-malware-3e9711f3a1bd65b2.json
+ranchi	*	MAL-2026-20243	https://osv.dev/vulnerability/MAL-2026-20243
 rancho-extensions-app	*	MAL-2024-1123	https://osv.dev/vulnerability/MAL-2024-1123
 rand-helper	*	MAL-2025-4496	https://osv.dev/vulnerability/MAL-2025-4496
 rand-txs-sdk	1.0.3	MAL-2026-14273	https://osv.dev/vulnerability/MAL-2026-14273
@@ -182924,7 +182922,7 @@ samuelwebb	*	MAL-2025-171820	https://osv.dev/vulnerability/MAL-2025-171820
 samybaguette	*	MAL-2025-171821	https://osv.dev/vulnerability/MAL-2025-171821
 samyfromage	*	MAL-2025-171822	https://osv.dev/vulnerability/MAL-2025-171822
 san-cookik-raimu	*	MAL-2025-165748	https://osv.dev/vulnerability/MAL-2025-165748
-sanantonio	*	MAL-0000-ghsa-malware-920de4e28d2dbc44	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/sanantonio/MAL-0000-ghsa-malware-920de4e28d2dbc44.json
+sanantonio	*	MAL-2026-20244	https://osv.dev/vulnerability/MAL-2026-20244
 sanar-website-v3	1.0.0	MAL-2024-1387	https://osv.dev/vulnerability/MAL-2024-1387
 sanar-website-v3	4.0.0	MAL-2024-1387	https://osv.dev/vulnerability/MAL-2024-1387
 sanar-website-v3	6.0.1	MAL-2024-1387	https://osv.dev/vulnerability/MAL-2024-1387
@@ -197411,7 +197409,7 @@ tablegen	*	MAL-2025-1565	https://osv.dev/vulnerability/MAL-2025-1565
 tablekit	*	MAL-2025-34366	https://osv.dev/vulnerability/MAL-2025-34366
 tablogo	*	MAL-2025-34367	https://osv.dev/vulnerability/MAL-2025-34367
 tabmark	*	MAL-2025-34368	https://osv.dev/vulnerability/MAL-2025-34368
-tabnine	*	MAL-0000-ghsa-malware-372344b178f8af70	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/tabnine/MAL-0000-ghsa-malware-372344b178f8af70.json
+tabnine	*	MAL-2026-20245	https://osv.dev/vulnerability/MAL-2026-20245
 tabufi	*	MAL-2025-34369	https://osv.dev/vulnerability/MAL-2025-34369
 tachyon-asthenosphere-less-loader-dagda	*	MAL-2025-189797	https://osv.dev/vulnerability/MAL-2025-189797
 tachyon-lacerta-relay-mdx	*	MAL-2025-189798	https://osv.dev/vulnerability/MAL-2025-189798
@@ -231646,7 +231644,7 @@ yang-teadev	*	MAL-2025-111153	https://osv.dev/vulnerability/MAL-2025-111153
 yangkuan	*	MAL-2025-40222	https://osv.dev/vulnerability/MAL-2025-40222
 yangming708	*	MAL-2026-13845	https://osv.dev/vulnerability/MAL-2026-13845
 yangming8	*	MAL-2026-13846	https://osv.dev/vulnerability/MAL-2026-13846
-yangon	*	MAL-0000-ghsa-malware-e60a055baf7f30f8	https://github.com/ossf/malicious-packages/blob/311e20bbe965c33a9280a69c58cfc0091246f0a0/osv/malicious/npm/yangon/MAL-0000-ghsa-malware-e60a055baf7f30f8.json
+yangon	*	MAL-2026-20246	https://osv.dev/vulnerability/MAL-2026-20246
 yankee-3iv-project	*	MAL-2025-40223	https://osv.dev/vulnerability/MAL-2025-40223
 yankee-49u-project	*	MAL-2025-40224	https://osv.dev/vulnerability/MAL-2025-40224
 yankee-4n3-project	*	MAL-2025-40225	https://osv.dev/vulnerability/MAL-2025-40225
