@@ -9693,7 +9693,7 @@
 @mgor/fw-canary-20260725-394b024b	0.0.2	MAL-2026-12321	https://osv.dev/vulnerability/MAL-2026-12321
 @mgor/fw-canary-3333	0.0.1	MAL-2026-12322	https://osv.dev/vulnerability/MAL-2026-12322
 @mgor/fw-canary-3333	0.0.2	MAL-2026-12322	https://osv.dev/vulnerability/MAL-2026-12322
-@mibbp/agent-observer	*	MAL-0000-ghsa-malware-e592072a64081eeb	https://github.com/ossf/malicious-packages/blob/cefa04ec54bbadcf97a72a1310d1faa13b7cd0f2/osv/malicious/npm/@mibbp/agent-observer/MAL-0000-ghsa-malware-e592072a64081eeb.json
+@mibbp/agent-observer	*	MAL-2026-20254	https://osv.dev/vulnerability/MAL-2026-20254
 @mic-security/complex-components	*	MAL-2025-42693	https://osv.dev/vulnerability/MAL-2025-42693
 @micado-digital/stadtmarketing-kufstein-external	1.9.1	MAL-2025-191246	https://osv.dev/vulnerability/MAL-2025-191246
 @michaljaz/backdoor	*	MAL-2025-9102	https://osv.dev/vulnerability/MAL-2025-9102
@@ -110142,7 +110142,7 @@ item-shop-data-client	99.99.100	MAL-2024-2536	https://osv.dev/vulnerability/MAL-
 item-shop-data-client	99.99.99	MAL-2024-2536	https://osv.dev/vulnerability/MAL-2024-2536
 item-sold-count	*	MAL-2024-11045	https://osv.dev/vulnerability/MAL-2024-11045
 item-ut-duoa	*	MAL-2025-183168	https://osv.dev/vulnerability/MAL-2025-183168
-item-validates	*	MAL-0000-ghsa-malware-176dbc4debac5906	https://github.com/ossf/malicious-packages/blob/cefa04ec54bbadcf97a72a1310d1faa13b7cd0f2/osv/malicious/npm/item-validates/MAL-0000-ghsa-malware-176dbc4debac5906.json
+item-validates	*	MAL-2026-20255	https://osv.dev/vulnerability/MAL-2026-20255
 item-validator	*	MAL-2026-17932	https://osv.dev/vulnerability/MAL-2026-17932
 itembuyer	*	MAL-2025-23462	https://osv.dev/vulnerability/MAL-2025-23462
 items-validator	*	MAL-2026-17235	https://osv.dev/vulnerability/MAL-2026-17235
