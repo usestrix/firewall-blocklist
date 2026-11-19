@@ -11433,6 +11433,7 @@
 @nubjs/types	0.9.4	MAL-2026-17186	https://osv.dev/vulnerability/MAL-2026-17186
 @nullzero/urlcat	*	MAL-2026-6309	https://osv.dev/vulnerability/MAL-2026-6309
 @nunes_nunes/loader-base	>=0.1.0	MAL-2025-48470	https://osv.dev/vulnerability/MAL-2025-48470
+@nuri.yavuz.tr.2/my-unique-pinger	*	MAL-0000-ghsa-malware-47df1ce9866067cf	https://github.com/ossf/malicious-packages/blob/8a66830cb4f59e34af91306d0810cad31319e88d/osv/malicious/npm/@nuri.yavuz.tr.2/my-unique-pinger/MAL-0000-ghsa-malware-47df1ce9866067cf.json
 @nuri.yavuz.tr.2/my-unique-pinger	1.0.2	MAL-2026-18716	https://osv.dev/vulnerability/MAL-2026-18716
 @nursefly/tokens	45.45.45	MAL-2023-1093	https://osv.dev/vulnerability/MAL-2023-1093
 @nursefly/tokens	46.46.47	MAL-2023-1093	https://osv.dev/vulnerability/MAL-2023-1093
@@ -59640,6 +59641,8 @@ csv-cosmicray-mui-spica	*	MAL-2025-17801	https://osv.dev/vulnerability/MAL-2025-
 csv-dysonswarm-aether-optimize-css-assets-webpack-plugin	*	MAL-2025-186428	https://osv.dev/vulnerability/MAL-2025-186428
 csv-envconfig-achernar-stratigraphy	*	MAL-2025-186429	https://osv.dev/vulnerability/MAL-2025-186429
 csv-europa-bellatrix-janus	*	MAL-2025-141344	https://osv.dev/vulnerability/MAL-2025-141344
+csv-generatee	*	MAL-0000-ghsa-malware-5394f8f999a7946b	https://github.com/ossf/malicious-packages/blob/8a66830cb4f59e34af91306d0810cad31319e88d/osv/malicious/npm/csv-generatee/MAL-0000-ghsa-malware-5394f8f999a7946b.json
+csv-generater	*	MAL-0000-ghsa-malware-d78ead08594f95ad	https://github.com/ossf/malicious-packages/blob/8a66830cb4f59e34af91306d0810cad31319e88d/osv/malicious/npm/csv-generater/MAL-0000-ghsa-malware-d78ead08594f95ad.json
 csv-helmet-dione-canopus	*	MAL-2025-186430	https://osv.dev/vulnerability/MAL-2025-186430
 csv-hermes-cryonics-solis	*	MAL-2025-17802	https://osv.dev/vulnerability/MAL-2025-17802
 csv-jekyll-equinox-pegasus	*	MAL-2025-17803	https://osv.dev/vulnerability/MAL-2025-17803
@@ -128767,6 +128770,7 @@ luntbuild	*	MAL-2025-25692	https://osv.dev/vulnerability/MAL-2025-25692
 luochio	*	MAL-2025-171530	https://osv.dev/vulnerability/MAL-2025-171530
 luotsi	*	MAL-2025-25693	https://osv.dev/vulnerability/MAL-2025-25693
 luoxy-baileys	*	MAL-2026-17446	https://osv.dev/vulnerability/MAL-2026-17446
+lupedsagaces	*	MAL-0000-ghsa-malware-72a3f1b5f10fc352	https://github.com/ossf/malicious-packages/blob/8a66830cb4f59e34af91306d0810cad31319e88d/osv/malicious/npm/lupedsagaces/MAL-0000-ghsa-malware-72a3f1b5f10fc352.json
 lupinfakepackagingforscanners	*	MAL-2023-573	https://osv.dev/vulnerability/MAL-2023-573
 lupinistestinganotherpackage	*	MAL-2025-25694	https://osv.dev/vulnerability/MAL-2025-25694
 lupinistestingsomethingnewonnpmagain	*	MAL-2025-25695	https://osv.dev/vulnerability/MAL-2025-25695
@@ -165187,6 +165191,7 @@ prettier-plugin-markdown-tool-sociobiology-css-minimizer-webpack-plugin	*	MAL-20
 prettier-plugin-markdown-uninstall-jupiter-umbriel	*	MAL-2025-146497	https://osv.dev/vulnerability/MAL-2025-146497
 prettier-plugin-markdown-winston-phenomic-airbnb	*	MAL-2025-146498	https://osv.dev/vulnerability/MAL-2025-146498
 prettier-plugin-markdown-xml-ursa-magellan	*	MAL-2025-146499	https://osv.dev/vulnerability/MAL-2025-146499
+prettier-plugin-solidity-import-order	*	MAL-0000-ghsa-malware-9e9d03bc4f7e6adb	https://github.com/ossf/malicious-packages/blob/8a66830cb4f59e34af91306d0810cad31319e88d/osv/malicious/npm/prettier-plugin-solidity-import-order/MAL-0000-ghsa-malware-9e9d03bc4f7e6adb.json
 prettier-polaris-avior-chalk	*	MAL-2025-146500	https://osv.dev/vulnerability/MAL-2025-146500
 prettier-prod	*	MAL-2025-3114	https://osv.dev/vulnerability/MAL-2025-3114
 prettier-protractor-lynx-morgan	*	MAL-2025-29630	https://osv.dev/vulnerability/MAL-2025-29630
@@ -175824,6 +175829,7 @@ request-typeorm-elara-passport	*	MAL-2025-147315	https://osv.dev/vulnerability/M
 request-wasat-mui-lynx	*	MAL-2025-147316	https://osv.dev/vulnerability/MAL-2025-147316
 request-xerxes-orbit-jekyll	*	MAL-2025-45814	https://osv.dev/vulnerability/MAL-2025-45814
 request-xo-robotics-umbriel	*	MAL-2025-45815	https://osv.dev/vulnerability/MAL-2025-45815
+requestcatcher-pinger-v2	*	MAL-0000-ghsa-malware-7da8bac320a89173	https://github.com/ossf/malicious-packages/blob/8a66830cb4f59e34af91306d0810cad31319e88d/osv/malicious/npm/requestcatcher-pinger-v2/MAL-0000-ghsa-malware-7da8bac320a89173.json
 requestlyx	*	MAL-2023-8646	https://osv.dev/vulnerability/MAL-2023-8646
 requestor-util	*	MAL-2026-10965	https://osv.dev/vulnerability/MAL-2026-10965
 requests-async	*	MAL-2025-618	https://osv.dev/vulnerability/MAL-2025-618
@@ -197732,6 +197738,7 @@ taiyi-kaozheng	*	MAL-2025-46194	https://osv.dev/vulnerability/MAL-2025-46194
 taiyi-tongjie	*	MAL-2025-46195	https://osv.dev/vulnerability/MAL-2025-46195
 tajigon	*	MAL-2025-34395	https://osv.dev/vulnerability/MAL-2025-34395
 tajluzekfhkocnqb	*	MAL-2025-34396	https://osv.dev/vulnerability/MAL-2025-34396
+tajul-avengers	*	MAL-0000-ghsa-malware-e661be6fa7177e4b	https://github.com/ossf/malicious-packages/blob/8a66830cb4f59e34af91306d0810cad31319e88d/osv/malicious/npm/tajul-avengers/MAL-0000-ghsa-malware-e661be6fa7177e4b.json
 takamura	*	MAL-2025-34397	https://osv.dev/vulnerability/MAL-2025-34397
 take-cam	*	MAL-2024-943	https://osv.dev/vulnerability/MAL-2024-943
 take-home-caller-id	1.0.1	MAL-2026-16382	https://osv.dev/vulnerability/MAL-2026-16382
@@ -203042,6 +203049,7 @@ tehryanx-test-with-deps	*	MAL-2025-34659	https://osv.dev/vulnerability/MAL-2025-
 tehsdnah-muaido-nutr	*	MAL-2025-169112	https://osv.dev/vulnerability/MAL-2025-169112
 tehtehteh	*	MAL-2025-181168	https://osv.dev/vulnerability/MAL-2025-181168
 tehter	*	MAL-2024-10944	https://osv.dev/vulnerability/MAL-2024-10944
+teick	*	MAL-0000-ghsa-malware-405ad705d42f373a	https://github.com/ossf/malicious-packages/blob/8a66830cb4f59e34af91306d0810cad31319e88d/osv/malicious/npm/teick/MAL-0000-ghsa-malware-405ad705d42f373a.json
 teigen	*	MAL-2025-34660	https://osv.dev/vulnerability/MAL-2025-34660
 teiwosjd	*	MAL-2024-7992	https://osv.dev/vulnerability/MAL-2024-7992
 teixeira	*	MAL-2025-34661	https://osv.dev/vulnerability/MAL-2025-34661
