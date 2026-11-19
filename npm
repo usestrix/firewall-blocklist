@@ -13166,6 +13166,7 @@
 @postman/wdio-junit-reporter	0.0.4	MAL-2025-190913	https://osv.dev/vulnerability/MAL-2025-190913
 @postman/wdio-junit-reporter	0.0.5	MAL-2025-190913	https://osv.dev/vulnerability/MAL-2025-190913
 @postman/wdio-junit-reporter	0.0.6	MAL-2025-190913	https://osv.dev/vulnerability/MAL-2025-190913
+@poucode/baileys	*	MAL-0000-ghsa-malware-e7a897e7a41a8891	https://github.com/ossf/malicious-packages/blob/27f51f3a70dcf914f143a9d4d10e986b5b4e2335/osv/malicious/npm/@poucode/baileys/MAL-0000-ghsa-malware-e7a897e7a41a8891.json
 @poucode/baileys	1.0.0	MAL-2026-18873	https://osv.dev/vulnerability/MAL-2026-18873
 @povsicoenpm/ab-voluptas-maiores-sapiente	*	MAL-2025-9240	https://osv.dev/vulnerability/MAL-2025-9240
 @povsicoenpm/accusantium-officiis-sint-ullam	*	MAL-2025-9241	https://osv.dev/vulnerability/MAL-2025-9241
