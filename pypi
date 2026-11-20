@@ -1861,7 +1861,7 @@ cicd-ppe-redteam-test02	1.0.3	MAL-2026-1064	https://osv.dev/vulnerability/MAL-20
 cicd-ppe-test	1.0.0	MAL-2026-731	https://osv.dev/vulnerability/MAL-2026-731
 cicibot-fix-message-naming	0.0.1	MAL-2026-921	https://osv.dev/vulnerability/MAL-2026-921
 cick	*	MAL-2023-1680	https://osv.dev/vulnerability/MAL-2023-1680
-cijukop	1.0.0	MAL-0000-kam193-660712af586b3101	https://github.com/ossf/malicious-packages/blob/bd18b1676336e0b553492a51f727d04e62cbd82e/osv/malicious/pypi/cijukop/MAL-0000-kam193-660712af586b3101.json
+cijukop	1.0.0	MAL-2026-20312	https://osv.dev/vulnerability/MAL-2026-20312
 cikit-learn	*	MAL-2023-1681	https://osv.dev/vulnerability/MAL-2023-1681
 cilorama	1.0.0	MAL-2024-4890	https://osv.dev/vulnerability/MAL-2024-4890
 cipherbcrypto	1.5	MAL-2024-11557	https://osv.dev/vulnerability/MAL-2024-11557
@@ -15147,8 +15147,8 @@ testfiwldsd21233s	0.1	MAL-2024-6113	https://osv.dev/vulnerability/MAL-2024-6113
 testing1232	0.0.1	MAL-2024-6114	https://osv.dev/vulnerability/MAL-2024-6114
 testing123kk	10.0.5	MAL-2025-6336	https://osv.dev/vulnerability/MAL-2025-6336
 testing1345	0.1.0	MAL-2026-19247	https://osv.dev/vulnerability/MAL-2026-19247
-testing1345py	0.1.3	MAL-0000-kam193-d31c34fe25baf82f	https://github.com/ossf/malicious-packages/blob/bd18b1676336e0b553492a51f727d04e62cbd82e/osv/malicious/pypi/testing1345py/MAL-0000-kam193-d31c34fe25baf82f.json
-testing1345py	0.1.4	MAL-0000-kam193-d31c34fe25baf82f	https://github.com/ossf/malicious-packages/blob/bd18b1676336e0b553492a51f727d04e62cbd82e/osv/malicious/pypi/testing1345py/MAL-0000-kam193-d31c34fe25baf82f.json
+testing1345py	0.1.3	MAL-2026-20313	https://osv.dev/vulnerability/MAL-2026-20313
+testing1345py	0.1.4	MAL-2026-20313	https://osv.dev/vulnerability/MAL-2026-20313
 testingiasdf1	2.31.10	MAL-2024-6115	https://osv.dev/vulnerability/MAL-2024-6115
 testingiasdf1	2.31.6	MAL-2024-6115	https://osv.dev/vulnerability/MAL-2024-6115
 testingiasdf1	2.31.9	MAL-2024-6115	https://osv.dev/vulnerability/MAL-2024-6115
