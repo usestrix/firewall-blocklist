@@ -134737,8 +134737,7 @@ mayfly-risk	10.13.0	MAL-2025-41306	https://osv.dev/vulnerability/MAL-2025-41306
 mayhem-wma	*	MAL-2025-191464	https://osv.dev/vulnerability/MAL-2025-191464
 maynard-teadev	*	MAL-2025-105721	https://osv.dev/vulnerability/MAL-2025-105721
 mayowish	*	MAL-2025-26034	https://osv.dev/vulnerability/MAL-2025-26034
-mayx-blog	0.0.0-g0938411	MAL-0000-ghsa-malware-a8d20971dbd37897	https://github.com/ossf/malicious-packages/blob/6a5f6cae70b8745ac846b6f10940d47ba8413755/osv/malicious/npm/mayx-blog/MAL-0000-ghsa-malware-a8d20971dbd37897.json
-mayx-blog	1.0.0	MAL-0000-ghsa-malware-a8d20971dbd37897	https://github.com/ossf/malicious-packages/blob/6a5f6cae70b8745ac846b6f10940d47ba8413755/osv/malicious/npm/mayx-blog/MAL-0000-ghsa-malware-a8d20971dbd37897.json
+mayx-blog	0.0.0-g0938411	MAL-2026-20296	https://osv.dev/vulnerability/MAL-2026-20296
 mayx-blog	1.0.0	MAL-2026-20296	https://osv.dev/vulnerability/MAL-2026-20296
 mazayaweb	*	MAL-2025-26035	https://osv.dev/vulnerability/MAL-2025-26035
 mazemap	*	MAL-2026-5448	https://osv.dev/vulnerability/MAL-2026-5448
