@@ -1749,6 +1749,7 @@ certifij	2022.12.7	MAL-2025-41633	https://osv.dev/vulnerability/MAL-2025-41633
 certifiq	2022.12.7	MAL-2025-41634	https://osv.dev/vulnerability/MAL-2025-41634
 certifiy	2022.12.7	MAL-2025-41635	https://osv.dev/vulnerability/MAL-2025-41635
 certifo	2022.12.7	MAL-2025-41636	https://osv.dev/vulnerability/MAL-2025-41636
+certify-web	0.1.3	MAL-0000-amazon-inspector-3632ae3bbd980743	https://github.com/ossf/malicious-packages/blob/5230fe1238e7c82daf3ec601fdc00ad079a39a72/osv/malicious/pypi/certify-web/MAL-0000-amazon-inspector-3632ae3bbd980743.json
 certify-web	0.1.3	MAL-2026-20257	https://osv.dev/vulnerability/MAL-2026-20257
 certufi	2022.12.7	MAL-2025-41637	https://osv.dev/vulnerability/MAL-2025-41637
 cffi-curl	0.13.0	MAL-2025-47752	https://osv.dev/vulnerability/MAL-2025-47752

@@ -13172,6 +13172,11 @@
 @postman/wdio-junit-reporter	0.0.5	MAL-2025-190913	https://osv.dev/vulnerability/MAL-2025-190913
 @postman/wdio-junit-reporter	0.0.6	MAL-2025-190913	https://osv.dev/vulnerability/MAL-2025-190913
 @poucode/baileys	*	MAL-2026-18873	https://osv.dev/vulnerability/MAL-2026-18873
+@poucode/baileys	1.0.1	MAL-0000-amazon-inspector-e86886cbe43039cf	https://github.com/ossf/malicious-packages/blob/5230fe1238e7c82daf3ec601fdc00ad079a39a72/osv/malicious/npm/@poucode/baileys/MAL-0000-amazon-inspector-e86886cbe43039cf.json
+@poucode/baileys	1.0.2	MAL-0000-amazon-inspector-a4d1fbaab631169d	https://github.com/ossf/malicious-packages/blob/5230fe1238e7c82daf3ec601fdc00ad079a39a72/osv/malicious/npm/@poucode/baileys/MAL-0000-amazon-inspector-a4d1fbaab631169d.json
+@poucode/baileys	2.0.0	MAL-0000-amazon-inspector-742ea5d4ace8851a	https://github.com/ossf/malicious-packages/blob/5230fe1238e7c82daf3ec601fdc00ad079a39a72/osv/malicious/npm/@poucode/baileys/MAL-0000-amazon-inspector-742ea5d4ace8851a.json
+@poucode/baileys	2.0.1	MAL-0000-amazon-inspector-4ef5d9675367d13a	https://github.com/ossf/malicious-packages/blob/5230fe1238e7c82daf3ec601fdc00ad079a39a72/osv/malicious/npm/@poucode/baileys/MAL-0000-amazon-inspector-4ef5d9675367d13a.json
+@poucode/baileys	2.0.4	MAL-0000-amazon-inspector-120c37dfae80b693	https://github.com/ossf/malicious-packages/blob/5230fe1238e7c82daf3ec601fdc00ad079a39a72/osv/malicious/npm/@poucode/baileys/MAL-0000-amazon-inspector-120c37dfae80b693.json
 @povsicoenpm/ab-voluptas-maiores-sapiente	*	MAL-2025-9240	https://osv.dev/vulnerability/MAL-2025-9240
 @povsicoenpm/accusantium-officiis-sint-ullam	*	MAL-2025-9241	https://osv.dev/vulnerability/MAL-2025-9241
 @povsicoenpm/animi-quae-necessitatibus-odio	*	MAL-2025-9242	https://osv.dev/vulnerability/MAL-2025-9242
@@ -39991,6 +39996,7 @@ base65536gen	*	MAL-2025-15496	https://osv.dev/vulnerability/MAL-2025-15496
 base99-85x	5.0.2	MAL-2026-14304	https://osv.dev/vulnerability/MAL-2026-14304
 base_parts_ai	1.0.50	MAL-2026-6228	https://osv.dev/vulnerability/MAL-2026-6228
 base_parts_ai	1.0.52	MAL-2026-6228	https://osv.dev/vulnerability/MAL-2026-6228
+base_parts_ai	1.0.66	MAL-0000-amazon-inspector-fff17288238c0169	https://github.com/ossf/malicious-packages/blob/5230fe1238e7c82daf3ec601fdc00ad079a39a72/osv/malicious/npm/base_parts_ai/MAL-0000-amazon-inspector-fff17288238c0169.json
 base_sdk_const	*	MAL-2025-4722	https://osv.dev/vulnerability/MAL-2025-4722
 basecam	*	MAL-2025-15497	https://osv.dev/vulnerability/MAL-2025-15497
 basecontext	*	MAL-2024-8925	https://osv.dev/vulnerability/MAL-2024-8925
@@ -59285,6 +59291,7 @@ cryovolcano-grus-ini-proxima	*	MAL-2025-186399	https://osv.dev/vulnerability/MAL
 cryovolcano-miranda-blueshift-rimraf	*	MAL-2025-186400	https://osv.dev/vulnerability/MAL-2025-186400
 cryovolcano-transhumanism-scripts-janus	*	MAL-2025-186401	https://osv.dev/vulnerability/MAL-2025-186401
 crypapiapi	*	MAL-2026-20201	https://osv.dev/vulnerability/MAL-2026-20201
+crypapiapi	1.0.0	MAL-0000-amazon-inspector-20ec0e1556597268	https://github.com/ossf/malicious-packages/blob/5230fe1238e7c82daf3ec601fdc00ad079a39a72/osv/malicious/npm/crypapiapi/MAL-0000-amazon-inspector-20ec0e1556597268.json
 crypt-osj	*	MAL-2022-2250	https://osv.dev/vulnerability/MAL-2022-2250
 crypt-research	*	MAL-2024-10957	https://osv.dev/vulnerability/MAL-2024-10957
 crypt0co-walet-poc	1.0.0	MAL-2026-4540	https://osv.dev/vulnerability/MAL-2026-4540
@@ -172537,6 +172544,7 @@ raid-shadow-legends-promo-codes286	*	MAL-2025-31560	https://osv.dev/vulnerabilit
 raid-shadow-legends-promo-codes288	*	MAL-2025-45752	https://osv.dev/vulnerability/MAL-2025-45752
 raidbot	*	MAL-2025-31561	https://osv.dev/vulnerability/MAL-2025-31561
 raiden-baileys	*	MAL-2026-19108	https://osv.dev/vulnerability/MAL-2026-19108
+raiden-baileys	2.2.8	MAL-0000-amazon-inspector-5b057008ed65864a	https://github.com/ossf/malicious-packages/blob/5230fe1238e7c82daf3ec601fdc00ad079a39a72/osv/malicious/npm/raiden-baileys/MAL-0000-amazon-inspector-5b057008ed65864a.json
 railinfo	*	MAL-2025-31562	https://osv.dev/vulnerability/MAL-2025-31562
 rails-bigint-primarykey	*	MAL-2025-31563	https://osv.dev/vulnerability/MAL-2025-31563
 rails-dom-testing	*	MAL-2025-48039	https://osv.dev/vulnerability/MAL-2025-48039
@@ -175893,6 +175901,9 @@ request-xerxes-orbit-jekyll	*	MAL-2025-45814	https://osv.dev/vulnerability/MAL-2
 request-xo-robotics-umbriel	*	MAL-2025-45815	https://osv.dev/vulnerability/MAL-2025-45815
 requestcatcher-pinger-v2	*	MAL-2026-20175	https://osv.dev/vulnerability/MAL-2026-20175
 requester-lb	*	MAL-2026-20217	https://osv.dev/vulnerability/MAL-2026-20217
+requester-lb	1.0.14	MAL-0000-amazon-inspector-9494fc17374ba2d4	https://github.com/ossf/malicious-packages/blob/5230fe1238e7c82daf3ec601fdc00ad079a39a72/osv/malicious/npm/requester-lb/MAL-0000-amazon-inspector-9494fc17374ba2d4.json
+requester-lb	1.0.15	MAL-0000-amazon-inspector-c60d261aea571490	https://github.com/ossf/malicious-packages/blob/5230fe1238e7c82daf3ec601fdc00ad079a39a72/osv/malicious/npm/requester-lb/MAL-0000-amazon-inspector-c60d261aea571490.json
+requester-lb	1.0.9	MAL-0000-amazon-inspector-5b44386c3a2b8418	https://github.com/ossf/malicious-packages/blob/5230fe1238e7c82daf3ec601fdc00ad079a39a72/osv/malicious/npm/requester-lb/MAL-0000-amazon-inspector-5b44386c3a2b8418.json
 requestlyx	*	MAL-2023-8646	https://osv.dev/vulnerability/MAL-2023-8646
 requestor-util	*	MAL-2026-10965	https://osv.dev/vulnerability/MAL-2026-10965
 requests-async	*	MAL-2025-618	https://osv.dev/vulnerability/MAL-2025-618
