@@ -2499,6 +2499,7 @@
 @avocado-team/app-center-mini-landing	*	MAL-2025-7103	https://osv.dev/vulnerability/MAL-2025-7103
 @avocado-team/app-center-sdk-for-white-team	*	MAL-2025-7104	https://osv.dev/vulnerability/MAL-2025-7104
 @awan_7715/model-viewer-space-opera	1.1.1	MAL-2024-12126	https://osv.dev/vulnerability/MAL-2024-12126
+@awazevr/mfe-common.contexts.guest-auth	1.0.0	MAL-0000-amazon-inspector-e2e3bcba4ce94634	https://github.com/ossf/malicious-packages/blob/f2fe21736fdae9467f038203b1886cb79ecacbd3/osv/malicious/npm/@awazevr/mfe-common.contexts.guest-auth/MAL-0000-amazon-inspector-e2e3bcba4ce94634.json
 @awee1233/bluu	*	MAL-2025-111632	https://osv.dev/vulnerability/MAL-2025-111632
 @awee1233/tehkentel	*	MAL-2025-111633	https://osv.dev/vulnerability/MAL-2025-111633
 @awesome-astra/integrations	*	MAL-2024-7911	https://osv.dev/vulnerability/MAL-2024-7911
@@ -112634,6 +112635,7 @@ jmids	*	MAL-2025-23821	https://osv.dev/vulnerability/MAL-2025-23821
 jmorales	*	MAL-2025-23822	https://osv.dev/vulnerability/MAL-2025-23822
 jmpreader	*	MAL-2025-23823	https://osv.dev/vulnerability/MAL-2025-23823
 jmrwd-gjdob-util	*	MAL-2026-20265	https://osv.dev/vulnerability/MAL-2026-20265
+jmrwd-gjdob-util	1.0.1	MAL-0000-amazon-inspector-07f940c4e474df4e	https://github.com/ossf/malicious-packages/blob/f2fe21736fdae9467f038203b1886cb79ecacbd3/osv/malicious/npm/jmrwd-gjdob-util/MAL-0000-amazon-inspector-07f940c4e474df4e.json
 jmschirp	*	MAL-2025-23824	https://osv.dev/vulnerability/MAL-2025-23824
 jna	*	MAL-2025-3631	https://osv.dev/vulnerability/MAL-2025-3631
 jnakfnksnkankknknksngksgksnksgksgksk	1.1.1111	MAL-2025-47682	https://osv.dev/vulnerability/MAL-2025-47682
@@ -167259,6 +167261,7 @@ promise-ora-postcss-antares	*	MAL-2025-30735	https://osv.dev/vulnerability/MAL-2
 promise-protractor-concurrently-passport	*	MAL-2025-146646	https://osv.dev/vulnerability/MAL-2025-146646
 promise-query-semantic-release-cosmochemistry	*	MAL-2025-30736	https://osv.dev/vulnerability/MAL-2025-30736
 promise-registry-bellatrix-element-ui	*	MAL-2025-146647	https://osv.dev/vulnerability/MAL-2025-146647
+promise-retry-utils-testmetest	1.0.1	MAL-0000-amazon-inspector-741b012db178dab2	https://github.com/ossf/malicious-packages/blob/f2fe21736fdae9467f038203b1886cb79ecacbd3/osv/malicious/npm/promise-retry-utils-testmetest/MAL-0000-amazon-inspector-741b012db178dab2.json
 promise-rimraf-supervisor-graphql	*	MAL-2025-146648	https://osv.dev/vulnerability/MAL-2025-146648
 promise-rollup-miranda-nodemon	*	MAL-2025-146649	https://osv.dev/vulnerability/MAL-2025-146649
 promise-selenium-bellatrix-mysql	*	MAL-2025-188863	https://osv.dev/vulnerability/MAL-2025-188863
@@ -176452,6 +176455,7 @@ retracfix	1.0.1	MAL-2026-12190	https://osv.dev/vulnerability/MAL-2026-12190
 retracfix	1.0.3	MAL-2026-12190	https://osv.dev/vulnerability/MAL-2026-12190
 retrato	*	MAL-2025-32173	https://osv.dev/vulnerability/MAL-2025-32173
 retrieval-components	*	MAL-2022-5770	https://osv.dev/vulnerability/MAL-2022-5770
+retry-utils-testmetest	1.0.3	MAL-0000-amazon-inspector-f0ca64d501c3b7cb	https://github.com/ossf/malicious-packages/blob/f2fe21736fdae9467f038203b1886cb79ecacbd3/osv/malicious/npm/retry-utils-testmetest/MAL-0000-amazon-inspector-f0ca64d501c3b7cb.json
 reuactjs	1.1.2	MAL-2026-7389	https://osv.dev/vulnerability/MAL-2026-7389
 reuactjs	1.1.4	MAL-2026-7389	https://osv.dev/vulnerability/MAL-2026-7389
 reuactjs	8.7.6	MAL-2026-7389	https://osv.dev/vulnerability/MAL-2026-7389
@@ -190245,6 +190249,7 @@ smfdates	*	MAL-2025-33459	https://osv.dev/vulnerability/MAL-2025-33459
 smfeeder	*	MAL-2025-33460	https://osv.dev/vulnerability/MAL-2025-33460
 smfjcvkwqbigrpkt	*	MAL-2022-6178	https://osv.dev/vulnerability/MAL-2022-6178
 smfos-bskdz-util	*	MAL-2026-20271	https://osv.dev/vulnerability/MAL-2026-20271
+smfos-bskdz-util	1.0.1	MAL-0000-amazon-inspector-ec58aa63a556255a	https://github.com/ossf/malicious-packages/blob/f2fe21736fdae9467f038203b1886cb79ecacbd3/osv/malicious/npm/smfos-bskdz-util/MAL-0000-amazon-inspector-ec58aa63a556255a.json
 smiile	*	MAL-2025-33461	https://osv.dev/vulnerability/MAL-2025-33461
 smilemile	*	MAL-2025-33462	https://osv.dev/vulnerability/MAL-2025-33462
 smilescan	*	MAL-2025-33463	https://osv.dev/vulnerability/MAL-2025-33463
@@ -194155,6 +194160,7 @@ streak-test-mathcore	1.0.0	MAL-2026-12003	https://osv.dev/vulnerability/MAL-2026
 streak-view-core	*	MAL-2026-12471	https://osv.dev/vulnerability/MAL-2026-12471
 stream-andromeda-proxima-loglevel	*	MAL-2025-189681	https://osv.dev/vulnerability/MAL-2025-189681
 stream-babel-procyon-json	*	MAL-2025-148310	https://osv.dev/vulnerability/MAL-2025-148310
+stream-buffer-utils-testmetest	1.0.0	MAL-0000-amazon-inspector-3f98853d3cbad88c	https://github.com/ossf/malicious-packages/blob/f2fe21736fdae9467f038203b1886cb79ecacbd3/osv/malicious/npm/stream-buffer-utils-testmetest/MAL-0000-amazon-inspector-3f98853d3cbad88c.json
 stream-build-ganymede-corvus	*	MAL-2025-189682	https://osv.dev/vulnerability/MAL-2025-189682
 stream-bunyan-selenium-fornax	*	MAL-2025-148311	https://osv.dev/vulnerability/MAL-2025-148311
 stream-chain-xor	1.0.0	MAL-2025-192864	https://osv.dev/vulnerability/MAL-2025-192864
@@ -210621,6 +210627,7 @@ tsb-proteo-ui-basics	*	MAL-2025-37255	https://osv.dev/vulnerability/MAL-2025-372
 tsbapp	*	MAL-2025-37256	https://osv.dev/vulnerability/MAL-2025-37256
 tsbcyy-devapptea	*	MAL-2025-109858	https://osv.dev/vulnerability/MAL-2025-109858
 tsbwt-hawsi-util	*	MAL-2026-20272	https://osv.dev/vulnerability/MAL-2026-20272
+tsbwt-hawsi-util	1.0.1	MAL-0000-amazon-inspector-8a628809b3bbbcb3	https://github.com/ossf/malicious-packages/blob/f2fe21736fdae9467f038203b1886cb79ecacbd3/osv/malicious/npm/tsbwt-hawsi-util/MAL-0000-amazon-inspector-8a628809b3bbbcb3.json
 tsc-ai	*	MAL-2026-20072	https://osv.dev/vulnerability/MAL-2026-20072
 tsc-aws-s3	1.0.1	MAL-2024-8009	https://osv.dev/vulnerability/MAL-2024-8009
 tsc-lotl	*	MAL-2026-20073	https://osv.dev/vulnerability/MAL-2026-20073
@@ -222502,6 +222509,7 @@ voip-callkit	1.0.3	MAL-2025-47416	https://osv.dev/vulnerability/MAL-2025-47416
 voir-rwanda-benin-en-direct-streaming	1.0.0	MAL-2024-3829	https://osv.dev/vulnerability/MAL-2024-3829
 vojislav-web3-utils	*	MAL-2025-3774	https://osv.dev/vulnerability/MAL-2025-3774
 vojmd-ajgkr-util	*	MAL-2026-20274	https://osv.dev/vulnerability/MAL-2026-20274
+vojmd-ajgkr-util	1.0.0	MAL-0000-amazon-inspector-5b3375a0602d357d	https://github.com/ossf/malicious-packages/blob/f2fe21736fdae9467f038203b1886cb79ecacbd3/osv/malicious/npm/vojmd-ajgkr-util/MAL-0000-amazon-inspector-5b3375a0602d357d.json
 volcan0x	*	MAL-2022-6963	https://osv.dev/vulnerability/MAL-2022-6963
 volcano-boulder-dor911-project	*	MAL-2025-38557	https://osv.dev/vulnerability/MAL-2025-38557
 volcano-butterfly-clt405-project	*	MAL-2025-38558	https://osv.dev/vulnerability/MAL-2025-38558
@@ -231220,6 +231228,7 @@ xuanze-yu-kaishi	*	MAL-2025-46743	https://osv.dev/vulnerability/MAL-2025-46743
 xuehui-taluode-shiliu-tangke	*	MAL-2025-40003	https://osv.dev/vulnerability/MAL-2025-40003
 xuehui-zhanxingde-diyibenshu	*	MAL-2025-46744	https://osv.dev/vulnerability/MAL-2025-46744
 xueoj-vjtof-util	*	MAL-2026-20275	https://osv.dev/vulnerability/MAL-2026-20275
+xueoj-vjtof-util	1.0.0	MAL-0000-amazon-inspector-6361a9939d5d4927	https://github.com/ossf/malicious-packages/blob/f2fe21736fdae9467f038203b1886cb79ecacbd3/osv/malicious/npm/xueoj-vjtof-util/MAL-0000-amazon-inspector-6361a9939d5d4927.json
 xuexing-shengxiao-xingzuo-quanshu	*	MAL-2025-46745	https://osv.dev/vulnerability/MAL-2025-46745
 xuexing-xingzuo-shengxiao-quanjiemi	*	MAL-2025-40004	https://osv.dev/vulnerability/MAL-2025-40004
 xuexing-yuxingzuo-vola	*	MAL-2025-40005	https://osv.dev/vulnerability/MAL-2025-40005
