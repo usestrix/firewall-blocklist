@@ -157626,6 +157626,7 @@ original_wren_z3n	*	MAL-2025-122420	https://osv.dev/vulnerability/MAL-2025-12242
 originaldevelopmentstelemetry	*	MAL-2026-15586	https://osv.dev/vulnerability/MAL-2026-15586
 orildyn-notthedevs	*	MAL-2025-106801	https://osv.dev/vulnerability/MAL-2025-106801
 orion-all-6.0.2	*	MAL-2024-7980	https://osv.dev/vulnerability/MAL-2024-7980
+orion-overlord	*	MAL-0000-ghsa-malware-f10ab24b2d5c8cc2	https://github.com/ossf/malicious-packages/blob/2cda7cd2d17e15c58320ea9d2c39c61b465333be/osv/malicious/npm/orion-overlord/MAL-0000-ghsa-malware-f10ab24b2d5c8cc2.json
 orion-react-native	*	MAL-2022-5122	https://osv.dev/vulnerability/MAL-2022-5122
 orion-ui	9.1.1	MAL-2025-41254	https://osv.dev/vulnerability/MAL-2025-41254
 orion-ui	9.1.2	MAL-2025-41254	https://osv.dev/vulnerability/MAL-2025-41254
