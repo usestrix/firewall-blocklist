@@ -59714,7 +59714,7 @@ csvtarse	*	MAL-2022-2268	https://osv.dev/vulnerability/MAL-2022-2268
 csvtool	*	MAL-2025-4821	https://osv.dev/vulnerability/MAL-2025-4821
 csvue-unplugin	*	MAL-2025-1102	https://osv.dev/vulnerability/MAL-2025-1102
 ct-connect-stripe	*	MAL-2025-2036	https://osv.dev/vulnerability/MAL-2025-2036
-ct-fivem	*	MAL-0000-ghsa-malware-65e0529855b2811c	https://github.com/ossf/malicious-packages/blob/26f491900c4e12d4a591a67c4d4ed62017bc8a42/osv/malicious/npm/ct-fivem/MAL-0000-ghsa-malware-65e0529855b2811c.json
+ct-fivem	*	MAL-2026-20261	https://osv.dev/vulnerability/MAL-2026-20261
 ct-helpers	*	MAL-2024-1566	https://osv.dev/vulnerability/MAL-2024-1566
 ct-notify	*	MAL-2022-2269	https://osv.dev/vulnerability/MAL-2022-2269
 cta-agency-backoffice	*	MAL-2025-2249	https://osv.dev/vulnerability/MAL-2025-2249
@@ -70710,8 +70710,7 @@ dxmbyouhpsgiltka	*	MAL-2025-19023	https://osv.dev/vulnerability/MAL-2025-19023
 dxp-web	*	MAL-2025-19024	https://osv.dev/vulnerability/MAL-2025-19024
 dxpress	*	MAL-2025-19025	https://osv.dev/vulnerability/MAL-2025-19025
 dxr-dos	0.1.2	MAL-2026-14240	https://osv.dev/vulnerability/MAL-2026-14240
-dxrs-dos	*	MAL-0000-ghsa-malware-89370cd0c0ac1563	https://github.com/ossf/malicious-packages/blob/26f491900c4e12d4a591a67c4d4ed62017bc8a42/osv/malicious/npm/dxrs-dos/MAL-0000-ghsa-malware-89370cd0c0ac1563.json
-dxrs-dos	0.1.3	MAL-2026-14241	https://osv.dev/vulnerability/MAL-2026-14241
+dxrs-dos	*	MAL-2026-14241	https://osv.dev/vulnerability/MAL-2026-14241
 dyalog-ride	*	MAL-2025-3184	https://osv.dev/vulnerability/MAL-2025-3184
 dyff-plugin	99.99.1	MAL-2025-41429	https://osv.dev/vulnerability/MAL-2025-41429
 dying-beige-gazelle	9.9.9	MAL-2024-9592	https://osv.dev/vulnerability/MAL-2024-9592
