@@ -49,6 +49,16 @@ M-AT-STAR-Tools	1.0.0	MAL-2026-4812	https://osv.dev/vulnerability/MAL-2026-4812
 M-AT-STAR-Tools	1.0.3	MAL-2026-4812	https://osv.dev/vulnerability/MAL-2026-4812
 M-AT-STAR-Tools	1.0.4	MAL-2026-4812	https://osv.dev/vulnerability/MAL-2026-4812
 MFQ-Private-Encoder	1.0.0	MAL-2026-10758	https://osv.dev/vulnerability/MAL-2026-10758
+MRCL2	1.0.1	MAL-0000-amazon-inspector-94468c8a4cc610b6	https://github.com/ossf/malicious-packages/blob/c658afaf49ece219bd2fde81c3a81e09c2b1bd5a/osv/malicious/pypi/mrcl2/MAL-0000-amazon-inspector-94468c8a4cc610b6.json
+MRCL2	1.0.2	MAL-0000-amazon-inspector-925e04583c4e9182	https://github.com/ossf/malicious-packages/blob/c658afaf49ece219bd2fde81c3a81e09c2b1bd5a/osv/malicious/pypi/mrcl2/MAL-0000-amazon-inspector-925e04583c4e9182.json
+MRCL2	1.0.3	MAL-0000-amazon-inspector-c1b73cc67232ca98	https://github.com/ossf/malicious-packages/blob/c658afaf49ece219bd2fde81c3a81e09c2b1bd5a/osv/malicious/pypi/mrcl2/MAL-0000-amazon-inspector-c1b73cc67232ca98.json
+MRCL2	1.0.4	MAL-0000-amazon-inspector-ec3d46c2bde8cb24	https://github.com/ossf/malicious-packages/blob/c658afaf49ece219bd2fde81c3a81e09c2b1bd5a/osv/malicious/pypi/mrcl2/MAL-0000-amazon-inspector-ec3d46c2bde8cb24.json
+MRCL2	1.0.5	MAL-0000-amazon-inspector-5534383c960c9f05	https://github.com/ossf/malicious-packages/blob/c658afaf49ece219bd2fde81c3a81e09c2b1bd5a/osv/malicious/pypi/mrcl2/MAL-0000-amazon-inspector-5534383c960c9f05.json
+MRCL2Suhail	1.0.0	MAL-0000-amazon-inspector-a46fbd73dd43adf1	https://github.com/ossf/malicious-packages/blob/c658afaf49ece219bd2fde81c3a81e09c2b1bd5a/osv/malicious/pypi/mrcl2suhail/MAL-0000-amazon-inspector-a46fbd73dd43adf1.json
+MRCL2Suhail	1.0.1	MAL-0000-amazon-inspector-523567bd35fdb073	https://github.com/ossf/malicious-packages/blob/c658afaf49ece219bd2fde81c3a81e09c2b1bd5a/osv/malicious/pypi/mrcl2suhail/MAL-0000-amazon-inspector-523567bd35fdb073.json
+MRCL2Suhail	1.0.2	MAL-0000-amazon-inspector-935dcca8b52f6a04	https://github.com/ossf/malicious-packages/blob/c658afaf49ece219bd2fde81c3a81e09c2b1bd5a/osv/malicious/pypi/mrcl2suhail/MAL-0000-amazon-inspector-935dcca8b52f6a04.json
+MRCL2Suhail	1.0.3	MAL-0000-amazon-inspector-e8d10d12fbda8db8	https://github.com/ossf/malicious-packages/blob/c658afaf49ece219bd2fde81c3a81e09c2b1bd5a/osv/malicious/pypi/mrcl2suhail/MAL-0000-amazon-inspector-e8d10d12fbda8db8.json
+MRCL2Suhail	1.0.4	MAL-0000-amazon-inspector-747830be3d523042	https://github.com/ossf/malicious-packages/blob/c658afaf49ece219bd2fde81c3a81e09c2b1bd5a/osv/malicious/pypi/mrcl2suhail/MAL-0000-amazon-inspector-747830be3d523042.json
 MyMalDependency	2.1.1	MAL-2026-3694	https://osv.dev/vulnerability/MAL-2026-3694
 Nasrtox	8.0	MAL-2024-1546	https://osv.dev/vulnerability/MAL-2024-1546
 PirxcyPackage	8.0.0	MAL-2026-3695	https://osv.dev/vulnerability/MAL-2026-3695
