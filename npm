@@ -6812,6 +6812,7 @@
 @guangnao/claude-cli	1.0.13	MAL-2026-13209	https://osv.dev/vulnerability/MAL-2026-13209
 @guangnao/claude-cli	1.0.5	MAL-2026-13209	https://osv.dev/vulnerability/MAL-2026-13209
 @guards-lib/auth	*	MAL-2026-2582	https://osv.dev/vulnerability/MAL-2026-2582
+@guicai777/mcp-doctor	1.0.1	MAL-0000-amazon-inspector-239993ae4c14c460	https://github.com/ossf/malicious-packages/blob/812ec40d7032e378c3c109dfd85257dd31c85da4/osv/malicious/npm/@guicai777/mcp-doctor/MAL-0000-amazon-inspector-239993ae4c14c460.json
 @guildai-services/guildai	*	MAL-2026-14125	https://osv.dev/vulnerability/MAL-2026-14125
 @gumtree/ui-library	*	MAL-2023-37	https://osv.dev/vulnerability/MAL-2023-37
 @gusmano/reext	0.0.104	MAL-2026-3684	https://osv.dev/vulnerability/MAL-2026-3684
