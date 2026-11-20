@@ -12944,6 +12944,8 @@ scikti-learn	*	MAL-2023-2223	https://osv.dev/vulnerability/MAL-2023-2223
 sckiit-learn	*	MAL-2023-2224	https://osv.dev/vulnerability/MAL-2023-2224
 sclighte	1	MAL-2024-5968	https://osv.dev/vulnerability/MAL-2024-5968
 sclite	1	MAL-2024-5969	https://osv.dev/vulnerability/MAL-2024-5969
+scope-token-fetch-vector	1.0.0	MAL-0000-kam193-0b9351df47d4d229	https://github.com/ossf/malicious-packages/blob/dbb43e6f3c601964867f8e3a505d1f5635f5ead5/osv/malicious/pypi/scope-token-fetch-vector/MAL-0000-kam193-0b9351df47d4d229.json
+scope-token-fetch-vector	1.0.0.post1	MAL-0000-kam193-0b9351df47d4d229	https://github.com/ossf/malicious-packages/blob/dbb43e6f3c601964867f8e3a505d1f5635f5ead5/osv/malicious/pypi/scope-token-fetch-vector/MAL-0000-kam193-0b9351df47d4d229.json
 scraapy	*	MAL-2023-2225	https://osv.dev/vulnerability/MAL-2023-2225
 scrambleeeer	0.1.0	MAL-2026-14358	https://osv.dev/vulnerability/MAL-2026-14358
 scrambleeer	0.1.0	MAL-2026-14350	https://osv.dev/vulnerability/MAL-2026-14350
