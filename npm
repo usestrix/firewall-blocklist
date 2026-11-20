@@ -7917,6 +7917,7 @@
 @kindredext/fetlife-assets	*	MAL-2022-382	https://osv.dev/vulnerability/MAL-2022-382
 @kinggupong/baileys	*	MAL-2026-1366	https://osv.dev/vulnerability/MAL-2026-1366
 @kinggupong/libsignal-node	*	MAL-2026-1367	https://osv.dev/vulnerability/MAL-2026-1367
+@kingorwot/my-baileys	2.0.0	MAL-0000-amazon-inspector-e1139544c4c6b900	https://github.com/ossf/malicious-packages/blob/c7026887c9cc7d5822bdd2793e358467e88c083c/osv/malicious/npm/@kingorwot/my-baileys/MAL-0000-amazon-inspector-e1139544c4c6b900.json
 @kingsaurus/libsignal-node	*	MAL-2026-19962	https://osv.dev/vulnerability/MAL-2026-19962
 @kite-js-tools/core	1.0.0	MAL-2026-12319	https://osv.dev/vulnerability/MAL-2026-12319
 @kiukicom/sidebar	*	MAL-2026-1023	https://osv.dev/vulnerability/MAL-2026-1023
@@ -210456,6 +210457,7 @@ truffle-helper	1.0.0	MAL-2026-3716	https://osv.dev/vulnerability/MAL-2026-3716
 truffle-helper	2.0.0	MAL-2026-3716	https://osv.dev/vulnerability/MAL-2026-3716
 truffle-js	1.0.0	MAL-2026-3717	https://osv.dev/vulnerability/MAL-2026-3717
 truffle-js	2.0.0	MAL-2026-3717	https://osv.dev/vulnerability/MAL-2026-3717
+truffle-kit	3.3.2	MAL-0000-amazon-inspector-e31407446b3d2956	https://github.com/ossf/malicious-packages/blob/c7026887c9cc7d5822bdd2793e358467e88c083c/osv/malicious/npm/truffle-kit/MAL-0000-amazon-inspector-e31407446b3d2956.json
 truffle-plugin-blockscout-verify-jordin	*	MAL-2025-37234	https://osv.dev/vulnerability/MAL-2025-37234
 truffle-v5	*	MAL-2025-37235	https://osv.dev/vulnerability/MAL-2025-37235
 truffle-v99	*	MAL-2025-37236	https://osv.dev/vulnerability/MAL-2025-37236
@@ -218685,6 +218687,7 @@ vc-test-suite	>=99.0.0	MAL-2025-6777	https://osv.dev/vulnerability/MAL-2025-6777
 vc-web	*	MAL-2022-6898	https://osv.dev/vulnerability/MAL-2022-6898
 vcadmin	*	MAL-2025-38167	https://osv.dev/vulnerability/MAL-2025-38167
 vcdapi	*	MAL-2025-38168	https://osv.dev/vulnerability/MAL-2025-38168
+vcdxg-eavtg-util	1.0.1	MAL-0000-amazon-inspector-3e5debd0db3b78c2	https://github.com/ossf/malicious-packages/blob/c7026887c9cc7d5822bdd2793e358467e88c083c/osv/malicious/npm/vcdxg-eavtg-util/MAL-0000-amazon-inspector-3e5debd0db3b78c2.json
 vcfspirit	*	MAL-2025-38169	https://osv.dev/vulnerability/MAL-2025-38169
 vcgr3	*	MAL-2025-38170	https://osv.dev/vulnerability/MAL-2025-38170
 vcgr34	*	MAL-2025-38171	https://osv.dev/vulnerability/MAL-2025-38171
