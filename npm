@@ -101442,6 +101442,12 @@ hreactjs	8.7.6	MAL-2026-7295	https://osv.dev/vulnerability/MAL-2026-7295
 hreport-preview	*	MAL-2023-1521	https://osv.dev/vulnerability/MAL-2023-1521
 hretokxbpwuilnck	*	MAL-2022-3684	https://osv.dev/vulnerability/MAL-2022-3684
 hridoy-ultimate	8.0.0	MAL-2026-17803	https://osv.dev/vulnerability/MAL-2026-17803
+hridoy-ultimate	8.0.5	MAL-0000-amazon-inspector-1967359293688256	https://github.com/ossf/malicious-packages/blob/bc8032aedf8318ae4794c5bc92705c48fa9cae8b/osv/malicious/npm/hridoy-ultimate/MAL-0000-amazon-inspector-1967359293688256.json
+hridoy-ultimate	9.0.0	MAL-0000-amazon-inspector-9083c01cc1de25c0	https://github.com/ossf/malicious-packages/blob/bc8032aedf8318ae4794c5bc92705c48fa9cae8b/osv/malicious/npm/hridoy-ultimate/MAL-0000-amazon-inspector-9083c01cc1de25c0.json
+hridoy-ultimate	9.0.1	MAL-0000-amazon-inspector-955e9f9552955d91	https://github.com/ossf/malicious-packages/blob/bc8032aedf8318ae4794c5bc92705c48fa9cae8b/osv/malicious/npm/hridoy-ultimate/MAL-0000-amazon-inspector-955e9f9552955d91.json
+hridoy-ultimate	9.0.2	MAL-0000-amazon-inspector-b279869113bab905	https://github.com/ossf/malicious-packages/blob/bc8032aedf8318ae4794c5bc92705c48fa9cae8b/osv/malicious/npm/hridoy-ultimate/MAL-0000-amazon-inspector-b279869113bab905.json
+hridoy-ultimate	9.0.3	MAL-0000-amazon-inspector-e40d80d503237305	https://github.com/ossf/malicious-packages/blob/bc8032aedf8318ae4794c5bc92705c48fa9cae8b/osv/malicious/npm/hridoy-ultimate/MAL-0000-amazon-inspector-e40d80d503237305.json
+hridoy-ultimate	9.0.4	MAL-0000-amazon-inspector-e7df1fb04981b606	https://github.com/ossf/malicious-packages/blob/bc8032aedf8318ae4794c5bc92705c48fa9cae8b/osv/malicious/npm/hridoy-ultimate/MAL-0000-amazon-inspector-e7df1fb04981b606.json
 hrm-absence-frontend-deps	*	MAL-2025-48029	https://osv.dev/vulnerability/MAL-2025-48029
 hrodei	*	MAL-2025-22740	https://osv.dev/vulnerability/MAL-2025-22740
 hrp987	1.0.0	MAL-2025-47118	https://osv.dev/vulnerability/MAL-2025-47118
@@ -103578,6 +103584,7 @@ identity-frontend-common	*	MAL-2025-22967	https://osv.dev/vulnerability/MAL-2025
 identity-management	*	MAL-2023-514	https://osv.dev/vulnerability/MAL-2023-514
 identity-module-miniapp	*	MAL-2022-3770	https://osv.dev/vulnerability/MAL-2022-3770
 identity-partners-site	*	MAL-2022-3771	https://osv.dev/vulnerability/MAL-2022-3771
+identity-poc	1.0.3	MAL-0000-amazon-inspector-fa4ad4604b2f07da	https://github.com/ossf/malicious-packages/blob/bc8032aedf8318ae4794c5bc92705c48fa9cae8b/osv/malicious/npm/identity-poc/MAL-0000-amazon-inspector-fa4ad4604b2f07da.json
 identity-sam-landing	*	MAL-2022-3772	https://osv.dev/vulnerability/MAL-2022-3772
 identity-site	*	MAL-2022-3773	https://osv.dev/vulnerability/MAL-2022-3773
 identity-two-factor	999.0.0	MAL-2026-18367	https://osv.dev/vulnerability/MAL-2026-18367
@@ -172322,6 +172329,7 @@ qylkkc-devapptea	*	MAL-2025-107682	https://osv.dev/vulnerability/MAL-2025-107682
 qyrnjh-devapptea	*	MAL-2025-107683	https://osv.dev/vulnerability/MAL-2025-107683
 qyxb	*	MAL-2026-120	https://osv.dev/vulnerability/MAL-2026-120
 qzcomabjsvtgrkyx	*	MAL-2022-5568	https://osv.dev/vulnerability/MAL-2022-5568
+qzi2v-tttf1-testmetest	1.0.1	MAL-0000-amazon-inspector-b99ca6a65bd9e71e	https://github.com/ossf/malicious-packages/blob/bc8032aedf8318ae4794c5bc92705c48fa9cae8b/osv/malicious/npm/qzi2v-tttf1-testmetest/MAL-0000-amazon-inspector-b99ca6a65bd9e71e.json
 r-baileys	1.0.0	MAL-2026-19004	https://osv.dev/vulnerability/MAL-2026-19004
 r00tsid	>=9999.0.0	MAL-2025-41402	https://osv.dev/vulnerability/MAL-2025-41402
 r00tsid1	*	MAL-2025-41403	https://osv.dev/vulnerability/MAL-2025-41403
@@ -222767,6 +222775,7 @@ vreactjs	1.1.4	MAL-2026-7431	https://osv.dev/vulnerability/MAL-2026-7431
 vreactjs	8.7.6	MAL-2026-7431	https://osv.dev/vulnerability/MAL-2026-7431
 vreb3	*	MAL-2025-38638	https://osv.dev/vulnerability/MAL-2025-38638
 vrenv	*	MAL-2025-38639	https://osv.dev/vulnerability/MAL-2025-38639
+vreqtx-b5w3n-testmetest	1.0.1	MAL-0000-amazon-inspector-fd8b0671f1c77b8c	https://github.com/ossf/malicious-packages/blob/bc8032aedf8318ae4794c5bc92705c48fa9cae8b/osv/malicious/npm/vreqtx-b5w3n-testmetest/MAL-0000-amazon-inspector-fd8b0671f1c77b8c.json
 vrfger3	*	MAL-2025-38640	https://osv.dev/vulnerability/MAL-2025-38640
 vrfi-cal-registration	*	MAL-2025-38641	https://osv.dev/vulnerability/MAL-2025-38641
 vrfi-schedules	*	MAL-2025-38642	https://osv.dev/vulnerability/MAL-2025-38642
@@ -231250,6 +231259,7 @@ xss-finder-0xsapra	*	MAL-2022-7300	https://osv.dev/vulnerability/MAL-2022-7300
 xss-payload-7n-ctf	*	MAL-2025-49387	https://osv.dev/vulnerability/MAL-2025-49387
 xss-payload-all	*	MAL-2025-49388	https://osv.dev/vulnerability/MAL-2025-49388
 xss-test-gaurav	*	MAL-2022-7301	https://osv.dev/vulnerability/MAL-2022-7301
+xssdoctor-muse-task448-provider-runtime	1.0.0	MAL-0000-amazon-inspector-4230304085532b4b	https://github.com/ossf/malicious-packages/blob/bc8032aedf8318ae4794c5bc92705c48fa9cae8b/osv/malicious/npm/xssdoctor-muse-task448-provider-runtime/MAL-0000-amazon-inspector-4230304085532b4b.json
 xssnn20251	1.0.2	MAL-2025-48399	https://osv.dev/vulnerability/MAL-2025-48399
 xsstesting	*	MAL-2026-893	https://osv.dev/vulnerability/MAL-2026-893
 xsstesttttttttt	*	MAL-2023-978	https://osv.dev/vulnerability/MAL-2023-978
