@@ -90012,10 +90012,10 @@ gemini-callisto-regulus-hercules	*	MAL-2025-142893	https://osv.dev/vulnerability
 gemini-cli-a2a-server	1.0.0	MAL-2026-14244	https://osv.dev/vulnerability/MAL-2026-14244
 gemini-cli-vscode-ide-companion	99.99.9	MAL-2026-2764	https://osv.dev/vulnerability/MAL-2026-2764
 gemini-computer-use	0.1.2	MAL-2026-16355	https://osv.dev/vulnerability/MAL-2026-16355
-gemini-computer-use	0.2.3	MAL-0000-amazon-inspector-5e9262ea9d7343df	https://github.com/ossf/malicious-packages/blob/ced75099a582fcf5c379bf6ba31c8f5fe8fb0e6d/osv/malicious/npm/gemini-computer-use/MAL-0000-amazon-inspector-5e9262ea9d7343df.json
-gemini-computer-use	0.2.4	MAL-0000-amazon-inspector-2d80e7dc6878ebee	https://github.com/ossf/malicious-packages/blob/ced75099a582fcf5c379bf6ba31c8f5fe8fb0e6d/osv/malicious/npm/gemini-computer-use/MAL-0000-amazon-inspector-2d80e7dc6878ebee.json
-gemini-computer-use	0.4.1	MAL-0000-amazon-inspector-786ad22ac105f890	https://github.com/ossf/malicious-packages/blob/ced75099a582fcf5c379bf6ba31c8f5fe8fb0e6d/osv/malicious/npm/gemini-computer-use/MAL-0000-amazon-inspector-786ad22ac105f890.json
-gemini-computer-use	0.4.2	MAL-0000-amazon-inspector-73119ad8a8c521c3	https://github.com/ossf/malicious-packages/blob/ced75099a582fcf5c379bf6ba31c8f5fe8fb0e6d/osv/malicious/npm/gemini-computer-use/MAL-0000-amazon-inspector-73119ad8a8c521c3.json
+gemini-computer-use	0.2.3	MAL-2026-16355	https://osv.dev/vulnerability/MAL-2026-16355
+gemini-computer-use	0.2.4	MAL-2026-16355	https://osv.dev/vulnerability/MAL-2026-16355
+gemini-computer-use	0.4.1	MAL-2026-16355	https://osv.dev/vulnerability/MAL-2026-16355
+gemini-computer-use	0.4.2	MAL-2026-16355	https://osv.dev/vulnerability/MAL-2026-16355
 gemini-computer-use	0.4.3	MAL-2026-16355	https://osv.dev/vulnerability/MAL-2026-16355
 gemini-computer-use	0.4.5	MAL-2026-16355	https://osv.dev/vulnerability/MAL-2026-16355
 gemini-csv-cryonics-castor	*	MAL-2025-187133	https://osv.dev/vulnerability/MAL-2025-187133
