@@ -28547,6 +28547,7 @@ ai-workshop-radio-app	*	MAL-2026-17428	https://osv.dev/vulnerability/MAL-2026-17
 ai-workshop-radio-lambda	*	MAL-2026-17429	https://osv.dev/vulnerability/MAL-2026-17429
 ai3	0.3.5	MAL-2026-4476	https://osv.dev/vulnerability/MAL-2026-4476
 ai_challenge	*	MAL-2025-3814	https://osv.dev/vulnerability/MAL-2025-3814
+aia-b-locator-fe	1.0.3	MAL-0000-ossf-package-analysis-30948411c212a86c	https://github.com/ossf/malicious-packages/blob/0be12db57ccbd241e4e543ee6ac4c3a13e78c73e/osv/malicious/npm/aia-b-locator-fe/MAL-0000-ossf-package-analysis-30948411c212a86c.json
 aiasahu-sautg-infaru	*	MAL-2025-172742	https://osv.dev/vulnerability/MAL-2025-172742
 aibadali	*	MAL-2025-170724	https://osv.dev/vulnerability/MAL-2025-170724
 aiboa-milipe-apamipa	*	MAL-2025-179434	https://osv.dev/vulnerability/MAL-2025-179434
