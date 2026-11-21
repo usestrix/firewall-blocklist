@@ -70378,10 +70378,15 @@ dsgs-trds-trud	*	MAL-2025-174117	https://osv.dev/vulnerability/MAL-2025-174117
 dsgs-trus-pix	*	MAL-2025-174118	https://osv.dev/vulnerability/MAL-2025-174118
 dsgs-trus-psix	*	MAL-2025-174119	https://osv.dev/vulnerability/MAL-2025-174119
 dsgs-txcui-pix	*	MAL-2025-174120	https://osv.dev/vulnerability/MAL-2025-174120
+dsh-blue-team-mode	3.0.0-beta.17	MAL-0000-ghsa-malware-5afab89b188f371a	https://github.com/ossf/malicious-packages/blob/e22c27a4d9afade7abd14eb9ca0fbee67d3cb117/osv/malicious/npm/dsh-blue-team-mode/MAL-0000-ghsa-malware-5afab89b188f371a.json
 dsh-blue-team-mode	3.0.0-beta.17	MAL-2026-20315	https://osv.dev/vulnerability/MAL-2026-20315
+dsh-blue-team-mode	3.0.0-beta.18	MAL-0000-ghsa-malware-5afab89b188f371a	https://github.com/ossf/malicious-packages/blob/e22c27a4d9afade7abd14eb9ca0fbee67d3cb117/osv/malicious/npm/dsh-blue-team-mode/MAL-0000-ghsa-malware-5afab89b188f371a.json
 dsh-blue-team-mode	3.0.0-beta.18	MAL-2026-20315	https://osv.dev/vulnerability/MAL-2026-20315
+dsh-blue-team-mode	3.0.0-beta.19	MAL-0000-ghsa-malware-5afab89b188f371a	https://github.com/ossf/malicious-packages/blob/e22c27a4d9afade7abd14eb9ca0fbee67d3cb117/osv/malicious/npm/dsh-blue-team-mode/MAL-0000-ghsa-malware-5afab89b188f371a.json
 dsh-blue-team-mode	3.0.0-beta.19	MAL-2026-20315	https://osv.dev/vulnerability/MAL-2026-20315
+dsh-blue-team-mode	3.0.0-beta.20	MAL-0000-ghsa-malware-5afab89b188f371a	https://github.com/ossf/malicious-packages/blob/e22c27a4d9afade7abd14eb9ca0fbee67d3cb117/osv/malicious/npm/dsh-blue-team-mode/MAL-0000-ghsa-malware-5afab89b188f371a.json
 dsh-blue-team-mode	3.0.0-beta.20	MAL-2026-20315	https://osv.dev/vulnerability/MAL-2026-20315
+dsh-blue-team-mode	3.0.0-beta.21	MAL-0000-ghsa-malware-5afab89b188f371a	https://github.com/ossf/malicious-packages/blob/e22c27a4d9afade7abd14eb9ca0fbee67d3cb117/osv/malicious/npm/dsh-blue-team-mode/MAL-0000-ghsa-malware-5afab89b188f371a.json
 dsh-moss-console	3.3.0	MAL-2026-18522	https://osv.dev/vulnerability/MAL-2026-18522
 dsh-moss-wallpaper	3.4.0	MAL-2026-18523	https://osv.dev/vulnerability/MAL-2026-18523
 dsh-native	1.4.1	MAL-2026-18315	https://osv.dev/vulnerability/MAL-2026-18315
