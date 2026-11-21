@@ -1861,7 +1861,6 @@ cicd-ppe-redteam-test02	1.0.3	MAL-2026-1064	https://osv.dev/vulnerability/MAL-20
 cicd-ppe-test	1.0.0	MAL-2026-731	https://osv.dev/vulnerability/MAL-2026-731
 cicibot-fix-message-naming	0.0.1	MAL-2026-921	https://osv.dev/vulnerability/MAL-2026-921
 cick	*	MAL-2023-1680	https://osv.dev/vulnerability/MAL-2023-1680
-cijukop	1.0.0	MAL-0000-amazon-inspector-74c4c4647ff9c1da	https://github.com/ossf/malicious-packages/blob/090a30ee902a509224b335a0e950825a8d0b1a57/osv/malicious/pypi/cijukop/MAL-0000-amazon-inspector-74c4c4647ff9c1da.json
 cijukop	1.0.0	MAL-2026-20312	https://osv.dev/vulnerability/MAL-2026-20312
 cikit-learn	*	MAL-2023-1681	https://osv.dev/vulnerability/MAL-2023-1681
 cilorama	1.0.0	MAL-2024-4890	https://osv.dev/vulnerability/MAL-2024-4890
@@ -6022,9 +6021,7 @@ instantcolor	0.0.7	MAL-2024-5271	https://osv.dev/vulnerability/MAL-2024-5271
 instantcolor	0.0.8	MAL-2024-5271	https://osv.dev/vulnerability/MAL-2024-5271
 instantobfosires	0.1.0	MAL-2024-5272	https://osv.dev/vulnerability/MAL-2024-5272
 instantscrape	0.1.0	MAL-2026-20322	https://osv.dev/vulnerability/MAL-2026-20322
-instantscrape	0.1.5	MAL-0000-amazon-inspector-c686d2223600d1e5	https://github.com/ossf/malicious-packages/blob/090a30ee902a509224b335a0e950825a8d0b1a57/osv/malicious/pypi/instantscrape/MAL-0000-amazon-inspector-c686d2223600d1e5.json
 instantscrape	0.1.5	MAL-2026-20322	https://osv.dev/vulnerability/MAL-2026-20322
-instantscrape	0.1.8	MAL-0000-amazon-inspector-2468ac9ed09c0951	https://github.com/ossf/malicious-packages/blob/090a30ee902a509224b335a0e950825a8d0b1a57/osv/malicious/pypi/instantscrape/MAL-0000-amazon-inspector-2468ac9ed09c0951.json
 instantscrape	0.1.8	MAL-2026-20322	https://osv.dev/vulnerability/MAL-2026-20322
 instaread	0.1.0	MAL-2024-12292	https://osv.dev/vulnerability/MAL-2024-12292
 instaread	0.1.1	MAL-2024-12292	https://osv.dev/vulnerability/MAL-2024-12292
@@ -15155,9 +15152,7 @@ testfiwldsd21233s	0.1	MAL-2024-6113	https://osv.dev/vulnerability/MAL-2024-6113
 testing1232	0.0.1	MAL-2024-6114	https://osv.dev/vulnerability/MAL-2024-6114
 testing123kk	10.0.5	MAL-2025-6336	https://osv.dev/vulnerability/MAL-2025-6336
 testing1345	0.1.0	MAL-2026-19247	https://osv.dev/vulnerability/MAL-2026-19247
-testing1345py	0.1.3	MAL-0000-amazon-inspector-dc04d3349dc599ea	https://github.com/ossf/malicious-packages/blob/090a30ee902a509224b335a0e950825a8d0b1a57/osv/malicious/pypi/testing1345py/MAL-0000-amazon-inspector-dc04d3349dc599ea.json
 testing1345py	0.1.3	MAL-2026-20313	https://osv.dev/vulnerability/MAL-2026-20313
-testing1345py	0.1.4	MAL-0000-amazon-inspector-b3045c5ba348bccd	https://github.com/ossf/malicious-packages/blob/090a30ee902a509224b335a0e950825a8d0b1a57/osv/malicious/pypi/testing1345py/MAL-0000-amazon-inspector-b3045c5ba348bccd.json
 testing1345py	0.1.4	MAL-2026-20313	https://osv.dev/vulnerability/MAL-2026-20313
 testingiasdf1	2.31.10	MAL-2024-6115	https://osv.dev/vulnerability/MAL-2024-6115
 testingiasdf1	2.31.6	MAL-2024-6115	https://osv.dev/vulnerability/MAL-2024-6115

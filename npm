@@ -28548,9 +28548,8 @@ ai-workshop-radio-app	*	MAL-2026-17428	https://osv.dev/vulnerability/MAL-2026-17
 ai-workshop-radio-lambda	*	MAL-2026-17429	https://osv.dev/vulnerability/MAL-2026-17429
 ai3	0.3.5	MAL-2026-4476	https://osv.dev/vulnerability/MAL-2026-4476
 ai_challenge	*	MAL-2025-3814	https://osv.dev/vulnerability/MAL-2025-3814
-aia-b-locator-fe	1.0.1	MAL-0000-amazon-inspector-514a5c6addb43ff2	https://github.com/ossf/malicious-packages/blob/090a30ee902a509224b335a0e950825a8d0b1a57/osv/malicious/npm/aia-b-locator-fe/MAL-0000-amazon-inspector-514a5c6addb43ff2.json
-aia-b-locator-fe	1.0.2	MAL-0000-amazon-inspector-08b04af601778634	https://github.com/ossf/malicious-packages/blob/090a30ee902a509224b335a0e950825a8d0b1a57/osv/malicious/npm/aia-b-locator-fe/MAL-0000-amazon-inspector-08b04af601778634.json
-aia-b-locator-fe	1.0.3	MAL-0000-amazon-inspector-69162452e704449b	https://github.com/ossf/malicious-packages/blob/090a30ee902a509224b335a0e950825a8d0b1a57/osv/malicious/npm/aia-b-locator-fe/MAL-0000-amazon-inspector-69162452e704449b.json
+aia-b-locator-fe	1.0.1	MAL-2026-20320	https://osv.dev/vulnerability/MAL-2026-20320
+aia-b-locator-fe	1.0.2	MAL-2026-20320	https://osv.dev/vulnerability/MAL-2026-20320
 aia-b-locator-fe	1.0.3	MAL-2026-20320	https://osv.dev/vulnerability/MAL-2026-20320
 aiasahu-sautg-infaru	*	MAL-2025-172742	https://osv.dev/vulnerability/MAL-2025-172742
 aibadali	*	MAL-2025-170724	https://osv.dev/vulnerability/MAL-2025-170724
