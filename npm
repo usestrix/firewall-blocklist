@@ -59877,6 +59877,7 @@ cth-poc	1.0.8	MAL-2025-1212	https://osv.dev/vulnerability/MAL-2025-1212
 cth-poc	1.0.9	MAL-2025-1212	https://osv.dev/vulnerability/MAL-2025-1212
 cthipjznlgrwqysa	*	MAL-2022-2272	https://osv.dev/vulnerability/MAL-2022-2272
 cthwxpoc	*	MAL-2024-11117	https://osv.dev/vulnerability/MAL-2024-11117
+cti-defense	1.0.0	MAL-0000-ghsa-malware-e292027e78f90a78	https://github.com/ossf/malicious-packages/blob/7c9f1e284e9a83a0175ef1f7463130a240c6ac2d/osv/malicious/npm/cti-defense/MAL-0000-ghsa-malware-e292027e78f90a78.json
 ctijdpgxrhqaknso	*	MAL-2022-2273	https://osv.dev/vulnerability/MAL-2022-2273
 ctmjobs	1.0.0	MAL-2025-1777	https://osv.dev/vulnerability/MAL-2025-1777
 ctrlform	*	MAL-2025-17813	https://osv.dev/vulnerability/MAL-2025-17813
