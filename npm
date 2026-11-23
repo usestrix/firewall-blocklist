@@ -13957,6 +13957,7 @@
 @rsi-community/hub-client-app	*	MAL-2026-5050	https://osv.dev/vulnerability/MAL-2026-5050
 @rsi-community/hub-schema	*	MAL-2026-3414	https://osv.dev/vulnerability/MAL-2026-3414
 @rsi-core-services/rsi-authorization-client	*	MAL-2023-1544	https://osv.dev/vulnerability/MAL-2023-1544
+@ruaxbonz/tooltreovip	1.0.1	MAL-0000-amazon-inspector-8569f35e52e1d4c8	https://github.com/ossf/malicious-packages/blob/192e07d83247eb2053478f73946ac14b4d255345/osv/malicious/npm/@ruaxbonz/tooltreovip/MAL-0000-amazon-inspector-8569f35e52e1d4c8.json
 @rupahealth/design	*	MAL-2025-5801	https://osv.dev/vulnerability/MAL-2025-5801
 @rustore-web/config	2.1.4	MAL-2023-1104	https://osv.dev/vulnerability/MAL-2023-1104
 @ruthless-imperium/baileys	*	MAL-2026-19150	https://osv.dev/vulnerability/MAL-2026-19150
