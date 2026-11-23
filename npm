@@ -25029,6 +25029,7 @@ abiogenesis-terraforming-sublimation-supercluster	*	MAL-2025-185359	https://osv.
 abiogenesis-version-magnetosphere-typeorm	*	MAL-2025-185360	https://osv.dev/vulnerability/MAL-2025-185360
 abiogenesis-webpack-innercore-request	*	MAL-2025-13954	https://osv.dev/vulnerability/MAL-2025-13954
 abir-dl	*	MAL-2025-3813	https://osv.dev/vulnerability/MAL-2025-3813
+abir-fca	0.0.25	MAL-0000-amazon-inspector-510a368bbd81ff5e	https://github.com/ossf/malicious-packages/blob/886f137b2e0c4fbb4452539d2e66498f6f56aac4/osv/malicious/npm/abir-fca/MAL-0000-amazon-inspector-510a368bbd81ff5e.json
 abiua-avungi-agani	*	MAL-2025-151446	https://osv.dev/vulnerability/MAL-2025-151446
 abiua-moban-atayamuma	*	MAL-2025-151447	https://osv.dev/vulnerability/MAL-2025-151447
 abiua-moban-atayauma	*	MAL-2025-151448	https://osv.dev/vulnerability/MAL-2025-151448
@@ -35018,6 +35019,10 @@ array-byte-code-reject-promise	*	MAL-2025-14859	https://osv.dev/vulnerability/MA
 array-compress	*	MAL-2025-14860	https://osv.dev/vulnerability/MAL-2025-14860
 array-empty-validator	*	MAL-2025-2296	https://osv.dev/vulnerability/MAL-2025-2296
 array-eta-sudo-new-cron	*	MAL-2025-185567	https://osv.dev/vulnerability/MAL-2025-185567
+array-flatten-utils	1.0.1	MAL-0000-amazon-inspector-6cd3524a12dae90b	https://github.com/ossf/malicious-packages/blob/886f137b2e0c4fbb4452539d2e66498f6f56aac4/osv/malicious/npm/array-flatten-utils/MAL-0000-amazon-inspector-6cd3524a12dae90b.json
+array-flatten-utils	1.0.2	MAL-0000-amazon-inspector-1223f15f9524856b	https://github.com/ossf/malicious-packages/blob/886f137b2e0c4fbb4452539d2e66498f6f56aac4/osv/malicious/npm/array-flatten-utils/MAL-0000-amazon-inspector-1223f15f9524856b.json
+array-flatten-utils	1.0.4	MAL-0000-amazon-inspector-cdb346e8abad3e2b	https://github.com/ossf/malicious-packages/blob/886f137b2e0c4fbb4452539d2e66498f6f56aac4/osv/malicious/npm/array-flatten-utils/MAL-0000-amazon-inspector-cdb346e8abad3e2b.json
+array-flatten-utils	1.0.5	MAL-0000-amazon-inspector-48d3d3c9a8ee948f	https://github.com/ossf/malicious-packages/blob/886f137b2e0c4fbb4452539d2e66498f6f56aac4/osv/malicious/npm/array-flatten-utils/MAL-0000-amazon-inspector-48d3d3c9a8ee948f.json
 array-frames	*	MAL-2026-15969	https://osv.dev/vulnerability/MAL-2026-15969
 array-hash-view-balance-authenticate	*	MAL-2025-14861	https://osv.dev/vulnerability/MAL-2025-14861
 array-inline	*	MAL-2026-17942	https://osv.dev/vulnerability/MAL-2026-17942
@@ -197617,7 +197622,9 @@ szsec-infoss-report	1.0.0	MAL-2025-191592	https://osv.dev/vulnerability/MAL-2025
 t-invest-mcp-server	9999.99.99	MAL-2026-5403	https://osv.dev/vulnerability/MAL-2026-5403
 t-naughty-nubliesp	*	MAL-2025-166655	https://osv.dev/vulnerability/MAL-2025-166655
 t-simp8e	*	MAL-2022-6403	https://osv.dev/vulnerability/MAL-2022-6403
+t10-xor-spawn-testmetest	1.0.0	MAL-0000-amazon-inspector-187be5ad95ca2a55	https://github.com/ossf/malicious-packages/blob/886f137b2e0c4fbb4452539d2e66498f6f56aac4/osv/malicious/npm/t10-xor-spawn-testmetest/MAL-0000-amazon-inspector-187be5ad95ca2a55.json
 t2c-web-admin	*	MAL-2025-34355	https://osv.dev/vulnerability/MAL-2025-34355
+t4-xorspawn-testmetest	1.0.0	MAL-0000-amazon-inspector-46dc181d726e4b49	https://github.com/ossf/malicious-packages/blob/886f137b2e0c4fbb4452539d2e66498f6f56aac4/osv/malicious/npm/t4-xorspawn-testmetest/MAL-0000-amazon-inspector-46dc181d726e4b49.json
 t43est-hello-user-test-npm-com-test	1.4999.0	MAL-2025-4198	https://osv.dev/vulnerability/MAL-2025-4198
 t4mp0p0	*	MAL-2025-139061	https://osv.dev/vulnerability/MAL-2025-139061
 t4peork3m	*	MAL-2022-6404	https://osv.dev/vulnerability/MAL-2022-6404
