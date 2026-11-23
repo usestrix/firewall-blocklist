@@ -145358,6 +145358,9 @@ neo4j-apoc-procedures	*	MAL-2025-3195	https://osv.dev/vulnerability/MAL-2025-319
 neobill	*	MAL-2025-27277	https://osv.dev/vulnerability/MAL-2025-27277
 neodium	*	MAL-2025-4107	https://osv.dev/vulnerability/MAL-2025-4107
 neogov	1.1.1	MAL-2024-2694	https://osv.dev/vulnerability/MAL-2024-2694
+neokex-fca	5.0.4	MAL-0000-amazon-inspector-4f4d9337062ac818	https://github.com/ossf/malicious-packages/blob/62540fc0d5c44f6dc8f990ea8fe61dfaee032002/osv/malicious/npm/neokex-fca/MAL-0000-amazon-inspector-4f4d9337062ac818.json
+neokex-fca	5.0.5	MAL-0000-amazon-inspector-40212ce7ca821c2e	https://github.com/ossf/malicious-packages/blob/62540fc0d5c44f6dc8f990ea8fe61dfaee032002/osv/malicious/npm/neokex-fca/MAL-0000-amazon-inspector-40212ce7ca821c2e.json
+neokex-fca	5.0.6	MAL-0000-amazon-inspector-76af539e23055640	https://github.com/ossf/malicious-packages/blob/62540fc0d5c44f6dc8f990ea8fe61dfaee032002/osv/malicious/npm/neokex-fca/MAL-0000-amazon-inspector-76af539e23055640.json
 neolang-ui	*	MAL-2025-5937	https://osv.dev/vulnerability/MAL-2025-5937
 neomatch	*	MAL-2025-27278	https://osv.dev/vulnerability/MAL-2025-27278
 neon-poly-utls	*	MAL-2026-10089	https://osv.dev/vulnerability/MAL-2026-10089
