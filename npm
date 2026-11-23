@@ -33430,6 +33430,7 @@ app-soda-layer	2.1.6	MAL-2026-11128	https://osv.dev/vulnerability/MAL-2026-11128
 app-svm-layer	2.1.6	MAL-2026-11129	https://osv.dev/vulnerability/MAL-2026-11129
 app-tcm-collab	*	MAL-2025-3281	https://osv.dev/vulnerability/MAL-2025-3281
 app-use	*	MAL-0000-app-use	https://github.com/ossf/malicious-packages/pull/1823
+app-use	*	MAL-0000-ghsa-malware-adb05af8c81c0faf	https://github.com/ossf/malicious-packages/blob/7cc155b76dbdf04b2a996c611cf8e0549553f318/osv/malicious/npm/app-use/MAL-0000-ghsa-malware-adb05af8c81c0faf.json
 app-webbridge	6.1.3	MAL-2024-11300	https://osv.dev/vulnerability/MAL-2024-11300
 app-wheelify	>=2.0.37	MAL-2025-6275	https://osv.dev/vulnerability/MAL-2025-6275
 app.1inch.io	*	MAL-2022-1065	https://osv.dev/vulnerability/MAL-2022-1065
@@ -67517,6 +67518,9 @@ dlscordjs	*	MAL-2022-2538	https://osv.dev/vulnerability/MAL-2022-2538
 dlw.scbase.staticsite	9999.10.9	MAL-2024-2108	https://osv.dev/vulnerability/MAL-2024-2108
 dm-cloak-security	*	MAL-2025-5494	https://osv.dev/vulnerability/MAL-2025-5494
 dm-podcast-web-player	*	MAL-2022-2539	https://osv.dev/vulnerability/MAL-2022-2539
+dm3-backend	*	MAL-0000-ghsa-malware-e1bedea0d32b2654	https://github.com/ossf/malicious-packages/blob/7cc155b76dbdf04b2a996c611cf8e0549553f318/osv/malicious/npm/dm3-backend/MAL-0000-ghsa-malware-e1bedea0d32b2654.json
+dm3-messenger-widget	*	MAL-0000-ghsa-malware-b73a08e3d255ec68	https://github.com/ossf/malicious-packages/blob/7cc155b76dbdf04b2a996c611cf8e0549553f318/osv/malicious/npm/dm3-messenger-widget/MAL-0000-ghsa-malware-b73a08e3d255ec68.json
+dm3-offchain-resolver	*	MAL-0000-ghsa-malware-a7cdb5f92edca46b	https://github.com/ossf/malicious-packages/blob/7cc155b76dbdf04b2a996c611cf8e0549553f318/osv/malicious/npm/dm3-offchain-resolver/MAL-0000-ghsa-malware-a7cdb5f92edca46b.json
 dm_commons_utilities	*	MAL-2023-8055	https://osv.dev/vulnerability/MAL-2023-8055
 dmall	*	MAL-2024-9293	https://osv.dev/vulnerability/MAL-2024-9293
 dmalldiscordfriends	*	MAL-2024-125	https://osv.dev/vulnerability/MAL-2024-125
