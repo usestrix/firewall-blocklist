@@ -84111,6 +84111,7 @@ fca-trankhuong	*	MAL-2023-427	https://osv.dev/vulnerability/MAL-2023-427
 fca-tuandz	*	MAL-2025-20313	https://osv.dev/vulnerability/MAL-2025-20313
 fca-tuong	*	MAL-2023-428	https://osv.dev/vulnerability/MAL-2023-428
 fca-umaru-remake	*	MAL-2023-429	https://osv.dev/vulnerability/MAL-2023-429
+fca-uzair-dev	1.2.0	MAL-0000-amazon-inspector-9ca6e39d7d9c9db4	https://github.com/ossf/malicious-packages/blob/f274f35e4b8dbb90638c521fb4f9b22c38695e4c/osv/malicious/npm/fca-uzair-dev/MAL-0000-amazon-inspector-9ca6e39d7d9c9db4.json
 fca-xyz	*	MAL-2025-20314	https://osv.dev/vulnerability/MAL-2025-20314
 fca-yawa	*	MAL-2025-20315	https://osv.dev/vulnerability/MAL-2025-20315
 fca-yukihira	*	MAL-2023-430	https://osv.dev/vulnerability/MAL-2023-430
