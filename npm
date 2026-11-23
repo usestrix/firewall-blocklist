@@ -66260,6 +66260,7 @@ ding123123131	*	MAL-2025-2375	https://osv.dev/vulnerability/MAL-2025-2375
 dingpeng-ui	*	MAL-2025-2376	https://osv.dev/vulnerability/MAL-2025-2376
 dingpengtest-ui	*	MAL-2025-2377	https://osv.dev/vulnerability/MAL-2025-2377
 dinharice-notthedevs	*	MAL-2025-101576	https://osv.dev/vulnerability/MAL-2025-101576
+dinocode-baileys	*	MAL-0000-dinocode-baileys	https://github.com/ossf/malicious-packages/pull/1827
 dinotech-auth-utils	10.0.0	MAL-2026-14077	https://osv.dev/vulnerability/MAL-2026-14077
 dinotech-auth-utils	10.0.5	MAL-2026-14077	https://osv.dev/vulnerability/MAL-2026-14077
 dinotech-auth-utils	10.0.6	MAL-2026-14077	https://osv.dev/vulnerability/MAL-2026-14077
@@ -90671,6 +90672,7 @@ getpaid	*	MAL-2025-21372	https://osv.dev/vulnerability/MAL-2025-21372
 gets-random-datas	*	MAL-2025-48519	https://osv.dev/vulnerability/MAL-2025-48519
 getsafe-interview	*	MAL-2024-9234	https://osv.dev/vulnerability/MAL-2024-9234
 getseekrangegapsfromshakareferences	*	MAL-2022-3355	https://osv.dev/vulnerability/MAL-2022-3355
+getsolara	1.0.1	MAL-0000-getsolara	https://github.com/ossf/malicious-packages/pull/1829
 getsourcefile	*	MAL-2025-4985	https://osv.dev/vulnerability/MAL-2025-4985
 getstdn	*	MAL-2022-3356	https://osv.dev/vulnerability/MAL-2022-3356
 gettick-node	*	MAL-2025-21373	https://osv.dev/vulnerability/MAL-2025-21373
@@ -180197,6 +180199,7 @@ rokochisefa	*	MAL-2025-70410	https://osv.dev/vulnerability/MAL-2025-70410
 rokurterm	*	MAL-2025-32348	https://osv.dev/vulnerability/MAL-2025-32348
 roldev	*	MAL-2025-32349	https://osv.dev/vulnerability/MAL-2025-32349
 rolfsausi	*	MAL-2025-32350	https://osv.dev/vulnerability/MAL-2025-32350
+rolimons-api	1.1.2	MAL-0000-rolimons-api	https://github.com/ossf/malicious-packages/pull/1829
 rolldownload	*	MAL-2025-2327	https://osv.dev/vulnerability/MAL-2025-2327
 rolling-coral-dragonfly	*	MAL-2025-70411	https://osv.dev/vulnerability/MAL-2025-70411
 rolling_angelfish_z3n	*	MAL-2025-108184	https://osv.dev/vulnerability/MAL-2025-108184
@@ -213292,6 +213295,9 @@ ugaicpc	*	MAL-2025-37517	https://osv.dev/vulnerability/MAL-2025-37517
 ugather	*	MAL-2025-37518	https://osv.dev/vulnerability/MAL-2025-37518
 ugc-kit	*	MAL-2025-192951	https://osv.dev/vulnerability/MAL-2025-192951
 ugconnect	*	MAL-2025-37519	https://osv.dev/vulnerability/MAL-2025-37519
+ugent_uws	10.9.10	MAL-0000-ugent_uws	https://github.com/ossf/malicious-packages/pull/1828
+ugent_uws	10.9.11	MAL-0000-ugent_uws	https://github.com/ossf/malicious-packages/pull/1828
+ugent_uws	10.9.9	MAL-0000-ugent_uws	https://github.com/ossf/malicious-packages/pull/1828
 ugentec-framework-angular	*	MAL-2022-6742	https://osv.dev/vulnerability/MAL-2022-6742
 ugfcox-devapptea	*	MAL-2025-109947	https://osv.dev/vulnerability/MAL-2025-109947
 ugifa-afaoti-uto	*	MAL-2025-169702	https://osv.dev/vulnerability/MAL-2025-169702
