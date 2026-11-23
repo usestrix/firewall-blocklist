@@ -42486,12 +42486,14 @@ bigops-informer	35.4.8	MAL-2026-12171	https://osv.dev/vulnerability/MAL-2026-121
 bigops-insite	35.8.1	MAL-2026-13219	https://osv.dev/vulnerability/MAL-2026-13219
 bigops-jsonpath-mapper	35.4.6	MAL-2026-13220	https://osv.dev/vulnerability/MAL-2026-13220
 bigops-legacy-telephony-panel	35.5.7	MAL-2026-13221	https://osv.dev/vulnerability/MAL-2026-13221
+bigops-legacy-utils	*	MAL-0000-ghsa-malware-4e4481716196b331	https://github.com/ossf/malicious-packages/blob/26ab2a3aa7fd8ebb1e7ceb2c393cd169b2d4eaa2/osv/malicious/npm/bigops-legacy-utils/MAL-0000-ghsa-malware-4e4481716196b331.json
 bigops-legacy-utils	35.2.6	MAL-2026-13222	https://osv.dev/vulnerability/MAL-2026-13222
 bigops-logs-player	35.2.8	MAL-2026-13223	https://osv.dev/vulnerability/MAL-2026-13223
 bigops-microfrontend	35.4.1	MAL-2026-13224	https://osv.dev/vulnerability/MAL-2026-13224
 bigops-nitro-client	35.6.1	MAL-2026-13225	https://osv.dev/vulnerability/MAL-2026-13225
 bigops-nitro-events-table	35.4.2	MAL-2026-13226	https://osv.dev/vulnerability/MAL-2026-13226
 bigops-notes	35.8.7	MAL-2026-13227	https://osv.dev/vulnerability/MAL-2026-13227
+bigops-offers	*	MAL-0000-ghsa-malware-7510590b844279a0	https://github.com/ossf/malicious-packages/blob/26ab2a3aa7fd8ebb1e7ceb2c393cd169b2d4eaa2/osv/malicious/npm/bigops-offers/MAL-0000-ghsa-malware-7510590b844279a0.json
 bigops-offers	35.6.8	MAL-2026-13228	https://osv.dev/vulnerability/MAL-2026-13228
 bigops-opening-file-handler	35.9.2	MAL-2026-13229	https://osv.dev/vulnerability/MAL-2026-13229
 bigops-operator-status	35.4.5	MAL-2026-13230	https://osv.dev/vulnerability/MAL-2026-13230
@@ -42508,13 +42510,16 @@ bigops-products-insurance	35.3.4	MAL-2026-13240	https://osv.dev/vulnerability/MA
 bigops-products-investment	35.3.1	MAL-2026-13241	https://osv.dev/vulnerability/MAL-2026-13241
 bigops-products-loans	35.6.4	MAL-2026-13242	https://osv.dev/vulnerability/MAL-2026-13242
 bigops-products-mobile	35.6.8	MAL-2026-13243	https://osv.dev/vulnerability/MAL-2026-13243
+bigops-products-savings-accounts	*	MAL-0000-ghsa-malware-f5044abfaa95af3c	https://github.com/ossf/malicious-packages/blob/26ab2a3aa7fd8ebb1e7ceb2c393cd169b2d4eaa2/osv/malicious/npm/bigops-products-savings-accounts/MAL-0000-ghsa-malware-f5044abfaa95af3c.json
 bigops-products-savings-accounts	35.3.7	MAL-2026-13244	https://osv.dev/vulnerability/MAL-2026-13244
 bigops-products-timeline	*	MAL-2026-13245	https://osv.dev/vulnerability/MAL-2026-13245
 bigops-products-timeline-commons	35.1.6	MAL-2026-13246	https://osv.dev/vulnerability/MAL-2026-13246
 bigops-products-travel	35.7.1	MAL-2026-13247	https://osv.dev/vulnerability/MAL-2026-13247
+bigops-rx-post-message	*	MAL-0000-ghsa-malware-a91fef7e1536e54b	https://github.com/ossf/malicious-packages/blob/26ab2a3aa7fd8ebb1e7ceb2c393cd169b2d4eaa2/osv/malicious/npm/bigops-rx-post-message/MAL-0000-ghsa-malware-a91fef7e1536e54b.json
 bigops-rx-post-message	35.1.5	MAL-2026-13248	https://osv.dev/vulnerability/MAL-2026-13248
 bigops-security	35.8.8	MAL-2026-13525	https://osv.dev/vulnerability/MAL-2026-13525
 bigops-shared-product-design	35.9.3	MAL-2026-13526	https://osv.dev/vulnerability/MAL-2026-13526
+bigops-shared-ui	*	MAL-0000-ghsa-malware-8c53672c70580951	https://github.com/ossf/malicious-packages/blob/26ab2a3aa7fd8ebb1e7ceb2c393cd169b2d4eaa2/osv/malicious/npm/bigops-shared-ui/MAL-0000-ghsa-malware-8c53672c70580951.json
 bigops-shared-ui	35.1.2	MAL-2026-13249	https://osv.dev/vulnerability/MAL-2026-13249
 bigops-statements-timeline	*	MAL-2026-13250	https://osv.dev/vulnerability/MAL-2026-13250
 bigops-status-selection	*	MAL-2026-13251	https://osv.dev/vulnerability/MAL-2026-13251
@@ -43906,10 +43911,12 @@ bnpl-blocks-mobile-bnpl-card-panel	35.1.3	MAL-2026-12983	https://osv.dev/vulnera
 bnpl-blocks-mobile-bnpl-category-gallery	35.6.5	MAL-2026-12984	https://osv.dev/vulnerability/MAL-2026-12984
 bnpl-blocks-mobile-bnpl-container	35.1.8	MAL-2026-12985	https://osv.dev/vulnerability/MAL-2026-12985
 bnpl-blocks-mobile-bnpl-documents	35.1.2	MAL-2026-12986	https://osv.dev/vulnerability/MAL-2026-12986
+bnpl-blocks-mobile-bnpl-faq	*	MAL-0000-ghsa-malware-c4eecf6a109fd9d7	https://github.com/ossf/malicious-packages/blob/26ab2a3aa7fd8ebb1e7ceb2c393cd169b2d4eaa2/osv/malicious/npm/bnpl-blocks-mobile-bnpl-faq/MAL-0000-ghsa-malware-c4eecf6a109fd9d7.json
 bnpl-blocks-mobile-bnpl-faq	35.5.3	MAL-2026-12987	https://osv.dev/vulnerability/MAL-2026-12987
 bnpl-blocks-mobile-bnpl-feedback	35.3.5	MAL-2026-12988	https://osv.dev/vulnerability/MAL-2026-12988
 bnpl-blocks-mobile-bnpl-floating-button	*	MAL-2026-12989	https://osv.dev/vulnerability/MAL-2026-12989
 bnpl-blocks-mobile-bnpl-grid-container	35.7.1	MAL-2026-12990	https://osv.dev/vulnerability/MAL-2026-12990
+bnpl-blocks-mobile-bnpl-header	*	MAL-0000-ghsa-malware-fd2ecab3b222e2e3	https://github.com/ossf/malicious-packages/blob/26ab2a3aa7fd8ebb1e7ceb2c393cd169b2d4eaa2/osv/malicious/npm/bnpl-blocks-mobile-bnpl-header/MAL-0000-ghsa-malware-fd2ecab3b222e2e3.json
 bnpl-blocks-mobile-bnpl-header	35.2.8	MAL-2026-12991	https://osv.dev/vulnerability/MAL-2026-12991
 bnpl-blocks-mobile-bnpl-header-search	35.3.7	MAL-2026-12992	https://osv.dev/vulnerability/MAL-2026-12992
 bnpl-blocks-mobile-bnpl-image-plus-text	35.3.2	MAL-2026-12993	https://osv.dev/vulnerability/MAL-2026-12993
@@ -43944,6 +43951,7 @@ bnpl-blocks-types-gen	35.4.4	MAL-2026-13021	https://osv.dev/vulnerability/MAL-20
 bnpl-blocks-utils	35.7.1	MAL-2026-13022	https://osv.dev/vulnerability/MAL-2026-13022
 bnpl-core	35.8.2	MAL-2026-13023	https://osv.dev/vulnerability/MAL-2026-13023
 bnpl-forms-test-utils	35.4.1	MAL-2026-13024	https://osv.dev/vulnerability/MAL-2026-13024
+bnpl-molecule-mobile-bnpl-onboarding	*	MAL-0000-ghsa-malware-b9ad972f8fcf5dcf	https://github.com/ossf/malicious-packages/blob/26ab2a3aa7fd8ebb1e7ceb2c393cd169b2d4eaa2/osv/malicious/npm/bnpl-molecule-mobile-bnpl-onboarding/MAL-0000-ghsa-malware-b9ad972f8fcf5dcf.json
 bnpl-molecule-mobile-bnpl-onboarding	35.7.8	MAL-2026-13025	https://osv.dev/vulnerability/MAL-2026-13025
 bnpl-molecule-mobile-bnpl-selector	35.1.1	MAL-2026-13026	https://osv.dev/vulnerability/MAL-2026-13026
 bnppf-flag-icons	*	MAL-2026-16350	https://osv.dev/vulnerability/MAL-2026-16350
@@ -61946,6 +61954,7 @@ decryptpassword	*	MAL-2025-18170	https://osv.dev/vulnerability/MAL-2025-18170
 ded-aa-common-ded-aa-common-core	35.1.6	MAL-2026-13123	https://osv.dev/vulnerability/MAL-2026-13123
 ded-aa-liza-ded-aa-liza-core	35.2.5	MAL-2026-13124	https://osv.dev/vulnerability/MAL-2026-13124
 ded-aa-liza-ui-components	35.8.7	MAL-2026-12672	https://osv.dev/vulnerability/MAL-2026-12672
+ded-ps-ded-ps-core	*	MAL-0000-ghsa-malware-5b4ff396cdd7804a	https://github.com/ossf/malicious-packages/blob/26ab2a3aa7fd8ebb1e7ceb2c393cd169b2d4eaa2/osv/malicious/npm/ded-ps-ded-ps-core/MAL-0000-ghsa-malware-5b4ff396cdd7804a.json
 ded-ps-ded-ps-core	35.9.1	MAL-2026-12673	https://osv.dev/vulnerability/MAL-2026-12673
 ded-ps-events-ded-ps-events-core	35.4.2	MAL-2026-12674	https://osv.dev/vulnerability/MAL-2026-12674
 ded-pwa-bnpl-forms-demo	35.9.6	MAL-2026-12675	https://osv.dev/vulnerability/MAL-2026-12675
@@ -62373,6 +62382,7 @@ delivery-ci-dpat	35.1.5	MAL-2026-13500	https://osv.dev/vulnerability/MAL-2026-13
 delivery-ci-jira	35.5.2	MAL-2026-13542	https://osv.dev/vulnerability/MAL-2026-13542
 delivery-ci-jira-rnd	35.5.4	MAL-2026-13501	https://osv.dev/vulnerability/MAL-2026-13501
 delivery-ci-microforms	35.3.5	MAL-2026-12676	https://osv.dev/vulnerability/MAL-2026-12676
+delivery-ci-notify	*	MAL-0000-ghsa-malware-6aa1ea9d2bc2c266	https://github.com/ossf/malicious-packages/blob/26ab2a3aa7fd8ebb1e7ceb2c393cd169b2d4eaa2/osv/malicious/npm/delivery-ci-notify/MAL-0000-ghsa-malware-6aa1ea9d2bc2c266.json
 delivery-ci-notify	35.2.5	MAL-2026-12677	https://osv.dev/vulnerability/MAL-2026-12677
 delivery-ci-pipeline-rules	35.9.3	MAL-2026-12678	https://osv.dev/vulnerability/MAL-2026-12678
 delivery-ci-quality	35.6.2	MAL-2026-12679	https://osv.dev/vulnerability/MAL-2026-12679
@@ -193652,6 +193662,8 @@ statist-browser-typed-client-eventea.projects.trealty	*	MAL-2026-20407	https://o
 statist-browser-typed-client-eventea.projects.tshop	*	MAL-2026-20408	https://osv.dev/vulnerability/MAL-2026-20408
 statist-browser-typed-client-eventea.projects.upgrade	*	MAL-2026-20409	https://osv.dev/vulnerability/MAL-2026-20409
 statist-browser-typed-client-hra.workplacer.events	*	MAL-2026-12045	https://osv.dev/vulnerability/MAL-2026-12045
+statist-browser-typed-client-integration.tecm.events	*	MAL-0000-ghsa-malware-7eb09874c3ee7f80	https://github.com/ossf/malicious-packages/blob/26ab2a3aa7fd8ebb1e7ceb2c393cd169b2d4eaa2/osv/malicious/npm/statist-browser-typed-client-integration.tecm.events/MAL-0000-ghsa-malware-7eb09874c3ee7f80.json
+statist-browser-typed-client-integration.tecm.trackingui	*	MAL-0000-ghsa-malware-9e9e26def72ead2b	https://github.com/ossf/malicious-packages/blob/26ab2a3aa7fd8ebb1e7ceb2c393cd169b2d4eaa2/osv/malicious/npm/statist-browser-typed-client-integration.tecm.trackingui/MAL-0000-ghsa-malware-9e9e26def72ead2b.json
 statist-browser-typed-client-investing.product.loginandauthorization	*	MAL-2026-12210	https://osv.dev/vulnerability/MAL-2026-12210
 statist-browser-typed-client-itsa.digitalinterview.events	*	MAL-2026-12446	https://osv.dev/vulnerability/MAL-2026-12446
 statist-browser-typed-client-jumptaxi.feature.contacts	20.7.7	MAL-2026-12309	https://osv.dev/vulnerability/MAL-2026-12309
