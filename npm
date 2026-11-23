@@ -2694,6 +2694,7 @@
 @beloved-lenora/opencode-shell-guard	*	MAL-2026-17907	https://osv.dev/vulnerability/MAL-2026-17907
 @beloved-lenora/opencode-stats	*	MAL-2026-17908	https://osv.dev/vulnerability/MAL-2026-17908
 @beloved-lenora/opencode-todo	*	MAL-2026-17909	https://osv.dev/vulnerability/MAL-2026-17909
+@bemine/motion-kit	*	MAL-0000-ghsa-malware-b0afbeaf660e4c89	https://github.com/ossf/malicious-packages/blob/de88f8b77dfb9c7cfa81b9441f00febebd54d5e2/osv/malicious/npm/@bemine/motion-kit/MAL-0000-ghsa-malware-b0afbeaf660e4c89.json
 @benasin_2/frontend-logger	*	MAL-2024-8027	https://osv.dev/vulnerability/MAL-2024-8027
 @beproduct/nestjs-auth	0.1.10	MAL-2026-3433	https://osv.dev/vulnerability/MAL-2026-3433
 @beproduct/nestjs-auth	0.1.11	MAL-2026-3433	https://osv.dev/vulnerability/MAL-2026-3433
@@ -23801,6 +23802,7 @@
 @zeppeliorg/xzcbailz	*	MAL-2026-18926	https://osv.dev/vulnerability/MAL-2026-18926
 @zeppeliorg/yt-sdl	*	MAL-2026-19967	https://osv.dev/vulnerability/MAL-2026-19967
 @zeronexcode/baileys	*	MAL-2026-17326	https://osv.dev/vulnerability/MAL-2026-17326
+@zervonex/baileys	*	MAL-0000-ghsa-malware-51bb482f8fb5e263	https://github.com/ossf/malicious-packages/blob/de88f8b77dfb9c7cfa81b9441f00febebd54d5e2/osv/malicious/npm/@zervonex/baileys/MAL-0000-ghsa-malware-51bb482f8fb5e263.json
 @zetagoaurum-socket/wasocket	2.1.0	MAL-2026-18927	https://osv.dev/vulnerability/MAL-2026-18927
 @zetagoaurum-socket/wasocket	2.1.1	MAL-2026-18927	https://osv.dev/vulnerability/MAL-2026-18927
 @zetagoaurum-socket/wasocket	2.1.2	MAL-2026-18927	https://osv.dev/vulnerability/MAL-2026-18927
@@ -48505,6 +48507,7 @@ canta-baileys	*	MAL-2026-18632	https://osv.dev/vulnerability/MAL-2026-18632
 cantarel	*	MAL-0000-cantarel	https://github.com/ossf/malicious-packages/pull/1784
 cantarel	*	MAL-2026-19968	https://osv.dev/vulnerability/MAL-2026-19968
 cantarella-baileys	*	MAL-2026-17390	https://osv.dev/vulnerability/MAL-2026-17390
+cantarelllaa	*	MAL-0000-ghsa-malware-c2278d1df47a1723	https://github.com/ossf/malicious-packages/blob/de88f8b77dfb9c7cfa81b9441f00febebd54d5e2/osv/malicious/npm/cantarelllaa/MAL-0000-ghsa-malware-c2278d1df47a1723.json
 cantina-senior-frontend-interview-prompt	*	MAL-2025-3283	https://osv.dev/vulnerability/MAL-2025-3283
 cantynovi	*	MAL-2025-16501	https://osv.dev/vulnerability/MAL-2025-16501
 canusefetchstream	*	MAL-2022-1821	https://osv.dev/vulnerability/MAL-2022-1821
@@ -69074,6 +69077,7 @@ dowload_ebok_1917_une_passion_russe_by_max_gallo_d2xeh	*	MAL-2025-47476	https://
 dowload_ebok_1_and_2_thessalonians_by_andy_johnson_7yj6d	*	MAL-2026-19671	https://osv.dev/vulnerability/MAL-2026-19671
 dowload_ebok_21_ways_to_increase_employee_engagement_by_pat_heydlauff_bcp71	*	MAL-2026-19300	https://osv.dev/vulnerability/MAL-2026-19300
 dowload_ebok_5_histoires_de_petit_ours_brun_les_loisirs_by_marie_aubinais_daniele_bour_1ed5t	*	MAL-2026-19301	https://osv.dev/vulnerability/MAL-2026-19301
+dowload_ebok_a_arte_de_ter_razao_by_arthur_schopenhauer_1jdid	*	MAL-0000-ghsa-malware-a3230123e53e432f	https://github.com/ossf/malicious-packages/blob/de88f8b77dfb9c7cfa81b9441f00febebd54d5e2/osv/malicious/npm/dowload_ebok_a_arte_de_ter_razao_by_arthur_schopenhauer_1jdid/MAL-0000-ghsa-malware-a3230123e53e432f.json
 dowload_ebok_a_bela_e_a_fera_by_elizabeth_rudnick_evan_spiliotopoulos_stephen_ch_9ooey	*	MAL-2025-3387	https://osv.dev/vulnerability/MAL-2025-3387
 dowload_ebok_a_concise_history_of_computers_smartphones_and_th_by_ernie_dainow_3at7j	*	MAL-2026-19672	https://osv.dev/vulnerability/MAL-2026-19672
 dowload_ebok_a_dance_with_the_devil_by_michelle_willingham_mnpe8	*	MAL-2026-19302	https://osv.dev/vulnerability/MAL-2026-19302
@@ -69100,6 +69104,8 @@ dowload_ebok_all_the_kremlin_s_men_by_mikhail_zygar_an5i4	*	MAL-2026-19315	https
 dowload_ebok_alles_inklusive_by_mareice_kaiser_x6x1o	*	MAL-2026-19316	https://osv.dev/vulnerability/MAL-2026-19316
 dowload_ebok_along_came_a_spider_by_james_patterson_9yq87	*	MAL-2026-19679	https://osv.dev/vulnerability/MAL-2026-19679
 dowload_ebok_also_an_octopus_by_maggie_tokuda_hall_ah2ip	*	MAL-2026-3794	https://osv.dev/vulnerability/MAL-2026-3794
+dowload_ebok_america_debilitada_by_donald_trump_posof	*	MAL-0000-ghsa-malware-25ac51da3561bb0e	https://github.com/ossf/malicious-packages/blob/de88f8b77dfb9c7cfa81b9441f00febebd54d5e2/osv/malicious/npm/dowload_ebok_america_debilitada_by_donald_trump_posof/MAL-0000-ghsa-malware-25ac51da3561bb0e.json
+dowload_ebok_amor_e_amizade_by_jane_austen_3etkx	*	MAL-0000-ghsa-malware-c93c70800aab1a2a	https://github.com/ossf/malicious-packages/blob/de88f8b77dfb9c7cfa81b9441f00febebd54d5e2/osv/malicious/npm/dowload_ebok_amor_e_amizade_by_jane_austen_3etkx/MAL-0000-ghsa-malware-c93c70800aab1a2a.json
 dowload_ebok_anabolikum_das_rote_buch_by_uwe_ramspeck_eokrj	*	MAL-2026-19317	https://osv.dev/vulnerability/MAL-2026-19317
 dowload_ebok_archangel_s_heart_by_nalini_singh_gy81h	*	MAL-2026-19318	https://osv.dev/vulnerability/MAL-2026-19318
 dowload_ebok_armageddon_by_max_hastings_kv3s4	*	MAL-2026-18397	https://osv.dev/vulnerability/MAL-2026-18397
@@ -69545,6 +69551,7 @@ dowload_ebok_puppy_love_by_rachel_renee_russell_7ae7c	*	MAL-2026-19825	https://o
 dowload_ebok_quand_la_mediumnite_s_impose_le_temoignage_bo_by_florence_hubert_c20y0	*	MAL-2026-19556	https://osv.dev/vulnerability/MAL-2026-19556
 dowload_ebok_quatre_filles_et_un_chateau_by_julia_quinn_eloisa_james_connie_brockway_f74qd	*	MAL-2026-19557	https://osv.dev/vulnerability/MAL-2026-19557
 dowload_ebok_quem_perdoa_liberta_by_wanderley_oliveira_f5dmd	*	MAL-2026-19558	https://osv.dev/vulnerability/MAL-2026-19558
+dowload_ebok_quicken_2017_the_complete_beginners_guide_by_gack_davidson_fxl3y	*	MAL-0000-ghsa-malware-794b3329dd6bd2a4	https://github.com/ossf/malicious-packages/blob/de88f8b77dfb9c7cfa81b9441f00febebd54d5e2/osv/malicious/npm/dowload_ebok_quicken_2017_the_complete_beginners_guide_by_gack_davidson_fxl3y/MAL-0000-ghsa-malware-794b3329dd6bd2a4.json
 dowload_ebok_quien_manda_aqui_by_felipe_gonzalez_gerson_damiani_jose_fernandez_a_63oo3	*	MAL-2026-19826	https://osv.dev/vulnerability/MAL-2026-19826
 dowload_ebok_ragdoll_dein_letzter_tag_by_daniel_cole_hbs5n	*	MAL-2026-19559	https://osv.dev/vulnerability/MAL-2026-19559
 dowload_ebok_ramcharitmanas_by_tulsidas_1ad93	*	MAL-2026-19560	https://osv.dev/vulnerability/MAL-2026-19560
@@ -69641,11 +69648,13 @@ dowload_ebok_the_agent_runner_by_simon_conway_70ch1	*	MAL-2026-19602	https://osv
 dowload_ebok_the_autoimmune_fix_by_tom_o_bryan_55y9o	*	MAL-2026-19603	https://osv.dev/vulnerability/MAL-2026-19603
 dowload_ebok_the_beginner_s_bible_by_the_beginner_s_bible_ety5v	*	MAL-2026-19604	https://osv.dev/vulnerability/MAL-2026-19604
 dowload_ebok_the_benedict_option_by_rod_dreher_mywhh	*	MAL-2026-19863	https://osv.dev/vulnerability/MAL-2026-19863
+dowload_ebok_the_bhagavad_gita_by_vyasa_feb1l	*	MAL-0000-ghsa-malware-9b2ebd582695a064	https://github.com/ossf/malicious-packages/blob/de88f8b77dfb9c7cfa81b9441f00febebd54d5e2/osv/malicious/npm/dowload_ebok_the_bhagavad_gita_by_vyasa_feb1l/MAL-0000-ghsa-malware-9b2ebd582695a064.json
 dowload_ebok_the_billionaire_daddy_by_emma_lea_43kvs	*	MAL-2026-19605	https://osv.dev/vulnerability/MAL-2026-19605
 dowload_ebok_the_billionaire_shifter_s_secret_baby_by_diana_seere_phlp1	*	MAL-2026-19606	https://osv.dev/vulnerability/MAL-2026-19606
 dowload_ebok_the_cancer_fighting_kitchen_second_edition_by_rebecca_katz_mat_edelson_u96w9	*	MAL-2026-19864	https://osv.dev/vulnerability/MAL-2026-19864
 dowload_ebok_the_complete_rigger_s_apprentice_tools_and_techni_by_brion_toss_1icy5	*	MAL-2026-19607	https://osv.dev/vulnerability/MAL-2026-19607
 dowload_ebok_the_complete_works_of_charles_dickens_illustrated_by_charles_dickens_t406m	*	MAL-2026-19865	https://osv.dev/vulnerability/MAL-2026-19865
+dowload_ebok_the_craft_sequence_by_max_gladstone_igdta	*	MAL-0000-ghsa-malware-4bfdabf323aa397f	https://github.com/ossf/malicious-packages/blob/de88f8b77dfb9c7cfa81b9441f00febebd54d5e2/osv/malicious/npm/dowload_ebok_the_craft_sequence_by_max_gladstone_igdta/MAL-0000-ghsa-malware-4bfdabf323aa397f.json
 dowload_ebok_the_daring_duke_by_jess_michaels_d4vth	*	MAL-2026-19866	https://osv.dev/vulnerability/MAL-2026-19866
 dowload_ebok_the_duke_s_secret_heir_by_sarah_mallory_w476t	*	MAL-2026-19867	https://osv.dev/vulnerability/MAL-2026-19867
 dowload_ebok_the_e_hoffmann_price_fantasy_science_fiction_me_by_e_hoffmann_price_q9qbs	*	MAL-2026-19868	https://osv.dev/vulnerability/MAL-2026-19868
@@ -69680,6 +69689,7 @@ dowload_ebok_the_son_of_neptune_the_graphic_novel_heroes_of_o_by_rick_riordan_xx
 dowload_ebok_the_spear_a_novel_by_louis_de_wohl_0dhpo	*	MAL-2026-19880	https://osv.dev/vulnerability/MAL-2026-19880
 dowload_ebok_the_spies_of_winter_by_sinclair_mckay_7pz80	*	MAL-2026-19622	https://osv.dev/vulnerability/MAL-2026-19622
 dowload_ebok_the_story_of_australias_people_vol_ii_by_geoffrey_blainey_05buw	*	MAL-2026-19623	https://osv.dev/vulnerability/MAL-2026-19623
+dowload_ebok_the_supernaturals_by_david_l_golemon_5d1ej	*	MAL-0000-ghsa-malware-c517d102a626358a	https://github.com/ossf/malicious-packages/blob/de88f8b77dfb9c7cfa81b9441f00febebd54d5e2/osv/malicious/npm/dowload_ebok_the_supernaturals_by_david_l_golemon_5d1ej/MAL-0000-ghsa-malware-c517d102a626358a.json
 dowload_ebok_the_testament_of_solomon_by_king_solomon_frederick_cornwallis_conybeare_5201c	*	MAL-2026-3799	https://osv.dev/vulnerability/MAL-2026-3799
 dowload_ebok_the_third_frank_belknap_long_science_fiction_megap_by_frank_belknap_long_2cd23	*	MAL-2026-19881	https://osv.dev/vulnerability/MAL-2026-19881
 dowload_ebok_the_undoing_project_by_michael_lewis_4hde3	*	MAL-2026-19882	https://osv.dev/vulnerability/MAL-2026-19882
@@ -87704,6 +87714,7 @@ framer-motion-js	*	MAL-2026-220	https://osv.dev/vulnerability/MAL-2026-220
 framer-motionanimate	*	MAL-2026-20067	https://osv.dev/vulnerability/MAL-2026-20067
 framer-motionanimate	14.7.2	MAL-0000-gatekeeper-framer-motionanimate	https://github.com/ossf/malicious-packages/pull/1694
 framerate-interaction-permissions	*	MAL-2026-6163	https://osv.dev/vulnerability/MAL-2026-6163
+framermotion-plugins	*	MAL-0000-ghsa-malware-95ddb1e4ceed3b79	https://github.com/ossf/malicious-packages/blob/de88f8b77dfb9c7cfa81b9441f00febebd54d5e2/osv/malicious/npm/framermotion-plugins/MAL-0000-ghsa-malware-95ddb1e4ceed3b79.json
 framework-adonis-pyxis-neptune	*	MAL-2025-20926	https://osv.dev/vulnerability/MAL-2025-20926
 framework-astro-library-wasat	*	MAL-2025-142676	https://osv.dev/vulnerability/MAL-2025-142676
 framework-backend-alphard-slidev	*	MAL-2025-20927	https://osv.dev/vulnerability/MAL-2025-20927
@@ -167780,6 +167791,7 @@ protestant_whale_z3n	*	MAL-2025-96085	https://osv.dev/vulnerability/MAL-2025-960
 proteus-demo-app-server	10.0.0	MAL-2023-1272	https://osv.dev/vulnerability/MAL-2023-1272
 proteus-demo-app-server	10.0.1	MAL-2023-1272	https://osv.dev/vulnerability/MAL-2023-1272
 proteusdns	*	MAL-2025-30766	https://osv.dev/vulnerability/MAL-2025-30766
+proto-bin	*	MAL-0000-ghsa-malware-0994693f2e1b2d15	https://github.com/ossf/malicious-packages/blob/de88f8b77dfb9c7cfa81b9441f00febebd54d5e2/osv/malicious/npm/proto-bin/MAL-0000-ghsa-malware-0994693f2e1b2d15.json
 proto-bin	2.3.3	MAL-2026-5921	https://osv.dev/vulnerability/MAL-2026-5921
 proto-bin	2.5.1	MAL-2026-5921	https://osv.dev/vulnerability/MAL-2026-5921
 proto-bin	2.5.2	MAL-2026-5921	https://osv.dev/vulnerability/MAL-2026-5921
@@ -234019,6 +234031,7 @@ ymjdapkwsveoutxk	*	MAL-2025-40554	https://osv.dev/vulnerability/MAL-2025-40554
 ymmaia-devapptea	*	MAL-2025-111307	https://osv.dev/vulnerability/MAL-2025-111307
 ymockup	*	MAL-2025-40555	https://osv.dev/vulnerability/MAL-2025-40555
 ynab_api	*	MAL-2025-48442	https://osv.dev/vulnerability/MAL-2025-48442
+ynastore-baileys	*	MAL-0000-ghsa-malware-fd6fd6ee07d9d601	https://github.com/ossf/malicious-packages/blob/de88f8b77dfb9c7cfa81b9441f00febebd54d5e2/osv/malicious/npm/ynastore-baileys/MAL-0000-ghsa-malware-fd6fd6ee07d9d601.json
 ynastore-baileys	1.0.21	MAL-2026-13470	https://osv.dev/vulnerability/MAL-2026-13470
 yncrquest	*	MAL-2022-7356	https://osv.dev/vulnerability/MAL-2022-7356
 ynf-core-loader	*	MAL-2023-1465	https://osv.dev/vulnerability/MAL-2023-1465
