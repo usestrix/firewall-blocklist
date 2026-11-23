@@ -2956,6 +2956,8 @@ devilpy	0.4	MAL-2024-11574	https://osv.dev/vulnerability/MAL-2024-11574
 devilpy	0.5	MAL-2024-11574	https://osv.dev/vulnerability/MAL-2024-11574
 devilpy	0.6	MAL-2024-11574	https://osv.dev/vulnerability/MAL-2024-11574
 devilpy	0.7	MAL-2024-11574	https://osv.dev/vulnerability/MAL-2024-11574
+devready-doctor	1.0.0	MAL-0000-amazon-inspector-02ec7bb9287a697d	https://github.com/ossf/malicious-packages/blob/c9d31b558315c15a4ecb5a15ccd32c933507d7fd/osv/malicious/pypi/devready-doctor/MAL-0000-amazon-inspector-02ec7bb9287a697d.json
+devready-doctor	1.0.0	MAL-0000-kam193-6ddb854ec9c9ae05	https://github.com/ossf/malicious-packages/blob/c9d31b558315c15a4ecb5a15ccd32c933507d7fd/osv/malicious/pypi/devready-doctor/MAL-0000-kam193-6ddb854ec9c9ae05.json
 devready-doctor	1.0.0	MAL-2026-20333	https://osv.dev/vulnerability/MAL-2026-20333
 devtools-webhook-cicd-utils	1.4.7	MAL-2026-825	https://osv.dev/vulnerability/MAL-2026-825
 devtools-webhook-cicd-utils	1.5.0	MAL-2026-825	https://osv.dev/vulnerability/MAL-2026-825
@@ -14268,6 +14270,7 @@ solanakit	1.0.1	MAL-2026-2837	https://osv.dev/vulnerability/MAL-2026-2837
 solanautil	2.1.1	MAL-2025-4241	https://osv.dev/vulnerability/MAL-2025-4241
 solanna	*	MAL-2023-2280	https://osv.dev/vulnerability/MAL-2023-2280
 solaraund	0.1	MAL-2024-11711	https://osv.dev/vulnerability/MAL-2024-11711
+solblock	0.2.2	MAL-0000-amazon-inspector-7daeb7e58fd67e8a	https://github.com/ossf/malicious-packages/blob/c9d31b558315c15a4ecb5a15ccd32c933507d7fd/osv/malicious/pypi/solblock/MAL-0000-amazon-inspector-7daeb7e58fd67e8a.json
 solblock	0.2.2	MAL-2026-20331	https://osv.dev/vulnerability/MAL-2026-20331
 solblock	0.2.3	MAL-2026-20331	https://osv.dev/vulnerability/MAL-2026-20331
 solders-utils	0.1.1	MAL-2025-3000	https://osv.dev/vulnerability/MAL-2025-3000
