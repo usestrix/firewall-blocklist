@@ -33031,10 +33031,10 @@ apa-salwa-tea	*	MAL-2025-173067	https://osv.dev/vulnerability/MAL-2025-173067
 apache-airflow-ui	*	MAL-2024-11941	https://osv.dev/vulnerability/MAL-2024-11941
 apache-arrow-17	9.9.9	MAL-2026-7206	https://osv.dev/vulnerability/MAL-2026-7206
 apache-httpclient	*	MAL-2025-3609	https://osv.dev/vulnerability/MAL-2025-3609
-apache-httpclient10	1.0.0	MAL-0000-apache-httpclient10	https://github.com/ossf/malicious-packages/blob/e9c5750c6a78c03e09aa0a780ce41fdd2b164b52/osv/malicious/npm/apache-httpclient10/MAL-0000-apache-httpclient10.json
-apache-httpclient2	1.0.0	MAL-0000-apache-httpclient2	https://github.com/ossf/malicious-packages/blob/e9c5750c6a78c03e09aa0a780ce41fdd2b164b52/osv/malicious/npm/apache-httpclient2/MAL-0000-apache-httpclient2.json
-apache-httpclient6	1.0.0	MAL-0000-apache-httpclient6	https://github.com/ossf/malicious-packages/blob/e9c5750c6a78c03e09aa0a780ce41fdd2b164b52/osv/malicious/npm/apache-httpclient6/MAL-0000-apache-httpclient6.json
-apache-httpclient7	1.0.0	MAL-0000-apache-httpclient7	https://github.com/ossf/malicious-packages/blob/e9c5750c6a78c03e09aa0a780ce41fdd2b164b52/osv/malicious/npm/apache-httpclient7/MAL-0000-apache-httpclient7.json
+apache-httpclient10	1.0.0	MAL-2026-20353	https://osv.dev/vulnerability/MAL-2026-20353
+apache-httpclient2	1.0.0	MAL-2026-20354	https://osv.dev/vulnerability/MAL-2026-20354
+apache-httpclient6	1.0.0	MAL-2026-20355	https://osv.dev/vulnerability/MAL-2026-20355
+apache-httpclient7	1.0.0	MAL-2026-20356	https://osv.dev/vulnerability/MAL-2026-20356
 apache-iotdb	*	MAL-2025-4430	https://osv.dev/vulnerability/MAL-2025-4430
 apache-superset-docs	*	MAL-2025-2360	https://osv.dev/vulnerability/MAL-2025-2360
 apache2	1.1.9	MAL-2023-1114	https://osv.dev/vulnerability/MAL-2023-1114
