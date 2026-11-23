@@ -164905,6 +164905,7 @@ pp-tokens	*	MAL-2025-29567	https://osv.dev/vulnerability/MAL-2025-29567
 pp-vx	*	MAL-2022-5435	https://osv.dev/vulnerability/MAL-2022-5435
 ppaas	*	MAL-2025-29568	https://osv.dev/vulnerability/MAL-2025-29568
 ppb-manticore	9.4.3	MAL-2026-14437	https://osv.dev/vulnerability/MAL-2026-14437
+ppbbll5	0.0.1	MAL-0000-amazon-inspector-08fb416c8344d431	https://github.com/ossf/malicious-packages/blob/19c5508e095ea08aa9a0ed1bc2bdfb39a8918709/osv/malicious/npm/ppbbll5/MAL-0000-amazon-inspector-08fb416c8344d431.json
 ppbbll5	0.0.1	MAL-0000-invisirisk-ppbbll5	https://github.com/ossf/malicious-packages/pull/1824
 ppboards	*	MAL-2025-29569	https://osv.dev/vulnerability/MAL-2025-29569
 ppcardmanagementv2serv	*	MAL-2025-2487	https://osv.dev/vulnerability/MAL-2025-2487
