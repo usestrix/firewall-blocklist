@@ -84056,7 +84056,7 @@ fca-kurumi	*	MAL-2023-7954	https://osv.dev/vulnerability/MAL-2023-7954
 fca-manh19fc-remake	*	MAL-2025-20302	https://osv.dev/vulnerability/MAL-2025-20302
 fca-manhdz2004	*	MAL-2023-8235	https://osv.dev/vulnerability/MAL-2023-8235
 fca-mdong-remake	*	MAL-2023-7911	https://osv.dev/vulnerability/MAL-2023-7911
-fca-meta	0.0.1	MAL-0000-amazon-inspector-d1feb7c3fe7cff9c	https://github.com/ossf/malicious-packages/blob/ff7ca881fb36fdb7154abdbf2e663878401d6808/osv/malicious/npm/fca-meta/MAL-0000-amazon-inspector-d1feb7c3fe7cff9c.json
+fca-meta	0.0.1	MAL-2026-20344	https://osv.dev/vulnerability/MAL-2026-20344
 fca-milo-mod	*	MAL-2023-413	https://osv.dev/vulnerability/MAL-2023-413
 fca-mod-hrz	*	MAL-2023-414	https://osv.dev/vulnerability/MAL-2023-414
 fca-nayan-api	4.5.5	MAL-2024-2366	https://osv.dev/vulnerability/MAL-2024-2366
@@ -84074,7 +84074,7 @@ fca-qlam	*	MAL-2025-20305	https://osv.dev/vulnerability/MAL-2025-20305
 fca-qlamzour	*	MAL-2025-20306	https://osv.dev/vulnerability/MAL-2025-20306
 fca-raihan	37.2.5	MAL-2026-17328	https://osv.dev/vulnerability/MAL-2026-17328
 fca-raihan	37.2.6	MAL-2026-17328	https://osv.dev/vulnerability/MAL-2026-17328
-fca-raihan	37.2.7	MAL-0000-amazon-inspector-d9b06cc7afdf50cf	https://github.com/ossf/malicious-packages/blob/ff7ca881fb36fdb7154abdbf2e663878401d6808/osv/malicious/npm/fca-raihan/MAL-0000-amazon-inspector-d9b06cc7afdf50cf.json
+fca-raihan	37.2.7	MAL-2026-17328	https://osv.dev/vulnerability/MAL-2026-17328
 fca-rbtd	*	MAL-2023-1014	https://osv.dev/vulnerability/MAL-2023-1014
 fca-rebel-api	*	MAL-2023-8273	https://osv.dev/vulnerability/MAL-2023-8273
 fca-reygie-harizon	*	MAL-2023-8134	https://osv.dev/vulnerability/MAL-2023-8134
