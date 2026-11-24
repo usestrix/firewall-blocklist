@@ -8144,6 +8144,17 @@ mpkg123	0.0.0	MAL-2026-3426	https://osv.dev/vulnerability/MAL-2026-3426
 mqbench	94.6	MAL-2024-10642	https://osv.dev/vulnerability/MAL-2024-10642
 mrbios	0.1.1	MAL-2026-5282	https://osv.dev/vulnerability/MAL-2026-5282
 mrbios	0.1.2	MAL-2026-5282	https://osv.dev/vulnerability/MAL-2026-5282
+mrcl2	1.0.0	MAL-0000-kam193-9b2096354c3f06cc	https://github.com/ossf/malicious-packages/blob/0b933abdfcfeb4449e351998d8e88491242125fe/osv/malicious/pypi/mrcl2/MAL-0000-kam193-9b2096354c3f06cc.json
+mrcl2	1.0.1	MAL-0000-kam193-9b2096354c3f06cc	https://github.com/ossf/malicious-packages/blob/0b933abdfcfeb4449e351998d8e88491242125fe/osv/malicious/pypi/mrcl2/MAL-0000-kam193-9b2096354c3f06cc.json
+mrcl2	1.0.2	MAL-0000-kam193-9b2096354c3f06cc	https://github.com/ossf/malicious-packages/blob/0b933abdfcfeb4449e351998d8e88491242125fe/osv/malicious/pypi/mrcl2/MAL-0000-kam193-9b2096354c3f06cc.json
+mrcl2	1.0.3	MAL-0000-kam193-9b2096354c3f06cc	https://github.com/ossf/malicious-packages/blob/0b933abdfcfeb4449e351998d8e88491242125fe/osv/malicious/pypi/mrcl2/MAL-0000-kam193-9b2096354c3f06cc.json
+mrcl2	1.0.4	MAL-0000-kam193-9b2096354c3f06cc	https://github.com/ossf/malicious-packages/blob/0b933abdfcfeb4449e351998d8e88491242125fe/osv/malicious/pypi/mrcl2/MAL-0000-kam193-9b2096354c3f06cc.json
+mrcl2	1.0.5	MAL-0000-kam193-9b2096354c3f06cc	https://github.com/ossf/malicious-packages/blob/0b933abdfcfeb4449e351998d8e88491242125fe/osv/malicious/pypi/mrcl2/MAL-0000-kam193-9b2096354c3f06cc.json
+mrcl2suhail	1.0.0	MAL-0000-kam193-d334029ce2433277	https://github.com/ossf/malicious-packages/blob/0b933abdfcfeb4449e351998d8e88491242125fe/osv/malicious/pypi/mrcl2suhail/MAL-0000-kam193-d334029ce2433277.json
+mrcl2suhail	1.0.1	MAL-0000-kam193-d334029ce2433277	https://github.com/ossf/malicious-packages/blob/0b933abdfcfeb4449e351998d8e88491242125fe/osv/malicious/pypi/mrcl2suhail/MAL-0000-kam193-d334029ce2433277.json
+mrcl2suhail	1.0.2	MAL-0000-kam193-d334029ce2433277	https://github.com/ossf/malicious-packages/blob/0b933abdfcfeb4449e351998d8e88491242125fe/osv/malicious/pypi/mrcl2suhail/MAL-0000-kam193-d334029ce2433277.json
+mrcl2suhail	1.0.3	MAL-0000-kam193-d334029ce2433277	https://github.com/ossf/malicious-packages/blob/0b933abdfcfeb4449e351998d8e88491242125fe/osv/malicious/pypi/mrcl2suhail/MAL-0000-kam193-d334029ce2433277.json
+mrcl2suhail	1.0.4	MAL-0000-kam193-d334029ce2433277	https://github.com/ossf/malicious-packages/blob/0b933abdfcfeb4449e351998d8e88491242125fe/osv/malicious/pypi/mrcl2suhail/MAL-0000-kam193-d334029ce2433277.json
 mrfeastpip	0.1	MAL-2024-5379	https://osv.dev/vulnerability/MAL-2024-5379
 mrfeastpip	0.2	MAL-2024-5379	https://osv.dev/vulnerability/MAL-2024-5379
 mrfeastpip	0.3	MAL-2024-5379	https://osv.dev/vulnerability/MAL-2024-5379
