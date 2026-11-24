@@ -46521,7 +46521,6 @@ bumpy_xerinae_cyan-6	*	MAL-2025-111709	https://osv.dev/vulnerability/MAL-2025-11
 bun-plugin-httpfile	0.1.1	MAL-2025-191079	https://osv.dev/vulnerability/MAL-2025-191079
 bundle-alert-runtime-private-bundle	*	MAL-2025-185939	https://osv.dev/vulnerability/MAL-2025-185939
 bundle-cryp	*	MAL-2025-170	https://osv.dev/vulnerability/MAL-2025-170
-bundle-entry-points	1.0.0	MAL-0000-invisirisk-bundle-entry-points	https://github.com/ossf/malicious-packages/blob/62412798b16e78a03101b162ff6216da857c6ac8/osv/malicious/npm/bundle-entry-points/MAL-0000-invisirisk-bundle-entry-points.json
 bundle-entry-points	1.0.0	MAL-2026-20350	https://osv.dev/vulnerability/MAL-2026-20350
 bundle-minify-query-void-java	*	MAL-2025-16342	https://osv.dev/vulnerability/MAL-2025-16342
 bundle-shell-hash-spy-import	*	MAL-2025-16343	https://osv.dev/vulnerability/MAL-2025-16343
