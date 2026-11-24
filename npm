@@ -75816,6 +75816,7 @@ env-express	2.5.5	MAL-2026-2361	https://osv.dev/vulnerability/MAL-2026-2361
 env-express-cli	2.5.5	MAL-2026-2362	https://osv.dev/vulnerability/MAL-2026-2362
 env-extend	2.5.5	MAL-2026-2363	https://osv.dev/vulnerability/MAL-2026-2363
 env-fast	1.0.0	MAL-2026-10434	https://osv.dev/vulnerability/MAL-2026-10434
+env-helper-friend	0.2.0	MAL-0000-amazon-inspector-cdf9cf4146dc3e76	https://github.com/ossf/malicious-packages/blob/24882471a472a19d9c7886a5a2eae9e3eb8f6203/osv/malicious/npm/env-helper-friend/MAL-0000-amazon-inspector-cdf9cf4146dc3e76.json
 env-info-checker-kyy3w4fiurevd8uy43wfre	*	MAL-2025-5552	https://osv.dev/vulnerability/MAL-2025-5552
 env-local	18.4.2	MAL-2026-13694	https://osv.dev/vulnerability/MAL-2026-13694
 env-local	18.4.3	MAL-2026-13694	https://osv.dev/vulnerability/MAL-2026-13694
@@ -79789,6 +79790,11 @@ evony-resources-hack844	*	MAL-2025-20017	https://osv.dev/vulnerability/MAL-2025-
 evony-resources-hack883	*	MAL-2025-20018	https://osv.dev/vulnerability/MAL-2025-20018
 evoplay-spinential	*	MAL-2025-1458	https://osv.dev/vulnerability/MAL-2025-1458
 evs-livepam-ui	*	MAL-2025-20019	https://osv.dev/vulnerability/MAL-2025-20019
+evt-dispatcher	1.0.2	MAL-0000-amazon-inspector-3a77fa7dd4f3e60b	https://github.com/ossf/malicious-packages/blob/24882471a472a19d9c7886a5a2eae9e3eb8f6203/osv/malicious/npm/evt-dispatcher/MAL-0000-amazon-inspector-3a77fa7dd4f3e60b.json
+evt-dispatcher	1.0.3	MAL-0000-amazon-inspector-fe178ae49d728017	https://github.com/ossf/malicious-packages/blob/24882471a472a19d9c7886a5a2eae9e3eb8f6203/osv/malicious/npm/evt-dispatcher/MAL-0000-amazon-inspector-fe178ae49d728017.json
+evt-dispatcher	1.0.4	MAL-0000-amazon-inspector-6606862f65d553a5	https://github.com/ossf/malicious-packages/blob/24882471a472a19d9c7886a5a2eae9e3eb8f6203/osv/malicious/npm/evt-dispatcher/MAL-0000-amazon-inspector-6606862f65d553a5.json
+evt-dispatcher	1.0.5	MAL-0000-amazon-inspector-1651e57ad7d57928	https://github.com/ossf/malicious-packages/blob/24882471a472a19d9c7886a5a2eae9e3eb8f6203/osv/malicious/npm/evt-dispatcher/MAL-0000-amazon-inspector-1651e57ad7d57928.json
+evt-dispatcher	1.0.6	MAL-0000-amazon-inspector-be108d02b7664da8	https://github.com/ossf/malicious-packages/blob/24882471a472a19d9c7886a5a2eae9e3eb8f6203/osv/malicious/npm/evt-dispatcher/MAL-0000-amazon-inspector-be108d02b7664da8.json
 evtiyugznposamqw	*	MAL-2025-20020	https://osv.dev/vulnerability/MAL-2025-20020
 evuilgapkczwsorj	*	MAL-2025-20021	https://osv.dev/vulnerability/MAL-2025-20021
 evusau	*	MAL-2025-20022	https://osv.dev/vulnerability/MAL-2025-20022

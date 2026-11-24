@@ -15474,6 +15474,7 @@ torch-musa	1.0.0	MAL-2026-10993	https://osv.dev/vulnerability/MAL-2026-10993
 torchao-nightly	0.0.1	MAL-2025-6602	https://osv.dev/vulnerability/MAL-2025-6602
 torchflow-experimental	0.3.0	MAL-2025-191907	https://osv.dev/vulnerability/MAL-2025-191907
 torchs-visions	94.6	MAL-2024-11730	https://osv.dev/vulnerability/MAL-2024-11730
+torchserve-cu124-nightly	0.12.1.dev20241119	MAL-0000-amazon-inspector-d4709d5ff3a0105c	https://github.com/ossf/malicious-packages/blob/24882471a472a19d9c7886a5a2eae9e3eb8f6203/osv/malicious/pypi/torchserve-cu124-nightly/MAL-0000-amazon-inspector-d4709d5ff3a0105c.json
 torchserve-cu124-nightly	0.12.1.dev20241119	MAL-2026-20379	https://osv.dev/vulnerability/MAL-2026-20379
 torchunmix	0.2	MAL-2026-2158	https://osv.dev/vulnerability/MAL-2026-2158
 torchvisions	94.6	MAL-2024-11731	https://osv.dev/vulnerability/MAL-2024-11731
