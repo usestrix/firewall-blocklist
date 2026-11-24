@@ -75983,6 +75983,13 @@ eos-transfers	*	MAL-2025-19692	https://osv.dev/vulnerability/MAL-2025-19692
 eosio-reference-chrome-extension-authenticator-app	*	MAL-2025-19693	https://osv.dev/vulnerability/MAL-2025-19693
 eosio-toppings	*	MAL-2025-19694	https://osv.dev/vulnerability/MAL-2025-19694
 eotyacvmbnzijgpd	*	MAL-2025-19695	https://osv.dev/vulnerability/MAL-2025-19695
+ep_nxs14622	1.0.0	MAL-0000-amazon-inspector-ec29237af75f2dcc	https://github.com/ossf/malicious-packages/blob/b16ebd2a88680719fcdcfb87f937a2578d4a29cc/osv/malicious/npm/ep_nxs14622/MAL-0000-amazon-inspector-ec29237af75f2dcc.json
+ep_nxs31521	1.0.0	MAL-0000-amazon-inspector-902667539b73c856	https://github.com/ossf/malicious-packages/blob/b16ebd2a88680719fcdcfb87f937a2578d4a29cc/osv/malicious/npm/ep_nxs31521/MAL-0000-amazon-inspector-902667539b73c856.json
+ep_nxs34308	1.0.0	MAL-0000-amazon-inspector-fca747213f8b0d73	https://github.com/ossf/malicious-packages/blob/b16ebd2a88680719fcdcfb87f937a2578d4a29cc/osv/malicious/npm/ep_nxs34308/MAL-0000-amazon-inspector-fca747213f8b0d73.json
+ep_nxs50049	1.0.0	MAL-0000-amazon-inspector-5a921d18ca2f4866	https://github.com/ossf/malicious-packages/blob/b16ebd2a88680719fcdcfb87f937a2578d4a29cc/osv/malicious/npm/ep_nxs50049/MAL-0000-amazon-inspector-5a921d18ca2f4866.json
+ep_nxs75183	1.0.0	MAL-0000-amazon-inspector-0de0e370636b0eb9	https://github.com/ossf/malicious-packages/blob/b16ebd2a88680719fcdcfb87f937a2578d4a29cc/osv/malicious/npm/ep_nxs75183/MAL-0000-amazon-inspector-0de0e370636b0eb9.json
+ep_nxs75232	1.0.0	MAL-0000-amazon-inspector-472bfc7b29b9349b	https://github.com/ossf/malicious-packages/blob/b16ebd2a88680719fcdcfb87f937a2578d4a29cc/osv/malicious/npm/ep_nxs75232/MAL-0000-amazon-inspector-472bfc7b29b9349b.json
+ep_nxs77178	1.0.0	MAL-0000-amazon-inspector-3dc0be5ec05ffa6b	https://github.com/ossf/malicious-packages/blob/b16ebd2a88680719fcdcfb87f937a2578d4a29cc/osv/malicious/npm/ep_nxs77178/MAL-0000-amazon-inspector-3dc0be5ec05ffa6b.json
 epam-assets	*	MAL-2022-2762	https://osv.dev/vulnerability/MAL-2022-2762
 epam-cdisc-electron	9.9.9	MAL-2025-1792	https://osv.dev/vulnerability/MAL-2025-1792
 epam-promo	*	MAL-2022-2763	https://osv.dev/vulnerability/MAL-2022-2763
