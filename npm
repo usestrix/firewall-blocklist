@@ -13030,7 +13030,7 @@
 @pingone/net	*	MAL-2022-502	https://osv.dev/vulnerability/MAL-2022-502
 @pipi596888/ccursor	*	MAL-2026-15644	https://osv.dev/vulnerability/MAL-2026-15644
 @piplabs/story-contracts	0.1.0-alpha.1	MAL-2025-3029	https://osv.dev/vulnerability/MAL-2025-3029
-@pixelworkshub/postcss-motionfx	*	MAL-0000-ghsa-malware-66f5bee33e2a081f	https://github.com/ossf/malicious-packages/blob/cfd82f6c304425403a0072b38b6e6d13a080c38b/osv/malicious/npm/@pixelworkshub/postcss-motionfx/MAL-0000-ghsa-malware-66f5bee33e2a081f.json
+@pixelworkshub/postcss-motionfx	*	MAL-2026-20499	https://osv.dev/vulnerability/MAL-2026-20499
 @pixiv-vroid-hub/vroid-hub-viewer	*	MAL-2022-503	https://osv.dev/vulnerability/MAL-2022-503
 @pkg-m/m	1.3.9	MAL-2023-8745	https://osv.dev/vulnerability/MAL-2023-8745
 @pkg-m/m	1.4.0	MAL-2023-8745	https://osv.dev/vulnerability/MAL-2023-8745
@@ -70271,7 +70271,7 @@ driver1-testingbluehk-01	0.0.9	MAL-2024-2267	https://osv.dev/vulnerability/MAL-2
 driverless-acquisition-blue-auth-token-validator	0.5.0-0	MAL-2024-2268	https://osv.dev/vulnerability/MAL-2024-2268
 driverportal	*	MAL-2022-2593	https://osv.dev/vulnerability/MAL-2022-2593
 drivers-kit	*	MAL-2025-5261	https://osv.dev/vulnerability/MAL-2025-5261
-drivevitiloncheck	*	MAL-0000-ghsa-malware-119af0d35a8bc46c	https://github.com/ossf/malicious-packages/blob/cfd82f6c304425403a0072b38b6e6d13a080c38b/osv/malicious/npm/drivevitiloncheck/MAL-0000-ghsa-malware-119af0d35a8bc46c.json
+drivevitiloncheck	*	MAL-2026-20500	https://osv.dev/vulnerability/MAL-2026-20500
 driving-emerald-mollusk	*	MAL-2025-67869	https://osv.dev/vulnerability/MAL-2025-67869
 driving-fuchsia-aardwolf	*	MAL-2025-67870	https://osv.dev/vulnerability/MAL-2025-67870
 driving-gray-silverfish	*	MAL-2025-67871	https://osv.dev/vulnerability/MAL-2025-67871
@@ -185059,7 +185059,7 @@ sddst-ui	*	MAL-2025-1625	https://osv.dev/vulnerability/MAL-2025-1625
 sdelements	*	MAL-2022-5973	https://osv.dev/vulnerability/MAL-2022-5973
 sderhmxgjyzakqbk	*	MAL-2025-32852	https://osv.dev/vulnerability/MAL-2025-32852
 sdfere	*	MAL-2022-5974	https://osv.dev/vulnerability/MAL-2022-5974
-sdfhbkjcvncvxb	*	MAL-0000-ghsa-malware-11afd6d924bc5ea3	https://github.com/ossf/malicious-packages/blob/cfd82f6c304425403a0072b38b6e6d13a080c38b/osv/malicious/npm/sdfhbkjcvncvxb/MAL-0000-ghsa-malware-11afd6d924bc5ea3.json
+sdfhbkjcvncvxb	*	MAL-2026-20501	https://osv.dev/vulnerability/MAL-2026-20501
 sdfjghlkfjdshlkjdhsfg	*	MAL-2025-32853	https://osv.dev/vulnerability/MAL-2025-32853
 sdfsfewetw1	*	MAL-2025-32854	https://osv.dev/vulnerability/MAL-2025-32854
 sdg-indicators-usa	*	MAL-2024-2992	https://osv.dev/vulnerability/MAL-2024-2992
@@ -198036,7 +198036,7 @@ tailwind-scrollmenu	*	MAL-2025-47505	https://osv.dev/vulnerability/MAL-2025-4750
 tailwind-setting	*	MAL-2025-48524	https://osv.dev/vulnerability/MAL-2025-48524
 tailwind-smooth-slider	*	MAL-2026-5082	https://osv.dev/vulnerability/MAL-2026-5082
 tailwind-state	1.0.3	MAL-2025-191593	https://osv.dev/vulnerability/MAL-2025-191593
-tailwind-studio	*	MAL-0000-ghsa-malware-16d0e9567f4bd3eb	https://github.com/ossf/malicious-packages/blob/cfd82f6c304425403a0072b38b6e6d13a080c38b/osv/malicious/npm/tailwind-studio/MAL-0000-ghsa-malware-16d0e9567f4bd3eb.json
+tailwind-studio	*	MAL-2026-20502	https://osv.dev/vulnerability/MAL-2026-20502
 tailwind-style-components	*	MAL-2025-48305	https://osv.dev/vulnerability/MAL-2025-48305
 tailwind-style-override	1.0.3	MAL-2025-191594	https://osv.dev/vulnerability/MAL-2025-191594
 tailwind-style-overrides	*	MAL-2025-42093	https://osv.dev/vulnerability/MAL-2025-42093
@@ -226842,7 +226842,7 @@ whn	*	MAL-2022-7142	https://osv.dev/vulnerability/MAL-2022-7142
 who_ask	2.0.0	MAL-2024-3956	https://osv.dev/vulnerability/MAL-2024-3956
 who_ask	3.0.0	MAL-2024-3956	https://osv.dev/vulnerability/MAL-2024-3956
 who_mobile	*	MAL-2024-8065	https://osv.dev/vulnerability/MAL-2024-8065
-whoami-notifier	*	MAL-0000-ghsa-malware-c6d6ed9a8dbe415a	https://github.com/ossf/malicious-packages/blob/cfd82f6c304425403a0072b38b6e6d13a080c38b/osv/malicious/npm/whoami-notifier/MAL-0000-ghsa-malware-c6d6ed9a8dbe415a.json
+whoami-notifier	*	MAL-2026-20503	https://osv.dev/vulnerability/MAL-2026-20503
 whoisthat	*	MAL-2025-39251	https://osv.dev/vulnerability/MAL-2025-39251
 whole-emerald-mouse	*	MAL-2025-71566	https://osv.dev/vulnerability/MAL-2025-71566
 whole-fuchsia-butterfly	*	MAL-2025-71567	https://osv.dev/vulnerability/MAL-2025-71567
@@ -231139,7 +231139,7 @@ xerxes-writable-nightwatch-pavo	*	MAL-2025-46679	https://osv.dev/vulnerability/M
 xerxes-xo-solis-dactyl	*	MAL-2025-149725	https://osv.dev/vulnerability/MAL-2025-149725
 xerxes-yaml-ini-redis	*	MAL-2025-149726	https://osv.dev/vulnerability/MAL-2025-149726
 xesto	*	MAL-2025-39759	https://osv.dev/vulnerability/MAL-2025-39759
-xf450	*	MAL-0000-ghsa-malware-90467ae34814c844	https://github.com/ossf/malicious-packages/blob/cfd82f6c304425403a0072b38b6e6d13a080c38b/osv/malicious/npm/xf450/MAL-0000-ghsa-malware-90467ae34814c844.json
+xf450	*	MAL-2026-20504	https://osv.dev/vulnerability/MAL-2026-20504
 xfi-client-core	*	MAL-2022-7272	https://osv.dev/vulnerability/MAL-2022-7272
 xfinity-web	*	MAL-2023-8546	https://osv.dev/vulnerability/MAL-2023-8546
 xfjokryqncigbezs	*	MAL-2022-7273	https://osv.dev/vulnerability/MAL-2022-7273
