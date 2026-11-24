@@ -53818,9 +53818,9 @@ claims-types	35.8.3	MAL-2026-12645	https://osv.dev/vulnerability/MAL-2026-12645
 claims-use-base-analytics	35.4.9	MAL-2026-12646	https://osv.dev/vulnerability/MAL-2026-12646
 claims-use-callback-once	35.6.7	MAL-2026-12647	https://osv.dev/vulnerability/MAL-2026-12647
 claims-use-visual-viewport-resizing	35.2.8	MAL-2026-12648	https://osv.dev/vulnerability/MAL-2026-12648
-clampony	1.0.10	MAL-0000-invisirisk-clampony	https://github.com/ossf/malicious-packages/pull/1830
-clampony	1.0.11	MAL-0000-invisirisk-clampony	https://github.com/ossf/malicious-packages/pull/1830
-clampony	1.0.9	MAL-0000-invisirisk-clampony	https://github.com/ossf/malicious-packages/pull/1830
+clampony	1.0.10	MAL-0000-invisirisk-clampony	https://github.com/ossf/malicious-packages/blob/01154564bc447f6f519078a2033c6e7a8c6e3dea/osv/malicious/npm/clampony/MAL-0000-invisirisk-clampony.json
+clampony	1.0.11	MAL-0000-invisirisk-clampony	https://github.com/ossf/malicious-packages/blob/01154564bc447f6f519078a2033c6e7a8c6e3dea/osv/malicious/npm/clampony/MAL-0000-invisirisk-clampony.json
+clampony	1.0.9	MAL-0000-invisirisk-clampony	https://github.com/ossf/malicious-packages/blob/01154564bc447f6f519078a2033c6e7a8c6e3dea/osv/malicious/npm/clampony/MAL-0000-invisirisk-clampony.json
 clapton	*	MAL-2025-17089	https://osv.dev/vulnerability/MAL-2025-17089
 clararodrigues	*	MAL-2025-171044	https://osv.dev/vulnerability/MAL-2025-171044
 claris-schemas	*	MAL-2025-17090	https://osv.dev/vulnerability/MAL-2025-17090
