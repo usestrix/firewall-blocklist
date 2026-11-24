@@ -208151,7 +208151,7 @@ tibuild	*	MAL-2025-36888	https://osv.dev/vulnerability/MAL-2025-36888
 tick-forge	*	MAL-2026-13385	https://osv.dev/vulnerability/MAL-2026-13385
 ticket-parser2	*	MAL-2023-889	https://osv.dev/vulnerability/MAL-2023-889
 ticket-parser2-py3	*	MAL-2023-890	https://osv.dev/vulnerability/MAL-2023-890
-ticket-symbol-stream-native	1.0.0	MAL-0000-amazon-inspector-dd3ce1657b2df1e4	https://github.com/ossf/malicious-packages/blob/d8fe433f0bd72115f4279fd9216f905e5298af45/osv/malicious/npm/ticket-symbol-stream-native/MAL-0000-amazon-inspector-dd3ce1657b2df1e4.json
+ticket-symbol-stream-native	1.0.0	MAL-2026-20520	https://osv.dev/vulnerability/MAL-2026-20520
 ticketcathayoct12	*	MAL-2026-17939	https://osv.dev/vulnerability/MAL-2026-17939
 tickets-tutorial	*	MAL-2025-5733	https://osv.dev/vulnerability/MAL-2025-5733
 tickncook-robot	*	MAL-2026-24	https://osv.dev/vulnerability/MAL-2026-24
