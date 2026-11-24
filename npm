@@ -90708,7 +90708,7 @@ getpaid	*	MAL-2025-21372	https://osv.dev/vulnerability/MAL-2025-21372
 gets-random-datas	*	MAL-2025-48519	https://osv.dev/vulnerability/MAL-2025-48519
 getsafe-interview	*	MAL-2024-9234	https://osv.dev/vulnerability/MAL-2024-9234
 getseekrangegapsfromshakareferences	*	MAL-2022-3355	https://osv.dev/vulnerability/MAL-2022-3355
-getsolara	1.0.1	MAL-0000-getsolara	https://github.com/ossf/malicious-packages/pull/1829
+getsolara	1.0.1	MAL-0000-getsolara	https://github.com/ossf/malicious-packages/blob/c4ef891523c81b0b0fa642740f6a7834a580d866/osv/malicious/npm/getsolara/MAL-0000-getsolara.json
 getsourcefile	*	MAL-2025-4985	https://osv.dev/vulnerability/MAL-2025-4985
 getstdn	*	MAL-2022-3356	https://osv.dev/vulnerability/MAL-2022-3356
 gettick-node	*	MAL-2025-21373	https://osv.dev/vulnerability/MAL-2025-21373
@@ -180242,7 +180242,7 @@ rokochisefa	*	MAL-2025-70410	https://osv.dev/vulnerability/MAL-2025-70410
 rokurterm	*	MAL-2025-32348	https://osv.dev/vulnerability/MAL-2025-32348
 roldev	*	MAL-2025-32349	https://osv.dev/vulnerability/MAL-2025-32349
 rolfsausi	*	MAL-2025-32350	https://osv.dev/vulnerability/MAL-2025-32350
-rolimons-api	1.1.2	MAL-0000-rolimons-api	https://github.com/ossf/malicious-packages/pull/1829
+rolimons-api	1.1.2	MAL-0000-rolimons-api	https://github.com/ossf/malicious-packages/blob/c4ef891523c81b0b0fa642740f6a7834a580d866/osv/malicious/npm/rolimons-api/MAL-0000-rolimons-api.json
 rolldownload	*	MAL-2025-2327	https://osv.dev/vulnerability/MAL-2025-2327
 rolling-coral-dragonfly	*	MAL-2025-70411	https://osv.dev/vulnerability/MAL-2025-70411
 rolling_angelfish_z3n	*	MAL-2025-108184	https://osv.dev/vulnerability/MAL-2025-108184
