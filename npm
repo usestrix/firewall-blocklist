@@ -128644,6 +128644,7 @@ lost_tarantula_z3n	*	MAL-2025-64108	https://osv.dev/vulnerability/MAL-2025-64108
 lost_tick_z3n	*	MAL-2025-95318	https://osv.dev/vulnerability/MAL-2025-95318
 lostbut	*	MAL-2025-25604	https://osv.dev/vulnerability/MAL-2025-25604
 lottery7club	*	MAL-2025-45067	https://osv.dev/vulnerability/MAL-2025-45067
+lotto432	*	MAL-0000-ghsa-malware-a79365ceaf932f4e	https://github.com/ossf/malicious-packages/blob/6cad203028a40c8f9ae2fb5df4b38dde08dd7f4e/osv/malicious/npm/lotto432/MAL-0000-ghsa-malware-a79365ceaf932f4e.json
 lotus-5sbc5-tvb8k-obsidian-project	*	MAL-2025-25605	https://osv.dev/vulnerability/MAL-2025-25605
 lotus-689e5-hsbn3-utopia-project	*	MAL-2025-25606	https://osv.dev/vulnerability/MAL-2025-25606
 lotus-6c7bt-96orv-mirage-project	*	MAL-2025-25607	https://osv.dev/vulnerability/MAL-2025-25607
