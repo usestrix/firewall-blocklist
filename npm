@@ -213393,9 +213393,9 @@ ugaicpc	*	MAL-2025-37517	https://osv.dev/vulnerability/MAL-2025-37517
 ugather	*	MAL-2025-37518	https://osv.dev/vulnerability/MAL-2025-37518
 ugc-kit	*	MAL-2025-192951	https://osv.dev/vulnerability/MAL-2025-192951
 ugconnect	*	MAL-2025-37519	https://osv.dev/vulnerability/MAL-2025-37519
-ugent_uws	10.9.10	MAL-0000-ugent_uws	https://github.com/ossf/malicious-packages/blob/865a54ff9b214630bd9998749874212aa14c71e0/osv/malicious/npm/ugent_uws/MAL-0000-ugent_uws.json
-ugent_uws	10.9.11	MAL-0000-ugent_uws	https://github.com/ossf/malicious-packages/blob/865a54ff9b214630bd9998749874212aa14c71e0/osv/malicious/npm/ugent_uws/MAL-0000-ugent_uws.json
-ugent_uws	10.9.9	MAL-0000-ugent_uws	https://github.com/ossf/malicious-packages/blob/865a54ff9b214630bd9998749874212aa14c71e0/osv/malicious/npm/ugent_uws/MAL-0000-ugent_uws.json
+ugent_uws	10.9.10	MAL-2026-20430	https://osv.dev/vulnerability/MAL-2026-20430
+ugent_uws	10.9.11	MAL-2026-20430	https://osv.dev/vulnerability/MAL-2026-20430
+ugent_uws	10.9.9	MAL-2026-20430	https://osv.dev/vulnerability/MAL-2026-20430
 ugentec-framework-angular	*	MAL-2022-6742	https://osv.dev/vulnerability/MAL-2022-6742
 ugfcox-devapptea	*	MAL-2025-109947	https://osv.dev/vulnerability/MAL-2025-109947
 ugifa-afaoti-uto	*	MAL-2025-169702	https://osv.dev/vulnerability/MAL-2025-169702
