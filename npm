@@ -55830,7 +55830,7 @@ com.unity.editor.tasks	10.0.1	MAL-2025-47628	https://osv.dev/vulnerability/MAL-2
 com.unity.editorcoroutines	*	MAL-2022-2058	https://osv.dev/vulnerability/MAL-2022-2058
 com.unity.entities	*	MAL-2024-11768	https://osv.dev/vulnerability/MAL-2024-11768
 com.unity.ext.nunit	*	MAL-2025-17354	https://osv.dev/vulnerability/MAL-2025-17354
-com.unity.external-dependency-manager	2.1.1	MAL-0000-invisirisk-com.unity.external-dependency-manager	https://github.com/ossf/malicious-packages/blob/e09038dd05d8919a09da480c216895aa84c4a2ee/osv/malicious/npm/com.unity.external-dependency-manager/MAL-0000-invisirisk-com.unity.external-dependency-manager.json
+com.unity.external-dependency-manager	2.1.1	MAL-2026-20428	https://osv.dev/vulnerability/MAL-2026-20428
 com.unity.external.test-protocol	10.0.1	MAL-2025-47629	https://osv.dev/vulnerability/MAL-2025-47629
 com.unity.formats.fbx	*	MAL-2025-3727	https://osv.dev/vulnerability/MAL-2025-3727
 com.unity.furioos-connection-kit	*	MAL-2025-3728	https://osv.dev/vulnerability/MAL-2025-3728
