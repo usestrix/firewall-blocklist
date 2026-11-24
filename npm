@@ -131455,6 +131455,7 @@ male_stoat_z3n	*	MAL-2025-57509	https://osv.dev/vulnerability/MAL-2025-57509
 male_whale-smiletea	*	MAL-2025-105523	https://osv.dev/vulnerability/MAL-2025-105523
 maleficent	*	MAL-2025-25805	https://osv.dev/vulnerability/MAL-2025-25805
 malfex_api	*	MAL-2023-7912	https://osv.dev/vulnerability/MAL-2023-7912
+malghz	*	MAL-0000-ghsa-malware-f1db623c1b2e1270	https://github.com/ossf/malicious-packages/blob/9ebfbd81a532d92ab91ce09dc44570b798739d6d/osv/malicious/npm/malghz/MAL-0000-ghsa-malware-f1db623c1b2e1270.json
 malicious-do-not-install	*	MAL-2025-25806	https://osv.dev/vulnerability/MAL-2025-25806
 malicious-npm-package	*	MAL-2025-25807	https://osv.dev/vulnerability/MAL-2025-25807
 malicious-package-name	*	MAL-2023-578	https://osv.dev/vulnerability/MAL-2023-578
@@ -237280,6 +237281,8 @@ zeus-mex-profile-viz	*	MAL-2025-5980	https://osv.dev/vulnerability/MAL-2025-5980
 zeus-mex-user-profile	*	MAL-2025-49078	https://osv.dev/vulnerability/MAL-2025-49078
 zeuscart	*	MAL-2025-40965	https://osv.dev/vulnerability/MAL-2025-40965
 zeussql	*	MAL-2025-40966	https://osv.dev/vulnerability/MAL-2025-40966
+zevairouter	*	MAL-0000-ghsa-malware-356e6dd35fbbac1c	https://github.com/ossf/malicious-packages/blob/9ebfbd81a532d92ab91ce09dc44570b798739d6d/osv/malicious/npm/zevairouter/MAL-0000-ghsa-malware-356e6dd35fbbac1c.json
+zevairouter-cli	*	MAL-0000-ghsa-malware-88ed1d4b2a96139f	https://github.com/ossf/malicious-packages/blob/9ebfbd81a532d92ab91ce09dc44570b798739d6d/osv/malicious/npm/zevairouter-cli/MAL-0000-ghsa-malware-88ed1d4b2a96139f.json
 zevkstacmkonlfdu	*	MAL-2022-7386	https://osv.dev/vulnerability/MAL-2022-7386
 zexxo-baileys	1.1.1	MAL-2026-19048	https://osv.dev/vulnerability/MAL-2026-19048
 zexxo-baileys	1.1.2	MAL-2026-19048	https://osv.dev/vulnerability/MAL-2026-19048
