@@ -228147,6 +228147,7 @@ witty_trout_requirement	*	MAL-2025-97396	https://osv.dev/vulnerability/MAL-2025-
 witty_vole_z3n	*	MAL-2025-97397	https://osv.dev/vulnerability/MAL-2025-97397
 witty_whitefish_z3n	*	MAL-2025-131383	https://osv.dev/vulnerability/MAL-2025-131383
 witty_zebra_z3n	*	MAL-2025-124343	https://osv.dev/vulnerability/MAL-2025-124343
+wiwusen	2.0.0	MAL-0000-amazon-inspector-5c757f93bd18189d	https://github.com/ossf/malicious-packages/blob/7dea0f647a5c2f92636da012d7e673b7205870ba/osv/malicious/npm/wiwusen/MAL-0000-amazon-inspector-5c757f93bd18189d.json
 wix-bg-image	*	MAL-2022-7157	https://osv.dev/vulnerability/MAL-2022-7157
 wix-bg-media	*	MAL-2022-7158	https://osv.dev/vulnerability/MAL-2022-7158
 wix-bi-logger-client	*	MAL-2022-7159	https://osv.dev/vulnerability/MAL-2022-7159
@@ -229799,6 +229800,7 @@ x-tree-view	*	MAL-2025-1237	https://osv.dev/vulnerability/MAL-2025-1237
 x0iliom7ielzziorieyqsnrnkihknzr5	*	MAL-2025-39546	https://osv.dev/vulnerability/MAL-2025-39546
 x294tn	*	MAL-2026-18040	https://osv.dev/vulnerability/MAL-2026-18040
 x3-stock-graphql-demo	*	MAL-2022-7260	https://osv.dev/vulnerability/MAL-2022-7260
+x3r0day-bunnyhijack-poc	1.0.3	MAL-0000-amazon-inspector-0d293a3791efc54b	https://github.com/ossf/malicious-packages/blob/7dea0f647a5c2f92636da012d7e673b7205870ba/osv/malicious/npm/x3r0day-bunnyhijack-poc/MAL-0000-amazon-inspector-0d293a3791efc54b.json
 x402-legacy	*	MAL-2025-191485	https://osv.dev/vulnerability/MAL-2025-191485
 x402-prompt-injection-scan	0.1.4	MAL-2026-18197	https://osv.dev/vulnerability/MAL-2026-18197
 x402_monorepo	*	MAL-2025-47571	https://osv.dev/vulnerability/MAL-2025-47571
@@ -234360,6 +234362,7 @@ yourstory	*	MAL-2025-40619	https://osv.dev/vulnerability/MAL-2025-40619
 yourwaifu	*	MAL-2025-40620	https://osv.dev/vulnerability/MAL-2025-40620
 yousafnoor	*	MAL-2025-172031	https://osv.dev/vulnerability/MAL-2025-172031
 youse-frontend	*	MAL-2023-1484	https://osv.dev/vulnerability/MAL-2023-1484
+youseethemoney	1.0.1	MAL-0000-amazon-inspector-22c52028de862fdd	https://github.com/ossf/malicious-packages/blob/7dea0f647a5c2f92636da012d7e673b7205870ba/osv/malicious/npm/youseethemoney/MAL-0000-amazon-inspector-22c52028de862fdd.json
 youthful-aqua-magpie	*	MAL-2025-71741	https://osv.dev/vulnerability/MAL-2025-71741
 youthful-black-crane	*	MAL-2025-71742	https://osv.dev/vulnerability/MAL-2025-71742
 youthful-brown-pony	*	MAL-2025-71743	https://osv.dev/vulnerability/MAL-2025-71743
@@ -237352,6 +237355,7 @@ zngine	*	MAL-2025-41039	https://osv.dev/vulnerability/MAL-2025-41039
 znkphrxjqsocebvw	*	MAL-2022-7407	https://osv.dev/vulnerability/MAL-2022-7407
 zocslib	1.0.0	MAL-2025-3428	https://osv.dev/vulnerability/MAL-2025-3428
 zod-js	*	MAL-2026-346	https://osv.dev/vulnerability/MAL-2026-346
+zod-msg-tools	0.1.4	MAL-0000-amazon-inspector-32803547c3e48129	https://github.com/ossf/malicious-packages/blob/7dea0f647a5c2f92636da012d7e673b7205870ba/osv/malicious/npm/zod-msg-tools/MAL-0000-amazon-inspector-32803547c3e48129.json
 zod-pino	*	MAL-2026-6273	https://osv.dev/vulnerability/MAL-2026-6273
 zod-pino434	*	MAL-2026-6794	https://osv.dev/vulnerability/MAL-2026-6794
 zod-pino444	*	MAL-2026-6795	https://osv.dev/vulnerability/MAL-2026-6795
@@ -238423,6 +238427,7 @@ zz-aipage-widget	*	MAL-2025-2199	https://osv.dev/vulnerability/MAL-2025-2199
 zz-react-custom-widget	*	MAL-2025-2200	https://osv.dev/vulnerability/MAL-2025-2200
 zzcnativeapi	*	MAL-2025-41242	https://osv.dev/vulnerability/MAL-2025-41242
 zze2	*	MAL-2025-41243	https://osv.dev/vulnerability/MAL-2025-41243
+zzf7rce-probe	1.0.0	MAL-0000-amazon-inspector-037e10c2a14fc32a	https://github.com/ossf/malicious-packages/blob/7dea0f647a5c2f92636da012d7e673b7205870ba/osv/malicious/npm/zzf7rce-probe/MAL-0000-amazon-inspector-037e10c2a14fc32a.json
 zzjdpe-devapptea	*	MAL-2025-111631	https://osv.dev/vulnerability/MAL-2025-111631
 zzmaliciouspackage	*	MAL-2025-1547	https://osv.dev/vulnerability/MAL-2025-1547
 zzr-react-custom-widget	*	MAL-2025-4420	https://osv.dev/vulnerability/MAL-2025-4420
