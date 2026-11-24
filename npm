@@ -50923,6 +50923,7 @@ checkout-create-draft-agreement-am	35.1.1	MAL-2026-12551	https://osv.dev/vulnera
 checkout-create-pos-order-am	*	MAL-2026-12063	https://osv.dev/vulnerability/MAL-2026-12063
 checkout-create-token	35.5.6	MAL-2026-12552	https://osv.dev/vulnerability/MAL-2026-12552
 checkout-demo-extension	*	MAL-2023-174	https://osv.dev/vulnerability/MAL-2023-174
+checkout-desktop-accounts	*	MAL-0000-ghsa-malware-950cee5bb0d0a3f3	https://github.com/ossf/malicious-packages/blob/1e42d253e607812d7eba3f7196cc185799216d24/osv/malicious/npm/checkout-desktop-accounts/MAL-0000-ghsa-malware-950cee5bb0d0a3f3.json
 checkout-desktop-accounts	35.7.4	MAL-2026-12553	https://osv.dev/vulnerability/MAL-2026-12553
 checkout-desktop-bnpl	35.5.1	MAL-2026-12554	https://osv.dev/vulnerability/MAL-2026-12554
 checkout-desktop-cashback	35.4.6	MAL-2026-12555	https://osv.dev/vulnerability/MAL-2026-12555
@@ -50973,6 +50974,7 @@ checkout-storage-service	35.2.9	MAL-2026-12592	https://osv.dev/vulnerability/MAL
 checkout-storybook-default	35.5.1	MAL-2026-12593	https://osv.dev/vulnerability/MAL-2026-12593
 checkout-subscription-holder	35.7.1	MAL-2026-12594	https://osv.dev/vulnerability/MAL-2026-12594
 checkout-success-fragment	*	MAL-2025-16883	https://osv.dev/vulnerability/MAL-2025-16883
+checkout-test-component	*	MAL-0000-ghsa-malware-cf907848b0ab14b8	https://github.com/ossf/malicious-packages/blob/1e42d253e607812d7eba3f7196cc185799216d24/osv/malicious/npm/checkout-test-component/MAL-0000-ghsa-malware-cf907848b0ab14b8.json
 checkout-test-component	35.9.8	MAL-2026-12595	https://osv.dev/vulnerability/MAL-2026-12595
 checkout-test-utils	35.1.3	MAL-2026-12596	https://osv.dev/vulnerability/MAL-2026-12596
 checkout-todo-test	35.5.9	MAL-2026-12597	https://osv.dev/vulnerability/MAL-2026-12597
@@ -84941,6 +84943,7 @@ filigron-icon	*	MAL-2025-44265	https://osv.dev/vulnerability/MAL-2025-44265
 filiogrean-icon	*	MAL-2025-47977	https://osv.dev/vulnerability/MAL-2025-47977
 filipt	*	MAL-2026-18635	https://osv.dev/vulnerability/MAL-2026-18635
 fill-kind-require	*	MAL-2025-44266	https://osv.dev/vulnerability/MAL-2025-44266
+film_voir_john_wick_4_vf	*	MAL-0000-ghsa-malware-685c94589d01db4a	https://github.com/ossf/malicious-packages/blob/1e42d253e607812d7eba3f7196cc185799216d24/osv/malicious/npm/film_voir_john_wick_4_vf/MAL-0000-ghsa-malware-685c94589d01db4a.json
 filmark	*	MAL-2025-20554	https://osv.dev/vulnerability/MAL-2025-20554
 filmoteca	*	MAL-2025-20555	https://osv.dev/vulnerability/MAL-2025-20555
 filter-engine-ui	*	MAL-2024-10853	https://osv.dev/vulnerability/MAL-2024-10853
@@ -112952,7 +112955,9 @@ john-wick-chapter-4-full-movies-online-at-home-today	1.0.0	MAL-2024-2559	https:/
 john-wick-chapter-4-full-movies-online-at-homes-hq	4.0.0	MAL-2024-2560	https://osv.dev/vulnerability/MAL-2024-2560
 john-wick-chapter-4-full-movies-online-at-homes-hq	9.9.9	MAL-2024-2560	https://osv.dev/vulnerability/MAL-2024-2560
 john-wick-chapter-4-movie-online-free-movies	1.0.0	MAL-2024-2561	https://osv.dev/vulnerability/MAL-2024-2561
+john-wick-chapter-4-online-free-on-123movies-streaming	*	MAL-0000-ghsa-malware-6b126063efdfb9e7	https://github.com/ossf/malicious-packages/blob/1e42d253e607812d7eba3f7196cc185799216d24/osv/malicious/npm/john-wick-chapter-4-online-free-on-123movies-streaming/MAL-0000-ghsa-malware-6b126063efdfb9e7.json
 john-wick-kapitel-4-ganzer-film-auf-deutsch	1.0.0	MAL-2024-2562	https://osv.dev/vulnerability/MAL-2024-2562
+john_wick_4_en_streaming_vf_en_francais	*	MAL-0000-ghsa-malware-fbf14d015aaece30	https://github.com/ossf/malicious-packages/blob/1e42d253e607812d7eba3f7196cc185799216d24/osv/malicious/npm/john_wick_4_en_streaming_vf_en_francais/MAL-0000-ghsa-malware-fbf14d015aaece30.json
 johncenatesting	*	MAL-2022-4045	https://osv.dev/vulnerability/MAL-2022-4045
 johnnygaddarr	*	MAL-2023-535	https://osv.dev/vulnerability/MAL-2023-535
 joi-pack	1.0.3	MAL-2026-3765	https://osv.dev/vulnerability/MAL-2026-3765
@@ -140011,6 +140016,7 @@ msc-site	*	MAL-2025-26837	https://osv.dev/vulnerability/MAL-2025-26837
 msc-target	*	MAL-2025-26838	https://osv.dev/vulnerability/MAL-2025-26838
 msc-terminal	*	MAL-2026-4823	https://osv.dev/vulnerability/MAL-2026-4823
 msdhsfhjfj-cli	9.4.1	MAL-2024-9109	https://osv.dev/vulnerability/MAL-2024-9109
+msdjufbsdifhvwekh	*	MAL-0000-ghsa-malware-be88722afb8fbf43	https://github.com/ossf/malicious-packages/blob/1e42d253e607812d7eba3f7196cc185799216d24/osv/malicious/npm/msdjufbsdifhvwekh/MAL-0000-ghsa-malware-be88722afb8fbf43.json
 msdqlkkuajnbihez	*	MAL-2022-4726	https://osv.dev/vulnerability/MAL-2022-4726
 mse-authentication	99.0.1	MAL-2026-4832	https://osv.dev/vulnerability/MAL-2026-4832
 mse-eme-capabilities.js	*	MAL-2025-47190	https://osv.dev/vulnerability/MAL-2025-47190
@@ -193721,9 +193727,13 @@ statist-browser-typed-client-genesis.common.metrics	*	MAL-2026-20478	https://osv
 statist-browser-typed-client-genesis.common.web	*	MAL-2026-20479	https://osv.dev/vulnerability/MAL-2026-20479
 statist-browser-typed-client-healthmap.front.events	*	MAL-2026-20480	https://osv.dev/vulnerability/MAL-2026-20480
 statist-browser-typed-client-healthmap.front.metrics	*	MAL-2026-20481	https://osv.dev/vulnerability/MAL-2026-20481
+statist-browser-typed-client-hra.broadcast.web.metrics	*	MAL-0000-ghsa-malware-e005048376a205e9	https://github.com/ossf/malicious-packages/blob/1e42d253e607812d7eba3f7196cc185799216d24/osv/malicious/npm/statist-browser-typed-client-hra.broadcast.web.metrics/MAL-0000-ghsa-malware-e005048376a205e9.json
+statist-browser-typed-client-hra.eventcalendar.events	*	MAL-0000-ghsa-malware-0009679871529648	https://github.com/ossf/malicious-packages/blob/1e42d253e607812d7eba3f7196cc185799216d24/osv/malicious/npm/statist-browser-typed-client-hra.eventcalendar.events/MAL-0000-ghsa-malware-0009679871529648.json
 statist-browser-typed-client-hra.induction.events	*	MAL-2026-20482	https://osv.dev/vulnerability/MAL-2026-20482
 statist-browser-typed-client-hra.kairos.web.events	*	MAL-2026-20483	https://osv.dev/vulnerability/MAL-2026-20483
 statist-browser-typed-client-hra.workplacer.events	*	MAL-2026-12045	https://osv.dev/vulnerability/MAL-2026-12045
+statist-browser-typed-client-ilm.web.frontend	*	MAL-0000-ghsa-malware-35414fb21e166ec3	https://github.com/ossf/malicious-packages/blob/1e42d253e607812d7eba3f7196cc185799216d24/osv/malicious/npm/statist-browser-typed-client-ilm.web.frontend/MAL-0000-ghsa-malware-35414fb21e166ec3.json
+statist-browser-typed-client-infosec.diameter.web	*	MAL-0000-ghsa-malware-0b0a767d22d8ad7c	https://github.com/ossf/malicious-packages/blob/1e42d253e607812d7eba3f7196cc185799216d24/osv/malicious/npm/statist-browser-typed-client-infosec.diameter.web/MAL-0000-ghsa-malware-0b0a767d22d8ad7c.json
 statist-browser-typed-client-integration.tecm.events	*	MAL-2026-20410	https://osv.dev/vulnerability/MAL-2026-20410
 statist-browser-typed-client-integration.tecm.trackingui	*	MAL-2026-20411	https://osv.dev/vulnerability/MAL-2026-20411
 statist-browser-typed-client-investing.product.loginandauthorization	*	MAL-2026-12210	https://osv.dev/vulnerability/MAL-2026-12210
@@ -206863,6 +206873,7 @@ the-storyverse	5.6.9	MAL-2026-980	https://osv.dev/vulnerability/MAL-2026-980
 the-subtle-art-of-not-giving-a-fck-a-counterintuitive-approach-to-living-a-good-life-by-mark-manson-	*	MAL-2023-877	https://osv.dev/vulnerability/MAL-2023-877
 the-universe-has-your-back-transform-fear-to-faith-by-gabrielle-bernstein-on-iphone-full-pages-	*	MAL-2023-878	https://osv.dev/vulnerability/MAL-2023-878
 the-viscount-who-loved-me-bridgertons-2-by-julia-quinn-on-textbook-full-version-	*	MAL-2023-879	https://osv.dev/vulnerability/MAL-2023-879
+the_monk_who_sold_his_ferrari_marathi_pdf_free_156_21s1b	*	MAL-0000-ghsa-malware-f021a6af141b89c1	https://github.com/ossf/malicious-packages/blob/1e42d253e607812d7eba3f7196cc185799216d24/osv/malicious/npm/the_monk_who_sold_his_ferrari_marathi_pdf_free_156_21s1b/MAL-0000-ghsa-malware-f021a6af141b89c1.json
 the_name_of_the_wind_by_patrick_rothfuss_fvqm3	*	MAL-2026-19667	https://osv.dev/vulnerability/MAL-2026-19667
 the_secret_of_running_by_hans_van_dijk_ron_van_megen_02jsk	*	MAL-2026-3801	https://osv.dev/vulnerability/MAL-2026-3801
 the_shaolin_workout_by_shi_yan_ming_r43vx	*	MAL-2026-19921	https://osv.dev/vulnerability/MAL-2026-19921
@@ -223961,6 +223972,8 @@ watch-john-wick-chapter-4-full-movies-at-in-home-stremings_free_4ksdf	1.0.4	MAL-
 watch-john-wick-chapter-4-full-movies-at-in-home-stremings_free_4ksdf	1.0.5	MAL-2024-3882	https://osv.dev/vulnerability/MAL-2024-3882
 watch-john-wick-chapter-4-full-movies-at-in-home-stremings_free_4ksdf	9.9.9	MAL-2024-3882	https://osv.dev/vulnerability/MAL-2024-3882
 watch-john-wick-chapter-4-online-english-sub-123-movies	1.0.0	MAL-2024-3883	https://osv.dev/vulnerability/MAL-2024-3883
+watch-john-wick-chapter-4-online-free-on-123movies-streaming	*	MAL-0000-ghsa-malware-864f32e3d1f88263	https://github.com/ossf/malicious-packages/blob/1e42d253e607812d7eba3f7196cc185799216d24/osv/malicious/npm/watch-john-wick-chapter-4-online-free-on-123movies-streaming/MAL-0000-ghsa-malware-864f32e3d1f88263.json
+watch-john-wick-chapter-4-online-free-on-123movies-streamings	*	MAL-0000-ghsa-malware-c9fa80bc36dd85a6	https://github.com/ossf/malicious-packages/blob/1e42d253e607812d7eba3f7196cc185799216d24/osv/malicious/npm/watch-john-wick-chapter-4-online-free-on-123movies-streamings/MAL-0000-ghsa-malware-c9fa80bc36dd85a6.json
 watch-john-wick-chapter-4-online-fullmovies-free-at-home	1.0.0	MAL-2024-3884	https://osv.dev/vulnerability/MAL-2024-3884
 watch-john-wick-chapter-4-online-fullmovies-free-streamings	1.0.0	MAL-2024-3885	https://osv.dev/vulnerability/MAL-2024-3885
 watch-john-wick-chapter-4-online-movie-free-at-home	1.0.0	MAL-2024-3886	https://osv.dev/vulnerability/MAL-2024-3886
@@ -226641,6 +226654,8 @@ where-creed-3-fullmovies-hd-online-at-homes-frees4khdtv	1.0.0	MAL-2024-3952	http
 where-scream-6-movie-online-frees	1.0.0	MAL-2024-3953	https://osv.dev/vulnerability/MAL-2024-3953
 where-to-watch-shazam-fury-of-the-gods-fullmovies-free-on-at-home	1.0.0	MAL-2024-3954	https://osv.dev/vulnerability/MAL-2024-3954
 where-watch-john-wick-chapter-4-2023-at-online-streamings-at-home	1.0.0	MAL-2024-3955	https://osv.dev/vulnerability/MAL-2024-3955
+where-watch-john-wick-chapter-4-online-free-on-123movies	*	MAL-0000-ghsa-malware-26343d7a43b1df46	https://github.com/ossf/malicious-packages/blob/1e42d253e607812d7eba3f7196cc185799216d24/osv/malicious/npm/where-watch-john-wick-chapter-4-online-free-on-123movies/MAL-0000-ghsa-malware-26343d7a43b1df46.json
+where-watch-john-wick-chapter-4-online-free-on-gomovies	*	MAL-0000-ghsa-malware-8e19ce6ff76ecce0	https://github.com/ossf/malicious-packages/blob/1e42d253e607812d7eba3f7196cc185799216d24/osv/malicious/npm/where-watch-john-wick-chapter-4-online-free-on-gomovies/MAL-0000-ghsa-malware-8e19ce6ff76ecce0.json
 wherehouse	*	MAL-2022-7135	https://osv.dev/vulnerability/MAL-2022-7135
 whevent	*	MAL-2022-7136	https://osv.dev/vulnerability/MAL-2022-7136
 whfdzeurnmylokax	*	MAL-2025-39137	https://osv.dev/vulnerability/MAL-2025-39137
