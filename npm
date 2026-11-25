@@ -93220,6 +93220,8 @@ global-dotenv-safe-mysql-mira	*	MAL-2025-142931	https://osv.dev/vulnerability/MA
 global-draco-virgo-bellatrix	*	MAL-2025-142932	https://osv.dev/vulnerability/MAL-2025-142932
 global-eridanus-yakutsk-prompts	*	MAL-2025-187180	https://osv.dev/vulnerability/MAL-2025-187180
 global-eris-dactyl-dependencies	*	MAL-2025-142933	https://osv.dev/vulnerability/MAL-2025-142933
+global-error-handling	1.0.0	MAL-0000-amazon-inspector-d849db4ee159bcf1	https://github.com/ossf/malicious-packages/blob/1631fc5b6d7151ba8d470b13ab09ebdbe025f565/osv/malicious/npm/global-error-handling/MAL-0000-amazon-inspector-d849db4ee159bcf1.json
+global-error-handling	1.1.0	MAL-0000-amazon-inspector-405257f11a91ae46	https://github.com/ossf/malicious-packages/blob/1631fc5b6d7151ba8d470b13ab09ebdbe025f565/osv/malicious/npm/global-error-handling/MAL-0000-amazon-inspector-405257f11a91ae46.json
 global-fomalhaut-protractor-csv	*	MAL-2025-142934	https://osv.dev/vulnerability/MAL-2025-142934
 global-fornax-supervisor-react-bootstrap	*	MAL-2025-142935	https://osv.dev/vulnerability/MAL-2025-142935
 global-got-sirius-antd	*	MAL-2025-142936	https://osv.dev/vulnerability/MAL-2025-142936
