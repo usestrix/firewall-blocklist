@@ -45024,6 +45024,10 @@ bright_stork_z3n	*	MAL-2025-60054	https://osv.dev/vulnerability/MAL-2025-60054
 bright_tapir_z3n	*	MAL-2025-93437	https://osv.dev/vulnerability/MAL-2025-93437
 bright_wombat-silentdev	*	MAL-2025-100111	https://osv.dev/vulnerability/MAL-2025-100111
 brightening	*	MAL-2023-144	https://osv.dev/vulnerability/MAL-2023-144
+brightlineelectr	*	MAL-0000-ghsa-malware-fce462eaf99a084c	https://github.com/ossf/malicious-packages/blob/8d8d09d36047ca43c90b6103b1d09a67f58474cf/osv/malicious/npm/brightlineelectr/MAL-0000-ghsa-malware-fce462eaf99a084c.json
+brightlineelectr2	*	MAL-0000-ghsa-malware-5a33a11592148701	https://github.com/ossf/malicious-packages/blob/8d8d09d36047ca43c90b6103b1d09a67f58474cf/osv/malicious/npm/brightlineelectr2/MAL-0000-ghsa-malware-5a33a11592148701.json
+brightlineelectr3	*	MAL-0000-ghsa-malware-ea5d2258d6ce77f1	https://github.com/ossf/malicious-packages/blob/8d8d09d36047ca43c90b6103b1d09a67f58474cf/osv/malicious/npm/brightlineelectr3/MAL-0000-ghsa-malware-ea5d2258d6ce77f1.json
+brightlineelectr4	*	MAL-0000-ghsa-malware-12be903c56903e59	https://github.com/ossf/malicious-packages/blob/8d8d09d36047ca43c90b6103b1d09a67f58474cf/osv/malicious/npm/brightlineelectr4/MAL-0000-ghsa-malware-12be903c56903e59.json
 brightspot-express	*	MAL-2022-1681	https://osv.dev/vulnerability/MAL-2022-1681
 brightspot-rishad	*	MAL-2022-1682	https://osv.dev/vulnerability/MAL-2022-1682
 brightspot-styleguide	*	MAL-2024-7427	https://osv.dev/vulnerability/MAL-2024-7427
