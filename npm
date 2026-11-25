@@ -18643,7 +18643,6 @@
 @worrisome/reutil	*	MAL-2026-15604	https://osv.dev/vulnerability/MAL-2026-15604
 @wp-feature-api/client-features	9.9.99	MAL-2025-41359	https://osv.dev/vulnerability/MAL-2025-41359
 @wppconnect-team/wppconnect	2.4.1	MAL-2026-20044	https://osv.dev/vulnerability/MAL-2026-20044
-@wppconnect/server	2.10.82	MAL-0000-ghsa-malware-670791316b7eed53	https://github.com/ossf/malicious-packages/blob/33f47b9bc4081a792fc28e6892e9114563a257b3/osv/malicious/npm/@wppconnect/server/MAL-0000-ghsa-malware-670791316b7eed53.json
 @wppconnect/server	2.10.82	MAL-2026-20043	https://osv.dev/vulnerability/MAL-2026-20043
 @wptv/components	>=1.0.0	MAL-2025-6068	https://osv.dev/vulnerability/MAL-2025-6068
 @wptv/logger	>=1.0.0	MAL-2025-6267	https://osv.dev/vulnerability/MAL-2025-6267
