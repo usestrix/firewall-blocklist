@@ -8,6 +8,8 @@
 3scale-time_range	0.3.0	MAL-2024-6272	https://osv.dev/vulnerability/MAL-2024-6272
 99designs_tasks	0.0.7	MAL-2024-6273	https://osv.dev/vulnerability/MAL-2024-6273
 ActiveAdmin_Globalize3-inputs	0.0.1	MAL-2024-6453	https://osv.dev/vulnerability/MAL-2024-6453
+Dendreo	1.1.3	MAL-0000-Dendreo-sleepergem	https://github.com/ossf/malicious-packages/pull/1843
+Dendreo	1.1.4	MAL-0000-Dendreo-sleepergem	https://github.com/ossf/malicious-packages/pull/1843
 QubitSDK	2.0.6	MAL-2024-7006	https://osv.dev/vulnerability/MAL-2024-7006
 QubitSDK	2.0.7	MAL-2024-7006	https://osv.dev/vulnerability/MAL-2024-7006
 QubitSDK	2.0.8	MAL-2024-7006	https://osv.dev/vulnerability/MAL-2024-7006
@@ -2052,6 +2054,7 @@ extfetchedwand1778556472	0.0.1	MAL-2026-7681	https://osv.dev/vulnerability/MAL-2
 extfetchedwand1778556507	0.0.1	MAL-2026-7682	https://osv.dev/vulnerability/MAL-2026-7682
 f2fe-s1	0.0.1	MAL-2026-7683	https://osv.dev/vulnerability/MAL-2026-7683
 fadtestgemx1	0.0.1	MAL-2026-7684	https://osv.dev/vulnerability/MAL-2026-7684
+fastlane-plugin-run_tests_firebase_testlab	0.3.2	MAL-0000-fastlane-plugin-run_tests_firebase_testlab-sleepergem	https://github.com/ossf/malicious-packages/pull/1843
 feature-flags-client	1.1.0.4.g5ec4367	MAL-2025-46907	https://osv.dev/vulnerability/MAL-2025-46907
 ffxnzzez0bc	0.0.1	MAL-2026-7685	https://osv.dev/vulnerability/MAL-2026-7685
 ffxnzzez0bc	0.0.2	MAL-2026-7685	https://osv.dev/vulnerability/MAL-2026-7685
@@ -2156,6 +2159,7 @@ giga-safe-hub	0.0.1	MAL-2026-15702	https://osv.dev/vulnerability/MAL-2026-15702
 giga-sharp-tool	0.0.1	MAL-2026-15703	https://osv.dev/vulnerability/MAL-2026-15703
 gimme-vins	0.0.3	MAL-2024-6932	https://osv.dev/vulnerability/MAL-2024-6932
 git-team_stats	0.0.1	MAL-2024-6933	https://osv.dev/vulnerability/MAL-2024-6933
+git_credential_manager	*	MAL-0000-git_credential_manager-sleepergem	https://github.com/ossf/malicious-packages/pull/1843
 github-kredz	1.0.1.1135.gf4a4623f5	MAL-2025-46908	https://osv.dev/vulnerability/MAL-2025-46908
 github-kv	0.0.1.rdbd1267	MAL-2025-46909	https://osv.dev/vulnerability/MAL-2025-46909
 github-orca	0.0.20.1626.gb0c19ef3	MAL-2025-46910	https://osv.dev/vulnerability/MAL-2025-46910
