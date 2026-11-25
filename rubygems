@@ -3219,6 +3219,8 @@ piko-max-tool	0.0.1	MAL-2026-15772	https://osv.dev/vulnerability/MAL-2026-15772
 piko-sharp-sys	0.0.1	MAL-2026-15773	https://osv.dev/vulnerability/MAL-2026-15773
 piko-smart-pkg	0.0.1	MAL-2026-15774	https://osv.dev/vulnerability/MAL-2026-15774
 piko-smart-sys	0.0.1	MAL-2026-15775	https://osv.dev/vulnerability/MAL-2026-15775
+pionex	0.9.1	MAL-2026-20609	https://osv.dev/vulnerability/MAL-2026-20609
+pionex	0.9.2	MAL-2026-20609	https://osv.dev/vulnerability/MAL-2026-20609
 piratebay-api	0.1.6	MAL-2024-7003	https://osv.dev/vulnerability/MAL-2024-7003
 playing-cards	0.0.2	MAL-2024-7004	https://osv.dev/vulnerability/MAL-2024-7004
 plugin-gem-example	100.9.9	MAL-2026-2402	https://osv.dev/vulnerability/MAL-2026-2402
