@@ -75851,6 +75851,7 @@ env-express	2.5.5	MAL-2026-2361	https://osv.dev/vulnerability/MAL-2026-2361
 env-express-cli	2.5.5	MAL-2026-2362	https://osv.dev/vulnerability/MAL-2026-2362
 env-extend	2.5.5	MAL-2026-2363	https://osv.dev/vulnerability/MAL-2026-2363
 env-fast	1.0.0	MAL-2026-10434	https://osv.dev/vulnerability/MAL-2026-10434
+env-helper-friend	*	MAL-0000-ghsa-malware-de4cb41913b679ae	https://github.com/ossf/malicious-packages/blob/f192bd1ac8b12011c49089f19a7c556bbcf1ebde/osv/malicious/npm/env-helper-friend/MAL-0000-ghsa-malware-de4cb41913b679ae.json
 env-helper-friend	0.2.0	MAL-2026-20420	https://osv.dev/vulnerability/MAL-2026-20420
 env-info-checker-kyy3w4fiurevd8uy43wfre	*	MAL-2025-5552	https://osv.dev/vulnerability/MAL-2025-5552
 env-local	18.4.2	MAL-2026-13694	https://osv.dev/vulnerability/MAL-2026-13694
