@@ -2029,6 +2029,9 @@ Gսոa.UI3.Wіnfօrms	2.0.4.8	MAL-2024-4506	https://osv.dev/vulnerability/MAL-20
 HIC.System.Windows.Forms.DataVisualization.Net	1.0.1	MAL-2024-4508	https://osv.dev/vulnerability/MAL-2024-4508
 HIC.System.Windows.Forms.DataVisualization.Net	1.0.2	MAL-2024-4508	https://osv.dev/vulnerability/MAL-2024-4508
 HIC.System.Windows.Forms.DataVisualization.Net	1.0.3	MAL-2024-4508	https://osv.dev/vulnerability/MAL-2024-4508
+HappyOne.MSBuildAnalyzer	1.2.8	MAL-0000-chainguard-happyone-msbuildanalyzer	https://github.com/ossf/malicious-packages/pull/1846
+HappyOne.MSBuildAnalyzer	1.2.9	MAL-0000-chainguard-happyone-msbuildanalyzer	https://github.com/ossf/malicious-packages/pull/1846
+HappyOne.MSBuildAnalyzer	1.3.0	MAL-0000-chainguard-happyone-msbuildanalyzer	https://github.com/ossf/malicious-packages/pull/1846
 HarmonyX.Net	1.23.5	MAL-2024-4507	https://osv.dev/vulnerability/MAL-2024-4507
 HarmonyX.Net	1.23.6	MAL-2024-4507	https://osv.dev/vulnerability/MAL-2024-4507
 HarmonyX.Net	1.23.7	MAL-2024-4507	https://osv.dev/vulnerability/MAL-2024-4507
@@ -2048,6 +2051,7 @@ ITLec.RaiseYоurVoice.D365RestorеPoint	1.2018.1118.6	MAL-2024-4514	https://osv.
 ITLec.XamariոForms.Toоl.AutoCompleteLookup	2017.8.6	MAL-2024-4515	https://osv.dev/vulnerability/MAL-2024-4515
 ITLec.XamаrinForms.Toоl.AdvancedProgressBar	2017.10.27	MAL-2024-4516	https://osv.dev/vulnerability/MAL-2024-4516
 ITLеc.Xrm.SchemaValidatіon	1.2019.501.3	MAL-2024-4517	https://osv.dev/vulnerability/MAL-2024-4517
+InitializeCustomButton	1.0.0	MAL-0000-chainguard-initializecustombutton	https://github.com/ossf/malicious-packages/pull/1846
 JudoPаy.Nеt	4.0.0	MAL-2024-4518	https://osv.dev/vulnerability/MAL-2024-4518
 KANYEWESTBRIDGADE	0.9.7.1	MAL-2024-4519	https://osv.dev/vulnerability/MAL-2024-4519
 KanyeWestWasRight	1.1.2	MAL-2024-4520	https://osv.dev/vulnerability/MAL-2024-4520
@@ -3055,6 +3059,9 @@ Reothor.Lab.EvilPackage	200.0.0	MAL-2024-4626	https://osv.dev/vulnerability/MAL-
 Reothor.Lab.EvilPackage	4.4.4.4	MAL-2024-4626	https://osv.dev/vulnerability/MAL-2024-4626
 Reothor.Lab.EvilPackage	4.4.5.5	MAL-2024-4626	https://osv.dev/vulnerability/MAL-2024-4626
 Resource.Embedder.Net	2.2.0	MAL-2024-4627	https://osv.dev/vulnerability/MAL-2024-4627
+RevertButtonIcon	1.0.1	MAL-0000-chainguard-revertbuttonicon	https://github.com/ossf/malicious-packages/pull/1846
+RevertButtonIcon	1.0.2	MAL-0000-chainguard-revertbuttonicon	https://github.com/ossf/malicious-packages/pull/1846
+RevertButtonIcon	1.0.3	MAL-0000-chainguard-revertbuttonicon	https://github.com/ossf/malicious-packages/pull/1846
 Rg.Plugins.Popups.Net	1.0.1002	MAL-2024-4628	https://osv.dev/vulnerability/MAL-2024-4628
 Rg.Plugins.Popups.Net	1.0.1003	MAL-2024-4628	https://osv.dev/vulnerability/MAL-2024-4628
 Rg.Plugins.Popups.Net	1.0.1004	MAL-2024-4628	https://osv.dev/vulnerability/MAL-2024-4628
@@ -3536,6 +3543,7 @@ Sanka.UI3.WinForms	3.7.8	MAL-2024-4638	https://osv.dev/vulnerability/MAL-2024-46
 Sanka.UI3.WinForms	3.7.9	MAL-2024-4638	https://osv.dev/vulnerability/MAL-2024-4638
 Sanka.UI3.WinForms	3.7.9.6	MAL-2024-4638	https://osv.dev/vulnerability/MAL-2024-4638
 Sanka.UI3.WinForms	3.8.9.6	MAL-2024-4638	https://osv.dev/vulnerability/MAL-2024-4638
+SetButtonColor	1.0.0	MAL-0000-chainguard-setbuttoncolor	https://github.com/ossf/malicious-packages/pull/1846
 Shade.UI.WinForms	1.0.1	MAL-2024-4639	https://osv.dev/vulnerability/MAL-2024-4639
 Shade.UI.WinForms	1.0.10	MAL-2024-4639	https://osv.dev/vulnerability/MAL-2024-4639
 Shade.UI.WinForms	1.0.11	MAL-2024-4639	https://osv.dev/vulnerability/MAL-2024-4639
