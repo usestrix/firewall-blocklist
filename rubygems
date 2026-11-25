@@ -64,6 +64,7 @@ a1624-bmi	0.1.0	MAL-2024-6309	https://osv.dev/vulnerability/MAL-2024-6309
 a1630ty-a1630ty	0.2.0	MAL-2024-6310	https://osv.dev/vulnerability/MAL-2024-6310
 a1632ma-ano	0.1.0	MAL-2024-6311	https://osv.dev/vulnerability/MAL-2024-6311
 a_test-gem	0.0.19	MAL-2024-6312	https://osv.dev/vulnerability/MAL-2024-6312
+aaaresultfetchx	*	MAL-0000-aaaresultfetchx-rubyhack	https://github.com/ossf/malicious-packages/pull/1844
 aai10_mechanize	2.0.1.0	MAL-2024-6313	https://osv.dev/vulnerability/MAL-2024-6313
 aasm-active-fedora	0.1.2	MAL-2024-6314	https://osv.dev/vulnerability/MAL-2024-6314
 aasm-history	0.1.3	MAL-2024-6315	https://osv.dev/vulnerability/MAL-2024-6315
@@ -2360,6 +2361,8 @@ lambfetch003	0.0.1	MAL-2026-7801	https://osv.dev/vulnerability/MAL-2026-7801
 lambfetch004	0.0.1	MAL-2026-7802	https://osv.dev/vulnerability/MAL-2026-7802
 lambfetch005	0.0.1	MAL-2026-7803	https://osv.dev/vulnerability/MAL-2026-7803
 lambfetch006	0.0.1	MAL-2026-7804	https://osv.dev/vulnerability/MAL-2026-7804
+lambfetchx548811	*	MAL-0000-lambfetchx548811-rubyhack	https://github.com/ossf/malicious-packages/pull/1844
+lambfetchx550961	*	MAL-0000-lambfetchx550961-rubyhack	https://github.com/ossf/malicious-packages/pull/1844
 lambfossilproxyoai	0.0.1	MAL-2026-7805	https://osv.dev/vulnerability/MAL-2026-7805
 lambhgampxyz	0.0.1	MAL-2026-7806	https://osv.dev/vulnerability/MAL-2026-7806
 lambhgproxy2oai	0.0.1	MAL-2026-7807	https://osv.dev/vulnerability/MAL-2026-7807
@@ -3578,6 +3581,7 @@ slnfive8155	0.0.1	MAL-2026-8682	https://osv.dev/vulnerability/MAL-2026-8682
 slnhack1778549948	0.0.1	MAL-2026-8683	https://osv.dev/vulnerability/MAL-2026-8683
 slnhackmine177	0.0.1	MAL-2026-8684	https://osv.dev/vulnerability/MAL-2026-8684
 slnhackmine177	0.0.2	MAL-2026-8684	https://osv.dev/vulnerability/MAL-2026-8684
+slnleaker5	*	MAL-0000-slnleaker5-rubyhack	https://github.com/ossf/malicious-packages/pull/1844
 slnmid10000	0.0.1	MAL-2026-8685	https://osv.dev/vulnerability/MAL-2026-8685
 slnmid10500	0.0.1	MAL-2026-8686	https://osv.dev/vulnerability/MAL-2026-8686
 slnmid11000	0.0.1	MAL-2026-8687	https://osv.dev/vulnerability/MAL-2026-8687
@@ -4591,7 +4595,9 @@ xxxxxxxx	9.9.9	MAL-2025-5147	https://osv.dev/vulnerability/MAL-2025-5147
 xyzbr	0.0.1	MAL-2026-9551	https://osv.dev/vulnerability/MAL-2026-9551
 xyzfb469385fb49d1b7	0.0.1	MAL-2026-9552	https://osv.dev/vulnerability/MAL-2026-9552
 xyzfb469385fb49d1b7	0.0.2	MAL-2026-9552	https://osv.dev/vulnerability/MAL-2026-9552
+yardbreakerxqh1778552850	*	MAL-0000-yardbreakerxqh1778552850-rubyhack	https://github.com/ossf/malicious-packages/pull/1844
 yardxabc888	0.0.1	MAL-2026-9553	https://osv.dev/vulnerability/MAL-2026-9553
+yardxabc889	*	MAL-0000-yardxabc889-rubyhack	https://github.com/ossf/malicious-packages/pull/1844
 ygresultwzqbot	0.0.1	MAL-2026-9554	https://osv.dev/vulnerability/MAL-2026-9554
 ylam01778568568	0.0.1	MAL-2026-9555	https://osv.dev/vulnerability/MAL-2026-9555
 ylam11778568568	0.0.1	MAL-2026-9556	https://osv.dev/vulnerability/MAL-2026-9556
@@ -5035,6 +5041,7 @@ zzpdfvar14	0.0.1	MAL-2026-9971	https://osv.dev/vulnerability/MAL-2026-9971
 zzpdfvar15	0.0.1	MAL-2026-9972	https://osv.dev/vulnerability/MAL-2026-9972
 zzproxyoaiabc431848	0.0.1	MAL-2026-9973	https://osv.dev/vulnerability/MAL-2026-9973
 zzsouthhack252269	0.0.1	MAL-2026-9974	https://osv.dev/vulnerability/MAL-2026-9974
+zzsouthrunner	*	MAL-0000-zzsouthrunner-rubyhack	https://github.com/ossf/malicious-packages/pull/1844
 zztargettest18587	0.0.1	MAL-2026-9975	https://osv.dev/vulnerability/MAL-2026-9975
 zztemp-ssf-2605	0.0.1	MAL-2026-9976	https://osv.dev/vulnerability/MAL-2026-9976
 zztest1778552006	0.0.1	MAL-2026-9977	https://osv.dev/vulnerability/MAL-2026-9977
@@ -5062,6 +5069,7 @@ zztxtwtmp11	0.0.1	MAL-2026-9998	https://osv.dev/vulnerability/MAL-2026-9998
 zztxtwtmp12	0.0.1	MAL-2026-9999	https://osv.dev/vulnerability/MAL-2026-9999
 zztxtwtmp13	0.0.1	MAL-2026-10000	https://osv.dev/vulnerability/MAL-2026-10000
 zztxtwtmp14	0.0.1	MAL-2026-10001	https://osv.dev/vulnerability/MAL-2026-10001
+zzwandshostyard	*	MAL-0000-zzwandshostyard-rubyhack	https://github.com/ossf/malicious-packages/pull/1844
 zzwandsxabc119	0.0.1	MAL-2026-10002	https://osv.dev/vulnerability/MAL-2026-10002
 zzwandtemp1778552518	0.0.1	MAL-2026-10003	https://osv.dev/vulnerability/MAL-2026-10003
 zzwandtemp1778552518	0.0.2	MAL-2026-10003	https://osv.dev/vulnerability/MAL-2026-10003
