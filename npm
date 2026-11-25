@@ -33078,10 +33078,9 @@ apache-airflow-ui	*	MAL-2024-11941	https://osv.dev/vulnerability/MAL-2024-11941
 apache-arrow-17	9.9.9	MAL-2026-7206	https://osv.dev/vulnerability/MAL-2026-7206
 apache-httpclient	*	MAL-2025-3609	https://osv.dev/vulnerability/MAL-2025-3609
 apache-httpclient10	1.0.0	MAL-2026-20353	https://osv.dev/vulnerability/MAL-2026-20353
-apache-httpclient2	*	MAL-0000-ghsa-malware-98c3477914545b4e	https://github.com/ossf/malicious-packages/blob/60f60ec34edb1301adf93c8a880e92df7ede9acf/osv/malicious/npm/apache-httpclient2/MAL-0000-ghsa-malware-98c3477914545b4e.json
-apache-httpclient2	1.0.0	MAL-2026-20354	https://osv.dev/vulnerability/MAL-2026-20354
-apache-httpclient3	*	MAL-0000-ghsa-malware-2bd81139fbf1d93e	https://github.com/ossf/malicious-packages/blob/60f60ec34edb1301adf93c8a880e92df7ede9acf/osv/malicious/npm/apache-httpclient3/MAL-0000-ghsa-malware-2bd81139fbf1d93e.json
-apache-httpclient4	*	MAL-0000-ghsa-malware-f4da1a627ded1183	https://github.com/ossf/malicious-packages/blob/60f60ec34edb1301adf93c8a880e92df7ede9acf/osv/malicious/npm/apache-httpclient4/MAL-0000-ghsa-malware-f4da1a627ded1183.json
+apache-httpclient2	*	MAL-2026-20354	https://osv.dev/vulnerability/MAL-2026-20354
+apache-httpclient3	*	MAL-2026-20612	https://osv.dev/vulnerability/MAL-2026-20612
+apache-httpclient4	*	MAL-2026-20613	https://osv.dev/vulnerability/MAL-2026-20613
 apache-httpclient6	1.0.0	MAL-2026-20355	https://osv.dev/vulnerability/MAL-2026-20355
 apache-httpclient7	1.0.0	MAL-2026-20356	https://osv.dev/vulnerability/MAL-2026-20356
 apache-iotdb	*	MAL-2025-4430	https://osv.dev/vulnerability/MAL-2025-4430
@@ -59009,7 +59008,7 @@ create-vercel-integration	1.0.0	MAL-2026-5894	https://osv.dev/vulnerability/MAL-
 create-wrangler-deploy	0.1.1	MAL-2026-5241	https://osv.dev/vulnerability/MAL-2026-5241
 create-y	*	MAL-2025-17667	https://osv.dev/vulnerability/MAL-2025-17667
 create-zplayer-plugin	*	MAL-2023-213	https://osv.dev/vulnerability/MAL-2023-213
-create_meme_pumpfun	*	MAL-0000-ghsa-malware-efd7399d17998c02	https://github.com/ossf/malicious-packages/blob/60f60ec34edb1301adf93c8a880e92df7ede9acf/osv/malicious/npm/create_meme_pumpfun/MAL-0000-ghsa-malware-efd7399d17998c02.json
+create_meme_pumpfun	*	MAL-2026-20614	https://osv.dev/vulnerability/MAL-2026-20614
 createarrayfrommixed	1.9.1	MAL-2024-1155	https://osv.dev/vulnerability/MAL-2024-1155
 createractclass	*	MAL-2022-2231	https://osv.dev/vulnerability/MAL-2022-2231
 createtile	*	MAL-2022-2232	https://osv.dev/vulnerability/MAL-2022-2232
@@ -94688,7 +94687,7 @@ gramin-npm	*	MAL-2022-3444	https://osv.dev/vulnerability/MAL-2022-3444
 grammarly-desktop	10.5.1	MAL-2024-2436	https://osv.dev/vulnerability/MAL-2024-2436
 grammarly-editor	*	MAL-2022-3445	https://osv.dev/vulnerability/MAL-2022-3445
 grammarly-editor-sdk	*	MAL-2025-6092	https://osv.dev/vulnerability/MAL-2025-6092
-grammy-key	*	MAL-0000-ghsa-malware-ed9ec49051103cc6	https://github.com/ossf/malicious-packages/blob/60f60ec34edb1301adf93c8a880e92df7ede9acf/osv/malicious/npm/grammy-key/MAL-0000-ghsa-malware-ed9ec49051103cc6.json
+grammy-key	*	MAL-2026-20615	https://osv.dev/vulnerability/MAL-2026-20615
 grammy-menu	*	MAL-2025-4082	https://osv.dev/vulnerability/MAL-2025-4082
 grammy-sdk	*	MAL-2025-4083	https://osv.dev/vulnerability/MAL-2025-4083
 grammy-telegram-bot-api	*	MAL-2025-4084	https://osv.dev/vulnerability/MAL-2025-4084
