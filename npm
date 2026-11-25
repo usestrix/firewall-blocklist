@@ -53882,6 +53882,7 @@ claims-types	35.8.3	MAL-2026-12645	https://osv.dev/vulnerability/MAL-2026-12645
 claims-use-base-analytics	35.4.9	MAL-2026-12646	https://osv.dev/vulnerability/MAL-2026-12646
 claims-use-callback-once	35.6.7	MAL-2026-12647	https://osv.dev/vulnerability/MAL-2026-12647
 claims-use-visual-viewport-resizing	35.2.8	MAL-2026-12648	https://osv.dev/vulnerability/MAL-2026-12648
+clamp4js	*	MAL-0000-clamp4js	https://github.com/ossf/malicious-packages/pull/1847
 clampony	1.0.10	MAL-2026-20433	https://osv.dev/vulnerability/MAL-2026-20433
 clampony	1.0.11	MAL-2026-20433	https://osv.dev/vulnerability/MAL-2026-20433
 clampony	1.0.9	MAL-2026-20433	https://osv.dev/vulnerability/MAL-2026-20433
