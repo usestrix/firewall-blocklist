@@ -58950,9 +58950,9 @@ cream-gas-among	*	MAL-2025-43906	https://osv.dev/vulnerability/MAL-2025-43906
 cream-notthedevs	*	MAL-2025-101052	https://osv.dev/vulnerability/MAL-2025-101052
 creamture	*	MAL-2025-17661	https://osv.dev/vulnerability/MAL-2025-17661
 creamycandys	*	MAL-2025-67528	https://osv.dev/vulnerability/MAL-2025-67528
-create-ai-agent-setup	2.0.0	MAL-0000-ghsa-malware-37b2b785dfe430d2	https://github.com/ossf/malicious-packages/blob/9b7f0168056f44fafccb360d00685e016e39ae72/osv/malicious/npm/create-ai-agent-setup/MAL-0000-ghsa-malware-37b2b785dfe430d2.json
-create-ai-agent-setup	2.0.0-alpha.0	MAL-0000-ghsa-malware-37b2b785dfe430d2	https://github.com/ossf/malicious-packages/blob/9b7f0168056f44fafccb360d00685e016e39ae72/osv/malicious/npm/create-ai-agent-setup/MAL-0000-ghsa-malware-37b2b785dfe430d2.json
-create-ai-agent-setup	2.1.0	MAL-0000-ghsa-malware-37b2b785dfe430d2	https://github.com/ossf/malicious-packages/blob/9b7f0168056f44fafccb360d00685e016e39ae72/osv/malicious/npm/create-ai-agent-setup/MAL-0000-ghsa-malware-37b2b785dfe430d2.json
+create-ai-agent-setup	2.0.0	MAL-2026-20623	https://osv.dev/vulnerability/MAL-2026-20623
+create-ai-agent-setup	2.0.0-alpha.0	MAL-2026-20623	https://osv.dev/vulnerability/MAL-2026-20623
+create-ai-agent-setup	2.1.0	MAL-2026-20623	https://osv.dev/vulnerability/MAL-2026-20623
 create-app-attachment-github-action	*	MAL-2025-5682	https://osv.dev/vulnerability/MAL-2025-5682
 create-arnext-app	0.0.10	MAL-2026-4538	https://osv.dev/vulnerability/MAL-2026-4538
 create-artifact-worker	*	MAL-2025-48560	https://osv.dev/vulnerability/MAL-2025-48560
