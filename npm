@@ -100485,6 +100485,9 @@ higirl	*	MAL-2025-22430	https://osv.dev/vulnerability/MAL-2025-22430
 hihihiha	*	MAL-2025-22431	https://osv.dev/vulnerability/MAL-2025-22431
 hiiiiiiiiiiiiiiiiiiiiii	10.0.1	MAL-2024-2477	https://osv.dev/vulnerability/MAL-2024-2477
 hijack_publish	*	MAL-2025-4937	https://osv.dev/vulnerability/MAL-2025-4937
+hijiko-parser	1.0.0	MAL-0000-amazon-inspector-24e47ff4cbd33308	https://github.com/ossf/malicious-packages/blob/d427f64d86a507cc511556176b65c4c6ba90c6d5/osv/malicious/npm/hijiko-parser/MAL-0000-amazon-inspector-24e47ff4cbd33308.json
+hijiko-parser	1.0.1	MAL-0000-amazon-inspector-6c50caaccafff927	https://github.com/ossf/malicious-packages/blob/d427f64d86a507cc511556176b65c4c6ba90c6d5/osv/malicious/npm/hijiko-parser/MAL-0000-amazon-inspector-6c50caaccafff927.json
+hijiko-parser	1.0.1	MAL-0000-amazon-inspector-c576e7a02877fa49	https://github.com/ossf/malicious-packages/blob/d427f64d86a507cc511556176b65c4c6ba90c6d5/osv/malicious/npm/hijiko-parser/MAL-0000-amazon-inspector-c576e7a02877fa49.json
 hijink	*	MAL-2025-22432	https://osv.dev/vulnerability/MAL-2025-22432
 hilarious-amber-moth	*	MAL-2025-68670	https://osv.dev/vulnerability/MAL-2025-68670
 hilarious-blush-woodpecker	*	MAL-2025-68671	https://osv.dev/vulnerability/MAL-2025-68671
@@ -112754,6 +112757,8 @@ jigsaw_uwy3e_clwpf_plume	*	MAL-2025-23800	https://osv.dev/vulnerability/MAL-2025
 jigsaw_zfcc1_hc9s5_blossom	*	MAL-2025-23801	https://osv.dev/vulnerability/MAL-2025-23801
 jigsolver	*	MAL-2025-23802	https://osv.dev/vulnerability/MAL-2025-23802
 jiinfo	*	MAL-2025-23803	https://osv.dev/vulnerability/MAL-2025-23803
+jikaya-parser	1.0.0	MAL-0000-amazon-inspector-8ff9f30c020a823a	https://github.com/ossf/malicious-packages/blob/d427f64d86a507cc511556176b65c4c6ba90c6d5/osv/malicious/npm/jikaya-parser/MAL-0000-amazon-inspector-8ff9f30c020a823a.json
+jikaya-parser	1.0.1	MAL-0000-amazon-inspector-f53be8155bfc41eb	https://github.com/ossf/malicious-packages/blob/d427f64d86a507cc511556176b65c4c6ba90c6d5/osv/malicious/npm/jikaya-parser/MAL-0000-amazon-inspector-f53be8155bfc41eb.json
 jillingme	*	MAL-2025-23804	https://osv.dev/vulnerability/MAL-2025-23804
 jima23-frame-print	*	MAL-2025-23805	https://osv.dev/vulnerability/MAL-2025-23805
 jimbooth	*	MAL-2025-23806	https://osv.dev/vulnerability/MAL-2025-23806
@@ -115919,6 +115924,11 @@ justtestasa	*	MAL-2025-24124	https://osv.dev/vulnerability/MAL-2025-24124
 jutsulepb-	*	MAL-2023-545	https://osv.dev/vulnerability/MAL-2023-545
 juvare	*	MAL-2025-3259	https://osv.dev/vulnerability/MAL-2025-3259
 juvoft	*	MAL-2025-24125	https://osv.dev/vulnerability/MAL-2025-24125
+juyip-parser-assets	1.0.1	MAL-0000-amazon-inspector-88c47b01a7b3719e	https://github.com/ossf/malicious-packages/blob/d427f64d86a507cc511556176b65c4c6ba90c6d5/osv/malicious/npm/juyip-parser-assets/MAL-0000-amazon-inspector-88c47b01a7b3719e.json
+juyip-parser-helper	1.0.0	MAL-0000-amazon-inspector-bd770d31f092f0b0	https://github.com/ossf/malicious-packages/blob/d427f64d86a507cc511556176b65c4c6ba90c6d5/osv/malicious/npm/juyip-parser-helper/MAL-0000-amazon-inspector-bd770d31f092f0b0.json
+juyip-parser-helper	1.0.1	MAL-0000-amazon-inspector-0a804363ce357d88	https://github.com/ossf/malicious-packages/blob/d427f64d86a507cc511556176b65c4c6ba90c6d5/osv/malicious/npm/juyip-parser-helper/MAL-0000-amazon-inspector-0a804363ce357d88.json
+juyip-parser-helper	1.0.2	MAL-0000-amazon-inspector-10fcb907dc294078	https://github.com/ossf/malicious-packages/blob/d427f64d86a507cc511556176b65c4c6ba90c6d5/osv/malicious/npm/juyip-parser-helper/MAL-0000-amazon-inspector-10fcb907dc294078.json
+juyip-parser-helper	1.0.4	MAL-0000-amazon-inspector-ee6004ae876cea7a	https://github.com/ossf/malicious-packages/blob/d427f64d86a507cc511556176b65c4c6ba90c6d5/osv/malicious/npm/juyip-parser-helper/MAL-0000-amazon-inspector-ee6004ae876cea7a.json
 juytjwfgtrhefregfef	*	MAL-2025-93	https://osv.dev/vulnerability/MAL-2025-93
 jvector-release	*	MAL-2025-48695	https://osv.dev/vulnerability/MAL-2025-48695
 jvgmepykdwfrqali	*	MAL-2022-4087	https://osv.dev/vulnerability/MAL-2022-4087
@@ -144820,6 +144830,7 @@ native-rollup-plugin-sagitta-tectonophysics	*	MAL-2025-188185	https://osv.dev/vu
 native-runner	*	MAL-2026-17218	https://osv.dev/vulnerability/MAL-2026-17218
 native-spectron-mini-css-extract-plugin-loopback	*	MAL-2025-145295	https://osv.dev/vulnerability/MAL-2025-145295
 native-stack	213.21.24	MAL-2024-9723	https://osv.dev/vulnerability/MAL-2024-9723
+native-stream-parser	1.0.1	MAL-0000-amazon-inspector-d4fb217d81e79be4	https://github.com/ossf/malicious-packages/blob/d427f64d86a507cc511556176b65c4c6ba90c6d5/osv/malicious/npm/native-stream-parser/MAL-0000-amazon-inspector-d4fb217d81e79be4.json
 native-svg	*	MAL-2023-615	https://osv.dev/vulnerability/MAL-2023-615
 native-technocracy-astrobiology-hologram	*	MAL-2025-27090	https://osv.dev/vulnerability/MAL-2025-27090
 native-terser-polaris-xml	*	MAL-2025-145296	https://osv.dev/vulnerability/MAL-2025-145296
