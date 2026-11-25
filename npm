@@ -156806,7 +156806,7 @@ online-header	99.0.0	MAL-2026-17420	https://osv.dev/vulnerability/MAL-2026-17420
 online-learning-components	*	MAL-2025-5446	https://osv.dev/vulnerability/MAL-2025-5446
 online-learning-translations	*	MAL-2025-5447	https://osv.dev/vulnerability/MAL-2025-5447
 online-learning-ui	*	MAL-2025-5448	https://osv.dev/vulnerability/MAL-2025-5448
-onlinegdb	1.0.0	MAL-0000-onlinegdb	https://github.com/ossf/malicious-packages/blob/bfca0d72920435f1c0c7ad6231e914e4860b2ad6/osv/malicious/npm/onlinegdb/MAL-0000-onlinegdb.json
+onlinegdb	1.0.0	MAL-2026-20549	https://osv.dev/vulnerability/MAL-2026-20549
 only-aquamarine-marmot	*	MAL-2025-69715	https://osv.dev/vulnerability/MAL-2025-69715
 only-blush-snipe	*	MAL-2025-138910	https://osv.dev/vulnerability/MAL-2025-138910
 only-fuchsia-dormouse	*	MAL-2025-69716	https://osv.dev/vulnerability/MAL-2025-69716
