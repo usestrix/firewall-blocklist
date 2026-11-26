@@ -75136,6 +75136,7 @@ ember-pt-components	*	MAL-2025-19566	https://osv.dev/vulnerability/MAL-2025-1956
 ember-pvd7i-encu7-yarn-project	*	MAL-2025-19567	https://osv.dev/vulnerability/MAL-2025-19567
 ember-qs6jb-mj6qk-serenity-project	*	MAL-2025-19568	https://osv.dev/vulnerability/MAL-2025-19568
 ember-qt0xk-mw6hu-glow-project	*	MAL-2025-19569	https://osv.dev/vulnerability/MAL-2025-19569
+ember-quickstart	1.0.0	MAL-0000-invisirisk-ember-quickstart	https://github.com/ossf/malicious-packages/pull/1851
 ember-qunit-notifications	*	MAL-2022-2722	https://osv.dev/vulnerability/MAL-2022-2722
 ember-reactive-decorators	*	MAL-2025-4826	https://osv.dev/vulnerability/MAL-2025-4826
 ember-routing-htmlbars	*	MAL-2025-5346	https://osv.dev/vulnerability/MAL-2025-5346
@@ -197178,6 +197179,7 @@ svelte-visual-map	*	MAL-2026-13477	https://osv.dev/vulnerability/MAL-2026-13477
 svelte-vli-ui	*	MAL-2026-14541	https://osv.dev/vulnerability/MAL-2026-14541
 sveltejs	*	MAL-2025-34251	https://osv.dev/vulnerability/MAL-2025-34251
 svenum	*	MAL-2025-34252	https://osv.dev/vulnerability/MAL-2025-34252
+svg-bucket	2.0.0	MAL-0000-invisirisk-svg-bucket	https://github.com/ossf/malicious-packages/pull/1850
 svg-config-viewer	*	MAL-2025-34253	https://osv.dev/vulnerability/MAL-2025-34253
 svg-content-validation	*	MAL-2026-1980	https://osv.dev/vulnerability/MAL-2026-1980
 svg-fetcher	*	MAL-2026-10427	https://osv.dev/vulnerability/MAL-2026-10427
