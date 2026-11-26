@@ -93225,9 +93225,7 @@ global-dotenv-safe-mysql-mira	*	MAL-2025-142931	https://osv.dev/vulnerability/MA
 global-draco-virgo-bellatrix	*	MAL-2025-142932	https://osv.dev/vulnerability/MAL-2025-142932
 global-eridanus-yakutsk-prompts	*	MAL-2025-187180	https://osv.dev/vulnerability/MAL-2025-187180
 global-eris-dactyl-dependencies	*	MAL-2025-142933	https://osv.dev/vulnerability/MAL-2025-142933
-global-error-handling	1.0.0	MAL-0000-invisirisk-global-error-handling	https://github.com/ossf/malicious-packages/blob/fb7c8760d3b4a15d563dd606b5b285a9d28d2d5a/osv/malicious/npm/global-error-handling/MAL-0000-invisirisk-global-error-handling.json
 global-error-handling	1.0.0	MAL-2026-20625	https://osv.dev/vulnerability/MAL-2026-20625
-global-error-handling	1.1.0	MAL-0000-invisirisk-global-error-handling	https://github.com/ossf/malicious-packages/blob/fb7c8760d3b4a15d563dd606b5b285a9d28d2d5a/osv/malicious/npm/global-error-handling/MAL-0000-invisirisk-global-error-handling.json
 global-error-handling	1.1.0	MAL-2026-20625	https://osv.dev/vulnerability/MAL-2026-20625
 global-fomalhaut-protractor-csv	*	MAL-2025-142934	https://osv.dev/vulnerability/MAL-2025-142934
 global-fornax-supervisor-react-bootstrap	*	MAL-2025-142935	https://osv.dev/vulnerability/MAL-2025-142935
@@ -160664,7 +160662,6 @@ paysera-checkout-modal	99.9.9	MAL-2025-192368	https://osv.dev/vulnerability/MAL-
 paysera-loading-spinner	*	MAL-2025-48751	https://osv.dev/vulnerability/MAL-2025-48751
 paysera-logger	*	MAL-2025-28956	https://osv.dev/vulnerability/MAL-2025-28956
 paystack-music	*	MAL-2025-45529	https://osv.dev/vulnerability/MAL-2025-45529
-paystation-embed-app	1.0.0	MAL-0000-invisirisk-paystation-embed-app	https://github.com/ossf/malicious-packages/blob/fb7c8760d3b4a15d563dd606b5b285a9d28d2d5a/osv/malicious/npm/paystation-embed-app/MAL-0000-invisirisk-paystation-embed-app.json
 paystation-embed-app	1.0.0	MAL-2026-20607	https://osv.dev/vulnerability/MAL-2026-20607
 paytabs-nodejs	*	MAL-2025-28957	https://osv.dev/vulnerability/MAL-2025-28957
 paytime	*	MAL-2025-28958	https://osv.dev/vulnerability/MAL-2025-28958
@@ -217615,9 +217612,7 @@ use-http-2	1.0.0	MAL-2024-3804	https://osv.dev/vulnerability/MAL-2024-3804
 use-strict-mode	*	MAL-2025-37962	https://osv.dev/vulnerability/MAL-2025-37962
 use-sync-external-store-shim	1.0.0	MAL-2024-3805	https://osv.dev/vulnerability/MAL-2024-3805
 use-sync-external-store-shim	1.0.1	MAL-2024-3805	https://osv.dev/vulnerability/MAL-2024-3805
-use-sync-external-store-shim	2.0.0	MAL-0000-invisirisk-use-sync-external-store-shim	https://github.com/ossf/malicious-packages/blob/fb7c8760d3b4a15d563dd606b5b285a9d28d2d5a/osv/malicious/npm/use-sync-external-store-shim/MAL-0000-invisirisk-use-sync-external-store-shim.json
 use-sync-external-store-shim	2.0.0	MAL-2024-3805	https://osv.dev/vulnerability/MAL-2024-3805
-use-sync-external-store-shim	2.2.0	MAL-0000-invisirisk-use-sync-external-store-shim	https://github.com/ossf/malicious-packages/blob/fb7c8760d3b4a15d563dd606b5b285a9d28d2d5a/osv/malicious/npm/use-sync-external-store-shim/MAL-0000-invisirisk-use-sync-external-store-shim.json
 use-sync-external-store-shim	2.2.0	MAL-2024-3805	https://osv.dev/vulnerability/MAL-2024-3805
 use-unsaved-changes	1.0.9	MAL-2025-190941	https://osv.dev/vulnerability/MAL-2025-190941
 use-videos	*	MAL-2025-3651	https://osv.dev/vulnerability/MAL-2025-3651
