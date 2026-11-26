@@ -63628,6 +63628,15 @@ devtools-wasm-dwarf	*	MAL-2022-2458	https://osv.dev/vulnerability/MAL-2022-2458
 dew-756sx-5rssf-zenith-project	*	MAL-2025-18363	https://osv.dev/vulnerability/MAL-2025-18363
 dew-api	*	MAL-2026-20661	https://osv.dev/vulnerability/MAL-2026-20661
 dew-baileys	*	MAL-2026-20662	https://osv.dev/vulnerability/MAL-2026-20662
+dew-baileys	1.0.0	MAL-0000-dew-baileys	https://github.com/ossf/malicious-packages/pull/1852
+dew-baileys	3.0.4	MAL-0000-dew-baileys	https://github.com/ossf/malicious-packages/pull/1852
+dew-baileys	3.0.5	MAL-0000-dew-baileys	https://github.com/ossf/malicious-packages/pull/1852
+dew-baileys	3.0.6	MAL-0000-dew-baileys	https://github.com/ossf/malicious-packages/pull/1852
+dew-baileys	3.0.7	MAL-0000-dew-baileys	https://github.com/ossf/malicious-packages/pull/1852
+dew-baileys	3.0.8	MAL-0000-dew-baileys	https://github.com/ossf/malicious-packages/pull/1852
+dew-baileys	3.0.9	MAL-0000-dew-baileys	https://github.com/ossf/malicious-packages/pull/1852
+dew-baileys	3.1.0	MAL-0000-dew-baileys	https://github.com/ossf/malicious-packages/pull/1852
+dew-baileys	3.1.1	MAL-0000-dew-baileys	https://github.com/ossf/malicious-packages/pull/1852
 dew-downloader	*	MAL-2026-20663	https://osv.dev/vulnerability/MAL-2026-20663
 dew-ki9ax-56us9-kismet-project	*	MAL-2025-18364	https://osv.dev/vulnerability/MAL-2025-18364
 dew-pg2yp-naozx-zen-project	*	MAL-2025-18365	https://osv.dev/vulnerability/MAL-2025-18365
