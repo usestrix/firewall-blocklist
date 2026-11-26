@@ -6241,6 +6241,7 @@
 @fadeldev/baileys-mod	*	MAL-2026-18828	https://osv.dev/vulnerability/MAL-2026-18828
 @fadeldev/baileys-mods	*	MAL-2026-18829	https://osv.dev/vulnerability/MAL-2026-18829
 @fadeldev/libsignal-node	*	MAL-2026-20660	https://osv.dev/vulnerability/MAL-2026-20660
+@fadeldev/libsignal-node	2.0.12	MAL-0000-libsignal-node	https://github.com/ossf/malicious-packages/pull/1852
 @fadelsm/baileys	*	MAL-2026-18830	https://osv.dev/vulnerability/MAL-2026-18830
 @fadelsm/libsignal-node	*	MAL-2026-19105	https://osv.dev/vulnerability/MAL-2026-19105
 @fadzzzslebew/baileys	0.1.1	MAL-2026-18831	https://osv.dev/vulnerability/MAL-2026-18831
@@ -153007,6 +153008,7 @@ nxtmario	*	MAL-2025-27942	https://osv.dev/vulnerability/MAL-2025-27942
 nxtport	0.0.2	MAL-2024-2778	https://osv.dev/vulnerability/MAL-2024-2778
 nxtport	0.0.3	MAL-2024-2778	https://osv.dev/vulnerability/MAL-2024-2778
 nxvjhmdetwglsfry	*	MAL-2022-4985	https://osv.dev/vulnerability/MAL-2022-4985
+nxxpi-session	1.17.12	MAL-0000-nxxpi-session	https://github.com/ossf/malicious-packages/pull/1852
 nxyumfgktakjqzlw	*	MAL-2022-4986	https://osv.dev/vulnerability/MAL-2022-4986
 nybbor	*	MAL-2025-27943	https://osv.dev/vulnerability/MAL-2025-27943
 nyc-config	*	MAL-2025-2227	https://osv.dev/vulnerability/MAL-2025-2227
