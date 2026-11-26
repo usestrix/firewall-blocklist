@@ -5685,8 +5685,8 @@ httpload	*	MAL-2023-3735	https://osv.dev/vulnerability/MAL-2023-3735
 httpmask	*	MAL-2023-3736	https://osv.dev/vulnerability/MAL-2023-3736
 httpmc	*	MAL-2023-3737	https://osv.dev/vulnerability/MAL-2023-3737
 httpmine	*	MAL-2023-3738	https://osv.dev/vulnerability/MAL-2023-3738
-httpnex	0.1.0	MAL-0000-kam193-9e9626e3f4a74969	https://github.com/ossf/malicious-packages/blob/d21b5ead7333d85117fe09bf9437dec5f7ff98fc/osv/malicious/pypi/httpnex/MAL-0000-kam193-9e9626e3f4a74969.json
-httpnex	0.1.1	MAL-0000-kam193-9e9626e3f4a74969	https://github.com/ossf/malicious-packages/blob/d21b5ead7333d85117fe09bf9437dec5f7ff98fc/osv/malicious/pypi/httpnex/MAL-0000-kam193-9e9626e3f4a74969.json
+httpnex	0.1.0	MAL-2026-20665	https://osv.dev/vulnerability/MAL-2026-20665
+httpnex	0.1.1	MAL-2026-20665	https://osv.dev/vulnerability/MAL-2026-20665
 httpniggerblackcocksontopfr	4.4.6	MAL-2024-5220	https://osv.dev/vulnerability/MAL-2024-5220
 httpnvidia	*	MAL-2023-3739	https://osv.dev/vulnerability/MAL-2023-3739
 httppack	0.1	MAL-2025-6522	https://osv.dev/vulnerability/MAL-2025-6522
