@@ -115185,7 +115185,7 @@ js_packages_security_test	*	MAL-2022-4063	https://osv.dev/vulnerability/MAL-2022
 jsase64	*	MAL-2022-4064	https://osv.dev/vulnerability/MAL-2022-4064
 jsb-adapter	*	MAL-2026-15512	https://osv.dev/vulnerability/MAL-2026-15512
 jscarton	*	MAL-2025-23941	https://osv.dev/vulnerability/MAL-2025-23941
-jsclamping	*	MAL-0000-ghsa-malware-02ed1e09412236cc	https://github.com/ossf/malicious-packages/blob/6d7d4ef927f878e957e947840a91f022278d7b30/osv/malicious/npm/jsclamping/MAL-0000-ghsa-malware-02ed1e09412236cc.json
+jsclamping	*	MAL-2026-20654	https://osv.dev/vulnerability/MAL-2026-20654
 jsconvict	*	MAL-2026-19232	https://osv.dev/vulnerability/MAL-2026-19232
 jscourse	*	MAL-2025-23942	https://osv.dev/vulnerability/MAL-2025-23942
 jscrambler	8.14.0	MAL-2026-10187	https://osv.dev/vulnerability/MAL-2026-10187
@@ -182639,9 +182639,9 @@ safe_swan_z3n	*	MAL-2025-61232	https://osv.dev/vulnerability/MAL-2025-61232
 safe_tyrannosaurus_0xrequest	*	MAL-2025-108336	https://osv.dev/vulnerability/MAL-2025-108336
 safe_wallaby_z3n	*	MAL-2025-96437	https://osv.dev/vulnerability/MAL-2025-96437
 safebs58.js	2.3.2	MAL-2024-7886	https://osv.dev/vulnerability/MAL-2024-7886
-safeclamp	*	MAL-0000-ghsa-malware-423eec22ed54205e	https://github.com/ossf/malicious-packages/blob/6d7d4ef927f878e957e947840a91f022278d7b30/osv/malicious/npm/safeclamp/MAL-0000-ghsa-malware-423eec22ed54205e.json
-safeclamp2	*	MAL-0000-ghsa-malware-16c68a2f94225313	https://github.com/ossf/malicious-packages/blob/6d7d4ef927f878e957e947840a91f022278d7b30/osv/malicious/npm/safeclamp2/MAL-0000-ghsa-malware-16c68a2f94225313.json
-safeclamp3	*	MAL-0000-ghsa-malware-78f9ab19dd16a8e0	https://github.com/ossf/malicious-packages/blob/6d7d4ef927f878e957e947840a91f022278d7b30/osv/malicious/npm/safeclamp3/MAL-0000-ghsa-malware-78f9ab19dd16a8e0.json
+safeclamp	*	MAL-2026-20655	https://osv.dev/vulnerability/MAL-2026-20655
+safeclamp2	*	MAL-2026-20656	https://osv.dev/vulnerability/MAL-2026-20656
+safeclamp3	*	MAL-2026-20657	https://osv.dev/vulnerability/MAL-2026-20657
 safehaven-sdk	*	MAL-2022-5907	https://osv.dev/vulnerability/MAL-2022-5907
 safeness-backup	*	MAL-2024-11154	https://osv.dev/vulnerability/MAL-2024-11154
 safeness-sb	*	MAL-2024-11155	https://osv.dev/vulnerability/MAL-2024-11155
@@ -212905,7 +212905,7 @@ uchiwa	*	MAL-2024-9191	https://osv.dev/vulnerability/MAL-2024-9191
 uchiwa-web	*	MAL-2024-11842	https://osv.dev/vulnerability/MAL-2024-11842
 ucifsplus	*	MAL-2025-37484	https://osv.dev/vulnerability/MAL-2025-37484
 uclagl	*	MAL-2025-37485	https://osv.dev/vulnerability/MAL-2025-37485
-uclamp	*	MAL-0000-ghsa-malware-c6320d0cc2d9819a	https://github.com/ossf/malicious-packages/blob/6d7d4ef927f878e957e947840a91f022278d7b30/osv/malicious/npm/uclamp/MAL-0000-ghsa-malware-c6320d0cc2d9819a.json
+uclamp	*	MAL-2026-20658	https://osv.dev/vulnerability/MAL-2026-20658
 uclasrc	*	MAL-2025-37486	https://osv.dev/vulnerability/MAL-2025-37486
 ucok-poke1	*	MAL-2025-169627	https://osv.dev/vulnerability/MAL-2025-169627
 ucok-poke10	*	MAL-2025-169628	https://osv.dev/vulnerability/MAL-2025-169628
