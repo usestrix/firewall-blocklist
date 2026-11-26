@@ -2653,10 +2653,10 @@ cubaflixdownload	3.0.0	MAL-2026-900	https://osv.dev/vulnerability/MAL-2026-900
 cubaflixdownload	4.0.0	MAL-2026-900	https://osv.dev/vulnerability/MAL-2026-900
 cubaflixdownload	5.0.0	MAL-2026-900	https://osv.dev/vulnerability/MAL-2026-900
 cubaflixdownload	6.0.0	MAL-2026-900	https://osv.dev/vulnerability/MAL-2026-900
-cubepath	0.0.1	MAL-0000-kam193-61dc470c2d949d9b	https://github.com/ossf/malicious-packages/blob/c608b29f87598df401ae8bbc5235e4f3c5ee6d05/osv/malicious/pypi/cubepath/MAL-0000-kam193-61dc470c2d949d9b.json
-cubepath	0.1.0	MAL-0000-kam193-61dc470c2d949d9b	https://github.com/ossf/malicious-packages/blob/c608b29f87598df401ae8bbc5235e4f3c5ee6d05/osv/malicious/pypi/cubepath/MAL-0000-kam193-61dc470c2d949d9b.json
-cubepath	99.0.1	MAL-0000-kam193-61dc470c2d949d9b	https://github.com/ossf/malicious-packages/blob/c608b29f87598df401ae8bbc5235e4f3c5ee6d05/osv/malicious/pypi/cubepath/MAL-0000-kam193-61dc470c2d949d9b.json
-cubepath	99.0.2	MAL-0000-kam193-61dc470c2d949d9b	https://github.com/ossf/malicious-packages/blob/c608b29f87598df401ae8bbc5235e4f3c5ee6d05/osv/malicious/pypi/cubepath/MAL-0000-kam193-61dc470c2d949d9b.json
+cubepath	0.0.1	MAL-2026-20648	https://osv.dev/vulnerability/MAL-2026-20648
+cubepath	0.1.0	MAL-2026-20648	https://osv.dev/vulnerability/MAL-2026-20648
+cubepath	99.0.1	MAL-2026-20648	https://osv.dev/vulnerability/MAL-2026-20648
+cubepath	99.0.2	MAL-2026-20648	https://osv.dev/vulnerability/MAL-2026-20648
 cubesat-upstream-driver	1.0.1	MAL-2026-13666	https://osv.dev/vulnerability/MAL-2026-13666
 cubifyanything	1.0.0	MAL-2026-5404	https://osv.dev/vulnerability/MAL-2026-5404
 cubifyanything	1.0.1	MAL-2026-5404	https://osv.dev/vulnerability/MAL-2026-5404
