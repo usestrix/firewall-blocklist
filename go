@@ -16,7 +16,10 @@ github.com/adieuu-llc/adieuu-2026	v0.4.12	MAL-0000-levpachmanov-93f8e5775dcfedb8
 github.com/adieuu-llc/adieuu-2026	v0.4.9	MAL-0000-levpachmanov-93f8e5775dcfedb8	https://github.com/ossf/malicious-packages/pull/1835
 github.com/belatedplanet/hypert	*	MAL-2025-2544	https://osv.dev/vulnerability/MAL-2025-2544
 github.com/boltdb-go/bolt	*	MAL-2025-2545	https://osv.dev/vulnerability/MAL-2025-2545
+github.com/dimetro-only/slv	*	MAL-0000-chainguard-dimetro-only-slv	https://github.com/ossf/malicious-packages/pull/1848
+github.com/etherdev12/go-rpc	>=0.1.3	MAL-0000-chainguard-etherdev12-go-rpc	https://github.com/ossf/malicious-packages/pull/1848
 github.com/evilgodfahim/kal	v0.0.0-20260805062327-23dc26d5459b	MAL-0000-levpachmanov-3c545d1fa1b45be4	https://github.com/ossf/malicious-packages/pull/1835
+github.com/jack8960/guuidx	*	MAL-0000-chainguard-jack8960-guuidx	https://github.com/ossf/malicious-packages/pull/1848
 github.com/juxtaposition1/v.a.p.e	v0.0.0-20260805081246-648cd8543c4f	MAL-0000-levpachmanov-c8074f290305a1f3	https://github.com/ossf/malicious-packages/pull/1835
 github.com/juxtaposition1/v.a.p.e	v0.0.0-20260805084238-a34d6435a226	MAL-0000-levpachmanov-c8074f290305a1f3	https://github.com/ossf/malicious-packages/pull/1835
 github.com/juxtaposition1/v.a.p.e	v0.0.0-20260805085748-6b70acca383d	MAL-0000-levpachmanov-c8074f290305a1f3	https://github.com/ossf/malicious-packages/pull/1835

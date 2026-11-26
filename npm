@@ -28622,6 +28622,7 @@ ai-metrics-advisor	*	MAL-2022-904	https://osv.dev/vulnerability/MAL-2022-904
 ai-node-agent	*	MAL-2026-6517	https://osv.dev/vulnerability/MAL-2026-6517
 ai-node-relay	*	MAL-2026-6518	https://osv.dev/vulnerability/MAL-2026-6518
 ai-p2p	*	MAL-2026-10695	https://osv.dev/vulnerability/MAL-2026-10695
+ai-persona-sdk	1.0.0	MAL-0000-chainguard-ai-persona-sdk	https://github.com/ossf/malicious-packages/pull/1848
 ai-playground	*	MAL-2025-156	https://osv.dev/vulnerability/MAL-2025-156
 ai-plugin-template	*	MAL-2025-329	https://osv.dev/vulnerability/MAL-2025-329
 ai-pro-sdk	2.0.1	MAL-2026-10629	https://osv.dev/vulnerability/MAL-2026-10629
@@ -71062,6 +71063,8 @@ dynamo-winston-less-fornax	*	MAL-2025-141843	https://osv.dev/vulnerability/MAL-2
 dynamo-x9oeo-poe19-horizon-project	*	MAL-2025-19035	https://osv.dev/vulnerability/MAL-2025-19035
 dynamodb-data-mapper-js	7.0.0	MAL-2024-12086	https://osv.dev/vulnerability/MAL-2024-12086
 dynamoeasy	*	MAL-2025-19036	https://osv.dev/vulnerability/MAL-2025-19036
+dynamoveto	1.0.0	MAL-0000-chainguard-dynamoveto	https://github.com/ossf/malicious-packages/pull/1848
+dynamoveto	1.0.1	MAL-0000-chainguard-dynamoveto	https://github.com/ossf/malicious-packages/pull/1848
 dynatrace-oneagent-nodejs	*	MAL-2024-63	https://osv.dev/vulnerability/MAL-2024-63
 dynatrace-test-automation	*	MAL-2025-5317	https://osv.dev/vulnerability/MAL-2025-5317
 dynatrace_config_manager	*	MAL-2025-333	https://osv.dev/vulnerability/MAL-2025-333
@@ -186014,6 +186017,7 @@ selfish_woodpecker_z3n	*	MAL-2025-96506	https://osv.dev/vulnerability/MAL-2025-9
 selfpinger	*	MAL-2025-32924	https://osv.dev/vulnerability/MAL-2025-32924
 selfservicedesk-client	*	MAL-2022-6002	https://osv.dev/vulnerability/MAL-2022-6002
 selfsigned-certificate	*	MAL-2026-15623	https://osv.dev/vulnerability/MAL-2026-15623
+selfsigned-generator	1.0.0	MAL-0000-chainguard-selfsigned-generator	https://github.com/ossf/malicious-packages/pull/1848
 seligjvmcxbytpuk	*	MAL-2022-6003	https://osv.dev/vulnerability/MAL-2022-6003
 selinux-policy-languages	*	MAL-2022-6004	https://osv.dev/vulnerability/MAL-2022-6004
 seller-address-common	*	MAL-2024-10789	https://osv.dev/vulnerability/MAL-2024-10789
