@@ -11441,7 +11441,7 @@
 @nothingly/test	*	MAL-2025-9117	https://osv.dev/vulnerability/MAL-2025-9117
 @notrainer/nobtrainer-sdk	*	MAL-2026-18446	https://osv.dev/vulnerability/MAL-2026-18446
 @notrainers/nobtrainer-sdk	*	MAL-2025-192373	https://osv.dev/vulnerability/MAL-2025-192373
-@noventrix/dynamic-schema-normalizer	*	MAL-0000-ghsa-malware-dd0f2dac634721ff	https://github.com/ossf/malicious-packages/blob/5a866b46ee02c650316e76e7d7de65130e3b4325/osv/malicious/npm/@noventrix/dynamic-schema-normalizer/MAL-0000-ghsa-malware-dd0f2dac634721ff.json
+@noventrix/dynamic-schema-normalizer	*	MAL-2026-20668	https://osv.dev/vulnerability/MAL-2026-20668
 @now-par-components/sn-par-pillar	23.0.10	MAL-2024-3029	https://osv.dev/vulnerability/MAL-2024-3029
 @now-par-components/sn-par-pillar	23.0.20	MAL-2024-3029	https://osv.dev/vulnerability/MAL-2024-3029
 @now-par-components/sn-par-pillar	23.0.8	MAL-2024-3029	https://osv.dev/vulnerability/MAL-2024-3029
@@ -32564,7 +32564,7 @@ animatecss-tailwind-vectrix	2.0.7	MAL-2026-18074	https://osv.dev/vulnerability/M
 animated-css-kit	*	MAL-2026-10432	https://osv.dev/vulnerability/MAL-2026-10432
 animated_vector_annotations	*	MAL-2025-2031	https://osv.dev/vulnerability/MAL-2025-2031
 animation-debug-app	*	MAL-2025-191506	https://osv.dev/vulnerability/MAL-2025-191506
-animation-timeline-composer	*	MAL-0000-ghsa-malware-a3b6f16c65a4247c	https://github.com/ossf/malicious-packages/blob/5a866b46ee02c650316e76e7d7de65130e3b4325/osv/malicious/npm/animation-timeline-composer/MAL-0000-ghsa-malware-a3b6f16c65a4247c.json
+animation-timeline-composer	*	MAL-2026-20669	https://osv.dev/vulnerability/MAL-2026-20669
 animations.less	*	MAL-2025-5361	https://osv.dev/vulnerability/MAL-2025-5361
 anime-vostfr	*	MAL-2026-15968	https://osv.dev/vulnerability/MAL-2026-15968
 animoto_full_version_portable_crack_rt	*	MAL-2023-96	https://osv.dev/vulnerability/MAL-2023-96
@@ -153016,7 +153016,7 @@ nxtmario	*	MAL-2025-27942	https://osv.dev/vulnerability/MAL-2025-27942
 nxtport	0.0.2	MAL-2024-2778	https://osv.dev/vulnerability/MAL-2024-2778
 nxtport	0.0.3	MAL-2024-2778	https://osv.dev/vulnerability/MAL-2024-2778
 nxvjhmdetwglsfry	*	MAL-2022-4985	https://osv.dev/vulnerability/MAL-2022-4985
-nxxpi-session	*	MAL-0000-ghsa-malware-e12ea4effad74693	https://github.com/ossf/malicious-packages/blob/5a866b46ee02c650316e76e7d7de65130e3b4325/osv/malicious/npm/nxxpi-session/MAL-0000-ghsa-malware-e12ea4effad74693.json
+nxxpi-session	*	MAL-2026-20670	https://osv.dev/vulnerability/MAL-2026-20670
 nxxpi-session	1.17.12	MAL-0000-nxxpi-session	https://github.com/ossf/malicious-packages/pull/1852
 nxyumfgktakjqzlw	*	MAL-2022-4986	https://osv.dev/vulnerability/MAL-2022-4986
 nybbor	*	MAL-2025-27943	https://osv.dev/vulnerability/MAL-2025-27943
@@ -186628,7 +186628,7 @@ servicestack	*	MAL-2025-33014	https://osv.dev/vulnerability/MAL-2025-33014
 servula	*	MAL-2025-5582	https://osv.dev/vulnerability/MAL-2025-5582
 sess-mgmt	*	MAL-2025-4719	https://osv.dev/vulnerability/MAL-2025-4719
 sess-store	*	MAL-2025-4720	https://osv.dev/vulnerability/MAL-2025-4720
-session-exp	*	MAL-0000-ghsa-malware-14fc8d27b760b219	https://github.com/ossf/malicious-packages/blob/5a866b46ee02c650316e76e7d7de65130e3b4325/osv/malicious/npm/session-exp/MAL-0000-ghsa-malware-14fc8d27b760b219.json
+session-exp	*	MAL-2026-20671	https://osv.dev/vulnerability/MAL-2026-20671
 session-exp	1.3.18	MAL-0000-session-exp	https://github.com/ossf/malicious-packages/pull/1852
 session-exp	1.3.20	MAL-0000-session-exp	https://github.com/ossf/malicious-packages/pull/1852
 session-exp	1.3.21	MAL-0000-session-exp	https://github.com/ossf/malicious-packages/pull/1852
