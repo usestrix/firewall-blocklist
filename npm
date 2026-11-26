@@ -41080,7 +41080,6 @@ bcashjs-lib	*	MAL-2022-1478	https://osv.dev/vulnerability/MAL-2022-1478
 bcc-design	9999.0.0	MAL-2026-14117	https://osv.dev/vulnerability/MAL-2026-14117
 bcc-design-icons	9999.0.0	MAL-2026-14119	https://osv.dev/vulnerability/MAL-2026-14119
 bcdt	*	MAL-2026-20600	https://osv.dev/vulnerability/MAL-2026-20600
-bcdt	0.0.6	MAL-0000-bcdt	https://github.com/ossf/malicious-packages/blob/ab5359ad77d05d20b4c6fef9cfa5c21cee9bdc7e/osv/malicious/npm/bcdt/MAL-0000-bcdt.json
 bce-service-bos-transport	*	MAL-2024-8940	https://osv.dev/vulnerability/MAL-2024-8940
 bcfinal	*	MAL-2025-15541	https://osv.dev/vulnerability/MAL-2025-15541
 bchd-explorer	*	MAL-2022-1479	https://osv.dev/vulnerability/MAL-2022-1479
@@ -93149,7 +93148,6 @@ glance-design	*	MAL-2025-3686	https://osv.dev/vulnerability/MAL-2025-3686
 glasquare	*	MAL-2025-21563	https://osv.dev/vulnerability/MAL-2025-21563
 glbkm-vrnpk-util	*	MAL-2026-20264	https://osv.dev/vulnerability/MAL-2026-20264
 glbl-agent	*	MAL-2026-20601	https://osv.dev/vulnerability/MAL-2026-20601
-glbl-agent	3.0.0	MAL-0000-glbl-agent	https://github.com/ossf/malicious-packages/blob/ab5359ad77d05d20b4c6fef9cfa5c21cee9bdc7e/osv/malicious/npm/glbl-agent/MAL-0000-glbl-agent.json
 gleam-murmur-zlz108-project	*	MAL-2025-21564	https://osv.dev/vulnerability/MAL-2025-21564
 gleam-oak-lka367-project	*	MAL-2025-21565	https://osv.dev/vulnerability/MAL-2025-21565
 gleaming-amaranth-deer	*	MAL-2025-68534	https://osv.dev/vulnerability/MAL-2025-68534
@@ -145551,7 +145549,6 @@ neilapp	*	MAL-2025-27273	https://osv.dev/vulnerability/MAL-2025-27273
 neizaide-yuzhou	*	MAL-2025-45292	https://osv.dev/vulnerability/MAL-2025-45292
 nekohoshi	*	MAL-2025-27274	https://osv.dev/vulnerability/MAL-2025-27274
 nem-libray	*	MAL-2026-20602	https://osv.dev/vulnerability/MAL-2026-20602
-nem-libray	2.0.0-RC4	MAL-0000-nem-libray	https://github.com/ossf/malicious-packages/blob/ab5359ad77d05d20b4c6fef9cfa5c21cee9bdc7e/osv/malicious/npm/nem-libray/MAL-0000-nem-libray.json
 nemail	*	MAL-2025-27275	https://osv.dev/vulnerability/MAL-2025-27275
 nemo-dast-plugin	*	MAL-2025-3073	https://osv.dev/vulnerability/MAL-2025-3073
 nemo-datadrive	99.13.9	MAL-2026-2784	https://osv.dev/vulnerability/MAL-2026-2784
