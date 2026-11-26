@@ -89938,6 +89938,7 @@ gapminder-offline	*	MAL-2022-3273	https://osv.dev/vulnerability/MAL-2022-3273
 gapps-automation	9.9.9	MAL-2023-1571	https://osv.dev/vulnerability/MAL-2023-1571
 gapuler	*	MAL-2024-8855	https://osv.dev/vulnerability/MAL-2024-8855
 garage11-lib	*	MAL-2025-21193	https://osv.dev/vulnerability/MAL-2025-21193
+garaya-jiklop	1.0.0	MAL-0000-garaya-jiklop	https://github.com/ossf/malicious-packages/pull/1854
 garcefulfs	*	MAL-2022-3274	https://osv.dev/vulnerability/MAL-2022-3274
 garden-those-steam	*	MAL-2025-44378	https://osv.dev/vulnerability/MAL-2025-44378
 gardr-finn	*	MAL-2025-48494	https://osv.dev/vulnerability/MAL-2025-48494
@@ -91661,6 +91662,7 @@ git-branch-selector	1.3.7	MAL-2026-3503	https://osv.dev/vulnerability/MAL-2026-3
 git-cliff-win32-arm64	*	MAL-2025-21452	https://osv.dev/vulnerability/MAL-2025-21452
 git-cliff-win32-x64	*	MAL-2025-21453	https://osv.dev/vulnerability/MAL-2025-21453
 git-commit-message-convention	*	MAL-2024-9461	https://osv.dev/vulnerability/MAL-2024-9461
+git-crt-creator	1.0.1	MAL-0000-louai-git-crt-creator	https://github.com/ossf/malicious-packages/pull/1854
 git-crt-creator	1.0.2	MAL-2026-20604	https://osv.dev/vulnerability/MAL-2026-20604
 git-crt-creator	1.0.3	MAL-2026-20604	https://osv.dev/vulnerability/MAL-2026-20604
 git-crt-creator	10.13.0	MAL-2026-20604	https://osv.dev/vulnerability/MAL-2026-20604
@@ -115979,10 +115981,13 @@ justtestasa	*	MAL-2025-24124	https://osv.dev/vulnerability/MAL-2025-24124
 jutsulepb-	*	MAL-2023-545	https://osv.dev/vulnerability/MAL-2023-545
 juvare	*	MAL-2025-3259	https://osv.dev/vulnerability/MAL-2025-3259
 juvoft	*	MAL-2025-24125	https://osv.dev/vulnerability/MAL-2025-24125
+juyip-parser-assets	1.0.0	MAL-0000-louai-juyip-parser-assets	https://github.com/ossf/malicious-packages/pull/1854
 juyip-parser-assets	1.0.1	MAL-2026-20552	https://osv.dev/vulnerability/MAL-2026-20552
+juyip-parser-assets	1.0.2	MAL-0000-louai-juyip-parser-assets	https://github.com/ossf/malicious-packages/pull/1854
 juyip-parser-helper	1.0.0	MAL-2026-20553	https://osv.dev/vulnerability/MAL-2026-20553
 juyip-parser-helper	1.0.1	MAL-2026-20553	https://osv.dev/vulnerability/MAL-2026-20553
 juyip-parser-helper	1.0.2	MAL-2026-20553	https://osv.dev/vulnerability/MAL-2026-20553
+juyip-parser-helper	1.0.3	MAL-0000-louai-juyip-parser-helper	https://github.com/ossf/malicious-packages/pull/1854
 juyip-parser-helper	1.0.4	MAL-2026-20553	https://osv.dev/vulnerability/MAL-2026-20553
 juytjwfgtrhefregfef	*	MAL-2025-93	https://osv.dev/vulnerability/MAL-2025-93
 jvector-release	*	MAL-2025-48695	https://osv.dev/vulnerability/MAL-2025-48695
@@ -165395,6 +165400,7 @@ preferred_unicorn_z3n	*	MAL-2025-89497	https://osv.dev/vulnerability/MAL-2025-89
 preferred_viper_z3n	*	MAL-2025-136259	https://osv.dev/vulnerability/MAL-2025-136259
 prefetchalyzer	*	MAL-2022-5445	https://osv.dev/vulnerability/MAL-2022-5445
 prefig	*	MAL-2025-29611	https://osv.dev/vulnerability/MAL-2025-29611
+prefix-script-engine-batch	1.0.0	MAL-0000-prefix-script-engine-batch	https://github.com/ossf/malicious-packages/pull/1854
 pregnant-indigo-leopard	*	MAL-2025-69976	https://osv.dev/vulnerability/MAL-2025-69976
 pregnant-indigo-swallow	*	MAL-2025-69977	https://osv.dev/vulnerability/MAL-2025-69977
 pregnant_boar-tool	*	MAL-2025-107198	https://osv.dev/vulnerability/MAL-2025-107198
