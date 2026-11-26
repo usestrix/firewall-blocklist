@@ -2939,7 +2939,7 @@ demozecosse	2.0.1	MAL-2026-1286	https://osv.dev/vulnerability/MAL-2026-1286
 demozecosso	2.0.1	MAL-2026-1284	https://osv.dev/vulnerability/MAL-2026-1284
 demozecox	0.0.0	MAL-2026-1285	https://osv.dev/vulnerability/MAL-2026-1285
 denomenallib	2.7.0	MAL-2025-191716	https://osv.dev/vulnerability/MAL-2025-191716
-denowrap	1.0.0	MAL-0000-kam193-6b2619863b131e67	https://github.com/ossf/malicious-packages/blob/bd3bd3725523e38c5bbcd09d30fbd77c6580ea69/osv/malicious/pypi/denowrap/MAL-0000-kam193-6b2619863b131e67.json
+denowrap	1.0.0	MAL-2026-20653	https://osv.dev/vulnerability/MAL-2026-20653
 dependency-confusion-test-666	999999.0.0	MAL-2024-12252	https://osv.dev/vulnerability/MAL-2024-12252
 dependency-confusion111	9.9.9	MAL-2024-5039	https://osv.dev/vulnerability/MAL-2024-5039
 dependency-confusion12	1.0.4	MAL-2024-5040	https://osv.dev/vulnerability/MAL-2024-5040
