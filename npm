@@ -138622,7 +138622,7 @@ model-viewer-docs	10.0.1	MAL-2025-47689	https://osv.dev/vulnerability/MAL-2025-4
 model-viewer-packages	*	MAL-2022-4661	https://osv.dev/vulnerability/MAL-2022-4661
 model-viewer-render-fidelity-tools	*	MAL-2025-1150	https://osv.dev/vulnerability/MAL-2025-1150
 model-viewer-space-opera	1.1.0	MAL-2025-853	https://osv.dev/vulnerability/MAL-2025-853
-modelbufs	1.0.1	MAL-0000-amazon-inspector-c8a929acae74b4ad	https://github.com/ossf/malicious-packages/blob/31259d3e21ccbeab73bd09e60cb1a8f71ed43abd/osv/malicious/npm/modelbufs/MAL-0000-amazon-inspector-c8a929acae74b4ad.json
+modelbufs	1.0.1	MAL-2026-20672	https://osv.dev/vulnerability/MAL-2026-20672
 modeldb-vis	1.0.0	MAL-2025-3139	https://osv.dev/vulnerability/MAL-2025-3139
 models-frontend	*	MAL-2025-26591	https://osv.dev/vulnerability/MAL-2025-26591
 modelsdesk	0.4.2	MAL-2026-18739	https://osv.dev/vulnerability/MAL-2026-18739

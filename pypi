@@ -1302,7 +1302,6 @@ blobhunter-depconf-poc	999.0.0	MAL-2026-33	https://osv.dev/vulnerability/MAL-202
 bloomcredit-python	0.1.0	MAL-2026-20650	https://osv.dev/vulnerability/MAL-2026-20650
 bloomcredit-python	99.1.0	MAL-2026-20650	https://osv.dev/vulnerability/MAL-2026-20650
 bloomcredit-python	99.2.0	MAL-2026-20650	https://osv.dev/vulnerability/MAL-2026-20650
-bloomcredit-python	99.3.0	MAL-0000-amazon-inspector-66961e6fe9d15e10	https://github.com/ossf/malicious-packages/blob/31259d3e21ccbeab73bd09e60cb1a8f71ed43abd/osv/malicious/pypi/bloomcredit-python/MAL-0000-amazon-inspector-66961e6fe9d15e10.json
 bloomcredit-python	99.3.0	MAL-2026-20650	https://osv.dev/vulnerability/MAL-2026-20650
 bloxy-api	3.4.0	MAL-2026-2569	https://osv.dev/vulnerability/MAL-2026-2569
 bloxypy	0.1.9	MAL-2025-47572	https://osv.dev/vulnerability/MAL-2025-47572
@@ -2940,7 +2939,6 @@ demozecosse	2.0.1	MAL-2026-1286	https://osv.dev/vulnerability/MAL-2026-1286
 demozecosso	2.0.1	MAL-2026-1284	https://osv.dev/vulnerability/MAL-2026-1284
 demozecox	0.0.0	MAL-2026-1285	https://osv.dev/vulnerability/MAL-2026-1285
 denomenallib	2.7.0	MAL-2025-191716	https://osv.dev/vulnerability/MAL-2025-191716
-denowrap	1.0.0	MAL-0000-amazon-inspector-2cb2c5962702d871	https://github.com/ossf/malicious-packages/blob/31259d3e21ccbeab73bd09e60cb1a8f71ed43abd/osv/malicious/pypi/denowrap/MAL-0000-amazon-inspector-2cb2c5962702d871.json
 denowrap	1.0.0	MAL-2026-20653	https://osv.dev/vulnerability/MAL-2026-20653
 dependency-confusion-test-666	999999.0.0	MAL-2024-12252	https://osv.dev/vulnerability/MAL-2024-12252
 dependency-confusion111	9.9.9	MAL-2024-5039	https://osv.dev/vulnerability/MAL-2024-5039
