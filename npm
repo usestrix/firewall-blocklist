@@ -197175,7 +197175,7 @@ svelte-visual-map	*	MAL-2026-13477	https://osv.dev/vulnerability/MAL-2026-13477
 svelte-vli-ui	*	MAL-2026-14541	https://osv.dev/vulnerability/MAL-2026-14541
 sveltejs	*	MAL-2025-34251	https://osv.dev/vulnerability/MAL-2025-34251
 svenum	*	MAL-2025-34252	https://osv.dev/vulnerability/MAL-2025-34252
-svg-bucket	2.0.0	MAL-0000-invisirisk-svg-bucket	https://github.com/ossf/malicious-packages/blob/9203227889eb6ecebceee715d53e91a5a1489e12/osv/malicious/npm/svg-bucket/MAL-0000-invisirisk-svg-bucket.json
+svg-bucket	2.0.0	MAL-2026-20646	https://osv.dev/vulnerability/MAL-2026-20646
 svg-config-viewer	*	MAL-2025-34253	https://osv.dev/vulnerability/MAL-2025-34253
 svg-content-validation	*	MAL-2026-1980	https://osv.dev/vulnerability/MAL-2026-1980
 svg-fetcher	*	MAL-2026-10427	https://osv.dev/vulnerability/MAL-2026-10427
