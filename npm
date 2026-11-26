@@ -70543,6 +70543,7 @@ dsh-blue-team-mode	3.0.0-beta.18	MAL-2026-20315	https://osv.dev/vulnerability/MA
 dsh-blue-team-mode	3.0.0-beta.19	MAL-2026-20315	https://osv.dev/vulnerability/MAL-2026-20315
 dsh-blue-team-mode	3.0.0-beta.20	MAL-2026-20315	https://osv.dev/vulnerability/MAL-2026-20315
 dsh-blue-team-mode	3.0.0-beta.21	MAL-2026-20315	https://osv.dev/vulnerability/MAL-2026-20315
+dsh-locator	0.21.1	MAL-0000-ghsa-malware-a36f50cb680f255c	https://github.com/ossf/malicious-packages/blob/4ee8d4f571ca8863cbf3129659080159aa83fdb7/osv/malicious/npm/dsh-locator/MAL-0000-ghsa-malware-a36f50cb680f255c.json
 dsh-moss-console	3.3.0	MAL-2026-18522	https://osv.dev/vulnerability/MAL-2026-18522
 dsh-moss-wallpaper	3.4.0	MAL-2026-18523	https://osv.dev/vulnerability/MAL-2026-18523
 dsh-native	1.4.1	MAL-2026-18315	https://osv.dev/vulnerability/MAL-2026-18315
@@ -187999,6 +188000,8 @@ signalledger-bridge	2.0.6	MAL-2026-18075	https://osv.dev/vulnerability/MAL-2026-
 signalledger-diagnostics	2.0.6	MAL-2026-18076	https://osv.dev/vulnerability/MAL-2026-18076
 signalr-temp-client	*	MAL-2023-776	https://osv.dev/vulnerability/MAL-2023-776
 signals-embed	*	MAL-2025-190511	https://osv.dev/vulnerability/MAL-2025-190511
+signals-embed-pro	*	MAL-0000-ghsa-malware-43295011913f21ff	https://github.com/ossf/malicious-packages/blob/4ee8d4f571ca8863cbf3129659080159aa83fdb7/osv/malicious/npm/signals-embed-pro/MAL-0000-ghsa-malware-43295011913f21ff.json
+signals-embed-sss	*	MAL-0000-ghsa-malware-b916fc8e9984f2ef	https://github.com/ossf/malicious-packages/blob/4ee8d4f571ca8863cbf3129659080159aa83fdb7/osv/malicious/npm/signals-embed-sss/MAL-0000-ghsa-malware-b916fc8e9984f2ef.json
 signals-logger	2.1.1	MAL-2024-3017	https://osv.dev/vulnerability/MAL-2024-3017
 signalstr	*	MAL-2025-33236	https://osv.dev/vulnerability/MAL-2025-33236
 signature-v4-multi-region	213.21.24	MAL-2024-9843	https://osv.dev/vulnerability/MAL-2024-9843
