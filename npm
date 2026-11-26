@@ -11612,6 +11612,7 @@
 @omisepayments/session-config	*	MAL-2025-9144	https://osv.dev/vulnerability/MAL-2025-9144
 @omni-corp-infra/sso-bridge-core	*	MAL-2026-3257	https://osv.dev/vulnerability/MAL-2026-3257
 @omnia-low-code/shared-components	>=3.5.405	MAL-2025-4547	https://osv.dev/vulnerability/MAL-2025-4547
+@omnirush-ai/cli-win32-x64	2.8.0	MAL-0000-ghsa-malware-8b7577d1b097ec36	https://github.com/ossf/malicious-packages/blob/e628cd30dedff4ae838aaab43e17b66aad739007/osv/malicious/npm/@omnirush-ai/cli-win32-x64/MAL-0000-ghsa-malware-8b7577d1b097ec36.json
 @omniwatch-wick/cli	*	MAL-2026-10486	https://osv.dev/vulnerability/MAL-2026-10486
 @one-chat/react	*	MAL-2026-11446	https://osv.dev/vulnerability/MAL-2026-11446
 @one-site/europcar	2.92.10	MAL-2026-2137	https://osv.dev/vulnerability/MAL-2026-2137
