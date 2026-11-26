@@ -1299,6 +1299,10 @@ blender-headless	9.99.9	MAL-2026-18758	https://osv.dev/vulnerability/MAL-2026-18
 blessclient	0.0.1	MAL-2026-11067	https://osv.dev/vulnerability/MAL-2026-11067
 blessclient	0.0.2	MAL-2026-11067	https://osv.dev/vulnerability/MAL-2026-11067
 blobhunter-depconf-poc	999.0.0	MAL-2026-33	https://osv.dev/vulnerability/MAL-2026-33
+bloomcredit-python	0.1.0	MAL-0000-kam193-165c457254b160e1	https://github.com/ossf/malicious-packages/blob/e42f2bef362fbce33f443ffec03b920a55df08be/osv/malicious/pypi/bloomcredit-python/MAL-0000-kam193-165c457254b160e1.json
+bloomcredit-python	99.1.0	MAL-0000-kam193-165c457254b160e1	https://github.com/ossf/malicious-packages/blob/e42f2bef362fbce33f443ffec03b920a55df08be/osv/malicious/pypi/bloomcredit-python/MAL-0000-kam193-165c457254b160e1.json
+bloomcredit-python	99.2.0	MAL-0000-kam193-165c457254b160e1	https://github.com/ossf/malicious-packages/blob/e42f2bef362fbce33f443ffec03b920a55df08be/osv/malicious/pypi/bloomcredit-python/MAL-0000-kam193-165c457254b160e1.json
+bloomcredit-python	99.3.0	MAL-0000-kam193-165c457254b160e1	https://github.com/ossf/malicious-packages/blob/e42f2bef362fbce33f443ffec03b920a55df08be/osv/malicious/pypi/bloomcredit-python/MAL-0000-kam193-165c457254b160e1.json
 bloxy-api	3.4.0	MAL-2026-2569	https://osv.dev/vulnerability/MAL-2026-2569
 bloxypy	0.1.9	MAL-2025-47572	https://osv.dev/vulnerability/MAL-2025-47572
 bluesadway	0.1	MAL-2025-6465	https://osv.dev/vulnerability/MAL-2025-6465
