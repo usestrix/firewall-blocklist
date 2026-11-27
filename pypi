@@ -16925,6 +16925,7 @@ vision-service-python-client	0.3.61	MAL-2026-2186	https://osv.dev/vulnerability/
 vision-service-python-client-internal	0.0.1	MAL-2026-2187	https://osv.dev/vulnerability/MAL-2026-2187
 vision-service-python-client-internal	0.3.156	MAL-2026-2187	https://osv.dev/vulnerability/MAL-2026-2187
 vizplotlib	1.0.3	MAL-2024-11745	https://osv.dev/vulnerability/MAL-2024-11745
+vk-mlp-agent	9999.0	MAL-0000-kam193-870a3d709df9d224	https://github.com/ossf/malicious-packages/blob/9ef1303d84997490a807d04e77c4555f59c6359e/osv/malicious/pypi/vk-mlp-agent/MAL-0000-kam193-870a3d709df9d224.json
 vllm-plugins	99.99.99	MAL-2026-844	https://osv.dev/vulnerability/MAL-2026-844
 vmcandy	*	MAL-2023-7869	https://osv.dev/vulnerability/MAL-2023-7869
 vmconnect	1.1.7	MAL-2024-6195	https://osv.dev/vulnerability/MAL-2024-6195
