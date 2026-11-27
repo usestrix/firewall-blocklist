@@ -196416,6 +196416,7 @@ supreme_worm_z3n	*	MAL-2025-117251	https://osv.dev/vulnerability/MAL-2025-117251
 supun-baileys	*	MAL-2026-675	https://osv.dev/vulnerability/MAL-2026-675
 supun-baileyz	*	MAL-2026-19019	https://osv.dev/vulnerability/MAL-2026-19019
 supunmd-bail	*	MAL-2026-20006	https://osv.dev/vulnerability/MAL-2026-20006
+supunmd-baileys	0.0.1	MAL-0000-amazon-inspector-70174a8f11b6ec11	https://github.com/ossf/malicious-packages/blob/ea72b958ca0ff5de87bfb431bf65b6a9c455398f/osv/malicious/npm/supunmd-baileys/MAL-0000-amazon-inspector-70174a8f11b6ec11.json
 supxmlparser	*	MAL-2025-49446	https://osv.dev/vulnerability/MAL-2025-49446
 suqin-node-stack	*	MAL-2022-6361	https://osv.dev/vulnerability/MAL-2022-6361
 surabails	1.6.0	MAL-2026-19020	https://osv.dev/vulnerability/MAL-2026-19020
@@ -199630,6 +199631,7 @@ taurus-xerxes-hermes-ariel	*	MAL-2025-148485	https://osv.dev/vulnerability/MAL-2
 taurus-zenith-slides-betelgeuse	*	MAL-2025-148486	https://osv.dev/vulnerability/MAL-2025-148486
 tautoak4-hello-world	1.0.0	MAL-2024-10818	https://osv.dev/vulnerability/MAL-2024-10818
 tautoake4-hello-world	1.0.0	MAL-2024-10819	https://osv.dev/vulnerability/MAL-2024-10819
+tavern-ai-sdk	1.0.0	MAL-0000-amazon-inspector-d9bd39419e14e3d9	https://github.com/ossf/malicious-packages/blob/ea72b958ca0ff5de87bfb431bf65b6a9c455398f/osv/malicious/npm/tavern-ai-sdk/MAL-0000-amazon-inspector-d9bd39419e14e3d9.json
 tavily-module	1.0.1	MAL-2025-191432	https://osv.dev/vulnerability/MAL-2025-191432
 tavserver	*	MAL-2025-34581	https://osv.dev/vulnerability/MAL-2025-34581
 tax-return-breakup	5.3.52	MAL-2025-3418	https://osv.dev/vulnerability/MAL-2025-3418
