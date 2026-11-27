@@ -101943,7 +101943,7 @@ httpreslog	*	MAL-2025-42006	https://osv.dev/vulnerability/MAL-2025-42006
 httprules	*	MAL-2025-22768	https://osv.dev/vulnerability/MAL-2025-22768
 https-agen-chii	1.0.2	MAL-2025-3401	https://osv.dev/vulnerability/MAL-2025-3401
 https-agen-chii	1.0.3	MAL-2025-3401	https://osv.dev/vulnerability/MAL-2025-3401
-https-box	*	MAL-0000-ghsa-malware-909f5120d577c5a1	https://github.com/ossf/malicious-packages/blob/dce3e39a86c8dd2bea2eb3d99a4102bd54c69782/osv/malicious/npm/https-box/MAL-0000-ghsa-malware-909f5120d577c5a1.json
+https-box	*	MAL-2026-20733	https://osv.dev/vulnerability/MAL-2026-20733
 https-emailjs	*	MAL-2026-724	https://osv.dev/vulnerability/MAL-2026-724
 https-example	55.33.111	MAL-2026-20575	https://osv.dev/vulnerability/MAL-2026-20575
 https-parse	*	MAL-2025-4644	https://osv.dev/vulnerability/MAL-2025-4644
