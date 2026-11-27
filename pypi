@@ -7893,6 +7893,7 @@ mcp-runcommand-server	1.0.7	MAL-2025-191647	https://osv.dev/vulnerability/MAL-20
 mcp-runcommand-server	1.0.8	MAL-2025-191647	https://osv.dev/vulnerability/MAL-2025-191647
 mcp-runcommand-server	1.0.9	MAL-2025-191647	https://osv.dev/vulnerability/MAL-2025-191647
 mcp-runcommand-server2	1.0.6	MAL-2025-191648	https://osv.dev/vulnerability/MAL-2025-191648
+mcp-runtime-report	1.0.0	MAL-0000-amazon-inspector-ab3aeb005ce5e62d	https://github.com/ossf/malicious-packages/blob/a3f1b6f04fae18789f7a3d80f5846ca3c61b5ef3/osv/malicious/pypi/mcp-runtime-report/MAL-0000-amazon-inspector-ab3aeb005ce5e62d.json
 mcp-runtime-report	1.0.0	MAL-2026-20617	https://osv.dev/vulnerability/MAL-2026-20617
 mcp-search-server	1.0.0	MAL-2026-11198	https://osv.dev/vulnerability/MAL-2026-11198
 mcp-search-server	2.0.0	MAL-2026-11198	https://osv.dev/vulnerability/MAL-2026-11198
