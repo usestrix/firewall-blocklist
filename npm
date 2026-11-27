@@ -79059,6 +79059,7 @@ eth-dev	1.0.4	MAL-2026-10552	https://osv.dev/vulnerability/MAL-2026-10552
 eth-err	*	MAL-2024-10502	https://osv.dev/vulnerability/MAL-2024-10502
 eth-errors	*	MAL-2024-10503	https://osv.dev/vulnerability/MAL-2024-10503
 eth-exec-txs	*	MAL-2025-47094	https://osv.dev/vulnerability/MAL-2025-47094
+eth-expl	*	MAL-0000-ghsa-malware-d96ad6602c33d88e	https://github.com/ossf/malicious-packages/blob/04b64486cb41bbba725cfeede05794255131255c/osv/malicious/npm/eth-expl/MAL-0000-ghsa-malware-d96ad6602c33d88e.json
 eth-faucet	*	MAL-2022-2861	https://osv.dev/vulnerability/MAL-2022-2861
 eth-gas-report	*	MAL-2024-10429	https://osv.dev/vulnerability/MAL-2024-10429
 eth-lib-helpers	*	MAL-2026-15981	https://osv.dev/vulnerability/MAL-2026-15981
