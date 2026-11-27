@@ -17839,7 +17839,7 @@
 @vertiv-co/voidray-sdk-addon-map-file	1.12.13	MAL-2024-9487	https://osv.dev/vulnerability/MAL-2024-9487
 @vertiv-co/voidray-sdk-addon-media-recorder	1.12.1	MAL-2024-9488	https://osv.dev/vulnerability/MAL-2024-9488
 @veryflore/disc	*	MAL-2025-9592	https://osv.dev/vulnerability/MAL-2025-9592
-@veryflore/discord	*	MAL-0000-ghsa-malware-557a58dc1bb049cb	https://github.com/ossf/malicious-packages/blob/58f3602292640d2660c0b9cacb96f043c32ec826/osv/malicious/npm/@veryflore/discord/MAL-0000-ghsa-malware-557a58dc1bb049cb.json
+@veryflore/discord	*	MAL-2026-20735	https://osv.dev/vulnerability/MAL-2026-20735
 @veygo/component-library	99.9.2	MAL-2026-2680	https://osv.dev/vulnerability/MAL-2026-2680
 @vf-org/smapi-js-core	8.2.0	MAL-2025-22	https://osv.dev/vulnerability/MAL-2025-22
 @vf-org/smapi-js-core	8.2.10	MAL-2025-22	https://osv.dev/vulnerability/MAL-2025-22
@@ -60375,7 +60375,7 @@ cutoffurmind-ui-kit2	*	MAL-2022-2290	https://osv.dev/vulnerability/MAL-2022-2290
 cuttlab	*	MAL-2025-17848	https://osv.dev/vulnerability/MAL-2025-17848
 cvbmxiowkwqla6	*	MAL-2026-13796	https://osv.dev/vulnerability/MAL-2026-13796
 cvbniydplwe3	*	MAL-2026-13797	https://osv.dev/vulnerability/MAL-2026-13797
-cvcpg-sear	*	MAL-0000-ghsa-malware-850656c29625affd	https://github.com/ossf/malicious-packages/blob/58f3602292640d2660c0b9cacb96f043c32ec826/osv/malicious/npm/cvcpg-sear/MAL-0000-ghsa-malware-850656c29625affd.json
+cvcpg-sear	*	MAL-2026-20736	https://osv.dev/vulnerability/MAL-2026-20736
 cvent-event-calendar	*	MAL-2025-5387	https://osv.dev/vulnerability/MAL-2025-5387
 cvent-web-components	*	MAL-2022-2291	https://osv.dev/vulnerability/MAL-2022-2291
 cver3	*	MAL-2025-17849	https://osv.dev/vulnerability/MAL-2025-17849
@@ -125561,7 +125561,7 @@ line-charts-g200172	*	MAL-2025-25387	https://osv.dev/vulnerability/MAL-2025-2538
 line-configs	1.0.0	MAL-2024-2612	https://osv.dev/vulnerability/MAL-2024-2612
 line-liff-v2-starter	*	MAL-2022-4309	https://osv.dev/vulnerability/MAL-2022-4309
 line-through	1.0.0	MAL-2026-15923	https://osv.dev/vulnerability/MAL-2026-15923
-line-vourfly	*	MAL-0000-ghsa-malware-17468a57f569b2af	https://github.com/ossf/malicious-packages/blob/58f3602292640d2660c0b9cacb96f043c32ec826/osv/malicious/npm/line-vourfly/MAL-0000-ghsa-malware-17468a57f569b2af.json
+line-vourfly	*	MAL-2026-20737	https://osv.dev/vulnerability/MAL-2026-20737
 linear-airbyte-source	9.9.10	MAL-2024-8931	https://osv.dev/vulnerability/MAL-2024-8931
 linear-airbyte-source	9.9.9	MAL-2024-8931	https://osv.dev/vulnerability/MAL-2024-8931
 linear-blush-boar	*	MAL-2025-138838	https://osv.dev/vulnerability/MAL-2025-138838
@@ -125795,7 +125795,7 @@ lint-centaurus-vuetify-dotenv-parse-variables	*	MAL-2025-144434	https://osv.dev/
 lint-config-qiwi	*	MAL-2022-4316	https://osv.dev/vulnerability/MAL-2022-4316
 lint-dione-publish-prettier-plugin-markdown	*	MAL-2025-144435	https://osv.dev/vulnerability/MAL-2025-144435
 lint-duplex-bellatrix-deimos	*	MAL-2025-144436	https://osv.dev/vulnerability/MAL-2025-144436
-lint-entry	*	MAL-0000-ghsa-malware-b5d35c64edba4571	https://github.com/ossf/malicious-packages/blob/58f3602292640d2660c0b9cacb96f043c32ec826/osv/malicious/npm/lint-entry/MAL-0000-ghsa-malware-b5d35c64edba4571.json
+lint-entry	*	MAL-2026-20738	https://osv.dev/vulnerability/MAL-2026-20738
 lint-fomalhaut-commitizen-pino	*	MAL-2025-144437	https://osv.dev/vulnerability/MAL-2025-144437
 lint-framework-link-toml	*	MAL-2025-25405	https://osv.dev/vulnerability/MAL-2025-25405
 lint-fusion-relay-cors	*	MAL-2025-144438	https://osv.dev/vulnerability/MAL-2025-144438
@@ -151118,7 +151118,7 @@ npmresearch2026-scope-test	*	MAL-2026-20250	https://osv.dev/vulnerability/MAL-20
 npmresearch2026-scope-test-b	*	MAL-2026-20251	https://osv.dev/vulnerability/MAL-2026-20251
 npmrunnall	*	MAL-2024-11059	https://osv.dev/vulnerability/MAL-2024-11059
 npmrunnode-fetch-test	1337.1.0	MAL-2025-48529	https://osv.dev/vulnerability/MAL-2025-48529
-npms-search	*	MAL-0000-ghsa-malware-5f0cb55ef84c2fc4	https://github.com/ossf/malicious-packages/blob/58f3602292640d2660c0b9cacb96f043c32ec826/osv/malicious/npm/npms-search/MAL-0000-ghsa-malware-5f0cb55ef84c2fc4.json
+npms-search	*	MAL-2026-20739	https://osv.dev/vulnerability/MAL-2026-20739
 npmscript_tesstalert_unpkg	*	MAL-2026-16309	https://osv.dev/vulnerability/MAL-2026-16309
 npmtest_chenguang	*	MAL-2025-66546	https://osv.dev/vulnerability/MAL-2025-66546
 npmtestnacho	*	MAL-2025-27853	https://osv.dev/vulnerability/MAL-2025-27853
@@ -219353,7 +219353,7 @@ ve-hemi-rewards	999.0.0	MAL-2026-5785	https://osv.dev/vulnerability/MAL-2026-578
 ve-loaer	*	MAL-2022-6901	https://osv.dev/vulnerability/MAL-2022-6901
 ve-vores	*	MAL-2025-4903	https://osv.dev/vulnerability/MAL-2025-4903
 ve.zz	*	MAL-2025-49243	https://osv.dev/vulnerability/MAL-2025-49243
-ve.zz.vic	*	MAL-0000-ghsa-malware-0b6b3655490d0f3e	https://github.com/ossf/malicious-packages/blob/58f3602292640d2660c0b9cacb96f043c32ec826/osv/malicious/npm/ve.zz.vic/MAL-0000-ghsa-malware-0b6b3655490d0f3e.json
+ve.zz.vic	*	MAL-2026-20740	https://osv.dev/vulnerability/MAL-2026-20740
 vecboy	*	MAL-2025-38183	https://osv.dev/vulnerability/MAL-2025-38183
 vectorflow	*	MAL-2025-1641	https://osv.dev/vulnerability/MAL-2025-1641
 vectorize-perf-alt	*	MAL-2025-48768	https://osv.dev/vulnerability/MAL-2025-48768
@@ -223323,8 +223323,8 @@ votebacon	*	MAL-2025-38616	https://osv.dev/vulnerability/MAL-2025-38616
 voteful	*	MAL-2025-38617	https://osv.dev/vulnerability/MAL-2025-38617
 votesapp	*	MAL-2025-38618	https://osv.dev/vulnerability/MAL-2025-38618
 voting-client-js	*	MAL-2025-3775	https://osv.dev/vulnerability/MAL-2025-3775
-vourfly-search	*	MAL-0000-ghsa-malware-e06ac04f5442e697	https://github.com/ossf/malicious-packages/blob/58f3602292640d2660c0b9cacb96f043c32ec826/osv/malicious/npm/vourfly-search/MAL-0000-ghsa-malware-e06ac04f5442e697.json
-vourfly-tele	*	MAL-0000-ghsa-malware-5a73c0a1453182b1	https://github.com/ossf/malicious-packages/blob/58f3602292640d2660c0b9cacb96f043c32ec826/osv/malicious/npm/vourfly-tele/MAL-0000-ghsa-malware-5a73c0a1453182b1.json
+vourfly-search	*	MAL-2026-20741	https://osv.dev/vulnerability/MAL-2026-20741
+vourfly-tele	*	MAL-2026-20742	https://osv.dev/vulnerability/MAL-2026-20742
 vow-got	1.1.0	MAL-2024-3830	https://osv.dev/vulnerability/MAL-2024-3830
 vow-got	1.1.1	MAL-2024-3830	https://osv.dev/vulnerability/MAL-2024-3830
 vow-got	1.18.1	MAL-2024-3830	https://osv.dev/vulnerability/MAL-2024-3830
