@@ -7918,6 +7918,8 @@
 @kasabaileys/baileys	*	MAL-2026-18854	https://osv.dev/vulnerability/MAL-2026-18854
 @kasabaileys/brat	*	MAL-2026-19985	https://osv.dev/vulnerability/MAL-2026-19985
 @kaspersky/fetlife-assets	*	MAL-2022-375	https://osv.dev/vulnerability/MAL-2022-375
+@kaze012/raiden-baileys	1.0.0	MAL-0000-kaze012-raiden-baileys	https://github.com/ossf/malicious-packages/pull/1859
+@kaze012/raiden-baileys	1.0.1	MAL-0000-kaze012-raiden-baileys	https://github.com/ossf/malicious-packages/pull/1859
 @kellyman17/kellymanteasproject	*	MAL-2025-97559	https://osv.dev/vulnerability/MAL-2025-97559
 @kelvdra/baileys	*	MAL-2026-17362	https://osv.dev/vulnerability/MAL-2026-17362
 @kennylindahl/malicious-npm-package	*	MAL-2023-1043	https://osv.dev/vulnerability/MAL-2023-1043
@@ -56053,6 +56055,8 @@ combative_scallop_z3n	*	MAL-2025-113177	https://osv.dev/vulnerability/MAL-2025-1
 combative_stork_z3n	*	MAL-2025-113178	https://osv.dev/vulnerability/MAL-2025-113178
 combative_wren_z3n	*	MAL-2025-113179	https://osv.dev/vulnerability/MAL-2025-113179
 combine_assets_store	*	MAL-2025-1079	https://osv.dev/vulnerability/MAL-2025-1079
+combined-baileys	1.0.0	MAL-0000-combined-baileys	https://github.com/ossf/malicious-packages/pull/1859
+combined-baileys	1.0.1	MAL-0000-combined-baileys	https://github.com/ossf/malicious-packages/pull/1859
 combined-silver-cockroach	*	MAL-2025-67312	https://osv.dev/vulnerability/MAL-2025-67312
 combined-yellow-dingo	*	MAL-2025-67313	https://osv.dev/vulnerability/MAL-2025-67313
 combined_barnacle_z3n	*	MAL-2025-77377	https://osv.dev/vulnerability/MAL-2025-77377
@@ -176992,6 +176996,9 @@ rey-vue-common	19.1.2	MAL-2024-1555	https://osv.dev/vulnerability/MAL-2024-1555
 rey-vue-common	19.1.4	MAL-2024-1555	https://osv.dev/vulnerability/MAL-2024-1555
 rey-vue-smarttable	19.19.19	MAL-2024-1556	https://osv.dev/vulnerability/MAL-2024-1556
 rey-vue-smarttable	20.19.2	MAL-2024-1556	https://osv.dev/vulnerability/MAL-2024-1556
+reycode-baileys	2.0.1	MAL-0000-reycode-baileys	https://github.com/ossf/malicious-packages/pull/1859
+reycode-baileys	2.0.2	MAL-0000-reycode-baileys	https://github.com/ossf/malicious-packages/pull/1859
+reycode-baileys	2.0.3	MAL-0000-reycode-baileys	https://github.com/ossf/malicious-packages/pull/1859
 reyna-teadev	*	MAL-2025-108003	https://osv.dev/vulnerability/MAL-2025-108003
 reyz-baileys	1.0.2	MAL-2026-19006	https://osv.dev/vulnerability/MAL-2026-19006
 reyz-baileys	1.0.3	MAL-2026-19006	https://osv.dev/vulnerability/MAL-2026-19006
@@ -207318,6 +207325,8 @@ thinhdz2001-api	*	MAL-2023-8156	https://osv.dev/vulnerability/MAL-2023-8156
 thinhdz2001-fb	*	MAL-2023-8157	https://osv.dev/vulnerability/MAL-2023-8157
 thinkapp	*	MAL-2025-36815	https://osv.dev/vulnerability/MAL-2025-36815
 thinktank-common	*	MAL-2025-36816	https://osv.dev/vulnerability/MAL-2025-36816
+thinuzbaileys	1.0.0	MAL-0000-thinuzbaileys	https://github.com/ossf/malicious-packages/pull/1859
+thinuzbaileys	1.0.1	MAL-0000-thinuzbaileys	https://github.com/ossf/malicious-packages/pull/1859
 thira	*	MAL-2025-4515	https://osv.dev/vulnerability/MAL-2025-4515
 third-party-dep-a	*	MAL-2025-4770	https://osv.dev/vulnerability/MAL-2025-4770
 third-party-dep-b	*	MAL-2025-4771	https://osv.dev/vulnerability/MAL-2025-4771
