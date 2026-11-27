@@ -11351,6 +11351,7 @@
 @nexthink/nxnavigation	*	MAL-2022-473	https://osv.dev/vulnerability/MAL-2022-473
 @nexthink/remote-action-widgets	*	MAL-2022-474	https://osv.dev/vulnerability/MAL-2022-474
 @nexthink/waas	*	MAL-2022-475	https://osv.dev/vulnerability/MAL-2022-475
+@nextlayers/nextcsskit	*	MAL-0000-ghsa-malware-33f828e6e9ad5165	https://github.com/ossf/malicious-packages/blob/063c48ec0b0566b24c5207066b166cf35c23c53c/osv/malicious/npm/@nextlayers/nextcsskit/MAL-0000-ghsa-malware-33f828e6e9ad5165.json
 @nexustechpro/baileys	*	MAL-2026-16104	https://osv.dev/vulnerability/MAL-2026-16104
 @nf-addons/am-global-header	9.9.10	MAL-2026-17154	https://osv.dev/vulnerability/MAL-2026-17154
 @ng-cat/common	9.99.9	MAL-2024-9442	https://osv.dev/vulnerability/MAL-2024-9442
@@ -43014,6 +43015,7 @@ bitconi-ops	*	MAL-2025-15756	https://osv.dev/vulnerability/MAL-2025-15756
 bitconid-rpc	*	MAL-2025-15757	https://osv.dev/vulnerability/MAL-2025-15757
 bitconijs-lib	*	MAL-2025-15758	https://osv.dev/vulnerability/MAL-2025-15758
 bitcor-mnemonic	*	MAL-2024-10607	https://osv.dev/vulnerability/MAL-2024-10607
+bitcor-wallet	*	MAL-0000-ghsa-malware-6430b606e28cc3cd	https://github.com/ossf/malicious-packages/blob/063c48ec0b0566b24c5207066b166cf35c23c53c/osv/malicious/npm/bitcor-wallet/MAL-0000-ghsa-malware-6430b606e28cc3cd.json
 bitcore-build-zcash	*	MAL-2022-1587	https://osv.dev/vulnerability/MAL-2022-1587
 bitcore-message-zen	*	MAL-2025-3179	https://osv.dev/vulnerability/MAL-2025-3179
 bitcore-mnemic	*	MAL-2024-10608	https://osv.dev/vulnerability/MAL-2024-10608
@@ -55327,6 +55329,7 @@ coincodex-adapter	*	MAL-2022-1980	https://osv.dev/vulnerability/MAL-2022-1980
 coingecko-adapter	*	MAL-2022-1981	https://osv.dev/vulnerability/MAL-2022-1981
 coingecko-price	*	MAL-2023-1551	https://osv.dev/vulnerability/MAL-2023-1551
 coingecko-prices	*	MAL-2023-199	https://osv.dev/vulnerability/MAL-2023-199
+coingeco	*	MAL-0000-ghsa-malware-c32ea5f416a78706	https://github.com/ossf/malicious-packages/blob/063c48ec0b0566b24c5207066b166cf35c23c53c/osv/malicious/npm/coingeco/MAL-0000-ghsa-malware-c32ea5f416a78706.json
 coinlore-adapter	*	MAL-2022-1982	https://osv.dev/vulnerability/MAL-2022-1982
 coinmarketcap-adapter	*	MAL-2022-1983	https://osv.dev/vulnerability/MAL-2022-1983
 coinmarketcap-api	3.1.2	MAL-2025-190948	https://osv.dev/vulnerability/MAL-2025-190948
@@ -56879,6 +56882,7 @@ component-examples	*	MAL-2022-2144	https://osv.dev/vulnerability/MAL-2022-2144
 component-modernizr	*	MAL-2025-3572	https://osv.dev/vulnerability/MAL-2025-3572
 component-thumbnail	*	MAL-2022-2145	https://osv.dev/vulnerability/MAL-2022-2145
 components-design-system	99.99.99	MAL-2026-1696	https://osv.dev/vulnerability/MAL-2026-1696
+components-flexibility	*	MAL-0000-ghsa-malware-2a5e049ec292edee	https://github.com/ossf/malicious-packages/blob/063c48ec0b0566b24c5207066b166cf35c23c53c/osv/malicious/npm/components-flexibility/MAL-0000-ghsa-malware-2a5e049ec292edee.json
 compose-logger-stand	*	MAL-2026-11267	https://osv.dev/vulnerability/MAL-2026-11267
 composed-react-app	999.0.2	MAL-2024-11335	https://osv.dev/vulnerability/MAL-2024-11335
 composed-react-app	999.9.92	MAL-2024-11335	https://osv.dev/vulnerability/MAL-2024-11335
@@ -58894,6 +58898,7 @@ cprogbook	*	MAL-2025-17651	https://osv.dev/vulnerability/MAL-2025-17651
 cptalertbox	*	MAL-2023-1148	https://osv.dev/vulnerability/MAL-2023-1148
 cpu-instructions	0.0.14	MAL-2025-190838	https://osv.dev/vulnerability/MAL-2025-190838
 cpufake	*	MAL-2025-17652	https://osv.dev/vulnerability/MAL-2025-17652
+cputil-node	*	MAL-0000-ghsa-malware-cdebbb7c1213ef00	https://github.com/ossf/malicious-packages/blob/063c48ec0b0566b24c5207066b166cf35c23c53c/osv/malicious/npm/cputil-node/MAL-0000-ghsa-malware-cdebbb7c1213ef00.json
 cqbwogthvkuenakr	*	MAL-2022-2224	https://osv.dev/vulnerability/MAL-2022-2224
 cquence	*	MAL-2025-17653	https://osv.dev/vulnerability/MAL-2025-17653
 cr-bot-common	1.0.0	MAL-2026-16137	https://osv.dev/vulnerability/MAL-2026-16137
@@ -164976,6 +164981,7 @@ postcss-xanthus-gulp-subscription	*	MAL-2025-146426	https://osv.dev/vulnerabilit
 postcss-yaml-lynx-build	*	MAL-2025-146427	https://osv.dev/vulnerability/MAL-2025-146427
 postcsscksnext	*	MAL-2022-5425	https://osv.dev/vulnerability/MAL-2022-5425
 postcssfvlgexugsfixes	*	MAL-2022-5426	https://osv.dev/vulnerability/MAL-2022-5426
+postcsskit	*	MAL-0000-ghsa-malware-e514f324f66649f0	https://github.com/ossf/malicious-packages/blob/063c48ec0b0566b24c5207066b166cf35c23c53c/osv/malicious/npm/postcsskit/MAL-0000-ghsa-malware-e514f324f66649f0.json
 postcssmipot	*	MAL-2022-5427	https://osv.dev/vulnerability/MAL-2022-5427
 postcsssafeparsear	*	MAL-2022-5428	https://osv.dev/vulnerability/MAL-2022-5428
 postgreesqlhelper	1.0.3	MAL-2026-16150	https://osv.dev/vulnerability/MAL-2026-16150
