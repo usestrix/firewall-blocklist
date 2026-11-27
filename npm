@@ -73650,7 +73650,7 @@ electreon	*	MAL-2025-19421	https://osv.dev/vulnerability/MAL-2025-19421
 electrfon	*	MAL-2025-19422	https://osv.dev/vulnerability/MAL-2025-19422
 electrgon	*	MAL-2025-19423	https://osv.dev/vulnerability/MAL-2025-19423
 electric-apricot-dormouse	*	MAL-2025-138684	https://osv.dev/vulnerability/MAL-2025-138684
-electric-bails	*	MAL-0000-ghsa-malware-d450547218731df4	https://github.com/ossf/malicious-packages/blob/93bea7b2f90134e32d65fd85dfbeba4ca038f969/osv/malicious/npm/electric-bails/MAL-0000-ghsa-malware-d450547218731df4.json
+electric-bails	*	MAL-2026-20732	https://osv.dev/vulnerability/MAL-2026-20732
 electric-gray-panda	*	MAL-2025-67980	https://osv.dev/vulnerability/MAL-2025-67980
 electric-harlequin-blackbird	*	MAL-2025-67981	https://osv.dev/vulnerability/MAL-2025-67981
 electric-maroon-lion	*	MAL-2025-67982	https://osv.dev/vulnerability/MAL-2025-67982
