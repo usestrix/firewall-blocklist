@@ -110559,7 +110559,7 @@ itobuz-angular-button	8.0.11	MAL-2025-190973	https://osv.dev/vulnerability/MAL-2
 itop	*	MAL-2022-3982	https://osv.dev/vulnerability/MAL-2022-3982
 itprod	*	MAL-2025-23466	https://osv.dev/vulnerability/MAL-2025-23466
 its_for_testing	*	MAL-2022-3983	https://osv.dev/vulnerability/MAL-2022-3983
-itsa-jsext	2.0.3	MAL-0000-ghsa-malware-b55b593b27d0d68b	https://github.com/ossf/malicious-packages/blob/dd0c7f433d2149c39f1cf1fd0119913958a9dc07/osv/malicious/npm/itsa-jsext/MAL-0000-ghsa-malware-b55b593b27d0d68b.json
+itsa-jsext	2.0.3	MAL-2026-20734	https://osv.dev/vulnerability/MAL-2026-20734
 itsa-react-checkbox	16.0.5	MAL-2026-18360	https://osv.dev/vulnerability/MAL-2026-18360
 itsa-react-focuscontainer	16.0.10	MAL-2026-17910	https://osv.dev/vulnerability/MAL-2026-17910
 itsa-react-maskedinput	16.1.2	MAL-2026-17911	https://osv.dev/vulnerability/MAL-2026-17911
