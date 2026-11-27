@@ -160790,6 +160790,7 @@ pdfgenie	*	MAL-2025-3161	https://osv.dev/vulnerability/MAL-2025-3161
 pdfgrabber	*	MAL-2022-5262	https://osv.dev/vulnerability/MAL-2022-5262
 pdfjs-dist-fourth	10.0.33	MAL-2026-1257	https://osv.dev/vulnerability/MAL-2026-1257
 pdfjs-dist-v5	100.25.0	MAL-2026-1216	https://osv.dev/vulnerability/MAL-2026-1216
+pdfjs-fontmatrix-fixture-cb8043	1.0.1	MAL-0000-ghsa-malware-3f30a8414537c57c	https://github.com/ossf/malicious-packages/blob/1c48ff0cc1d4bdc7ec97948180febf9c5fd64f7d/osv/malicious/npm/pdfjs-fontmatrix-fixture-cb8043/MAL-0000-ghsa-malware-3f30a8414537c57c.json
 pdfjs2	2.2.2	MAL-2024-2855	https://osv.dev/vulnerability/MAL-2024-2855
 pdfjs2	2.2.3	MAL-2024-2855	https://osv.dev/vulnerability/MAL-2024-2855
 pdfjs2	5.2.3	MAL-2024-2855	https://osv.dev/vulnerability/MAL-2024-2855
