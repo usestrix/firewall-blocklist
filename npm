@@ -190039,7 +190039,7 @@ skibo	1.0.0	MAL-2024-8835	https://osv.dev/vulnerability/MAL-2024-8835
 skiko-js	10.0.1	MAL-2025-47462	https://osv.dev/vulnerability/MAL-2025-47462
 skiko-js-wasm-runtime	10.0.1	MAL-2025-48868	https://osv.dev/vulnerability/MAL-2025-48868
 skiko-wasm-js	10.0.1	MAL-2025-48869	https://osv.dev/vulnerability/MAL-2025-48869
-skilldrop-cli	1.19.0	MAL-0000-ghsa-malware-6670596421c16d24	https://github.com/ossf/malicious-packages/blob/d8f538fa4cc4320ad733cc1f00575075b04ff2db/osv/malicious/npm/skilldrop-cli/MAL-0000-ghsa-malware-6670596421c16d24.json
+skilldrop-cli	1.19.0	MAL-2026-20745	https://osv.dev/vulnerability/MAL-2026-20745
 skilled-blush-salamander	*	MAL-2025-70644	https://osv.dev/vulnerability/MAL-2025-70644
 skilled-brown-octopus	*	MAL-2025-70645	https://osv.dev/vulnerability/MAL-2025-70645
 skilled-salmon-locust	*	MAL-2025-70646	https://osv.dev/vulnerability/MAL-2025-70646
